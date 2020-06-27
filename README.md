@@ -16,14 +16,14 @@ In the folder 'PDF_files' the following PDF documents are contained.
 'Mixed policy documents' - Testing data, any PDF document(s) you want to predict on.  
 Step 2:  
 In the folder 'Python Scripts' every script in the pipeline is contained.  
-##MAIN PIPELINE  
+## MAIN PIPELINE  
 'pdf_parser.py' - Extract raw text from PDf documents (parsed_files)  
 'text_cleanup.py' - Filters, cleansand structurizes data into 'bags-of-words' (structured_files)  
 'sqlite_db.py' - Builds database and inserts cleaned data (climate.db)  
 'numberizer.py' - Builds vocabulary from training data (conversion_dictionary.txt)  
 'TF_classification_BW.py' - Builds neural network and stores it (tensorflow/logdir)  
 'TF_classification_predict.py' - Uses stored model to predict on new data. Results stored in database.  
-##OPTIONAL  
+## PTIONAL  
 'pipeline.py' - Runs every script in the main pipeline in order.  
 'web_scraper.py' - Retrieves documents from gov.uk website (PDF_files\Scraped documents) -- OUTDATED  
 'blocklength_dist.py' - Plots distribution of block lengths (Plots)  
