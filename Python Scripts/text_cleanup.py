@@ -8,6 +8,7 @@ Second step in the pipeline.
 import os
 import re
 import time
+import nltk
 from nltk.tag.perceptron import PerceptronTagger
 from pdf_parser import create_folder
 from pdf_parser import reset_folder
@@ -150,6 +151,7 @@ if __name__== '__main__':
     #for more info check https://en.oxforddictionaries.com/grammar/word-classes-or-parts-of-speech
     forbidden_word_types = ['IN','CC','DT','PRP','PRP$','TO']
     #Load the tagger
+    nltk.download('averaged_perceptron_tagger')
     tagger = PerceptronTagger()
     #Remove existing folder
     reset_folder(folder_name)
