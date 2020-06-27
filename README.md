@@ -1,5 +1,8 @@
 # ML4ClimateAdaptationPolicy
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master
+Welcome to the git repository of Machine learning for research on climate change adaptation policy integration: an explorative UK case study
 It is important that you do not change the names of any folders
 or files before finishing the pipeline. 
 Doing so, may raise errors as the scripts look in folders
