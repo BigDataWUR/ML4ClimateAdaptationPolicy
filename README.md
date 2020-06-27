@@ -23,7 +23,7 @@ In the folder 'Python Scripts' every script in the pipeline is contained.
 'numberizer.py' - Builds vocabulary from training data (conversion_dictionary.txt)  
 'TF_classification_BW.py' - Builds neural network and stores it (tensorflow/logdir)  
 'TF_classification_predict.py' - Uses stored model to predict on new data. Results stored in database.  
-## PTIONAL  
+## OPTIONAL  
 'pipeline.py' - Runs every script in the main pipeline in order.  
 'web_scraper.py' - Retrieves documents from gov.uk website (PDF_files\Scraped documents) -- OUTDATED  
 'blocklength_dist.py' - Plots distribution of block lengths (Plots)  
