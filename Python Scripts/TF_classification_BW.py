@@ -273,7 +273,7 @@ def run_model(model_dir, mode = 'all', test_franction = None, fold = 5):
                 df = pandas.DataFrame(confusion_matrix,\
                         columns = ['Adaptation','Mitigation','Non-climate'],\
                         index =  ['Adaptation','Mitigation','Non-climate'])
-            save_metadata(model_directory,accuracy,len(y_predicted),len(train_labels),df)
+            save_metadata(model_directory,"a",accuracy,len(y_predicted),len(train_labels),df)
         return classifier,accuracy,df,len(y_predicted),len(train_labels)
     
     elif mode == 'split':
@@ -306,7 +306,8 @@ def run_model(model_dir, mode = 'all', test_franction = None, fold = 5):
             df = pandas.DataFrame(confusion_matrix,\
                     columns = ['Adaptation','Mitigation','Non-climate'],\
                     index =  ['Adaptation','Mitigation','Non-climate'])
-            
+
+        save_metadata(model_directory,accuracy,len(y_predicted),len(train_labels),df, savemode = "w")
         return classifier,scores['accuracy'],df,len(y_predicted),len(train_labels)
     
     elif mode == 'all':
@@ -322,6 +323,7 @@ def run_model(model_dir, mode = 'all', test_franction = None, fold = 5):
           shuffle=True)
         classifier.train(input_fn=train_input_fn, steps=100)
         print('Model trained with all available data: {}'.format(len(train_labels)))
+        save_metadata(model_directory, train_size=len(train_labels), savemode = "w")
         return classifier, None, None, 0,len(train_labels)
 
 def reset_model(model_directory):
@@ -329,12 +331,13 @@ def reset_model(model_directory):
     if os.path.exists(model_directory):
         shutil.rmtree(model_directory.rsplit('/',1)[0])
     
-def save_metadata(model_directory, accuracy, test_size, train_size, conf_matrix):
+def save_metadata(model_directory, savemode, accuracy=None, test_size=None, train_size=None, conf_matrix=None):
     """Saves length of data for use during predictions"""
     filename = 'metadata.txt'
-    txt = open(os.path.join(model_directory,filename), mode = 'a')
-    txt.write('\n'+str(datetime.datetime.now())+'\n')
-    txt.write(str(max_len)+'\n'+str(accuracy)+'\n'+'test: {}, train: {}\n'.\
+    txt = open(os.path.join(model_directory,filename), mode = savemode)
+    txt.write(str(max_len)+'\n')
+    txt.write(str(datetime.datetime.now())+'\n')
+    txt.write(str(accuracy)+'\n'+'test: {}, train: {}\n'.\
               format(test_size,train_size)+str(conf_matrix))
     txt.close()
     
@@ -357,9 +360,10 @@ if __name__ == '__main__':
     print("Vocabulary size: {} words".format(n_words))
     EMBEDDING_SIZE = 50
     MAX_LABEL = 3
+    mode = "cv"
     #assess model set mode to cv, split or all.
     classifier,accuracy,conf_matrix,test_size,train_size = \
-        run_model(model_directory, mode = 'all', fold = 5)
+        run_model(model_directory, mode = mode, fold = 5)
     print('Model took {} seconds train'.format(int(time.clock() - start_time)))
     #export model and metadata
     full_model_dir = classifier.export_savedmodel\

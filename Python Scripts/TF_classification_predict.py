@@ -193,3 +193,4 @@ if __name__ == '__main__':
     print('Took {} seconds to update predictions'.format(int(time.clock() - start_time)))
     print("Creating tensorboard metadata")
     create_metadata('tensorboard_metadata.txt',conv_dict, classifier)
+    print("Predictions finished!")
