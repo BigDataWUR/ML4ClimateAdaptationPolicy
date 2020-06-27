@@ -1,5 +1,5 @@
 # ML4ClimateAdaptationPolicy
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FBigDataWUR%2FML4ClimateAdaptationPolicy/master)
 Welcome to the git repository of **Machine learning for research on climate change adaptation policy integration: an explorative UK case study**
 It is important that you do not change the names of any folders
 or files before finishing the pipeline. 
@@ -7,7 +7,8 @@ Doing so, may raise errors as the scripts look in folders
 with these specific names.
 
 Step 1:
-In the folder 'PDF_files' the PDF documents are contained.
+Download and extract PDF_files.zip in the root folder. Download here: doi: 10.5281/zenodo.3911168
+In the folder 'PDF_files' the following PDF documents are contained.
 'Adaptation policy documents' - Training data for adaptation policies
 'Mitigation policy documents' - Training data for mitigation policies
 'Non-climate policy documents' - Training data for non-climate documents
