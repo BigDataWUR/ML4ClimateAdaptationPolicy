@@ -144,8 +144,8 @@ def save_structure(structured_data,folder_name,directory,txt_file):
     
 if __name__== '__main__':
     #define source and target folders
-    directory = '..\parsed_files'
-    folder_name = "..\structured_files"
+    directory = '../parsed_files'
+    folder_name = "../structured_files"
     #word types we do not want in our bag of words
     #'IN' = preposition, 'CC' = conjunction, 'DT' = determiner, 'PRP($)' = preposition
     #for more info check https://en.oxforddictionaries.com/grammar/word-classes-or-parts-of-speech
