@@ -156,7 +156,7 @@ def insert_data(table_entity,cursor,blocks,original,filename,data_class,i):
 
     
 if __name__ == '__main__':
-    directory = '..\structured_files'
+    directory = '../structured_files'
     
     metadata = read_metadata('metadata.txt',directory)
     db_name = 'climate.db'
