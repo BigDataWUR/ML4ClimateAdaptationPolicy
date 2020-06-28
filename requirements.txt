@@ -1,4 +1,4 @@
-tika==.124
+tika==1.24
 re==2.2.1
 shutil
 nltk==3.3
