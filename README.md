@@ -1,5 +1,5 @@
 # ML4ClimateAdaptationPolicy
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FBigDataWUR%2FML4ClimateAdaptationPolicy/master)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master?filepath=index.ipynb)
 
 Welcome to the git repository of **Machine learning for research on climate change adaptation policy integration: an explorative UK case study**  
 It is important that you do not change the names of any folders  
