@@ -3,7 +3,6 @@ dependencies:
   - tika==1.24
   - regex
   - nltk==3.3
-  - db-sqlite3
   - tensorflow==1.9.0
   - pandas==0.23.3
   - numpy==1.14.4
