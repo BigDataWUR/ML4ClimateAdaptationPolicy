@@ -1,18 +1,20 @@
 # ML4ClimateAdaptationPolicy
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master?filepath=index.ipynb) 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3911168.svg)](https://doi.org/10.5281/zenodo.3911168)
+[![DOI](https://img.shields.io/badge/Paper-Open_Access-green)](https://doi.org/10.1007/s10113-020-01677-8g)
+[![DOI](https://img.shields.io/badge/Data-Open_Access-blue)](https://doi.org/10.5281/zenodo.3911168)
+
+
 
 This is the software repository accompanying the paper [**Machine learning for research on climate change adaptation policy integration: an explorative UK case study**](http://dx.doi.org/10.1007/s10113-020-01677-8), by Robbert Biesbroek, Shashi Badloe, Ioannis N. Athanasiadis, published in Regional Environmental Change (2020).
 
 This reposiroty contains all the software for reproducing the paper, and some sample documents. It can be executed online as a binder notebook, simply from your browser by clicking this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master?filepath=index.ipynb).
 
-Due to its size, the full dataset has been made avaialble separately via Zenodo, here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3911168.svg)](https://doi.org/10.5281/zenodo.3911168)
+Due to its size, the full dataset has been made available separately via Zenodo, [here](https://doi.org/10.5281/zenodo.3911168). The software comes with a subset of the full dataset, and can be demonstrated without any additional changes. 
 
 ## Notes
 Do not change the names of any folders or files before finishing the pipeline, as the scripts look in folders with these specific names.
 
 Step 1:  
-Download and extract PDF_files.zip in the root folder. Download here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3911168.svg)](https://doi.org/10.5281/zenodo.3911168)
 
 In the folder 'PDF_files' the following PDF documents are contained.  
 'Adaptation policy documents' - Training data for adaptation policies  
