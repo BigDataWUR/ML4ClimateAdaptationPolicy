@@ -26,7 +26,7 @@ def load_model(model_directory):
 
     model_directory: string, directory of the trained Saved Estimator
     """
-    full_model_dir = os.path.join(model_directory,os.listdir(model_directory)[0])
+    full_model_dir = os.path.join(model_directory,sorted(os.listdir(model_directory))[0])
     print('Loading model from "{}"'.format(full_model_dir))
     with tf.Session() as sess:
         tf.saved_model.loader.load(sess, [tf.saved_model.tag_constants.SERVING],\
