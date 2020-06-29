@@ -363,8 +363,8 @@ if __name__ == '__main__':
 #     mode = "cv"
     #assess model set mode to cv, split or all.
     classifier,accuracy,conf_matrix,test_size,train_size = \
-#         run_model(model_directory, mode = mode, fold = 5)
           run_model(model_directory, mode = 'all')
+#         run_model(model_directory, mode = mode, fold = 5)
     print('Model took {} seconds train'.format(int(time.clock() - start_time)))
     #export model and metadata
     full_model_dir = classifier.export_savedmodel\
