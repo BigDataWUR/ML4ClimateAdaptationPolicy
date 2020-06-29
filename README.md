@@ -1,4 +1,4 @@
-# ML4ClimateAdaptationPolicy
+#  Machine learning for research on climate change adaptation policy integration
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/ML4ClimateAdaptationPolicy/master?filepath=index.ipynb) 
 [![DOI](https://img.shields.io/badge/Paper-Open_Access-green)](https://doi.org/10.1007/s10113-020-01677-8g)
 [![DOI](https://img.shields.io/badge/Data-Open_Access-blue)](https://doi.org/10.5281/zenodo.3911168)
