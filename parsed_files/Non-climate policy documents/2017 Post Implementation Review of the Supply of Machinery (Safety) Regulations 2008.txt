@@ -1,0 +1,1462 @@
+
+
+
+
+ES417479_CCS207_CCS0817843722-1_Cm_9493_Post_Implementation.pdf
+
+
+
+
+Cm 9493
+
+
+   
+
+
+Post Implementation Review 
+of the Supply of Machinery 
+(Safety) Regulations 2008 
+
+(S.I. 2008/1597) as amended
+
+Presented to Parliament
+by the Secretary of State for Business, Energy & Industrial Strategy
+
+by Command of Her Majesty
+
+August 2017
+
+
+
+
+Cm 9493
+
+
+   
+
+
+Post Implementation Review 
+of the Supply of Machinery 
+(Safety) Regulations 2008 
+
+(S.I. 2008/1597) as amended
+
+Presented to Parliament
+by the Secretary of State for Business, Energy & Industrial Strategy
+
+by Command of Her Majesty
+
+August 2017
+
+
+
+
+Cm 9493
+
+© Crown copyright 2017
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except 
+where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-
+government-licence/version/3 or write to the Information Policy Team, The National Archives, 
+Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+
+Where we have identified any third party copyright information you will need to obtain 
+permission from the copyright holders concerned.
+
+This publication is available at www.gov.uk/government/publications 
+
+Any enquiries regarding this publication should be sent to us at parly.unit@beis.gov.uk
+
+ISBN 978-1-5286-0015-6 
+
+CCS0817843722  08/17
+
+Printed on paper containing 75% recycled fibre content minimum
+
+Printed in the UK by the APS Group on behalf of the Controller of Her Majesty’s Stationery 
+Office
+
+
+
+
+Cm 9493
+
+Post Implementation Review of the Supply of Machinery (Safety) 
+Regulations 2008 (S.I. 2008/1597) as amended
+
+Introduction
+
+1. This document provides an overview of the Post Implementation Review (PIR) of the Supply 
+
+of Machinery (Safety) Regulations 2008 (S.I. 2008/1597) as amended (the Regulations). These 
+
+Regulations, as amended, implement Directive 2006/42/EC on machinery (as amended by 
+
+Directive 2009/127/EC) (the Directive) into UK law. 
+
+2. This Command Paper and the associated PIR (Annex 1) set out the Government’s views on 
+
+the effectiveness of the Regulations. It considers:
+
+• the extent to which the Regulations are working;
+
+• whether Government intervention is still required;
+
+• whether the Regulations and the way they are implemented are the most appropriate 
+
+approach to meeting the policy aim.
+
+Background 
+
+3. The Machinery Directive is one of many that support the single market for goods across the 
+
+EEA while providing a common level of safety.  
+
+4. The Directive is implemented by the Supply of Machinery (Safety) Regulations 2008.   
+
+5. The Regulations were amended by the Supply of Machinery (Safety) (Amendment) 
+
+Regulations 2011 to extend the scope to include certain pesticides equipment.       
+
+6. The Regulations support the Single Market for goods by ensuring that products within the 
+
+scope are safe to be placed on the EEA market and meet the relevant essential health and
+
+safety requirements set out in the Regulations.
+
+7. The Regulations apply to machinery that is placed on the market or put into service. They 
+
+impose duties on manufacturers and authorised representatives that are involved in placing 
+
+machinery on the market or putting it into service. 
+
+8. The Regulations also set out the enforcement powers which draw heavily on the Health and 
+
+Safety at Work Act. The enforcement authorities for the Regulations are the Health & Safety 
+
+Executive for business products, and local authority trading standards for consumer products.
+
+9. On 23 June, the EU referendum took place and the people of the United Kingdom voted to 
+
+leave the European Union. Until exit negotiations are concluded, the UK remains a full member 
+
+of the European Union and all the rights and obligations of EU membership remain in force. 
+
+During this period the Government will continue to negotiate, implement and apply EU 
+
+legislation. The outcome of these negotiations will determine what arrangements apply in 
+
+relation to EU legislation in future once the UK has left the EU. The assumptions used in this 
+
+post-implementation review have been chosen accordingly.
+
+
+3
+
+
+Cm 9493
+
+Scope of the Post Implementation Review (PIR)
+
+10. The PIR considers the impact of the Supply of Machinery (Safety) Regulations 2008 as 
+
+amended. 
+
+11. The Government does not consider the Regulations to be particularly high profile or 
+
+contentious.  Therefore, in line with PIR guidance a light touch PIR has been applied to the 
+
+analysis.   
+
+12. As the PIR was carried out prior to the Referendum and covers the period 2009 to 2014 it 
+
+did not take into account the effect of Referendum result. However, our analysts have reviewed 
+
+the evidence and consider the analysis in the PIR would not be different had it been carried out 
+
+since the Referendum result.  The PIR was reviewed by the Regulatory Policy Committee 
+
+(RPC) and cleared as fit for purpose.
+
+Research and Analysis
+
+13. Guidance for conducting PIRs provides that three questions should be addressed in a PIR: 
+
+• To what extent are the Regulations working?
+
+• Is Government intervention still required?
+
+• Are the Regulations and the way they are implemented the most appropriate approach?
+
+14. In order to answer these questions, questionnaires were sent to manufacturers, notified 
+
+bodies and enforcement authorities. The questionnaire sought comment on:
+
+• the impact of the Regulations; 
+
+• assessment of costs; 
+
+• identification of benefits; 
+
+• the challenges faced by business to meet the requirements; 
+
+• the impact on SMEs and microbusinesses.  
+
+15. As the Regulations are derived from an EU Directive questions were also sent to other EU 
+
+Member States in order to gauge the impact of the Directive in their territories. 
+
+16. Information was also gleaned from our experience of dealing with stakeholders on a range 
+
+of issues on a day to day basis. While the number of responses to the questionnaire was small, 
+
+they generally provided a clear indication that the Regulations are working well. 
+
+To What Extent are the Regulations Working?
+
+17. The answers to questionnaires suggested that the Regulations provided a good robust 
+
+framework for promoting safety for a wide range of machinery. However, there was concern 
+
+about a lack of knowledge of the technical requirements for machinery to meet the safety 
+
+requirements and that this may lead to the availability of products that are non-compliant with 
+
+the requirements of the Regulations. This has led to concerns from some respondents that 
+
+more enforcement is required.
+
+
+4
+
+
+Cm 9493
+
+Is Government Intervention Still Required? 
+
+18. The UK has an obligation to implement Directive 2006/42/EC on machinery as amended 
+
+into UK law. A legislative approach through the Regulations is an effective way of achieving this.  
+
+Other Issues Identified
+
+19. The cost of standards that are used to support the Regulations is regarded by some in the 
+
+industry as prohibitive especially for small and medium enterprises. Standards are voluntary but 
+
+most manufacturers chose to follow the requirements as they provide a presumption of 
+
+conformity with the requirements of the Regulations.   
+
+20. Manufacturers are concerned with enforcement. They report that they spend time and 
+
+money in complying whilst others gain competitive advantage by placing unsafe products on the 
+
+market and they are keen to ensure a level playing field. 
+
+Conclusions and Next Steps
+
+21. The PIR analysis informed the Government’s view that the Regulations should remain as in 
+
+force, for the following reasons: 
+
+- The Regulations are meeting their stated objectives;
+
+- There is anecdotal evidence that the Regulations have helped to improve; safety, and 
+
+to help provide access to the Single Market; 
+
+- The benefits to manufacturers continue to outweigh the costs; 
+
+- The main concern raised by the PIR was a perceived lack of enforcement;
+
+ - Enforcement would not be improved by changing the Regulations which would risk 
+
+gold plating the EU directive.   
+
+22. There is further work to be done, however, to increase the effectiveness of the Regulations. 
+
+The Government will work with HSE and other stakeholders on the following:   
+
+- to improve awareness of the Regulations amongst manufacturers and consumers and 
+
+recent initiatives to develop improved guidance will help to address this.
+
+- to impress on manufacturers the need to address conformity of their product during the 
+
+design phase and to properly consider the essential health and safety requirements to 
+
+encourage good engineering practice to reduce development and production costs.  
+
+- to continue to work with other EU members states to improve market surveillance and 
+
+understanding of the requirements of the Machinery Directive.
+
+
+5
+
+
+Cm 9493
+
+Annex 1 
+
+Title: The Supply of Machinery (Safety) Regulations 
+as amended
+
+Post Implementation Review 
+
+PIR No: BEIS031(PIR)-16-RD Date: 03/02/2017 
+
+RPC No:  RPC-3094(1)-BIS  Type of regulation:  EU 
+
+Lead department or agency: BEIS Type of review:  Statutory 
+
+Other departments or agencies:   Date measure came into force:   
+
+ 29/12/2009
+
+Recommendation:  Keep
+
+Contact for enquiries:  Kevin Lane 020 7215 1774 RPC Opinion: Green
+
+Questions
+
+1. What were the policy objectives of the measure? 
+
+The Regulations as amended implement European Directive 2006/42/EC as amended by 
+Directive 2009/127/EC on Safety of Machinery into UK law. The Directive is one of many that 
+support the Single Market for goods across the EEA while providing a common level of safety for 
+machinery within scope. It was also necessary to revise the previous directive to improve and 
+clarify the regulatory regime applying to machinery in the light of experience gained by industry 
+and by European market surveillance.
+
+The intended effects are that only machinery that is compliant with the relevant essential health 
+and safety requirements set out in the Regulations are placed on the market or put into service 
+and that industry has a single regulatory framework for the EEA.
+
+The Regulations were further amended in 2011 to address specific problems with pesticide 
+equipment.
+
+On 23 June, the EU referendum took place and the people of the United Kingdom voted to leave 
+the European Union. Until exit negotiations are concluded, the UK remains a full member of the 
+European Union and the rights and obligations of EU membership remain in force. During this 
+period the Government will continue to negotiate, implement and apply EU legislation. The 
+outcome of these negotiations will determine what arrangements apply in relation to EU legislation 
+in future once the UK has left the EU. The assumptions used in this post implementation review 
+have been chosen accordingly.
+
+2. What evidence has informed the PIR? 
+
+The Department was unaware of any major issues of concern with the Regulations. As such a 
+light touch questionnaire to minimise burdens on stakeholders and other interested parties was 
+considered appropriate. 
+
+There have been some issues regarding interpretation of the Directive usually relating to whether 
+a specific product is in or out of scope These issues are resolved amicably by discussions 
+between Member States Market Surveillance authorities and the European Commission.
+
+To determine views of other interested parties a questionnaire was sent to industry, the UK 
+Government appointed test houses; other member states and the European Commission to seek 
+their views. The details of the questions asked are in Annex 2. 
+
+
+6.
+
+Cm 9493
+
+Sign-off for Post Implementation Review: Minister
+
+I have read the PIR and I am satisfied that it represents a fair and proportionate 
+assessment of the impact of the measure.
+
+Signed:      Date: 3 February 2017
+
+The questions were intended to provide insight into both those aspects that are outside of the UK 
+to amend other than via the European process; we understand the European Commission are 
+intending to commence gathering evidence in 2017 as to whether a revision is required; and also 
+to seek insight into those aspects that are within the direct control of the UK these being aspects of 
+Market Surveillance regime and penalties.
+
+3. To what extent have the policy objectives been achieved? 
+
+The Regulations are considered to meet the Policy objectives; they do provide both a well 
+understood regulatory framework for common requirement across the EEA and well understood 
+routes for co-operation between Member States and Market Surveillance Authorities to resolve 
+any issues that may arise. 
+
+
+7
+
+
+Cm 9493
+
+Further information sheet  
+
+Questions
+
+4. What were the original assumptions?
+
+For the Supply of Machinery (Safety) Regulations 2008 IA: The one-off familiarisation cost was £4million; 
+this assumed that there was already a good understanding of the previous legislation and that only 
+changes to the legislation needed to be understood. This is a reasonable assumption as the Regulations 
+implement a European Directive that replaced a previous Directive and that replaced previous National 
+Legislation that required machinery to be safe.
+
+The annual average cost of the regulations was estimated to be £1 million. The average annual benefit 
+was estimated to £2-11 million.  The NPV was £45 million.  The impact to business was not set out in the 
+impact assessment.
+
+In the updated assessment of this regulation taking into account the information obtained in response to 
+the questionnaire the average annual internal market benefit was estimated to be £3-7m. The one off 
+transition cost for adapting to the requirements of the Regulations was estimated to be £4m.
+
+For the Final Impact Assessment for the Amendment to introduce Pesticides equipment to the Machinery 
+Directive: The one-off transition cost was £0.03million. The average annual cost of the regulation was 
+estimated to be £0.002-0.8million. The average annual benefit was estimated to be £0.4million.  The 
+NPV was £3.3million. The direct impact to business was a cost of £0.003million.
+
+5. Were there any unintended consequences? 
+
+Examples of issues are differences in understanding of requirements of standards; concerns that 
+standards are inadequate; whether certain products are in or out of scope. The Directive requires 
+Member States and authorities to cooperate with each other to try and resolve issues as they arise and 
+develop a common understanding. The Machinery Directive Administrative Cooperation (Adco) Group 
+which consists of EU market surveillance authorities meets regularly to facilitate this understanding. As 
+well as this, the European Commission chairs a Working Group (WG) to discuss issues of concern 
+regarding the Machinery Directive. As well as MS, industry and trade associations are invited to attend 
+the WG which provides an opportunity for these stakeholders to put forward their views on how the 
+Directive is working. These meetings can also be used by industry and trade associations to enlist the 
+assistance of their home MS authority to raise issue of concerns that they have with other MS and the 
+Commission.
+
+As entrepreneurs are now easily able to supply products globally e.g. online; the requirement for close 
+co-operation and exchange of information between market surveillance authorities is essential in rapidly 
+addressing issues at source rather than a traditional approach at UK borders. 
+
+The one key implication of evidence collected during the review also indicates that the process of 
+familiarisation with the requirements of the Regulations by economic operators is much more complex 
+than the model assumed in the initial impact assessment. Factors such as the type of firm, whether small 
+or large, have an influence on the training process. Furthermore, qualitative evidence on enforcement 
+indicates that not all stakeholders are fully aware of the measures and in reality familiarisation is not 
+taking place as uniformly or consistently as we had assumed in the model.
+
+
+8he y 
+
+Cm 9493
+
+In common with all sectors Conformity Assessment Bodies and some manufacturers are concerned that 
+not enough enforcement of the Regulations has led to some manufacturers placing non-compliant 
+machinery on the market. 
+
+Enforcement authorities had difficulties in enforcing regulatory measures when products are placed on 
+market by manufacturers from other Member States or from countries outside the EU. This is because
+they have no jurisdiction in those territories. The Directive brings co-operation between Member States 
+Authorities to better deal with any problems that arise. The UK takes an active role in these discussions 
+and in reaching solutions. 
+
+The European Commission provides funding for market surveillance projects to improve co-operation 
+between member States authorities and to allow specific and targeted enforcement on particular 
+products for which market surveillance have concerns; often industry will provide suggestions for 
+products that they would wish to see targeted by the authorities.  
+
+6. Has the evidence identified any opportunities for reducing the burden on business? 
+
+Alternatives that are less burdensome to business have not been identified. 
+
+7. For EU measures, how does the UK’s implementation compare with that in other EU member 
+
+states in terms of costs to business? 
+
+We do not have information on this aspect as none of the member states (MS) that responded 
+
+provided anything on costs to business. Neither had any carried out a review of the implementation of 
+
+the Directive in their country.   
+
+
+9
+
+
+Cm 9493
+
+Post-Implementation Review of ‘The Supply of Machinery (Safety) 
+Regulations 2008 as amended by the Supply of Machinery (Safety) 
+(Amendment) Regulations 2011’ 
+
+1) Scope of this review
+
+This post-implementation review (‘PIR’) of the Supply of Machinery (Safety) 
+Regulations 2008 as amended by the Supply of Machinery (Safety) (Amendment) 
+Regulations 2011 (‘the Regulations’) is a statutory requirement, set out in 
+regulation 29 of the Regulations. The review was due on 1st December 2014. 
+Unfortunately the process to conduct a review was only started in December 
+2014.  This PIR reviews both the Supply of Machinery (Safety) Regulations and 
+its subsequent amendment. 
+
+This report is required to:
+
+• Set out the objectives of the Regulations,
+
+• Assess the extent to which those objectives are achieved,
+
+• Assess whether those objectives remain appropriate and, if so, the extent 
+to which they could be achieved with a system that imposes less 
+regulation, and
+
+• Consider how the Directive is implemented in other member states.
+
+Following the approach outlined in ‘Guide for Conducting PIRs’, this PIR will 
+answer the following questions:
+
+• To what extent is the existing regulation working?
+
+• Is government intervention still required?
+
+• Is the existing form of government regulation still the most appropriate 
+approach?
+
+As this is a PIR of the Implementing Regulations of an EU Directive, the following 
+additional issues are considered:
+
+• The impacts on UK based businesses relative to other European 
+competitors, to ensure UK businesses are not put at a competitive 
+disadvantage.
+
+• Improving transposition in the UK.
+
+2) The objective and intended outcomes of the Regulations
+
+The objective of the Regulations is to transpose Directive 2006/42/EC (as 
+amended by Directive 2009/127/EC) (‘the EU Machinery Directive’). The EU 
+Directive has the following main objectives:
+
+1. To ensure the free movement of machinery falling within its scope across 
+the Member States (an ‘internal market’ objective);
+
+2. To provide for the appropriate level of health and safety for persons in the 
+EU using and coming into contact with machinery (a ‘health and safety’ 
+objective);
+
+3. To provide for the appropriate level of environmental protection, and 
+protection of domestic animals, in situations where machinery is involved 
+(an ‘environmental and animal protection objective’)
+
+
+10
+
+Cm 9493
+
+In 2011, the Regulations were amended to cover pesticide application 
+equipment, transposing Directive 2009/127/EC. The overall objectives of the 
+amended European Machinery Directive were broadly unchanged. 
+
+The UK Regulations (and the EU Machinery Directive) aimed to achieve its 
+objectives by requiring that machinery conform to the ‘essential health and 
+safety requirements’ before being first placed on the market or first put into 
+service in the EEA. Since 1993 (when these requirements, set out in The 
+Supply of Machinery (Safety) Regulations 1992, came into force) all new 
+machinery in scope of the then Machinery Directive (Directive 1989/392/EEC, 
+as amended by Directive 1991/368/EEC) has to be designed and constructed 
+to meet common minimum EEA requirements for safety. It should be said that 
+there was a transitional period which meant that products in conformity the 
+previous UK Regulations could be placed on the market until 31st December 
+1995, after which the requirements of the 1992 regulations became 
+mandatory.
+
+To achieve compliance the Responsible Person (normally the manufacturer) 
+who placed the machinery on the market or put it into service must undertake 
+a conformity assessment process meeting all relevant essential health and 
+safety requirements, producing user instructions, and producing a technical 
+file to show how compliance has been achieved and a Declaration of 
+Conformity. For certain specified higher risk products the conformity 
+assessment process will require the use of an independent Notified Body. 
+
+The current Regulations build on prior existing EEA legislation regulating 
+machinery safety. The 2008 Regulations and 2011 amendment implement the 
+latest changes in a series of updates to the earlier EU Directive on machinery 
+
+3) Assessment of proportionality for level of evidence sought
+
+As set out in the ‘Guide for Conducting PIRs’, the need for evidence sought 
+should be balanced against other priorities to ensure value for money for 
+taxpayers. The primary consideration for proportionality should be based on 
+the legislation’s expected impact on business and the wider economy. 
+Secondary considerations include whether the impacts are contentious or 
+uncertain, and the availability of established data sources. 
+
+Expected impact on business and the wider economy, based on the estimates 
+in the Impact Assessments for the 2008 and 2011 Regulations
+
+(i) Impact Assessment of the 2008 Regulations
+The Impact Assessment of the 2008 Regulations estimates the following:
+
+Table 1: Costs and Benefits for 2008 Regulations IA
+
+Average Annual Benefit £2 to £13m (£3-£7m)1
+
+1 Bracketed numbers indicated updated cost and benefits assessed in this 
+PIR (p 11)
+
+
+11
+
+Cm 9493
+
+One off transition cost £4m (£3m)
+
+Average Annual Cost £1.2m (n/a)
+
+NPV (Net Benefit) £45m
+
+The main affected groups are manufacturers and professional importers of 
+machinery in the EU, UK businesses and consumers and UK users of 
+machinery. The main costs are familiarisation and training costs, with some 
+design and build costs. The main benefits are protection of life and property 
+and enhancement of the ‘internal market’.
+
+Annual Benefit
+
+The Single Market benefits are estimated to be between £2m to £12m per 
+year. This estimate is based on estimates of the impact of the Internal Market 
+programme (and the Services Directive in particular) on European GDP, data 
+on machinery in UK manufacturing as a proportion of European GDP, and 
+many assumptions about the extent to which the gains can be attributed to the 
+Machinery Directive (MD). (Paragraphs 48 to 61 of the IA outline 3 separate 
+methods to estimate this internal market benefit). This would include possible 
+benefits from the reduction in trade barriers that could be attributed to the 
+single market in machinery.
+
+The Health and Safety benefits are estimated to be between £0.3 and £1m 
+per year. This estimate is based on Health and Safety Executive (HSE) data 
+on accidents, Department for Transport and HSE estimates of the economic 
+cost of fatalities and injuries, and assumptions about the extent to which the 
+reduction can be attributed to the MD and its improvements.
+
+Transition Cost
+
+The familiarisation and training costs are estimated to be £4m one-off and 
+between £0.2m to £0.4m ongoing per year. This is based on estimates of the 
+time required, valuing the time using wage costs (uplifted to include non-wage 
+labour costs), and an estimate of the number of businesses and employees 
+affected.
+
+The costs of providing information on machinery and marking of machinery, 
+providing Technical Files, and conformity assessments were not additional to 
+existing requirements or deemed to be negligible, so no estimates were 
+provided.
+
+Annual Cost
+
+The cost of meeting essential requirements was estimated to be £1m per 
+year. Most of the requirements were not expected to result in significant costs 
+because much modern machinery already meets many of the requirements, 
+with the sole exception of guard fixings.
+
+(ii) Impact Assessment of the 2011 Amendment Regulations 
+
+Table 2: Costs and Benefits for Amendment IA
+
+
+12
+
+Cm 9493
+
+Average Annual Benefit £0.002m- £0.8m (£0.0003-£0.00045m)2
+
+One off transition cost £0.03 m (n/a)
+
+NPV (Net Benefit) £3m
+
+Transition Cost
+The Impact Assessment of the 2011 amendment to the Regulations estimates 
+that there is a one-off transition cost of £0.03m for re-design and construction 
+to manufacturers of pesticide application equipment that are not already 
+compliant with the new legislation. 
+
+Annual Benefit
+The average annual benefit of the 2011 amendment to the Regulations is 
+estimated to be £0.002m- £0.8m, in reduced costs to users from more 
+efficient use of pesticides in better designed equipment, and reduced rates of 
+human injuries from lower pesticide exposure. Environmental benefits and 
+Internal Market benefits are not estimated. The NPV is estimated to be £3.3m. 
+The Direct Impact on Business (EANCB) was estimated to be 0.003m per 
+annum.
+
+Secondary considerations
+The Regulations are not high profile or contentious. The need for essential 
+health and safety requirements for machinery is well-accepted by 
+stakeholders and the general public. Although businesses have often 
+approached BIS with certain concerns with the Regulations these are 
+generally with regard to unfair competition from non-compliant products and 
+issues of interpretation of supporting standards. Nor are the Regulations 
+particularly novel, risky or based on untested assumptions. The manufacturing 
+industry has always looked to place safe products on the market due to the 
+financial impact of civil damages should a product cause injury. Most of the 
+requirements of the Regulations were not new in that they followed existing 
+best practice, and for that reason much of the machinery placed on the 
+market would have been able to meet the requirements before the 
+Regulations came into force. The Directive has provided a continuous and 
+comprehensive legislative framework for machinery product design and 
+construction for health and safety and free movement since 1992. The UK has 
+imposed obligations for safety of machinery prior to the current European 
+legislation.
+
+Finally, although a rerun of the IA was conducted (see section 5B), it must be 
+noted that there were limitations in this analysis. There is a lack of established 
+and consistent data sources to provide evidence of the impact of the 
+Regulations, and substantial additional BIS resources would be required to 
+make an appreciable difference to the quality of evidence collected. The 
+nature and scope of the Regulations makes it difficult to go beyond high level 
+assumptions about the counterfactual and the extent to which observed 
+benefits could be causally attributed to the Regulations and the MD. This is 
+particularly the case for estimates of the benefits, for example: 
+
+2 Bracketed numbers indicated updated cost and benefits assessed in this 
+PIR (p 9)
+
+
+13
+
+Cm 9493
+
+• In attempting to estimate the Internal Market benefits, the observed 
+changes to European and UK GDP were almost certainly impacted by 
+factors aside from the Regulations. It is almost impossible (without 
+making crude assumptions) to separate out the impacts of these 
+myriad factors and to isolate the impact of the Regulations only.
+
+• Similarly, for the Health and Safety benefits, the Regulations are 
+comprehensive, apply to wide categories of machinery and came into 
+force across the whole UK. Therefore, it is difficult to identify a relevant 
+comparison (either a category of machinery or a geographical area for 
+which the Regulations did not apply) which we could use to estimate 
+what would have happened otherwise. 
+
+• Moreover, evidence suggests that familiarisation is more complex than 
+the model assumed in the initial impact assessment. Factors such as 
+the size of the firm have an influence on the training process. 
+Furthermore, qualitative evidence on enforcement indicates that not all 
+stakeholders are fully aware of the need for familiarisation. 
+
+In future iterations of appraisal and evaluation in policy making, it would worth 
+factoring in some of the issues raised, including the size of the firm carrying 
+out familiarisation training, or ways of separating out impacts on the internal 
+market. However it is not the purpose of product safety legislation to educate 
+and train industry in what should be good engineering practice; the Regulator 
+should be able to assume that those placing products onto the market are 
+technically competent to undertake the design, manufacture and conformity 
+assessment of products,
+
+Assessment of proportionality
+In view of the considerations above, particularly the low estimated cost to 
+business and the overall impact of the Regulations (combined NPV below 
+£50m), a low level of evidence, as described in Section 2.2 of ‘Guide to 
+Conducting PIRs’, is appropriate and proportionate for this PIR.
+
+4) Evidence collection and methodology
+
+BIS conducted a light-touch consultation of the principal affected 
+stakeholders, collating evidence of known views and experiences in a time-
+efficient way. The full set of questions is in Annex A.
+
+We contacted the following groups of UK stakeholders:
+
+• HSE, the enforcement authority for the Regulations in workplaces,
+
+• The East of England Group of Association of Chief Trading Standards 
+Officers (ACTSO), the enforcement authorities for the Regulations for 
+consumers and non-workplaces, 
+
+• The Machinery Directive Industry Forum, an informal group of larger 
+manufacturers and trade associations affected by the Regulations, and 
+
+• The UK Group of Machinery Notified Bodies, who assess the 
+conformity of machinery with the requirements of the Regulations.
+
+
+14
+
+Cm 9493
+
+We received written two responses from enforcement authorities, from four 
+Notified Bodies3, and one verbal response from a manufacturer. Although we 
+only received this one response, the comments made matched those that had
+been made by other manufacturers and by correspondence over the last few 
+years.  
+
+As these are UK Regulations implementing the EU Machinery Directive, it was 
+also necessary to gather some evidence of how other Member States have 
+implemented the Directive and their experience with it. See section 8 below 
+on the ‘Views of Member States’.    
+
+5a) Are the existing regulations working?
+
+This section sets out BIS’s assessment of the extent to which the Regulations 
+have achieved and are achieving their objectives. It also considers whether there 
+have been any unintended consequences of the Regulations.
+
+Overall, two Notified Bodies agreed that the Regulations generally meet their 
+objectives well. One Notified Body stated that the Regulations provide a fairly 
+well-defined mechanism for businesses to consider safety in their design and 
+manufacturing processes, and demonstrate that they have done so. One 
+enforcement authority considers that the Regulations provide a comprehensive 
+framework whilst permitting innovation and choice in the route to compliance.
+
+On the internal market objective in particular, three Notified Bodies considered 
+that the free movement of goods has been facilitated by the Regulations; they 
+considered the Regulations provide a good framework for UK businesses to 
+produce machinery which will be acceptable in other EU countries.
+
+On the health and safety objective, one enforcement authority considers that the 
+existing framework is robust, with enforcement tools available, including the triable 
+either way option on prosecution for the significant health and safety issues. Over 
+recent years a number of successful prosecutions have taken place on 
+manufacturers that had placed non-compliant products on the market, although 
+the penalties available to enforcement authorities may not always be considered 
+a deterrent to manufacturers, especially the larger enterprises, reputational 
+damage is just as likely to act as a deterrent. Companies will want therefore to 
+avoid court cases if at all possible. Although some stakeholders consider that not 
+enough enforcement is taking place, UK enforcement authorities can and do take 
+action where enough evidence is provided to justify this. The UK co-operates with 
+other Member States (MS) to share information regarding enforcement action 
+taken in the UK. This helps to alert other MS to potential problems in their 
+territories. In turn MS will raise issues with the UK.   
+
+Some problems experienced by UK manufacturers when placing products on the 
+market can be down to local differences in interpretation of the Machinery 
+
+3     The two responses from enforcement authorities included one from an 
+umbrella representational body.  The four Notified Bodies represent around 
+18% of the Machinery Notified Bodies in the UK 
+
+
+15
+
+Cm 9493
+
+Directive. The requirement for MS authorities to work together in working out 
+these differences and developing guidance for market surveillance authorities and 
+businesses helps to try and ensure that enforcement is carried out in a consistent 
+manner. 
+
+On the environmental and animal safety objectives, two Notified Bodies stated 
+that any improvement in the environment as a result of the regulations is difficult 
+to assess. None of the other stakeholders commented on this aspect of the 
+Regulations.   
+
+5b) Assessment of the actual costs and benefits of the Regulations
+
+Overall, as with the original IAs, the coverage and quality of the available 
+evidence and data collection for this PIR provided by stakeholders is relatively 
+low. With the low level of available evidence, it is not possible to quantify the 
+actual costs and benefits of the Regulations business have been asked for data 
+but are unable to provide it which suggests the cost burden is small.  
+
+All stakeholders agree that it is difficult to estimate the costs and benefits to 
+business of complying with the Regulations. The Regulations do not require 
+manufacturers to provide any data to BIS or anyone else on the costs and 
+benefits of complying with the regulations. Obtaining additional information as 
+part of this exercise on costs and benefits could only be done where 
+manufacturers were prepared to provide this on a voluntary basis. 
+
+Costs
+
+On costs to businesses of compliance, two Notified Bodies consider that the 
+additional costs of compliance (above what should be normal parts of the 
+design process and maintaining technical files) are not large, especially once 
+businesses are aware of how to ensure conformity with the requirements. 
+
+Benefits
+
+On benefits to businesses of compliance, one Notified Body states that most 
+responsible manufacturers are keen to apply the regulations correctly and 
+welcome the guidance given by the regulations, because it gives assurance 
+that they are doing things correctly and can be considered to have applied 
+due diligence to the safety-related aspects of the equipment they sell. 
+Businesses benefit from selling compliant products which are safe and do not 
+cause harm, which have a right to free movement throughout the European 
+market.  The manufacturers surveyed did not comment on this issue. 
+
+There have been are some unintended consequences not considered in the 
+IAs which is some cases may have increased costs to businesses and these 
+are considered in the following section.
+
+As part of conducting the Post Implementation Review, a reassessment of the 
+cost and benefits using the original impact assessments were made using 
+updated information. Qualitative evidence collected in the Post 
+Implementation Review was not used in this update as the evidence could not 
+
+
+16
+
+Cm 9493
+
+be extrapolated to a macro level, although some of the insights gathered have 
+been included to caveat the assessment.
+
+Monetised costs and benefits updated from the original impact assessments 
+
+(i) Updated Cost and Benefit assessment of the 2008 Regulations (see Table 
+
+
+1)
+
+Transitional
+Familiarisation and training costs:- 
+Using newly updated ASHE Data: we find that in 2009, Manufacture of 
+machinery and equipment n.e.c. industry (SIC Code 28) employed 
+approximately 228,000 people. The mean hourly wage for managers is 
+£22.17, this increased to £26.80 with the non-wage labour cost uplift 
+(Eurostat, 2009). We assume, as in the original impact assessment, that the 
+new legislation affects only 10% of the employees, and that approximately 5
+hours are required to familiarise with the legislation. This derives an estimated 
+one off transition cost of £3 million. 
+
+The original IA also suggested that ongoing annual refresh training on the 
+legislation might be required, and this was estimated to be approximately 5-
+10% of the original one off cost £0.15-£0.3million. The original IA also 
+suggested a £1million cost of meeting essential requirement of the MD, this 
+information has not been updated by the HSE and it was not deemed 
+proportionate to collect this information for this PIR. 
+
+Recurring
+Internal Market Benefits
+The European Commission has estimated EU GDP was more than 2 per cent, 
+or £170 billion (2009 prices), higher in 2008 than it would have been if the 
+Single Market had not been launched in 1992. Using the most recent data, UK 
+GDP is approximately 13% of the EU economy (nominal GDP 2014, IMF) and 
+that manufacturing represents 15% of total GDP (ONS, 2015), and machinery 
+and equipment represents 6% of manufacturing (ONS, 2015). The internal 
+market can be assumed to have had an impact of £200 million. There was no 
+proxy which we could use to find how much of this could be attributed directly 
+to the directive. In light of this limitation, we have followed the methodology 
+used in the original IA, we assume that 0.5-2 percent of the impact can be 
+attributed to the improvement in the directive, this leads to a benefit of 
+approximately £1- £4 million per annum. 
+Health and Safety Benefits
+
+Health and Safety benefits were discussed both in the original IA and the 
+amendment IA. HSE data for fatal injuries from coming in contact from moving 
+machinery, across all sectors of the economy has fallen from approximately 
+19 per annum in the 1995/6 to 2005/6 period to an average of 10 per annum 
+in 2009/10 to 2013/14 period. Although, it is not possible from this evidence to 
+determine the extent to which the MD contributed to this reduction given the 
+range of factors that could impact on the number of injuries, if we follow the 
+assumption that was made in the Supply of Machinery (Safety) Regulations 
+
+
+17
+
+Cm 9493
+
+impact assessment that the directive contributed in the region of 10 to 20 
+percent reduction in average number of fatalities, then this would imply a 
+reduction in the average number of fatalities of just under 1-2 per annum. The 
+economic cost of fatalities is given at £1.6million4: this leads to an overall 
+benefit of between £1.6- £3.2million per annum. 
+
+For non-fatal accidents, Labour Force Survey data indicate that accidents 
+caused by contact with moving machinery averaged 13,000 for the 2006/07 - 
+2008/09 period, the most recent indicator indicate this figure has fallen to 
+11,000 (for 2011/12-2013/14), this implies an estimated reduction of up to 
+200- 400 accidents per annum attributed to the directive:  using the HSE 
+estimation of cost of accidents to be £300, this derives an economic benefit of 
+£60,000-£120,000 per annum.
+
+(ii) Updated assessment of the 2011 Amendment Regulations (see Table 2)
+
+Transition  
+The Pesticide Amendment IA calculated that the transition cost of adaption in 
+design or production cost is approximately £0.03m to £0.3m (para 27). 
+However, the data needed to estimate this cost is no longer available. 
+Furthermore, it is worth noting that this is a sunk cost, and therefore not 
+relevant for assessing the best option going forward for this particular 
+regulation: therefore, it is viewed as disproportionate, to collect the evidence 
+necessary to update this information in this particular case.
+
+Recurring
+For the 2011 Pesticide Amendment, a further health and safety benefit was 
+estimated. Looking at the data on illness linked to pesticide exposure in the 
+published Pesticide Impact Report5: to assess the benefits of the measure, we 
+analysed the step change between the data prior to 2009 and post 2009.
+
+Mild injury Moderate injury
+
+2008/09 5 3
+
+2009/10 15 2
+
+2010/11 6 0
+
+2011/12 5.5 0
+
+2012/13 6 0
+
+As in the original IA, if we make the assumption that half the reduction in 
+incidents reported can be attributed to the measure, then the step change can 
+be estimated to be 1-1.5 for moderate incidents and up to 4.5 for mild 
+incidents. If the estimation £300 cost to injuries is used again, this leads to an 
+economic benefit of £300-450 per year6. This leads to an economic benefit of 
+£300-£450 per year. 
+
+4 http://www.hse.gov.uk/risk/theory/alarpcheck.htm#footnotes (up 
+weighted to 2009 prices)
+5 http://www.hse.gov.uk/agriculture/resources/pesticides
+6 http://www.hse.gov.uk/risk/theory/alarpcheck.htm#footnotes
+
+
+18
+
+Cm 9493
+
+Other benefits
+
+Due to lack of availability of data, we were unable to measure that reduction in 
+cost to users in inefficient use due to the introduction of the Pesticide 
+amendment. This was assessed to be £400,000 per year in the original IA.  
+
+6) What if any have been the unintended consequences? What are the 
+areas for improvement?
+
+One Notified Body notes that a lack of enforcement means that compliant 
+manufacturers may be put at a financial or competitive disadvantage to less 
+scrupulous manufacturers.
+
+Both an enforcement authority and one Notified Body noted the very high cost 
+of accessing harmonised standards as a significant cost to business. The 
+enforcement authority notes that the cost is often cited as prohibitive to all but 
+the larger businesses. The Notified Body states that there are cheaper ways 
+to buy or view standards in the international market, rather than via the British 
+Standards Institute, but these are not widely known. This limits business 
+access to the vast amount of useful design information available in standards. 
+Though the use of standards is voluntary their use does simplify confidence of 
+compliance; currently this issue is receiving a lot of attention from the 
+European Commission and the Member States to investigate simplifying 
+access, particularly from SMEs.
+
+There is also a significant cost in understanding and using standards, and 
+both an enforcement authority and one Notified Body focused on one example 
+in particular. The Notified Body stated that safety-related control system 
+requirements based on EN 13849/62061 in particular are very complex and 
+widely misunderstood and misapplied. It notes that ineffective equipment is 
+often added to machines, increasing cost but not actually improving safety 
+performance. In the respondent’s opinion, this particular standard is not 
+achieving its objectives because it is too complex and badly written. Similarly, 
+the respondent from the enforcement authority also cites EN ISO 13849-1 on 
+control systems as an example of a particularly difficult standard to 
+understand and requires significant expertise to implement, despite the fact 
+that it is a basic fundamental standard for almost all machines and essential 
+for any with complex control and safety systems. Though these comments are 
+not relevant to the regulatory framework these comments demonstrate the 
+lack of technical competence in industry in relation to the incorporation of high 
+and innovative technology; also the lack of interconnect through BSI from the 
+technical committee comprising usually manufacturers and users of products 
+with those likely to use the standard who are of less than average 
+competence. This is confirmed by the observation by two Notified Bodies that 
+many businesses are not aware of the state of the art and standards that are 
+applicable to their equipment. One of the Notified Bodies considers that many 
+manufacturers choose to use a harmonised standard as a way to comply with 
+the Directive, and that the use of standards often inhibits innovation by giving 
+a proscribed route to design. Best standards drafting requires the setting of 
+
+
+19
+
+Cm 9493
+
+objectives and testing for the compliance with the objectives; poor drafting 
+sets constructional requirements while much work has been done in pressing 
+standardisers to improve drafting more work is clearly needed. BIS along with 
+the European Commission, other Member States and the European 
+Standards Bodies, including BSI, are actively encouraging better drafting from 
+standardization technical committees. 
+
+Enforcement
+
+All four Notified Bodies and the one manufacturer that responded stated that 
+enforcement of the Regulations could be strengthened, particularly 
+enforcement activity focused on manufacturers and distributors who place 
+unsafe equipment on the market, rather than only on users who have 
+accidents. It seems there is a lack of awareness of the activity of the 
+enforcement authorities in relation to investigations of products on the 
+markets BIS and they need to do more to publicise their successes and 
+interventions.
+
+One Notified Body expressed concern that the system of declaring 
+compliance is open to abuse. Without proactive enforcement of the 
+Regulations, safety is only improved by those manufacturers that bother to 
+observe the requirements. As the NB was of the view that no checks are 
+made to ensure that machinery being placed on the market is compliant, the 
+interpretation of the requirements is left to manufacturers, who may choose to 
+ignore or flexibly interpret the minimum requirements. As an example of this, 
+one Notified Body alleged that in some cases, manufacturers are applying 
+standards that do not relate to the equipment they make. This view from NBs 
+may be biased as they have a vested interest in mandatory 3rd party testing. 
+Self-assessment is used in other product safety areas and is now considered 
+appropriate for this type of equipment. HSE do undertake a number of 
+investigations on manufacturers to determine compliance; they are currently 
+trialling a new system whereby the cost of investigations and any follow up 
+action is chargeable where there is non-compliance.
+
+One Notified Body went further and stated that, even when reactive 
+enforcement occurs after an accident or prosecution, the fines are too low to 
+deter manufacturers from breaching the Regulations. The HSE have also 
+expressed concerns at the fines imposed by the Courts. The Ministry of 
+Justice have also amended all penalties for England Wales to remove the 
+maximum limits for all Courts. While this provides the Courts with the 
+possibility to impose penalties that stakeholders consider to be more 
+appropriate it will down to the Courts to decide what penalty they actually 
+impose.
+
+In the view of enforcement authorities, the main challenges facing them are 
+the limited resources and scarce expertise to conduct proactive enforcement 
+and market surveillance activity. Compliance testing is difficult and time-
+consuming, even with access to expertise. Proactive market surveillance 
+activity, including at the borders, is not easy as many industrial products are 
+not amenable to examination and sampling at that point (may need 
+assembling and putting into use first to be able to evaluate). 
+
+
+20
+
+Cm 9493
+
+Another enforcement authority notes that typically Trading Standards Officers 
+lack experience and knowledge of the technical aspects of the Regulations to 
+proactively enforce the Regulations. As a result of this, it is difficult for 
+enforcement authorities to assess the overall level of compliance to the 
+Regulations. In many cases, the authorities only get involved if there has been 
+an incident. However, one enforcement authority notes that the level of 
+compliance varies greatly across manufacturers, and that the overall level of 
+compliance has probably not changed much since 1992. It further noted that 
+enforcement authorities continue to encourage compliance through education 
+and enforcement, but this may have been counteracted by the increase in 
+products from non-EU sources, which may be less aware of the EU system. 
+These issues are likely to be at least partly addressed by HSE charging for 
+investigations where non-conformity is identified and by the recent removal of 
+maximum limits for fines enabling stronger fines to be imposed by the Courts 
+which may now become persuasive. There is also a review of Trading 
+Standards Services in progress that may address some of the concerns 
+raised here.
+
+Importers and distributors
+Three Notified Bodies noted that there needs to be a stronger emphasis on 
+the responsibilities of importers and distributors. In the view of one Notified 
+Body, direct purchase of machinery from outside the EU, which often does not 
+meet EU safety requirements, is increasing, and where an importer/distributor 
+is involved, they often have no idea of the safety requirements. Similarly, one 
+enforcement authority states that one of the main challenges it faces is that 
+many fundamental duty holders are outside legal jurisdiction. 
+
+7) Is government intervention still required? Is the existing form of 
+government regulation still the most appropriate approach?
+
+This section sets out BIS’s assessment of whether the Regulation’s objectives 
+remain appropriate and, if so, the extent to which they could be achieved with a 
+system that imposes less regulation.
+
+From our updated assessment of the costs and benefits, the ongoing benefits still 
+exceeds the ongoing cost (see Section 5B); the Regulations’ objectives therefore 
+remain appropriate. The UK remains committed to improving health and safety 
+and environmental and animal protection.
+
+The objectives of the Regulations could not be achieved with a system that 
+imposes less regulation; the current Regulations are still considered to set a light 
+touch and impose minimal requirements over and above good engineering 
+practice. The concerns with the Regulations raised by all responding stakeholders 
+consider that more enforcement of the existing regulations is required rather than 
+a change being needed in the Regulations. The IA for the 2008 Regulations did 
+not consider alternatives to regulation. There is a role for Government and 
+enforcement authorities to improve awareness of the requirements of the 
+regulations which could help reduce incidents of non-compliance by 
+manufacturers.  
+
+
+21
+
+Cm 9493
+
+The IA of the 2011 amendment considered an alternative to regulation, by 
+providing guidance to manufacturers to allow them to pursue voluntary 
+agreements to comply with EU standards. The IA considered that, although it is 
+likely that companies will adopt EU standards regardless of UK enforcement, not 
+regulating may leave some UK companies at a competitive disadvantage in the 
+internal market if they do not adopt EU standards. Furthermore, the UK would 
+face reputational risks and risk of infraction proceedings for not implementing the 
+EU Directive.  It was also considered that there would be higher non-monetised 
+costs to users of pesticides application equipment (PAE) due to less efficient use 
+of pesticides.    
+
+At present the changes the UK can make to improve the Regulations are primarily 
+limited to penalties and the enforcement regime. The technical and administrative 
+requirements are set out in an EU Directive that will not be revised for several 
+years. Overall BIS does not consider there is a need to amend the Regulations. 
+Issues highlighted by the PIR as needing attention are related to the need for 
+better enforcement of the UK Regulations which is a performance issue of the 
+existing enforcement bodies (HSE & Trading Standards) who remain the most 
+appropriate bodies in the UK. As noted previously both the HSE initiative with 
+charging for investigations where non-conformity is identified and the review of 
+Trading Standards may assist in improving compliance and in undertaking 
+increased proactive inspections.
+
+7) EU-derived regulations
+
+This section considers how the Directive is implemented in other member states; 
+the impacts on UK based businesses relative to other European competitors and 
+whether UK businesses are put at a competitive disadvantage by the Regulations; 
+and improving transposition in the UK.
+
+One Notified Body reported that they were aware of some rare cases where 
+national interpretations and practice vary, and a few problems with differing 
+interpretations or incorrect application of the Directive by enforcement offices 
+outside the UK.
+
+The UK is convinced that there is no gold-plating in the implementing 
+Regulations; industry and enforcement authorities in their EU activities use 
+the Directive text and therefore any anomalies would have been identified. 
+Unintentional gold-plating was identified in the 2008 Regulations but was 
+subsequently removed in the 2011 amendment. This removed a provision in 
+relation to the duties of those putting machinery into service, which duplicated 
+obligations imposed under other health and safety legislation 
+
+UK authorities have received occasional complaints from UK businesses (not 
+as part of this review) about difficulties in placing products they consider to be 
+compliant on the market in other MS. These problems tend to be differing 
+interpretations of the requirements by MS. These problems have been 
+resolved by the UK working with other MS through co-operation facilitated by 
+the European Commission and via the independent SOLVIT initiative. 
+
+
+22
+
+Cm 9493
+
+8) Views of Member States
+
+We received comments from four MS regarding the implementation of the 
+Machinery Directive in their country. 
+
+Implementation
+There is no common approach to implementation some, like the UK, use a 
+single implementing piece of legislation; while others use two or more pieces. 
+The approach being what works best for them.
+
+Objectives of Directive
+There were differing views as to whether the objectives of the MD were being 
+fully met. The general consensus is that the MD is achieving its objectives but 
+should be fully aligned to the New Legislative Framework.  Views were 
+expressed that while the health and safety aspects were good enough and the 
+single market was functioning well the protection of the Union required all 
+Member States to provide adequate resources for market surveillance and 
+publicity. Some concerns were expressed with the marketing of products 
+being poorly covered by the MD, however this is to be expected as marketing 
+is fully dealt with in other Union legislation. It was a concern that due to a lack 
+of information exchange between authorities the necessary levels of safety 
+and health protection are not always achieved. There were mixed views as to 
+whether machines are more environmentally friendly. 
+
+Enforcement in other Member States
+Operational procedures and resources vary between Member States and as 
+such expectations with regard to co-operation differ leaving some Member 
+States considering co-operation is not always as good as could be hoped but 
+at least there are channels for co-operation which are improved with 
+experience. Of particular note being the ICSMS secure internet system 
+allowing the passing of information between Member States enforcement 
+authorities electronically.
+
+Particular concerns highlighted are e-commerce and a need to tighten control 
+at ports. The UK does have an initiative with Trading Standards working 
+closely with HM Customs which is proving very successful. 
+
+One MS said that it had been difficult to convince market players to accept 
+that the changes introduced by the Directive were designed to improve safety 
+while at the same time promoting the single market for goods.
+
+Review     
+None of the MS had carried out a review of the implementation of the MD in 
+their country.   
+
+Views of stakeholders in other Member States 
+One MS said that stakeholders had not made any complaints to them about 
+the Directive. Another said that stakeholders are generally happy with the
+Directive and see advantages to it for trading products. Complaints about 
+
+
+23
+
+Cm 9493
+
+other MS making extra requirements that are technical barriers to trade for 
+products have fallen away since the Directive was introduced. One MS said 
+that generally speaking manufacturers are aware of their obligations.   
+
+9) Comments from the European Commission
+
+No assessment of the transposition of the Directive by MS has been carried 
+out. Neither has a review of the Machinery Directive been carried out. 
+However, an evaluation study into the Machinery Directive was launched in 
+2016. This is the start of the process to review the Directive and consider any 
+possible revision.
+
+10) Next Steps
+
+The Regulations should remain as is (renewal), for the following reasons:
+
+• They must remain in place to support our obligation to implement the 
+EU Machinery Directive. 
+
+• The policy is on course to achieve its objectives and key success 
+criteria have been met.
+
+• Compliance levels are sufficient to support achievement of objectives. 
+
+• Government intervention is still required. If intervention was withdrawn, 
+the UK would risk reputational damage and infraction proceedings. UK
+companies may be placed at a competitive disadvantage in the internal 
+market if they do not adopt EU standards. Withdrawing government 
+intervention may lead to some deterioration in health and safety and 
+environmental protection.
+
+• As assessed by the IAs costs have been proportionate to benefits.
+
+• An updated assessment of the IAs has shown that the ongoing benefits 
+continue to exceed ongoing costs.
+
+• Alternatives that are less burdensome to business have not been 
+identified. Amending the existing UK Regulations to strengthen the 
+penalties is not warranted now that Ministry of Justice have remove d 
+the upper limit for penalties. 
+
+• While more robust enforcement is called for HSE as principal enforcer 
+with Trading Standards for consumer products remain the most 
+appropriate UK enforcers. The evaluation of the HSE initiative to 
+charge for investigations should be taken into consideration before any 
+initiative to change HSE enforcement activity. 
+
+• To consider how the Courts can be encouraged to apply penalties that 
+are persuasive. 
+
+• On completion of the review of the Trading Standards Services 
+consider whether any review of their enforcement activity is required.
+
+There is a role for government to improve awareness of the Regulations 
+among business and consumers. Two Notified Bodies state that 
+manufacturers often address conformity with the Regulations after their 
+machine has already been designed and built. By this time, it is too late and 
+often expensive, difficult or impossible to correct the mistake. It is vital that 
+conformity and especially risk assessment forms part of the design process, 
+
+
+24
+
+Cm 9493
+
+and more education and improved awareness among manufacturers is 
+needed.
+
+A common concern raised by stakeholders was that there was not enough 
+enforcement. Industry wants a level playing field and do expect robust 
+enforcement to ensure all are following the same requirements. Government 
+needs to consider ways to improve enforcement that minimise burdens on 
+compliant manufacturers, but bites on non-compliant manufacturers, to 
+ensure the cost of non-compliance exceeds the cost of compliance. The 
+impact of the removal of maximum limits for fines and the HSE charging for 
+investigations needs to be considered once these initiatives have been 
+running sufficiently long to evaluate their impact.   
+
+Other EU Member States raised concerns about enforcement of the MD 
+similar to those experienced in the UK. It is therefore important that MS 
+continue to work together to improve enforcement so that any difficulties can 
+be promptly resolved to improve the operation of the single market for all 
+stakeholders.
+
+
+25
+
+Cm 9493
+
+Annex 2 
+
+Questions for Stakeholders 
+1) To what extent have the Regulations met their policy objectives? (e.g. 
+
+to improve safety; facilitate the free movement of goods and improve 
+the environment)
+
+2) What is your assessment of the costs and benefits to your business of 
+complying with the Regulations on a yearly basis?
+
+3) What are the main challenges faced by businesses in ensuring their 
+products meet the requirements of the Regulations?
+
+4) If you are a Smaller business (up to 50 employees) or Micro business 
+(up to 10 employees) please let us have your assessment as to 
+whether the burden of the Regulations falls disproportionately on your 
+business compared to larger organisations?
+
+5) If there is anything else you like to mention in connection with the 
+Regulations not covered above please let us know. 
+
+Questions for Notified Bodies 
+1) To what extent have the Regulations met their policy objectives? (e.g. 
+
+to improve safety; facilitate the free movement of goods and improve 
+the environment)
+
+2) What is your assessment of the costs and benefits to business of 
+complying with the Regulations on a yearly basis? 
+
+3) What are the main challenges faced by businesses in ensuring their 
+products meet the requirements of the Regulations?
+
+4) As a Notified Body what are the main challenges you are faced with in 
+helping manufacturers to comply with the Regulations? 
+
+5) If there is anything else you would like to mention in connection with 
+the Regulations not covered above please let us know.
+
+Questions for Enforcement Authorities 
+1) To what extent have the Regulations met their policy objectives? (e.g. 
+
+to improve safety; facilitate the free movement of goods and improve 
+the environment)
+
+2) What is your assessment of the costs and benefits to business of 
+complying with the Regulations on a yearly basis?
+
+3) What are the main challenges faced by you as an enforcement 
+authority in ensuring that products meet the requirements of the 
+Regulations?
+
+4) a) As an enforcement authority what is your assessment of level of 
+compliance of products under the Regulations? b) Has this level of 
+compliance changed since the Regulations were introduced?
+
+5) If there is anything else you would like to mention in connection with 
+the Regulations not covered above please let us know.
+
+Questions were sent to Member States covering: 
+1. Implementation, 
+2. Whether objectives of the Directive have been achieved
+3. Any enforcement concerns
+4. Whether a review had been carried out 
+
+
+26
+
+Cm 9493
+
+5. Views of stakeholders
+
+Questions were sent to the European Commission covering:
+1. Implementation of the Directive by MS 
+2. Whether the objectives of the Directive have been achieved  
+3. Implementation and enforcement  
+4. Future plans for the Directive
+5. Possible gold plating by MS
+6. Compliance of manufacturers
+
+
+27
+

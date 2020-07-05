@@ -1,0 +1,3823 @@
+
+
+
+
+Code of practice for the welfare of laying hens and pullets
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 1
+
+Code of practice for the welfare of
+LAYING HENS AND PULLETS
+
+© BFREPA
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets2
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 3
+
+© Crown copyright 2018
+
+You may re-use this information (excluding logos) free of charge in any format or medium, under the terms 
+of the Open Government Licence v.3. To view this licence visit www.nationalarchives.gov.uk/doc/open-
+government-licence/version/3/ or email PSI@nationalarchives.gsi.gov.uk 
+
+This publication is available at www.gov.uk/government/publications 
+
+www.gov.uk/defra
+
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+mailto:PSI@nationalarchives.gsi.gov.uk
+http://www.gov.uk/government/publications
+http://www.gov.uk/defra
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets4
+
+Contents Preface ............................................................................. 1
+Introduction ...................................................................... 5
+Definitions ......................................................................... 7
+Section 1: Recommendations applying to 
+all husbandry systems ...................................................... 8
+
+Stockmanship and staffing ........................................ 8
+Health and welfare plan ............................................. 9
+Biosecurity and disease control ................................ 9
+Contingency planning for disease and other 
+emergencies ............................................................ 11
+Inspection and responding to poor health 
+and welfare .............................................................. 12
+Welfare outcome assessments ................................ 14
+Specific health and welfare issues .......................... 15
+
+Injurious pecking, aggressive pecking 
+and feather loss ................................................ 15
+Skeletal health .................................................. 16
+Red mites .......................................................... 17
+
+Automatic or mechanical equipment ....................... 17
+Ventilation and temperature ..................................... 18
+Lighting .................................................................... 19
+Litter ......................................................................... 20
+Noise ........................................................................ 21
+Feed and water ........................................................ 22
+Mutilations ............................................................... 24
+
+Beak trimming ................................................... 25
+Breeding procedures ............................................... 26
+Responsible medicines usage 
+and record keeping .................................................. 27
+Catching and handling ............................................ 28
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 5
+
+Housing: General requirements ............................... 29
+Stocking density and freedom of movement .... 30
+Environmental enrichment ................................ 31
+
+Non-cage systems: 
+additional housing requirements ............................. 32
+Free range systems: 
+additional housing requirements  ............................ 33
+Enriched cage systems: 
+additional housing requirements ............................. 34
+
+Section 2: Recommendations applying 
+to day-old chicks and pullet rearing ............................... 36
+
+Brooding (0-6 weeks) .............................................. 36
+Pullet rearing environment ....................................... 36
+Transition from rearing to laying environment ......... 36
+
+Annex 1: Legislation affecting laying hens and pullets .. 37
+Annex 2: Permitted procedures ...................................... 39
+Sources of further information ........................................ 41
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 1
+
+Preface 
+
+This preface is not part of the Code; instead, 
+it explains the Code’s role and the broad 
+considerations on which it is based. 
+
+This Code applies to England only. It replaces 
+the Code of Recommendations for the Welfare of 
+Livestock: Laying Hens, issued in 2002. 
+
+The legal text in boxes throughout this document is 
+not part of this Code but highlights relevant legislation. 
+The text in these boxes is the law as it stands on the 
+date that this Code is published (please see the final 
+page for the date of publication). You should be aware 
+that any of the legal requirements quoted here could 
+change. You should check that these are an accurate 
+statement of the law as it currently stands. See Annex 
+1 for a list of other relevant legislation. 
+
+This Code is made under the Animal Welfare 
+Act 2006. The Act makes owners and keepers 
+responsible for ensuring that the welfare needs of 
+their animals are met, have a suitable environment, 
+are fed an appropriate diet and are protected from 
+pain, injury, suffering and disease. 
+
+Section 14 of the Animal Welfare Act 2006 
+states:
+
+(1)  The appropriate national authority 
+may issue, and may from time to 
+time revise, codes of practice for 
+the purpose of providing practical 
+guidance in respect of any provision 
+made by or under this Act.
+
+(2)  The authority responsible for issuing 
+a code of practice under subsection 
+(1) shall publish the code, and any 
+revision of it, in such manner as it 
+considers appropriate.
+
+(3) A person’s failure to comply with a 
+provision of a code of practice issued 
+
+
+14 
+
+
+under this section shall not of itself 
+render him liable to proceedings of 
+any kind.
+
+(4)  In any proceedings against a person 
+for an offence under this Act or an 
+offence under regulations under 
+section 12 or 13—
+
+(a)  failure to comply with a relevant 
+provision of a code of practice 
+issued under this section may 
+be relied upon as tending to 
+establish liability, and
+
+(b) compliance with a relevant 
+provision of such a code of 
+practice may be relied upon as 
+tending to negative liability.
+
+The principal legislation referred to in this Code 
+are the Welfare of Farmed Animals (England) 
+Regulations 2007 (referred to later on in this Code 
+as “WOFAR 2007”) and the Mutilations (Permitted 
+Procedures) (England) Regulations 2007, which 
+implement Council Directive 98/58/EC concerning 
+the protection of animals kept for farming purposes 
+and Council Directive 99/74/EC which lays down 
+minimum standards for the protection of laying hens.
+
+Section 3 of the Animal Welfare Act 2006 
+states:
+
+(1)  In this Act, references to a person 
+responsible for an animal are to a person 
+responsible for an animal whether on a 
+permanent or temporary basis.
+
+(2) In this Act, references to being 
+responsible for an animal include 
+being in charge of it.
+
+
+3 
+
+Code of Practice for the Welfare of Laying Hens and Pullets2
+
+Welfare Act 2006 or a statutory 
+welfare code issued under section 
+3 of the Agriculture (Miscellaneous 
+Provisions) Act 1968 (1) relating to the 
+particular species of farmed animal to 
+which a person is attending. 
+
+(3) For the purposes of this Act, a 
+person who owns an animal shall 
+always be regarded as being a 
+person who is responsible for it.
+
+(4) For the purposes of this Act, 
+a person shall be treated as 
+responsible for any animal for which 
+a person under the age of 16 years of 
+whom he has actual care and control 
+is responsible. 
+
+Regulation 6 of the Welfare of Farmed 
+Animals (England) Regulations 2007 states:
+
+(1) A person responsible for a farmed 
+animal—
+(a) must not attend to the animal 
+
+unless he is acquainted with any 
+relevant code of practice and 
+has access to the code while 
+attending to the animal; and
+
+(b) must take all reasonable 
+steps to ensure that a person 
+employed or engaged by him 
+does not attend to the animal 
+unless that other person—
+
+(i) is acquainted with any 
+relevant code of practice;
+
+(ii) has access to the code 
+while attending to the 
+animal; and
+
+(iii) has received instruction and 
+guidance on the code.
+
+(2) In this section, a “relevant code of 
+practice” means a code of practice 
+issued under section 14 of the Animal 
+
+This Code is intended to help all those who care for 
+laying hens and pullets to practise good standards 
+of stockmanship to safeguard bird welfare. Without 
+good stockmanship, animal welfare can never 
+be adequately protected. Adherence to these 
+recommendations will help keepers to maintain the 
+standards required to comply with legislation. 
+
+Those who have care for laying hens and pullets 
+should demonstrate:
+
+• Caring and responsible planning and 
+management;
+
+• Skilled, knowledgeable and conscientious 
+stockmanship;
+
+• Appropriate environmental design;
+
+• Considerate handling and transport; and
+
+• Humane culling.
+
+The welfare of laying hens and pullets is considered 
+within a framework that was developed by the Farm 
+Animal Welfare Committee (FAWC) and known 
+as the ‘Five Freedoms’. These form the guiding 
+principles for the assessment of welfare within 
+any system, together with the actions necessary 
+to safeguard welfare within the constraints of an 
+efficient livestock industry. The Five Freedoms 
+should be considered in conjunction with FAWC’s 
+three essentials of stockmanship.
+
+
+6
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 3
+
+The Five Freedoms are:
+
+1. Freedom From Hunger And Thirst
+by ready access to fresh water and a diet to 
+maintain full health and vigour;
+
+2. Freedom From Discomfort by providing an 
+appropriate environment including shelter and a 
+comfortable resting area;
+
+3. Freedom From Pain, Injury Or Disease
+by prevention or rapid diagnosis and treatment;
+
+4. Freedom To Express Normal Behaviour by 
+providing sufficient space, proper facilities and 
+company of the animals’ own kind;
+
+5. Freedom From Fear And Distress by ensuring 
+conditions and treatment to avoid mental 
+suffering.
+
+The Three Essentials of Stockmanship are:
+
+1. Knowledge Of Animal Husbandry
+Sound knowledge of the biology and husbandry 
+of farm animals, including how their needs may 
+be best provided for in all circumstances.
+
+2. Skills In Animal Husbandry
+Demonstrable skills in observation, handling, 
+care and treatment of animals, and problem 
+detection and resolution. 
+
+3. Personal Qualities
+Affinity and empathy with animals, dedication 
+and patience.
+
+During on-farm welfare inspections carried out by 
+the Animal and Plant Health Agency (APHA, an 
+executive agency of Defra and exercising Secretary 
+of State functions) and Local Authorities, inspectors 
+will assess compliance against legislation and 
+this Code. Not complying with the welfare-related 
+legislation outlined in the boxes throughout this 
+Code, is an offence. In cases that go to court 
+
+for prosecution, whether someone has met the 
+requirements of this Code, or not, can be used to 
+help establish a person’s liability. 
+
+There may be other legislation and requirements 
+that are not outlined in this Code but that you must 
+be familiar with and comply with.
+
+Section 4 of the Animal Welfare Act 2006 
+states:
+
+(1) A person commits an offence if— 
+(a) an act of his, or a failure of his to 
+
+act, causes an animal to suffer, 
+
+(b) he knew, or ought reasonably 
+to have known, that the act, or 
+failure to act, would have that 
+effect or be likely to do so, 
+
+(c) the animal is a protected animal, 
+
+
+and 
+
+
+(d) the suffering is unnecessary. 
+
+(2) A person commits an offence if— 
+(a) he is responsible for an animal, 
+
+(b) an act, or failure to act, of 
+another person causes the 
+animal to suffer, 
+
+(c) he permitted that to happen 
+or failed to take such steps 
+(whether by way of supervising 
+the other person or otherwise) 
+as were reasonable in all the 
+circumstances to prevent that 
+happening, and 
+
+(d) the suffering is unnecessary. 
+
+
+4 
+
+Code of Practice for the Welfare of Laying Hens and Pullets4
+
+Section 9 of the Animal Welfare Act 2006 
+states:
+
+(1) A person commits an offence if he 
+does not take such steps as are 
+reasonable in all the circumstances to 
+ensure that the needs of an animal for 
+which he is responsible are met to the 
+extent required by good practice.
+
+(2) For the purposes of this Act, an 
+animal’s needs shall be taken to 
+include - 
+
+(a) its need for a suitable 
+environment,
+
+(b) its need for a suitable diet,
+
+(c) its need to be able to exhibit 
+normal behaviour patterns,
+
+(d) any need it has to be housed 
+with, or apart from, other 
+animals, and
+
+(e) its need to be protected from 
+pain, suffering, injury and 
+disease.
+
+
+9 
+
+(3) The considerations to which it 
+is relevant to have regard when 
+determining for the purposes of 
+this section whether suffering is 
+unnecessary include— 
+(a) whether the suffering could 
+
+reasonably have been avoided 
+or reduced; 
+
+(b) whether the conduct which 
+caused the suffering was in 
+compliance with any relevant 
+enactment or any relevant 
+provisions of a licence or code 
+of practice issued under an 
+enactment; 
+
+(c) whether the conduct which 
+caused the suffering was for a 
+legitimate purpose, such as— 
+(i) the purpose of benefiting 
+
+the animal, or 
+
+(ii) the purpose of protecting a 
+person, property or another 
+animal; 
+
+(d) whether the suffering was 
+proportionate to the purpose of 
+the conduct concerned; 
+
+(e) whether the conduct concerned 
+was in all the circumstances that 
+of a reasonably competent and 
+humane person. 
+
+(4) Nothing in this section applies to 
+the destruction of an animal in an 
+appropriate and humane manner.
+
+Suggested sources of additional information are 
+included at the end of this Code. These sources of 
+further information are relevant to the welfare of laying 
+hens and pullets, but are for information only and should 
+not be considered to be part of the Code of Practice. 
+
+This Code has been issued by the Secretary of State 
+for the Department for Environment, Food and Rural 
+Affairs (following no objections by either House after 
+being laid in draft in both Houses of Parliament). 
+
+THIS WELFARE CODE CAME INTO FORCE ON 8 
+AUGUST 2018
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 5
+
+Introduction
+
+1. This Code (which applies in England only) covers 
+all parts of the laying hen production sector, 
+including pullets and breeding birds, and all 
+types of husbandry systems. It covers single 
+or multiple laying hens kept on a smallholding 
+(hobby/backyard flock), as well as commercial 
+laying hen producers. These recommendations 
+will help owners and keepers of laying hens 
+comply with animal welfare rules, but are not 
+meant to replace expert advice such as from 
+a veterinary surgeon or appropriately qualified 
+technical advisor. 
+
+2. Schedule 1 to the Welfare of Farmed Animals 
+(England) Regulations 2007 lays down conditions 
+under which all farmed animals, including 
+laying hens, must be kept. Schedules 2, 4 and 
+5 to the Welfare of Farmed Animals (England) 
+Regulations 2007 lay down additional conditions 
+that apply to the keeping of 350 or more laying 
+hens. These additional conditions do not apply 
+to establishments with fewer than 350 laying 
+hens, hatcheries, pullet rearing farms or laying 
+hen breeders. The Council of Europe has also 
+
+made recommendations concerning laying hens 
+and, where not covered in legislation, they are 
+included in this Code.
+
+3. The keeping of 350 or more laying hens in 
+conventional (unenriched) cages has been 
+banned in the UK on welfare grounds since 1 
+January 2012. For this reason, conventional 
+cages are not recommended for small units (with 
+fewer than 350 birds). The legal requirements 
+that apply to the keeping of 350 or more laying 
+hens (such as for nesting, perching, scratch 
+areas and stocking density) are recommended 
+as good practice in flocks with fewer than 
+350 birds. This Code’s recommendations 
+on enrichment provision, range access 
+and reducing risks of injurious pecking are 
+recommended as good practice for all flocks, 
+regardless of size. 
+
+4. For ease of reference, the table below 
+summarises the various legal provisions relating 
+to animal welfare on farm for different types of 
+laying hen production systems. 
+
+Legislation in England
+
+Production system Animal Welfare 
+Act 2006
+
+Schedule 1 to 
+WOFAR 2007
+
+Schedule 2 to 
+WOFAR 2007
+
+Schedule 4 to 
+WOFAR 2007
+
+Schedule 5 to 
+WOFAR 2007
+
+Hatcheries   - - -
+
+Pullets   - - -
+
+Establishments with <350 laying 
+hens, including smallholdings
+
+  - - -
+
+>350 laying hens in barn systems    - 
+>350 laying hens in free range 
+systems
+
+   - 
+
+>350 laying hens in enriched 
+cages
+
+  -  
+
+Organically reared laying hens    - 
+Laying hen breeders   - - -
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets6
+
+5. The relevant animal welfare legislation applies 
+to owners at all times as well as to any person 
+looking after the hens on their behalf, wherever 
+the hens are located. A written protocol should 
+clearly set out for all parties their responsibilities 
+in respect of welfare. However, the obligations 
+imposed by the law will still apply.
+
+6. No person should operate or set up a laying hen 
+unit unless the welfare of all the birds can be 
+safeguarded to comply fully with the law. This 
+can be achieved by ensuring that the buildings 
+and equipment, the skills and abilities, and 
+the numbers of keepers are appropriate to the 
+husbandry system and number of birds to be 
+kept.
+
+7. Keepers of flocks of 50 or more birds must 
+register with APHA, within one month of keeping 
+this number of birds at the site. Keepers with 
+fewer than 50 birds are also encouraged to 
+register.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 7
+
+Definitions
+
+8. For the purposes of this Code, definitions of 
+terms used in this Code are summarised below. 
+Some of these (marked with an asterisk) are 
+taken directly from the relevant legislation, whilst 
+others are included to provide an explanation for 
+the purposes of the Code. 
+
+‘biosecurity’ means a set of management 
+actions and physical measures designed to 
+reduce the risk of introduction, establishment 
+and spread of disease to, from, and within the 
+flock and, where relevant, between different 
+flocks on site; 
+
+‘flock’ means a group of hens which are placed 
+in a house of a holding and are present in this 
+house at the same time;
+
+‘holding’ means a production site on which 
+laying hens are kept;
+
+‘house’ means a building on a holding where a 
+laying hen flock is kept;
+
+‘injurious pecking’ is pecking behaviour 
+directed at the feathers and skin of other birds 
+and encompasses gentle and severe feather 
+pecking, vent pecking and cannibalism;
+
+‘owner’ or ‘keeper’ (*) means any natural or 
+legal person or persons responsible for or in 
+charge of animals whether on a permanent or 
+temporary basis;
+
+‘laying hen’ (*) means a hen of the species 
+Gallus gallus which has reached laying maturity 
+and is kept for the production of eggs not 
+intended for hatching; 
+
+‘litter’ (*) means, in relation to laying hens, any 
+friable material enabling the hens to satisfy their 
+ethological needs;
+
+‘mutilation’ is a procedure which involves 
+interference with the sensitive tissues or bone 
+
+structure of an animal, otherwise than for the 
+purpose of its medical treatment; 
+
+‘nest’ (*) means a separate space for egg laying, 
+the floor component of which may not include 
+wire mesh that can come into contact with the 
+birds, for an individual hen or for a group of 
+hens;
+
+‘pullet’ is used to describe birds during their 
+rearing period and at transfer to the laying house 
+when no eggs have been laid by the flock. As 
+soon as the first egg has been laid in the flock it 
+becomes a laying hen flock;
+
+‘red mites’ are ectoparasites (up to 0.7mm 
+diameter and grey or red in colour) that feed on 
+the blood of hens; 
+
+‘usable area’ (*) means an area, other than that 
+taken up by a nest, used by laying hens which 
+is at least 30cm wide with a floor slope not 
+exceeding 14% and with headroom of at least 
+45cm.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets8
+
+Section 1: Recommendations 
+applying to all husbandry systems  
+
+Stockmanship and staffing under the supervision of others and before 
+being given sole responsibility for animals, 
+staff should have demonstrated competence 
+and understanding, including on-farm practical 
+ability, to ensure that they are capable of 
+safeguarding the animals under all foreseeable 
+conditions. 
+
+12. Regular training and refresher courses should 
+be undertaken by all those responsible for 
+laying hens, including those employed by 
+contractors. Ideally, the training should lead to 
+formal accredited recognition of competence.
+
+13. Those working with hens should be able to 
+recognise not only normal behaviour and 
+good health and welfare, but also signs of 
+illness or disease and should know how to 
+seek veterinary advice. See also paragraphs 
+37 to 48. Where specialised tasks are to be 
+performed, for example, medication or humane 
+culling, specific training should be given and 
+records kept of those staff competent to carry 
+out those tasks. Alternatively, the services of a 
+contractor using competent trained staff should 
+be obtained.
+
+14. It is essential to ensure enough time is available 
+within the daily work routine to inspect the hens 
+properly and any installations essential for their 
+health and welfare and for any remedial action 
+to be taken promptly. The owner/keeper should 
+have adequate knowledge of the husbandry 
+system to be able to appreciate the suitability of 
+the total environment for the birds’ health and 
+welfare. 
+
+15. Any hens bred for farming purposes should not 
+be used to achieve any other goal, including 
+public spectacles or demonstrations, if such 
+use is likely to be detrimental to their health or 
+welfare.
+
+Paragraph 1 of Schedule 1 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+1. Animals must be cared for by a 
+sufficient number of staff who possess 
+the appropriate ability, knowledge and 
+professional competence.
+
+9. Stockmanship is one of the most important 
+influences on the welfare of laying hens. A good 
+keeper will have a compassionate and humane 
+attitude, will be able to anticipate and avoid 
+many potential welfare problems and have 
+the ability to identify those that do occur and 
+respond to them promptly. Those responsible 
+for managing a laying hen unit should make sure 
+that the hens are cared for by well-motivated 
+and competent staff. Before any unit is set up or 
+expanded, it is important to be certain that the 
+level of stockmanship will be sufficiently high to 
+safeguard the welfare of the hens. 
+
+10. All staff and owners/keepers (where no staff 
+are employed), including those contracted to 
+carry out specific management tasks, need 
+to be aware of the welfare needs and basic 
+biology of the hens. To alleviate fear responses 
+and possible injury, birds should be handled in 
+a careful, positive and compassionate manner 
+from an early age. 
+
+11. Staff and owners/keepers (where no staff are 
+employed) need specific knowledge and skills. 
+They must be trained and competent in any 
+specific tasks they are required to undertake 
+and be competent in the use of any equipment. 
+In a farm situation, this should be developed 
+on the unit by working with skilled staff who 
+are experienced in the relevant system. Whilst 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 9
+
+Health and welfare plan
+16. A health and welfare plan should be implemented 
+
+for each farm which should set out health and 
+husbandry activities covering the whole of the 
+production cycle. Routine daily tasks and other 
+regular checks essential for bird health and 
+welfare should be clearly detailed. The plan 
+should be developed with appropriate veterinary 
+advice, regularly reviewed against performance 
+and updated regularly, at the end of the flock or 
+annually on a multi-age site.
+
+17. Any plan should also establish management 
+procedures and control measures to reduce 
+the risk of infections and injury and include an 
+effective vaccination programme. Antibiotics 
+must not be used routinely, but only for treatment 
+purposes as prescribed by a veterinary surgeon 
+when specific disease or infection has been 
+diagnosed to avoid a welfare issue. 
+
+18. The plan should include contingency measures to 
+account for both endemic and potential notifiable 
+disease. See also paragraphs 33 to 36. The plan 
+should also include the use of welfare outcome 
+assessments to assess and monitor the ongoing 
+welfare of the hens. See also paragraphs 49 to 52.
+
+19. There are many sources of technical advice 
+available to producers, in addition to advice from 
+their veterinary surgeon. They may also receive 
+regular inspections from independent assurance 
+schemes as part of their retailer supply contract 
+and from government regulators. Social media 
+is largely unregulated and therefore may not be 
+a reliable source of information. Advice should 
+always be verified by a veterinary surgeon or 
+appropriately qualified technical advisor.
+
+20. As part of the health and welfare plan, owners/
+keepers should establish in advance the best 
+course of action to take should problems be 
+identified and ensure that veterinary or other 
+expert advice is sought when needed. 
+
+Biosecurity and disease control
+
+Paragraph 4 of Schedule 5 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+(1) Those parts of buildings, equipment 
+or utensils which are in contact 
+with the hens must be thoroughly 
+cleansed and disinfected regularly 
+and, in any case, every time 
+depopulation is carried out and 
+before a new batch of hens is 
+brought in. 
+
+(2) While the cages are occupied:
+
+(a) the surfaces and all equipment 
+must be kept satisfactorily clean; 
+
+(b) droppings must be removed; and 
+
+(c) dead hens must be removed 
+every day.
+
+21. Biosecurity applies to flocks of any size, 
+from smallholdings with one or two birds to 
+commercial farm units. 
+
+22. Good biosecurity measures should result in:
+
+a) farm units/smallholdings being more secure 
+from the introduction of infectious diseases; 
+
+b) the spread of any diseases within the unit, 
+specifically from flock to flock, being kept to 
+a minimum; and 
+
+c) a reduced risk of spread of disease from the 
+farm to other farms or elsewhere.
+
+
+4 
+
+Code of Practice for the Welfare of Laying Hens and Pullets10
+
+23. Good biosecurity can be achieved through:
+
+a) limiting external vehicle or equipment 
+movement onto farm and instigating 
+appropriate cleansing and disinfection 
+procedures where this occurs;
+
+b) good management and husbandry 
+procedures on site. These include: 
+
+i) where possible, “all in - all out” 
+management of sites, by site or by 
+accommodation block;
+
+ii) clear biosecurity protocols when 
+moving between different flocks on site, 
+particularly where the site has different 
+aged flocks;
+
+iii) disinfection points on entry and exit 
+from each accommodation or rearing 
+section;
+
+iv) separating staff responsibilities to 
+specific sections and/or following strict 
+disinfection protocols between different 
+aged flocks; and 
+
+v) daily management routines which move 
+from youngest birds through to the oldest. 
+
+c) good hygiene throughout the site, including 
+protocols in the health and welfare plan for 
+staff hygiene, and cleansing and disinfection 
+procedures when moving between flocks 
+and other accommodation:
+
+i) preventive disease control programmes, 
+including vaccination and red mite 
+management programmes;
+
+ii) a pest control programme to limit 
+access of rodents, wild birds, wildlife, 
+domestic pets and other risks, to 
+animals and feed stores; and
+
+iii) familiarising birds with changes in 
+routine whilst limiting avoidable stressful 
+events or conditions to which birds are 
+exposed.
+
+24. One way by which notifiable avian disease 
+may spread to poultry is through contact with 
+infected wild birds. It is not possible to prevent 
+all airborne infections from entering a unit but, 
+when planning new sites, consideration should 
+be given to providing the maximum possible 
+distance between the proposed site and 
+existing sites as well as areas where migrating 
+wild birds congregate, to improve biosecurity. 
+A useful guide is the 3 km distance that defines 
+the radius of a Protection Zone in the control of 
+notifiable diseases, such as highly pathogenic 
+avian influenza. The distance between houses 
+on a site should also be considered. Ponds 
+on site should be avoided but, where this is 
+not possible, the hens should not be able to 
+access them. Similarly, wild birds congregating 
+on ponds, or otherwise, should not be able 
+to access the hens’ feed and water, nor nest 
+and roost in poultry buildings. A vermin control 
+system should be in place to limit rodents and 
+pests accessing and contaminating feed.
+
+25. Only essential visitors should be allowed onto 
+the unit. All visitors, including inspectors, 
+should comply with the required biosecurity as 
+stipulated by the owner/keeper (and which may 
+be subject to change under changing disease 
+challenges), including personal/private bird 
+contact. Visitors should follow strict disinfection 
+procedures and wear unit-dedicated clothing 
+and footwear. A visitor book should be provided 
+and all visitors should sign to say they have not 
+been near other poultry for an agreed period, 
+as stipulated in the health and welfare plan. 
+A system should be provided to alert staff or 
+visitors at the gate of these requirements before 
+they enter the site. Consideration should be 
+given as to the need for visitors to enter bird 
+space.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 11
+
+26. Ideally, farm staff should not keep their own 
+birds at home. If they do so, they should be 
+extra vigilant for signs of disease and even more 
+careful about biosecurity both at home and on 
+the farm. Where possible, waterfowl (i.e. geese 
+and ducks) should be kept separate from other 
+poultry species.
+
+27. Loading facilities and, where possible, feed bins 
+and dead stock collection points should be sited 
+at the unit perimeter. If used, isolation buildings 
+for new stock should be as near as possible 
+to the farm entrance and away from other 
+buildings/ranges for disease monitoring to take 
+place. Vehicles which visit other poultry units 
+should be kept off the unit wherever possible 
+but, where entry is essential, wheels and 
+footwear should be cleansed and disinfected 
+thoroughly on entry and exit. 
+
+28. Once emptied, bird housing should be 
+thoroughly cleaned to remove organic material; 
+where appropriate, washed with detergent; and 
+then disinfected. Used litter should be removed 
+from the house and the site before re-stocking 
+to reduce the risk of carry-over of disease. 
+
+29. Owners/keepers should routinely use local and 
+national surveillance information sources for the 
+latest information on disease diagnoses in the area.
+
+30. All owners/keepers should be familiar with the 
+signs and symptoms associated with notifiable 
+diseases which affect laying hens, including 
+avian influenza and Newcastle disease. An 
+owner/keeper who suspects the flock may 
+be suffering from a notifiable disease, has a 
+legal duty to report this immediately to APHA. 
+All laying hen flocks of 350 or more hens 
+are monitored under the National Control 
+Programme for Salmonella, under which there 
+are additional legal obligations. 
+
+31.  Where notifiable disease is confirmed in birds 
+on the farm/smallholding or other units there 
+
+will be mandatory biosecurity measures and 
+restrictions on movements which could persist 
+for a considerable length of time and there may 
+be a requirement to confine free range birds to 
+their housing.
+
+32. Keepers who have registered with APHA will be 
+contacted by them by email or text message in 
+the event of a disease outbreak. Keepers who 
+have not registered should seek information from 
+the Defra/APHA disease control website and 
+should sign up to receive APHA disease alerts. 
+
+Contingency planning for disease 
+and other emergencies
+33. Measures should be put in place for 
+
+contingency planning following an assessment 
+of possible hazards. All owners/keepers should 
+ensure they, or at least one responsible member 
+of staff, are always on call to take the necessary 
+steps. Emergency plans should deal with events 
+such as: 
+
+a) the disruption of feed, power or water 
+supply, including when automated 
+equipment fails and cannot be immediately 
+rectified; 
+
+b) heat stress; 
+
+c) natural disasters, such as floods;
+
+d) fires; 
+
+e) arrangements for allowing rapid entry to 
+locked buildings in case of emergency, for 
+example, by providing clear instructions on 
+emergency contact details;
+
+f) instructions for short and long term 
+restrictions placed in case of notifiable 
+disease, including dealing with delays 
+in moving birds to slaughter and the 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets12
+
+compulsory temporary housing of free 
+range birds; and
+
+g) arrangements for both culling and disposal 
+of flocks, when depopulation is required 
+in the event of notifiable disease or due 
+to contamination of feed or pasture with 
+toxins. 
+
+34. The use of alarm systems activated 24/7 should 
+be considered, which allow prompt emergency 
+warning of staff located on site or on duty 
+remotely. Portable lighting such as a head torch 
+should be available for emergency night time 
+inspections.
+
+35. Where long term housing of normally free range 
+hens is anticipated, consideration should be 
+given to the provision of additional littered 
+flooring, enrichment and access to natural 
+daylight within the confined housing, to avoid 
+an increase in injurious feather pecking in birds 
+that are normally accustomed to range access. 
+A “veranda” or “winter garden” attached to 
+the main accommodation could meet these 
+additional requirements. 
+
+36. Responsibility for animal welfare during any 
+enforced restrictions on movement or any other 
+emergency on farm remains the responsibility 
+of the owner/keeper. Any concerns about 
+animal welfare during such periods should be 
+discussed with a veterinary surgeon and, where 
+appropriate, reported to APHA if animal welfare 
+conditions deteriorate. 
+
+Inspection and responding to 
+poor health and welfare
+
+Paragraph 2 (1) and (2) of Schedule 1 to 
+the Welfare of Farmed Animals (England) 
+Regulations 2007 states:
+
+2 (1)….animals kept in husbandry systems 
+in which their welfare depends on 
+frequent human attention must be 
+thoroughly inspected at least once a day 
+to check that they are in a state of well-
+being. 
+
+(2)….animals kept in husbandry systems 
+in which their welfare does not depend 
+on frequent human attention must be 
+inspected at intervals sufficient to avoid 
+any suffering.
+
+Paragraph 3 of Schedule 1 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+3.  Where animals are kept in a building, 
+adequate lighting (whether fixed or 
+portable) must be available to enable them 
+to be thoroughly inspected at any time. 
+
+Paragraph 1 of Schedule 5 to the Welfare of 
+Farmed Animals (England) Regulations 2007 
+states:
+
+1.  All hens must be inspected by the owner 
+or other person responsible for the hens at 
+least once a day.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 13
+
+Paragraph 6 of Schedule 5 to the Welfare of 
+Farmed Animals (England) Regulations 2007 
+states:
+
+6.  Accommodation comprising two or more 
+tiers of cages must have devices, or 
+appropriate measures must be taken, to 
+allow inspection of all tiers without difficulty 
+and to facilitate the removal of hens.
+
+Paragraphs 5 and 6 of Schedule 1 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+5.  Any animals which appear to be ill or 
+injured must be cared for appropriately 
+and without delay; where they do not 
+respond to such care, veterinary advice 
+must be obtained as soon as possible.
+
+6.  Where necessary, sick or injured 
+animals must be isolated in suitable 
+accommodation with, where appropriate, 
+dry comfortable bedding.
+
+37. A thorough flock inspection must take place at 
+least once a day, irrespective of the presence 
+of any automatic surveillance system. Ideally, 
+there should be three inspections spread out 
+across the day. Even when linked with other visits 
+to the poultry houses, each health and welfare 
+inspection should be undertaken as a separate, 
+specific procedure. 
+
+38. Inspections should be sufficiently thorough to 
+detect illness and injury of individual hens, and 
+should include an inspection of nest boxes where 
+hens in poor health may seek refuge. Aspects of 
+the physical environment such as litter condition 
+and air quality should also be monitored and 
+problems rectified without delay. 
+
+39. Owners/keepers should try to introduce some 
+variation into the inspection routine, including 
+different members of staff where possible, to help 
+reduce fearfulness and stress associated with any 
+necessary changes in management during the 
+rearing and laying periods. Frequent inspection 
+helps familiarise hens to human presence in the 
+house as a normal part of daily life.
+
+40. Housing and equipment must be designed so 
+that all the laying hens can be clearly seen. Light 
+levels during inspection must be sufficient to 
+ensure that the birds are clearly visible. See also 
+paragraph 34. 
+
+41. Flock inspection should include an assessment 
+of body condition, any growth variation within the 
+flock, respiration, mortality, condition of plumage, 
+indications of head or vent pecking, condition of 
+droppings, eyes, skin, beak, legs, feet and claws, 
+and, where appropriate, combs and wattles. 
+Attention should be paid to the presence of 
+external parasites, feed and water consumption 
+and egg production level. The healthy individual 
+hen should vocalise and perform activities 
+appropriate to its age, breed or type, it should 
+have clear bright eyes, good posture, clean 
+healthy skin, good feather condition and coverage, 
+well-formed legs and feet, effective walking and 
+active feeding and drinking behaviour. 
+
+42. Inspections should be made at every level of 
+multi-tier and enriched cage systems. In order 
+to ensure a thorough inspection, the owner/
+keeper should pass close enough to every bird 
+to encourage them to move, taking care not 
+to frighten them with sudden, unaccustomed 
+movement, noise or changes in light levels. This 
+will enable the identification of any individual 
+that is sick, injured or weak for appropriate 
+action to be taken by the owner/keeper. 
+Individual examination should occur where 
+inspection suggests animal health or welfare 
+is compromised and may require prompt 
+intervention, including humane culling. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets14
+
+43. The early signs of ill-health may include changes 
+in food and water intake, preening, vocalisation 
+and flock activity levels. There may also be a 
+drop in egg production and changes in egg 
+quality, such as shell defects. Any variation 
+in normal feeding, drinking or behaviour may 
+indicate a problem which should be given 
+immediate attention, in order to identify the 
+cause and rectify any emerging issue that is of 
+risk to the flock’s health and welfare.
+
+44. The owner/keeper should be able to anticipate 
+problems or recognise them in their earliest 
+stages and, in many cases, be able to identify 
+the cause and put matters right immediately. 
+Recording all incidents suggesting a health 
+or welfare concern, in addition to minimum 
+legal records requirements on mortality and 
+medicines, may help in this. Such monitoring 
+should be included in the health and welfare 
+plan, so all staff are clear on specific measures 
+to be made on a daily basis or at the time of 
+specific management procedures. Advice should 
+be sought, where appropriate. See also welfare 
+outcome assessments at paragraphs 49 to 52.
+
+45. The possibility that the birds may be affected 
+by a notifiable disease should be considered 
+and all owners/keepers and staff should be 
+aware of risks and clinical symptoms associated 
+with new and emerging diseases. See also 
+paragraphs 29 to 32. If the cause is not obvious, 
+or if the immediate action taken is not effective, 
+a veterinary surgeon’s advice must be sought 
+immediately; failure to do so may cause 
+unnecessary suffering in the individual and/or 
+in other hens subsequently affected by lack of 
+prompt action. 
+
+46. Hens that are injured or show signs of illness 
+and are likely to suffer, must receive appropriate 
+treatment without delay, including where 
+necessary separation from the rest of the flock 
+to allow treatment, rest and recuperation, or be 
+humanely culled immediately. Where there are 
+
+signs of recurring injuries which may be related 
+to the environment, such as trauma to wings, 
+legs or keel bone, these must be investigated 
+and the cause rectified as soon as possible.
+
+47. Dead birds seen during an inspection should 
+be removed from the house without delay and 
+disposed of appropriately. 
+
+48. When any bird is culled this must be carried out 
+using a permitted method in accordance with the 
+relevant legislation and the procedures included 
+in the health and welfare plan. 
+
+Welfare outcome assessments
+49. Many recognised welfare standards are based 
+
+on “inputs” carried out by the owner/keeper 
+and staff, such as during daily management and 
+husbandry procedures, or resources provided 
+to the animals such as housing, feed and water. 
+Many of these are defined as minimum standards 
+in law and are covered throughout this Code. 
+
+50. The use of welfare outcomes can help the owner/
+keeper understand how these inputs directly 
+affect individual birds and the flock as a whole. 
+The assessments are designed to be practical 
+and measurable, whilst having a scientific basis 
+to demonstrate positive or negative welfare 
+states in the birds. 
+
+51. In commercial systems the routine welfare 
+outcome assessments to be carried out by the 
+owner/keeper and staff should be agreed with 
+a veterinary surgeon. Additional requirements 
+may be specified through private schemes or 
+retailer contracts. All agreed measures should be 
+accurately detailed and recorded daily. Additional 
+information from other rearing stages (for 
+example, hatchery information and pullet rearing 
+data) and from slaughterhouses at depopulation 
+may provide further information on the health 
+and welfare of the flocks.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 15
+
+52. Recommended welfare outcome assessments in 
+laying hens include:
+
+a) Feather loss
+b) Bird dirtiness
+c) Antagonistic behaviours, including injurious 
+
+and aggressive pecking
+d) Flightiness or fearfulness 
+e) Number of birds requiring isolation / 
+
+additional care
+f) Mortality
+
+Specific health and welfare issues
+Injurious pecking, aggressive pecking and 
+feather loss 
+
+53. A key positive outcome for the flock is absence of 
+injurious pecking. Every effort should be made to 
+reduce injurious pecking so as to stop the need 
+to beak trim as soon as reasonably possible. See 
+also section on beak trimming, at paragraphs 
+100 to 105. However, beak trimming should not 
+be ceased until the owner/keeper is confident 
+that, under the current bird rearing, housing and 
+management procedures, this will not result in 
+significantly increased risk of injurious pecking.
+
+54. Any sudden change in management, 
+environment or disease (for example, red mite), 
+i.e. a stressor, can precipitate an outbreak of 
+injurious pecking. This includes gentle pecking 
+(feather tip pecks, little reaction from the 
+bird being pecked) through to severe feather 
+pecking (forceful pecks, feather pulls, visible 
+feather loss to back, vent, tail area, the bird 
+being pecked may vocalise) and cannibalistic 
+pecking (pecking of featherless skin following 
+severe feather pecking leading to blood loss, 
+infection, death). Vent pecking is a specific form 
+of cannibalistic pecking that targets the vent 
+area and can lead to the inner organs being 
+pulled out; it can occur in fully feathered birds 
+and a key risk time is onset of egg-laying.
+
+55. Aggressive pecking is not the same as injurious 
+pecking and is directed towards the head and 
+neck of another bird. It includes fighting and 
+chasing of other birds, which occurs as part 
+of natural behaviour to establish dominance 
+hierarchies or “pecking orders” within the flock 
+and as a result of competition for resources. 
+Vocalisation between birds during aggressive 
+activity is common. If aggression levels are 
+particularly high in a flock this can predispose 
+to injurious pecking and cannibalism. The 
+motivations for aggressive pecking are different 
+to injurious pecking and may also be seen 
+when management changes are made, so it 
+is important that the owner/keeper takes time 
+to observe the birds to understand the type of 
+pecking occurring in the flock.
+
+56. Owners/keepers should consider choosing 
+strains with a reduced tendency to injurious 
+pecking.
+
+57. A bespoke action plan to reduce injurious 
+pecking and thus the need to beak trim should 
+form part of any health and welfare plan. This 
+should be drawn up in consultation with a 
+veterinary surgeon. It should detail specific 
+management procedures and interventions from 
+early rearing through to laying, to reduce the 
+risk of injurious pecking occurring and the steps 
+to be taken in the event of an outbreak. Feather 
+scores should be recorded throughout flock life 
+and outbreaks of injurious pecking recorded 
+and investigated as to possible causes. 
+Progress should be assessed on a flock by 
+flock basis as part of the review of the plan, with 
+the aim of continuous improvement.
+
+58. Recommended strategies and interventions 
+could include:
+
+a) Managing the transition from rearing to 
+laying house by matching conditions as 
+far as possible. This is a high risk period 
+for stress and the onset of feather pecking 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets16
+
+behaviour and the transition should be kept 
+as smooth as possible. See also Section 2;
+
+b) Allowing the pullets immediate access to 
+good quality, friable litter;
+
+c) Giving the pullets in the laying unit early 
+access to the range;
+
+d) Encouraging use of the range by providing 
+shelters near the house; increasing the 
+amount and variety of vegetation; co-
+grazing with compatible non-avian species; 
+and providing foraging opportunities and 
+appropriate outside drinkers. See also 
+paragraph 149; 
+
+e) Actively managing the range by keeping the 
+area around the popholes clean and well 
+drained, controlling predators and rotating 
+pasture;
+
+f) Maintaining good, deep, friable litter 
+throughout the laying period to promote 
+foraging and dustbathing activities; 
+
+g) Providing additional opportunities for 
+foraging and dustbathing, such as straw or 
+hay bales (entire to allow birds to pull them 
+apart) or in hanging nets; a range of pecking 
+objects and dustbathing boxes; 
+
+h) Minimising diet changes – where possible, 
+mix old and new diets through any transition 
+period. Avoid changing from high protein 
+to low protein diets. Mash increases eating 
+time compared to pellets and keeps the 
+birds occupied; 
+
+i) Increasing insoluble fibre in diet – within 
+the main diet or as an added forage, such 
+as whole oats, wheat, corn, alfalfa, maize/
+barley/pea, silage or carrots. However, 
+ensure that methods of additional forage 
+provision do not attract rodents;
+
+j) Managing health and hygiene and 
+maintaining effective disease control, for 
+example, monitoring and controlling levels 
+of red mite and worm burdens;
+
+k) Reducing stress in the flock by developing 
+good human-animal relationships, carrying 
+out regular inspections and avoiding large 
+contrasts in light, noise and temperature;
+
+l) Inspecting birds more regularly than usual 
+following any unusual or sudden change 
+in management that is likely to increase 
+stress levels, in order to detect any injurious 
+pecking at the earliest opportunity, enabling 
+steps to be taken to treat or cull injured birds;
+
+m) Consider introducing additional perching 
+opportunities in the vertical space in the 
+building. Providing additional resting/
+roosting options, appropriate for that 
+shed, can allow submissive birds to avoid 
+situations in which they might otherwise be 
+pecked; and 
+
+n) Consider the provision of “verandas” or 
+“winter gardens” as practical methods of 
+reducing stocking densities. The natural 
+lighting and extra space, as well as 
+opportunities for further enrichment points, 
+all help maintain bird welfare. 
+
+59. Once all management strategies are in place 
+and good feather cover is achieved throughout 
+lay for at least two consecutive flocks, stopping 
+beak trimming in future flocks should be actively 
+considered, in consultation with a veterinary 
+surgeon and other appropriately qualified 
+technical advisors.
+
+Skeletal health
+
+60. Skeletal health is an important aspect of the 
+welfare of laying hens. Fractures can be a 
+cause of pain and therefore poor welfare. 
+They can occur during rearing or laying or 
+during depopulation, transport or at the 
+slaughterhouse.
+
+61. The incidence of fractures is determined mainly by: 
+
+i) the weakness of bones, including the 
+susceptibility of keel bones to damage 
+before and after ossification; 
+
+ii) the design of housing systems, during 
+rearing and in lay, including space availability 
+and enrichment provision (to improve bone 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 17
+
+health through load-bearing exercise) and 
+housing layout (optimised to reduce trauma 
+caused by collisions with furniture and 
+equipment); and 
+
+iii) handling, including at depopulation.
+
+62. The keel bone (or sternum) is initially made of 
+cartilage but ossifies at about 35 weeks of age. 
+Before ossification, it may become twisted or 
+otherwise deformed. It may be damaged or 
+broken, for example, when the hen jumps or flies 
+and collides with a perch or other equipment in 
+the poultry house. Whilst bone strength alone 
+may not be the sole cause of keel bone fracture, 
+there is sufficient evidence that it is a major factor.
+
+63. Suitable diet, housing design and careful 
+handling contribute to optimising bone strength 
+and reducing fracture risks. Owners/keepers of 
+pullets and laying hens should follow the latest 
+guidance on appropriate nutritional content of 
+feed at different stages of rearing and laying to 
+optimise bone strength throughout the bird’s life. 
+Load-bearing exercises provided by the ability to 
+dustbathe and access perches (ideally from the 
+early rearing period) encourage mobility and should 
+improve bone strength. The hen will also benefit 
+from walking, hopping, wing flapping and other 
+exercise. Design and location of perches, tiers and 
+ramps should be carefully considered in both pullet 
+and laying houses to prevent collisions and falls.
+
+64. If birds are detected with fractures on farm, they 
+must be isolated where necessary and treated 
+or culled promptly by a trained and competent 
+person in accordance with the specific welfare 
+at the time of killing legislation. Birds which 
+are not considered fit for transport should be 
+immediately culled on farm. 
+
+65. Owners/keepers should encourage end of 
+lay hen processors to feedback information 
+on fractures which should then be used to 
+set targets in the health and welfare plan, to 
+reduce the incidence of fractures. Any changes 
+
+in housing design, management, nutrition or 
+catching and handling strategies at depopulation 
+should be detailed in the plan, before the next 
+flock of replacement pullets arrives.
+
+Red mites 
+
+66.  Red mites in low numbers cause irritation, 
+making birds restless and prone to injurious 
+pecking. Large numbers of mites can cause 
+anaemia, pale comb and wattles, reduced egg 
+production and progressive weakness until 
+death. Younger birds and chicks are particularly 
+susceptible to rapid anaemia and death. The red 
+mite lifecycle from egg to adult can be as little as 
+a week and once there is a problem in the flock it 
+can be difficult to bring under control. 
+
+67. A clear monitoring and treatment protocol 
+devised with a veterinary surgeon and defined 
+in the health and welfare plan should be 
+routinely carried out and records kept. See also 
+paragraphs 112 to 117. Equipment and furnishings 
+should be checked for mites; simple mite traps 
+can be placed in the house in key areas to 
+monitor levels. The comb, leg and breast skin of 
+birds, including any found dead, should also be 
+checked. A visible clumping of mites or blood 
+spotting of eggs denotes a severe infestation. 
+
+Automatic or mechanical 
+equipment
+
+Paragraphs 18 to 21 of Schedule 1 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+18.  All automated or mechanical equipment 
+essential for the health and well-being of 
+the animals must be inspected at least 
+once a day to check that there is no 
+defect in it.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets18
+
+19.  Where defects in automated or 
+mechanical equipment of the type referred 
+to in paragraph 18 are discovered, these 
+must be rectified immediately or, if this 
+is impossible, appropriate steps must 
+be taken to safeguard the health and 
+well-being of the animals pending the 
+rectification of those defects including the 
+use of alternative methods of feeding and 
+watering and methods of providing and 
+maintaining a satisfactory environment.
+
+20.  Where the health and well-being of the 
+animals is dependent on an artificial 
+ventilation system –
+
+(a)  provision must be made for an 
+appropriate back-up system to 
+guarantee sufficient air renewal to 
+preserve the health and well-being of 
+the animals in the event of failure of 
+the system; and
+
+(b)  an alarm system (which will operate 
+even if the principal electricity supply to 
+it has failed) must be provided to give 
+warning of any failure of the system.
+
+21.  The back-up system referred to in 
+paragraph 20(a) must be thoroughly 
+inspected and the alarm system referred 
+to in paragraph 20(b) tested at least once 
+every seven days in order to check that 
+there is no defect, and, if any defect is found 
+at any time, it must be rectified immediately. 
+
+68. All equipment and services, including feed 
+hoppers, feed chain and delivery systems, 
+drinkers, ventilating fans, heating and lighting 
+units, fire extinguishers, generators, other energy 
+backup systems and alarm systems, should be 
+cleaned, inspected, tested and kept in good 
+working order. 
+
+69. All automated equipment upon which the birds’ 
+welfare is dependent should incorporate a fail-
+safe or standby device and an alarm system to 
+warn the owner/keeper of failure. Defects must 
+be rectified immediately or other temporary 
+measures taken (as described in the health and 
+welfare plan) to safeguard the health and welfare 
+of the birds until the problem has been rectified. 
+Alternative ways of feeding and watering and of 
+maintaining a satisfactory environment should 
+therefore be ready for immediate use.
+
+70. Ventilation, heating, lighting, feeding, drinker lines 
+and all other equipment or electrical installation 
+should be designed, sited and installed so as 
+to avoid risk of injuring the birds. All electrical 
+installations at mains voltage should be 
+inaccessible to the birds and properly earthed.
+
+Ventilation and temperature 
+
+Paragraph 13 of Schedule 1 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+13.  Air circulation, dust levels, temperature, 
+relative air humidity and gas 
+concentrations must be kept within limits 
+which are not harmful to the animals.
+
+71. Environmental factors (temperature, humidity, 
+ammonia, carbon dioxide, dust, bacteria and 
+fungi) can directly impact on bird welfare, feed 
+conversion, egg production (numbers, weight, 
+shell quality), disease and mortality. The following 
+table shows recommended values for some 
+environmental parameters:
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 19
+
+House 
+temperature
+
+17 - 25°C (adult layers) 
+depending on system of 
+production
+
+Humidity 40 - 60% (up to 70 - 75% for 
+short periods)
+
+Light intensity At least 10 lux (except nest 
+boxes <1 lux)
+
+Ammonia 
+concentration
+
+< 20 ppm
+
+Carbon dioxide < 3000 ppm
+
+72. The ventilation system and facilities for storing 
+and handling litter and manure should be 
+designed, maintained and managed to prevent 
+the exposure of birds to gases such as ammonia 
+and carbon dioxide, in concentrations which 
+cause discomfort to the birds or which are 
+detrimental to their health. People vary in their 
+ability to smell ammonia, however, if ammonia 
+can be smelt, it is likely to be too high and 
+suggests monitoring and action is required. 
+Certain activities (for example, topping up litter 
+and manure removal) within the layer house can 
+increase dust and pathogen levels and clear 
+protocols should be in place to reduce frequency 
+of exposure to birds and staff to elevated levels.
+
+73. Provision of insulation and ventilation should 
+be designed to avoid heat and cold stress. 
+Ventilation requirements should be detailed in 
+the health and welfare plan and clear guidance 
+should be provided for staff on actions, including 
+monitoring, at different times of the year to help 
+maintain appropriate temperatures and humidity 
+in the housing. Where ventilation appears to be 
+causing health and welfare issues, expert advice 
+should be sought.
+
+74. Particular care should be taken to protect hens 
+vulnerable to cold stress, such as those with 
+feather loss, from draughts in cold conditions. 
+Visible evidence of cold stress in the housing 
+environment is huddling of groups of birds 
+
+together for prolonged periods, in the warmest 
+areas of the house (or the cage). Huddling is 
+a normal response to cold temperatures but 
+prolonged huddling indicates the temperature is 
+not comfortable in the long term for the flock. 
+
+75. Laying hens towards the end of lay are more 
+likely to suffer cold stress, particularly if they have 
+high feather loss in cold, wet weather conditions. 
+End of lay hens’ fitness to transport for the 
+intended journey should be considered carefully 
+when feather loss is high and body condition is 
+poor during cold wet weather, particularly when 
+a recent increase in flock mortality beyond the 
+expected levels has occurred.
+
+76. Birds should not be exposed to persistently 
+strong, direct sunlight or hot, humid conditions 
+which can cause heat stress. Heat stress is 
+indicated by any form of panting observed within 
+the flock, typically during summer months. 
+Birds will be less motivated to move and feed, 
+will sit upright with beaks open and will make 
+visible respiratory movements. During periods 
+of hot weather attention should be paid to air 
+throughput, distribution and air speed at bird level.
+
+77. Where birds do not have a choice of 
+environment, for example, to access a range, 
+then it is important to maintain the environment 
+within the main housing such that the birds can 
+maintain their normal body temperature without 
+resorting to the need to pant or huddle.
+
+Lighting
+
+Paragraphs 14 to 16 of Schedule 1 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+14.  Animals kept in buildings must not be 
+kept in permanent darkness.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets20
+
+15.  Where the natural light available in 
+a building is insufficient to meet the 
+physiological or ethological needs of 
+any animals being kept in it, appropriate 
+artificial lighting must be provided.
+
+16.  Animals kept in buildings must not be kept 
+without an appropriate period of rest from 
+artificial lighting.
+
+Paragraph 3 of Schedule 5 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+3  (1) All buildings must have light levels 
+sufficient to allow hens to see other hens 
+and be seen clearly, to investigate their 
+surroundings visually and to show normal 
+levels of activity.
+
+ (2) Where there is natural light, light 
+apertures must be arranged in such a way 
+that light is distributed evenly within the 
+accommodation.
+
+ (3) After the first days of conditioning, the 
+lighting regime must be such as to prevent 
+health and behavioural problems and 
+accordingly it must follow a 24-hour rhythm 
+and include an adequate uninterrupted 
+period of darkness lasting, by way of 
+indication, about one third of the day. 
+
+ (4) A period of twilight of sufficient duration 
+should if possible be provided when the 
+light is dimmed so that the hens may 
+settle down without disturbance or injury.
+
+78. In normal conditions, in all systems, light intensity 
+should be at least 10 lux, measured at any feed 
+trough level. Whilst reduction in lighting level may 
+assist in addressing behavioural problems such 
+as injurious feather pecking or cannibalism, this 
+may reflect a response to the change in light 
+intensity from “normal” (for that flock) rather than 
+the actual lux level of the lighting intensity itself. 
+Hens perceive incandescent lighting at higher 
+intensities than fluorescent lighting, so care 
+should be taken when changing between lighting 
+source types. 
+
+79. Birds, when given the choice, will move between 
+different light intensities through the day. 
+However, in cage systems, measures should be 
+taken to ensure that light distribution is as even 
+as possible, other than in the nest area which 
+should, where possible, be much lower (<1 lux). 
+
+80. A period of twilight (between 1 and 5 lux) should 
+be provided to give time for laying hens to adjust 
+to changing light and dark patterns and give 
+them time to roost. 
+
+Litter
+
+Laying hens in non-cage systems
+
+Paragraph 2 of Schedule 2 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+2.  All systems must be equipped in such a 
+way that all laying hens have— 
+
+ (e) at least 250 cm² of littered area per 
+hen, the litter occupying at least one third 
+of the ground surface.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 21
+
+Laying hens in enriched cages
+
+Paragraph 2 of Schedule 4 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+2.  Laying hens must have—
+
+ (c) litter such that pecking and scratching 
+are possible.
+
+81. The litter material should be of an appropriate 
+quality, suitable for providing dry dustbathing 
+or scratching material and must not contain 
+anything that could be toxic or cause injury to the 
+hens. Litter must be friable (loose) and should be 
+dry on the surface.
+
+82. Litter should be inspected frequently for signs of 
+mould or infestation, especially under drinkers 
+or near the walls, and appropriate action should 
+be taken to rectify any problem. Litter should 
+also be inspected to ensure it does not become 
+capped, wet or excessively dusty.
+
+83. In non-cage systems, all hens must have access 
+to a littered area, which must be maintained in a 
+friable condition. Average depth of litter should 
+be at least 5 cm during nest box training and 
+approximately 10 cm after nest box training 
+is complete. Hens should have access to 
+good quality substrate to allow expression of 
+natural behaviours, including dustbathing and 
+scratching, and to prevent health and welfare 
+problems. Dustbathing is a social activity and 
+therefore there should be sufficient good quality 
+litter available to perform dustbathing as a 
+group activity, but without being disturbed by 
+other birds performing other activities. If no or 
+only single birds are seen dustbathing this may 
+suggest insufficient space or litter quality issues. 
+
+84. Leakage or spillage from drinkers can have 
+a negative impact on litter quality. Drinkers 
+should be well maintained and positioned at 
+an appropriate height for all birds. The water 
+pressure should be checked frequently to ensure 
+there is no leakage. Drinkers should be descaled 
+frequently (between flocks) to overcome 
+issues of leakage. Leaks should be fixed as 
+soon as possible. Litter replacement may be 
+necessary in the short term in badly affected 
+areas, in conjunction with raised ventilation and 
+temperatures to remove large amounts of excess 
+moisture. However, long term solutions should 
+be found and specialist advice should be sought 
+where appropriate. 
+
+Noise 
+
+
+
+85. 
+
+
+Paragraph 2 of Schedule 5 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+2.  In all systems in which laying hens are 
+kept—
+
+ (a) the sound level must be minimised;
+
+ (b) constant or sudden noise must be 
+avoided; and 
+
+ (c) ventilation fans, feeding machinery and 
+other equipment must be constructed, 
+placed, operated and maintained in such 
+a way that they cause the least possible 
+noise.
+
+When designing houses or installing new 
+equipment, the noise levels should be 
+checked and, where necessary, appropriate 
+sound proofing should be installed to achieve 
+acceptable levels before birds are placed. All 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets22
+
+equipment in regular use, such as ventilation, 
+feeding equipment and back-up generators, 
+should be assessed for noise levels as part of the 
+regular checks and maintenance detailed in the 
+health and welfare plan. 
+
+86. Any repairs or renovations requiring the use 
+of noisy equipment should ideally be carried 
+out between flocks, but if not, they should be 
+performed during the birds’ normal waking 
+hours and the sounds introduced in such a way 
+that causes minimum startle and smother risk to 
+the birds. 
+
+Feed and water 
+
+25.  All animals must either have access to a 
+suitable water supply and be provided with 
+an adequate supply of fresh drinking water 
+each day, or be able to satisfy their fluid 
+intake needs by other means.
+
+26.  Feeding and watering equipment must 
+be designed, constructed, placed and 
+maintained so that contamination of food 
+and water and the harmful effects of 
+competition between animals are minimised.
+
+27 (1) No other substance, with the 
+exception of those given for therapeutic 
+or prophylactic purposes or for the 
+purpose of zootechnical treatment, may be 
+administered to animals unless it has been 
+demonstrated by scientific studies of animal 
+welfare or established practice that the 
+effect of that substance is not detrimental to 
+the health or welfare of the animals.
+
+All laying hens
+
+Paragraphs 22 to 27 of Schedule 1 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+22.  Animals must be fed a wholesome diet 
+which is appropriate to their age and 
+species and which is fed to them in 
+sufficient quantity to maintain them in good 
+health, to satisfy their nutritional needs and 
+to promote a positive state of well-being.
+
+23.  Animals must not be provided with food 
+or liquid that contains any substance that 
+may cause them unnecessary suffering 
+or injury and must be provided with food 
+and liquid in a manner that does not cause 
+them unnecessary suffering or injury. 
+
+24.  All animals must have access to feed at 
+intervals appropriate to their physiological 
+needs (and, in any case, at least once a 
+day), except where a veterinary surgeon 
+acting in the exercise of his profession 
+otherwise directs.
+
+Laying hens in non-cage systems
+
+Paragraphs 2(a) and (b) of Schedule 2 to 
+the Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+2.  All systems must be equipped in such a 
+way that all laying hens have - 
+
+(a) linear feeders providing at least 
+10cm per bird or circular feeders 
+providing at least 4cm per bird;
+
+(b) continuous drinking troughs 
+providing at least 2.5 cm per hen or 
+circular drinking troughs providing at 
+least 1cm per hen.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 23
+
+Paragraphs 3 and 4 of Schedule 2 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state: 
+
+3.  Where a system is equipped with nipple 
+drinkers or cups, there must be at least one 
+nipple drinker or cup for every 10 hens. 
+
+4.  Where a system has drinking points 
+plumbed in, at least two cups or two nipple 
+drinkers must be within reach of each hen.
+
+Laying hens in enriched cages
+
+Paragraphs 3 and 4 of Schedule 4 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+3.   A feed trough which can be used without 
+restriction must be provided, the length of 
+which must be at least 12 cm multiplied 
+by the number of hens in the cage. 
+
+4.  Each cage must have a drinking system 
+appropriate to the size of the group; 
+where nipple drinkers are provided, at 
+least two nipple drinkers or two cups 
+must be within reach of each hen.
+
+c) it does not cause or result in injury to hens;
+
+d) it operates in all weather conditions;
+
+e) the consumption of water and feed can be 
+monitored; and
+
+f) when appropriate outdoor facilities are used, 
+they can be easily removed or turned off in 
+disease control situations.
+
+In addition, all equipment must be able to be easily 
+and effectively cleaned and disinfected.
+
+89. Feeder space allocation should be sufficient to 
+enable the hens to obtain adequate feed with the 
+minimum of competition. If feed is not provided 
+continuously, additional trough space may be 
+needed to allow all hens to eat at the same time.
+
+90. Sudden changes in the type or quantity of 
+feed and feeding procedures, other than those 
+appropriate to the physiological needs of the 
+laying hens, should be avoided except in case of 
+emergency. Feed mash can help to increase the 
+time spent eating and reduce the risk of injurious 
+pecking. Owners/keepers should ensure, with 
+the appropriate expert nutritional and veterinary 
+advice, that the hens’ feed has the appropriate 
+balance of amino acids and level of sodium and 
+take particular care with gradually reducing the 
+protein content of any diet. Birds should have 
+regular access to insoluble grit from an early age, 
+to help develop the digestive system and to aid 
+good digestion throughout the birds’ lives. 
+
+91. Where practical, a small amount of whole grain, 
+pellets or grit should be scattered over the indoor 
+scratching area each day to encourage foraging 
+and scratching and reduce the likelihood of 
+injurious pecking.
+
+92. Stale or contaminated feed or water should 
+not be allowed to accumulate and should be 
+replaced immediately.
+
+87. Feed and water must be readily accessible to all 
+hens.
+
+88. Feeding and watering equipment should be 
+designed, constructed, placed, operated and 
+maintained in such a way that:
+
+a) it minimises spillage or contamination of feed 
+and water;
+
+b) all laying hens have sufficient access to 
+water and feed;
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets24
+
+93. Body condition, body weight and egg quality 
+and production should be used to monitor the 
+effectiveness of the feeding regime.
+
+94. Daily access to fresh water throughout the 
+period of lighting and a sufficient number of 
+drinkers, correctly maintained, well distributed 
+and adjusted for height and pressure, should 
+be provided. In longer poultry houses and in 
+those with greater floor slopes, water pressure 
+regulators should be provided if spillage or 
+leakage is considered a problem.
+
+95. Where possible, water meters should be fitted to 
+each house to enable daily monitoring of water 
+usage. A water meter is a useful management 
+tool; daily records of water consumption provide 
+an early warning of potential problems.
+
+96. Arrangements should be made in advance to 
+ensure that adequate supplies of suitable feed 
+and water can be made available in emergencies 
+such as interruptions in power supplies, or when 
+water freezes.
+
+97. Systems which call for the complete withholding 
+of feed and water on any day must not be 
+adopted. In no circumstances may hens be 
+induced to moult by withholding feed and water. 
+However, feed, but not water, may be withheld 
+for up to 12 hours before expected slaughter 
+time. See also paragraph 122.
+
+Mutilations
+
+Section 5 of the Animal Welfare Act 2006 
+states:
+
+5  (1)  A person commits an offence if– 
+
+(a) he carries out a prohibited 
+procedure on a protected animal;
+
+(b) he causes such a procedure to 
+be carried out on such an animal.
+
+(2)  A person commits an offence if–
+
+(a) he is responsible for an animal,
+
+(b) another person carries out a 
+prohibited procedure on the 
+animal, and
+
+(c) he permitted that to happen 
+or failed to take such steps 
+(whether by way of supervising 
+the other person or otherwise) 
+as were reasonable in all the 
+circumstances to prevent that 
+happening.
+
+(3)  References in this section to the 
+carrying out of a prohibited procedure 
+on an animal are to the carrying 
+out of a procedure which involves 
+interference with the sensitive tissues 
+or bone structure of the animal, 
+otherwise than for the purpose of its 
+medical treatment.
+
+(4)  Subsections (1) and (2) do not 
+apply in such circumstances as the 
+appropriate national authority may 
+specify by regulations.
+
+98. All mutilations of laying hens are banned under 
+the Animal Welfare Act 2006; certain procedures 
+(see Annex 2) are excluded from this ban under 
+the Mutilations (Permitted Procedures) (England) 
+Regulations 2007, provided that they are carried 
+out by a person permitted to carry out the 
+procedure and:
+
+a) in accordance with the relevant 
+requirements in the Schedules; 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 25
+
+b) in such a way as to minimise the pain and 
+suffering it causes to the animal;
+
+c) in hygienic conditions; and
+
+d) in accordance with good practice.
+
+99. Mutilations can cause pain to hens and should 
+only be carried out where necessary to avoid 
+a worse welfare outcome. They should only be 
+applied having sought appropriate advice on 
+possible alternative interventions in each case 
+and not as a routine practice. 
+
+Beak trimming 
+
+Paragraph 5 (1) to (5) of Schedule 4 to 
+the Mutilations (Permitted Procedures) 
+(England) Regulations 2007 states:
+
+5  (1)  For all poultry, the beak trimming  
+procedure must be performed using 
+a suitable instrument.
+
+(2)  For all poultry, any subsequent 
+haemorrhage from the beak must be 
+arrested by cauterisation.
+
+(3) For all poultry the procedure must be 
+performed on –
+
+(a) both the upper and lower beaks, 
+with not more than one third of 
+each removed, or
+
+(b) the upper beak only, with not 
+more than one third removed.
+
+(4) For laying hens and chicks that are 
+intended to become laying hens, 
+which are kept on establishments 
+with 350 or more such birds, beak 
+trimming–
+
+(a) may only be performed in order 
+to prevent feather pecking or 
+cannibalism;
+
+(b) may only be carried out using 
+infra-red technology;
+
+(c) may not be performed on birds 
+which are aged 10 days or over; 
+
+
+and
+
+(d) must be carried out by a 
+person who has been provided 
+with suitable and sufficient 
+information, instruction and 
+training so that they are qualified 
+to perform the procedure.
+
+(5) Sub-paragraphs (4)(b) and (c) do 
+not apply where the procedure is 
+carried out in an emergency in order 
+to control an outbreak of feather 
+pecking or cannibalism. 
+
+100. The aim is for routine beak trimming to stop as 
+soon as reasonably possible. To achieve this, 
+every effort is needed by owners/keepers to 
+reduce injurious pecking in their flocks.
+
+101. Beak trimming is permitted on birds up to 10 days 
+old using infra-red technology, for the purposes 
+of reducing injurious pecking only. In practice, 
+it is carried out at day-old in the hatchery. Beak 
+trimming should be carried out to the highest 
+possible standards by trained operators.
+
+102. Infra-red beak treatment equipment should be 
+monitored to ensure effectiveness of treatment, 
+in terms of beak length and chick welfare. Any 
+concerns about the effectiveness of treatment 
+should be referred back to the hatchery. 
+Equipment should be well maintained and 
+calibrated. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets26
+
+103. Owners/keepers should have an action plan to 
+tackle injurious pecking, including management 
+strategies and interventions to reduce the risk of 
+injurious pecking. See also paragraphs 53 to 58.
+
+104. Once all management strategies are in place 
+and good feather cover is achieved throughout 
+lay for at least two consecutive flocks, stopping 
+beak trimming in future flocks should be actively 
+considered, in consultation with a veterinary 
+surgeon and other appropriately qualified 
+technical advisors.
+
+105. If an outbreak of injurious pecking does occur 
+it should be tackled immediately by appropriate 
+changes in the system of management. As 
+a last resort, only when all other intervention 
+strategies have been attempted, emergency 
+beak trimming can be carried out on veterinary 
+advice, by trained and competent operators, 
+using appropriate equipment. 
+
+Breeding procedures
+
+Paragraphs 28 and 29 of Schedule 1 to 
+the Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+28  (1)  Natural or artificial breeding or 
+breeding procedures which cause, or 
+are likely to cause, suffering or injury 
+to any of the animals concerned, 
+must not be practised.
+
+(2)  Sub-paragraph (1) does not preclude 
+the use of natural or artificial breeding 
+procedures that are likely to cause 
+minimal or momentary suffering 
+or injury or that might necessitate 
+interventions which would not cause 
+lasting injury.
+
+29. Animals may only be kept for farming 
+purposes if it can reasonably be expected, 
+on the basis of their genotype or 
+phenotype, that they can be kept without 
+any detrimental effect on their health or 
+welfare.
+
+106. Birds should come from balanced breeding 
+programmes promoting and protecting health, 
+welfare and productivity goals simultaneously. 
+Identification of birds should be encouraged, 
+to enable future feedback of information within 
+the breeding pyramid and better application of 
+breeding for welfare, based on data from the 
+supply chain.
+
+107. The presence of males in a layer breeder flock 
+should reduce stress and fear responses due 
+to the natural instinct for males to protect their 
+females. However, too high a number of males 
+in the flock can lead to sexual aggression 
+and increased stress in the flock which can 
+have negative impacts on welfare and health, 
+including egg production. When producing 
+hatching eggs from breeding birds, different bird 
+strains will require a different cockerel to hen 
+ratio. This is due to genetic differences in docility 
+and sexual activity. Breeder suppliers should 
+ensure they provide guidance on appropriate 
+sex ratios, which ensure the production of 
+sufficient fertilised eggs whilst minimising 
+aggressive breeding behaviour. 
+
+108. Cockerel body condition should be assessed 
+regularly throughout the laying cycle. Growth 
+rates should follow the breeder growth 
+recommendations provided by the supplier, 
+because sperm production will be impacted if 
+they grow too fast or if they lose body condition. 
+Cockerels found in poor body condition should 
+be removed and given additional feed, returning 
+to the flock after being rested for a few weeks 
+and when body condition has improved. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 27
+
+109. Cockerels displaying highly aggressive pecking 
+or unacceptable behaviours, for example, 
+repeatedly chasing and targeting the same hen 
+for mating, may need to be temporarily removed 
+from the flock. If unacceptable behaviour 
+continues when the cockerel is returned, it 
+should be humanely culled.
+
+110. Husbandry measures and practices on the 
+breeding farm should be designed to minimise 
+floor eggs and heavily soiled eggs should not 
+be sent as hatching eggs. Littered nests are 
+preferred by breeding females and may reduce 
+the number of floor eggs if litter substrate is 
+placed in a nest, whatever the base type.
+
+111. Surplus chicks and in-shell embryos, including 
+in hatchery waste, must be culled humanely 
+by a trained and competent person and in 
+accordance with the specific welfare at the time 
+of killing legislation. 
+
+Responsible medicines usage and 
+record keeping
+
+Paragraphs 7 and 8 of Schedule 1 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+7.  A record must be maintained of –
+
+(a)  any medical treatment given to 
+animals; and
+
+(b)  the number of mortalities found on 
+each inspection of animals carried 
+out in accordance with any of the 
+following provisions - 
+
+(i)  in the case of laying hens, 
+paragraph 1 of Schedule 5.
+
+8.  The record referred to in paragraph 7 must 
+be retained for a period of at least three 
+years from the date on which the medical 
+treatment was given, or the date of the 
+inspection, and must be made available to 
+an inspector on request. 
+
+112. Authorised veterinary medicinal products should 
+be used for the animals specified and should be 
+administered according to the manufacturer’s 
+instructions. Where additional instructions are 
+required, these must be given by a veterinary 
+surgeon. 
+
+113. In certain instances a veterinary surgeon can 
+prescribe medicines that are not intended for 
+the specific condition and species for which the 
+product is authorised. This can only be done 
+if there is no alternative authorised medicine 
+available. Products used would need to comply 
+with the law. See Annex 1. Further information 
+on the ‘cascade’ system and prescribing 
+unauthorised medicines is available from Defra’s 
+Veterinary Medicines Directorate.
+
+114. Under welfare legislation, records must be kept 
+for at least three years. Further requirements for 
+medicines records are required under additional 
+legislation for food producing animals. See 
+Annex 1. 
+
+115. The medicines records must be available for a 
+government or local authority inspector to review 
+at any time.
+
+116. Records are an essential aid to management. 
+The records kept should include feed and water 
+consumption, egg quality, results of health and 
+welfare checks, behavioural abnormalities, air 
+temperature, air quality and results of welfare 
+outcome assessments.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets28
+
+117. Mortality, culling (including reason for culling) 
+and, if possible, daily morbidity levels in the 
+case of a disease outbreak should be closely 
+monitored. Post mortems should be carried out 
+in cases where mortality levels are significantly 
+higher than breeders’ targets. Records should 
+be kept.
+
+Catching and handling 
+118. There are detailed rules relating to the transport 
+
+and movement of poultry to and from the 
+farm which are covered by different pieces 
+of legislation. See Annex 1. Owners/keepers 
+should be familiar with these legal requirements, 
+including any restrictions and licensing 
+requirements associated with movements of 
+both birds and eggs during notifiable disease 
+outbreaks. 
+
+119. Legal responsibility for bird welfare throughout 
+any transport process is set out in welfare in 
+transport legislation. Birds with severe and/
+or painful conditions are unfit for transport. 
+Any birds remaining on farm, which cannot 
+be transported, should be humanely culled 
+by a trained and competent person and in 
+accordance with the specific welfare at the time 
+of killing legislation.
+
+120. Catching and handling should be carried out 
+quietly and confidently exercising care to avoid 
+unnecessary struggling which could bruise or 
+otherwise injure the birds. This requires skill 
+and it should only be undertaken by competent 
+persons, i.e. those who have been appropriately 
+trained for the task and have received clear 
+guidance and instructions from the owner/keeper.
+
+121. Birds should not be deprived of feed or water 
+before transport. Feed and water must be made 
+available for any journey lasting longer than 12 
+hours, disregarding loading and unloading time. 
+Specific rules apply to birds under 72 hours of 
+
+
+age.
+
+
+122. Feed, but not water, may be withheld for up to 12 
+hours, prior to slaughter of end of lay hens and 
+breeding birds. There should be coordination with 
+the slaughterhouse in order to limit the time hens 
+are held in containers before and after transport, 
+and to advise of any breakdowns. 
+
+123. Before de-populating layer and breeder houses, 
+any hindrance from fixtures and fittings, 
+especially sharp edges and protrusions, must 
+be removed. Care must be taken throughout the 
+process of catching hens in order to avoid panic 
+and subsequent injury to and smothering of the 
+birds, for example, by reducing the intensity of 
+the light or using a blue or red light. 
+
+124. When catching laying hens in cages, they must 
+be removed from the cage singly to avoid injury 
+or suffering and must be held by both legs. The 
+breast should be supported during removal from 
+the cage. Hens in non-cage systems, must also 
+be caught and held by both legs. In all systems, 
+hens should only be carried by both legs and 
+care should be taken to avoid hitting solid 
+objects particularly if wings are flapping. They 
+must not be carried by their wings, head, tail or 
+neck. The number of hens carried will depend 
+upon the size of the hen and the ability of the 
+carrier, but a maximum of three per hand must 
+not be exceeded. Distances which hens are 
+carried should be minimised as far as possible, 
+for example, by bringing transport containers as 
+close as possible to the hens.
+
+125. Transport containers with large openings should 
+be used for pullets and hens to avoid damage 
+to the birds; the design, size and state of repair 
+of any container used to carry birds must allow 
+them to be put in, conveyed and taken out 
+without injury. The condition of crates should be 
+checked and, where broken crates are identified, 
+they must not be used. Care should also be 
+taken when crates are loaded onto vehicles, and 
+in their transportation and unloading, to avoid 
+physically shocking the birds.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 29
+
+126. During the time birds are held in the containers 
+prior to and after transport they should be 
+protected from bad weather and excessively 
+hot or cold conditions. Birds should not be 
+allowed to become heat stressed (as indicated 
+by prolonged panting) by being left in containers 
+exposed to strong direct sunlight, nor should 
+they be exposed to cold stress due to 
+inadequate protection from rain and high winds. 
+Adequate ventilation for the hens is essential at 
+all times. 
+
+Housing: General requirements
+
+Paragraphs 11 and 12 of Schedule 1 to 
+the Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+11.  Materials used for the construction of 
+accommodation, and in particular for the 
+construction of pens, cages, stalls and 
+equipment with which the animals may 
+come into contact, must not be harmful 
+to them and must be capable of being 
+thoroughly cleaned and disinfected.
+
+12.  Accommodation and fittings for securing 
+animals must be constructed and 
+maintained so that there are no sharp edges 
+or protrusions likely to cause injury to them.
+
+Paragraph 5 of Schedule 5 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+5.  Cages must be suitably equipped to 
+prevent hens escaping.
+
+Paragraph 7 of Schedule 5 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+7.  The design and dimensions of the cage 
+door must be such that an adult hen 
+can be removed without undergoing 
+unnecessary suffering or sustaining injury.
+
+127. When new accommodation for laying hens 
+is planned, a suitable site should be selected 
+taking into consideration the risks from outside 
+environmental factors such as noise, light, 
+vibration, flooding, atmospheric pollution, 
+predators and disease risks. See also paragraph 
+24. Where appropriate, advantage should be 
+taken of natural features to provide shelter and 
+to protect birds from predators, rodents and 
+other animals. 
+
+128. The design, construction and maintenance of 
+enclosures, buildings and equipment for laying 
+hens should be such that they: 
+
+a) allow the fulfilment of essential biological 
+needs and the maintenance of good health;
+
+b) facilitate good management of the hens and 
+ease of routine inspection of all areas;
+
+c) allow for easy maintenance of good 
+conditions of hygiene and air quality;
+
+d) provide shelter from adverse weather 
+conditions;
+
+e) limit the risk of disease, disorders 
+manifested by behavioural changes, 
+traumatic injuries to the hens, injuries 
+caused by hens to each other and, as far 
+as possible, contamination of the hens by 
+droppings;
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets30
+
+132. Individual nests should be designed to 
+accommodate only one hen at a time. The nests 
+should be easily accessible by all birds and the 
+location should not increase the risk of collision 
+injury on entry or exit. 
+
+133. As birds are attracted to dark areas for nesting, 
+they can be discouraged from nesting on the 
+floor and under multi-tier sections by raising the 
+light levels in these areas. 
+
+134. Hens should be kept in such a way that they can 
+keep themselves clean. 
+
+135. Ventilation, heating, lighting, feeding, watering 
+and all other equipment should be designed, 
+sited, installed and monitored to avoid risk of 
+injuring hens.
+
+Stocking density and freedom of movement
+
+All laying hens
+
+Paragraphs 9 and 10 of Schedule 1 to 
+the Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+9.  The freedom of movement of animals, 
+having regard to their species and in 
+accordance with good practice and 
+scientific knowledge, must not be 
+restricted in such a way as to cause them 
+unnecessary suffering or injury.
+
+10.  Where animals are continuously or 
+regularly tethered or confined, they must 
+be given the space appropriate to their 
+physiological and ethological needs 
+in accordance with good practice and 
+scientific knowledge.
+
+f) exclude predators, rodents, and wild 
+animals and minimise insects;
+
+g) allow for the prevention and treatment 
+of infestations of internal and external 
+parasites;
+
+h) incorporate damp-proof membranes 
+to prevent insulation breakdown and 
+measures to prevent easy access by vermin 
+to the insulation material; and
+
+i) provide sufficient suitable lighting to enable 
+normal behaviour.
+
+129. Floors and perches should be of a suitable design 
+and material that are comfortable and do not 
+cause pain, distress or injury to the hens. They 
+should provide sufficient support, particularly for 
+the forward facing toes and claws of each foot. 
+Perches should be of sufficient length to allow 
+for the possibility of all hens roosting at the same 
+time. The perch should be of the correct diameter 
+to permit the bird to grasp it. Floors and perches 
+should be kept sufficiently dry and clean.
+
+130. Nests must be a separate space for egg laying 
+and the floor component of which may not 
+include wire mesh which can come into contact 
+with the birds. Floor substrates provided in the 
+nest area should create an environment which 
+encourages nesting (pre-laying) behaviour. 
+
+131. Nests should be secluded, clearly separated from 
+other areas and draught free, allowing laying hens 
+to isolate themselves from those carrying out other 
+activities. Feeding tracks or other installations 
+should not be located in or accessed via the 
+nesting area. Where curtains are used to create 
+seclusion, these should be long enough to prevent 
+interactions between nesting and non-nesting hens 
+and to create a lower light intensity in the nesting 
+area. Birds prefer very low lighting of less than 1 lux 
+for nesting and so nest design and location should 
+attempt to reflect these lower lighting needs. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 31
+
+Laying hens in non-cage systems
+
+Paragraph 8 of Schedule 2 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+8.  The stocking density must not exceed 
+nine laying hens per m² of usable area.
+
+Laying hens in enriched cages
+
+Paragraph 2 of Schedule 4 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+2.  Laying hens must have— 
+
+(a)  at least 750 cm² of cage area per hen, 
+600 cm² of which must be usable; 
+the height of the cage other than 
+that above the usable area must be 
+at least 20 cm at every point and the 
+minimum total area for any cage must 
+be 2000 cm².
+
+136. When determining the stocking density, 
+consideration should be given to breed of 
+laying hen, system of housing, colony size, 
+temperature, ventilation and lighting, as well as 
+to the number of perching structures and welfare 
+outcomes of the previous flock.
+
+137. Bird numbers may need to be reduced in an 
+emergency situation such as heat stress. See 
+also paragraph 33. Planned bird numbers 
+for future flocks may need to be reduced 
+where historical evidence shows ventilation is 
+insufficient to meet environmental requirements, 
+for example, managing temperature, ammonia 
+levels and litter condition. 
+
+Environmental enrichment 
+
+138. Environmental enrichment can improve bird health 
+and welfare during rearing and in lay, by reducing 
+disturbances, aggression, injurious pecking, fear 
+responses and stress. It can also improve bone 
+strength by increasing the level of physical exercise. 
+The aim of different enrichment materials is to:
+
+ei) Increase the amount of time the birds 
+spend actively standing, walking, running, 
+jumping and dustbathing; 
+
+ej) Increase normal foraging behaviours, 
+providing the opportunity to seek and peck 
+at other materials in their environment, 
+thus reducing the risk of injurious pecking 
+directed towards other birds; and 
+
+ek) Reduce the number of aggressive 
+interactions between birds and creating 
+environments in which birds can escape 
+from confrontation and find safe refuges. 
+
+139. Effective enrichment can include: 
+
+a) straw and shaving bales to jump on, to create 
+low barriers and partitions within larger 
+spaces and to provide a substrate to peck at;
+
+b) perches and platforms at different levels to 
+support different behavioural uses during 
+the day and night, including refuge from 
+other birds;
+
+c) novel food for pecking. See also paragraph 
+58 i);
+
+d) pecking blocks – some may incorporate 
+nutritive value or beak blunting effects;
+
+e) a range of pecking objects;
+
+f) dustbathing boxes; and
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets32
+
+g) “verandas” or “winter gardens” to provide 
+additional space, litter and access to 
+natural daylight in housing systems where 
+range access is not available or may be 
+restricted for periods of time.
+
+Non-cage systems: additional 
+housing requirements
+
+Paragraph 2 of Schedule 2 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+2.  All systems must be equipped in such a 
+way that all laying hens have-
+
+(c)  at least one nest for every seven hens 
+and, if group nests are used, there 
+must be at least 1m² of nest space for 
+a maximum of 120 hens;
+
+(d)  perches without sharp edges and 
+providing at least 15 cm per hen, which 
+must not be mounted above the litter, 
+and the horizontal distance between 
+perches must be at least 30 cm and the 
+horizontal distance between the perch 
+and the wall must be at least 20 cm; and
+
+(e)  at least 250 cm² of littered area per 
+hen, the litter occupying at least one 
+third of the ground surface.
+
+Paragraphs 5 and 6 of Schedule 2 to the 
+Welfare of Farmed Animals (England) 
+Regulations 2007 state:
+
+5.  The floors of installations must be 
+constructed so as to support each of the 
+forward-facing claws of each bird’s foot.
+
+6.  If systems are used where the laying hens 
+can move freely between different levels-
+
+(a)  there must be no more than four 
+levels;
+
+(b)  the headroom between the levels 
+must be at least 45 cm;
+
+(c)  the drinking and feeding facilities 
+must be distributed in such a way as 
+to provide equal access for all hens; 
+
+
+and
+
+(d)  the levels must be so arranged as to 
+prevent droppings falling on the levels 
+below.
+
+140. Usable area may be made up of the ground 
+surface of the building where accessible to 
+the hens and any additional raised areas 
+or platforms at least 30 cm wide, including 
+perforated floors provided that arrangements 
+are in place to prevent fouling of hens below.
+
+141. Perches must be 30 cm or more apart to be 
+calculated as part of the perching space, although 
+more perches may be provided adjacent to one 
+another to make a perforated floor. Perforated 
+floors can be considered as perching space when 
+they have perches incorporated within the floor 
+structure or attached on top of the floor surface. 
+Birds perching on inappropriate structures, such 
+as the edge of feed troughs, can result in foot 
+damage and prevent other birds from accessing 
+feed. Where this behaviour is seen, the provision of 
+additional raised perches should be considered. 
+
+142. There must be a sufficient gap on either side 
+of any perch to allow the hens to grip the 
+perches without risk of trapping their claws. If 
+foot condition is poor, the design, location and 
+quantity of perches should be reviewed. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 33
+
+least 35 cm high and 40 cm wide, and 
+extending along the entire length of 
+the building; and in any case, a total 
+opening of 2 m must be available per 
+group of 1,000 hens; and
+
+(b) the open runs must be—
+
+(i)  of an area appropriate to the 
+stocking density and to the 
+nature of the ground, in order to 
+prevent any contamination; and 
+
+(ii)  equipped with shelter from 
+adverse weather conditions and 
+predators and, if necessary, 
+drinking troughs.
+
+146.  Factors such as soil type, drainage, size of 
+flock and frequency of pasture rotation are very 
+important in deciding the number of laying hens 
+that a particular area can carry. Heavy, poorly 
+drained soil can carry fewer hens than land that 
+is light and well drained.
+
+147. Birds must have direct access to the range. 
+They should be encouraged to use the outdoor 
+area through easily and directly accessible 
+popholes from the building. The height of the 
+pophole exit should not discourage use or risk 
+injury to the birds. All ramps providing pophole 
+access should be of a sufficiently low gradient 
+that birds will not be deterred from their use on 
+either exit or re-entry. 
+
+148. Increasing the amount and variety of natural 
+cover, shelter and shade on the range, such 
+as trees, hedgerows and shrubs, can promote 
+and maximise range use, which in turn can 
+help to reduce injurious pecking. There can be 
+other benefits to providing tree cover, such as 
+improved egg quality, reduced water runoff, less 
+soil compaction and a reduction in ammonia 
+
+143. Multi-tier systems with perforated platforms should 
+have dropping belts or trays beneath. Perches 
+must not be positioned over the litter area.
+
+144. Even where ramps or platforms and/or alighting 
+rails are provided, nests, roosting areas, 
+perches and tiers should not be so high above 
+floor level that birds have difficulty in using them 
+or risk injury. 
+
+145. Electric wires used to discourage laying in 
+corners and smothering must never be placed 
+in front of popholes and other access points to 
+the range at any stage of rearing or laying for 
+free range birds. Any electrified wire, whether 
+insulated or otherwise, should be routed above 
+the popholes. 
+
+Free range systems: additional 
+housing requirements 
+
+Paragraph 17 of Schedule 1 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+17.  Animals not kept in buildings must, 
+where necessary and possible, be 
+given protection from adverse weather 
+conditions, predators and risks to their 
+health and must, at all times, have access 
+to a well-drained lying area.
+
+Paragraph 7 of Schedule 2 to the Welfare 
+of Farmed Animals (England) Regulations 
+2007 states:
+
+7.  If laying hens have access to open runs— 
+
+(a)  there must be several popholes giving 
+direct access to the outer area, at 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets34
+
+emissions. Tree cover should be available close 
+to the housing as hens are reluctant to cross 
+open ground.
+
+149. Birds should never be fed or watered outdoors 
+in open troughs or by scattering feed on the 
+ground. Feed and water provided outside should 
+be covered and inaccessible to wild birds, 
+rodents or other animals. 
+
+150. If ponds are located on or near to the range, 
+they should be fenced off and/or netted to 
+discourage wild birds, in particular water fowl.
+
+151. Sufficient housing should be available to the 
+birds at all times. It may be necessary to exclude 
+birds from the range in bad weather or during 
+a notifiable disease outbreak/risk if there is 
+a danger that their welfare will otherwise be 
+compromised. Natural or artificial windbreaks 
+should be provided on exposed land. 
+Precautions should be taken to protect hens 
+against predators.
+
+152. Land on which free range birds are kept for 
+prolonged periods may become “fowl sick”, i.e. 
+contaminated with organisms which cause or 
+carry disease to an extent which could seriously 
+prejudice the health of the birds on the land. 
+Birds should be routinely monitored to check for 
+signs indicative of a build-up of pathogens on 
+the land and appropriate action taken. 
+
+153. The time taken for land to become fowl sick 
+depends on the type of land and stocking 
+density. Appropriate measures should be 
+taken to prevent fowl sickness or to provide 
+a new ranging area by moving the housing (in 
+the case of portable units) or by rotating the 
+ranging area outside fixed buildings. Unless the 
+house is moved frequently, it is good practice 
+to protect the ground immediately adjacent 
+to it, for example, by providing slatted or wire 
+mesh platforms, covered “verandas” or “winter 
+gardens” or areas of gravel.
+
+Enriched cage systems: additional 
+housing requirements 
+
+Schedule 4 to the Welfare of Farmed 
+Animals (England) Regulations 2007 states:
+
+1.   All laying hens not kept in a cage system 
+referred to in Schedule 3 must be kept in an 
+enriched cage system which complies with 
+the requirements of this Schedule. 
+
+2.   Laying hens must have— 
+
+(a)  at least 750 cm² of cage area per hen, 
+600 cm² of which must be usable; the 
+height of the cage other than that above 
+the usable area must be at least 20 cm 
+at every point and the minimum total 
+area for any cage must be 2000 cm²;
+
+(b)  access to a nest;
+
+(c)  litter such that pecking and 
+scratching are possible; and
+
+(d)  appropriate perches allowing at least 
+15 cm per hen.
+
+3.   A feed trough which can be used without 
+restriction must be provided, the length of 
+which must be at least 12 cm multiplied by the 
+number of hens in the cage. 
+
+4.   Each cage must have a drinking system 
+appropriate to the size of the group; where 
+nipple drinkers are provided, at least two 
+nipple drinkers or two cups must be within 
+reach of each hen. 
+
+5.   To facilitate inspection, installation and 
+depopulation of hens there must be a minimum 
+aisle width of 90 cm between tiers of cages 
+and a space of at least 35 cm must be allowed 
+between the floor of the building and the 
+bottom tier of cages. 
+
+6.   Cages must be fitted with suitable claw-
+shortening devices. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 35
+
+154. If there is evidence that claws of hens are 
+overgrown or broken, the provision of claw 
+shortening devices should be improved. 
+Excessively abrasive devices may cause 
+injury so caution should be exercised in use 
+of such devices. Assessment of claw length 
+should be included in regular welfare outcome 
+assessments and detailed in the health and 
+welfare plan. See also paragraphs 16 to 20.
+
+155. The aisle width should be measured as the 
+unobstructed width between the outer edges 
+of the feed troughs. The distance to the floor 
+should be measured to the mesh base of the 
+cage.
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets36
+
+Section 2: 
+Recommendations applying to 
+day-old chicks and pullet rearing
+
+Pullet rearing environment
+161. The provision of enrichment during the rearing 
+
+period may reduce the risk of developing abnormal 
+and injurious behaviours during the production 
+phase. For example, lack of experience with 
+foraging or dustbathing material may result in 
+ground pecks being redirected to the feathers of 
+other laying hens in the flock. The provision of an 
+enriched environment during the rearing period 
+can help to ensure hens develop and transition 
+well into an enriched laying environment. 
+
+162. Pullets should be provided with perches from 7 
+days of age at the latest and throughout rearing 
+as this results in fewer broken back claws, 
+improved bone mineral content, and improved 
+bone strength in adult hens. 
+
+163. The intensity of the light during the light period 
+should never be below 10 lux to allow proper 
+inspection of birds and to avoid abnormal 
+growth of the birds. 
+
+164. The maximum stocking density for pullets at 
+the age of 16 weeks should be 20 kg/m2 of total 
+usable area in both floor and multi-tier rearing 
+systems. In addition, it is recommended that, 
+when calculated at floor level, stocking density 
+should not exceed 33 kg/m2 at 16 weeks in multi-
+tier systems. Increasing space allowance during 
+rearing allows for greater movement and more 
+opportunities for exercise, which can improve 
+muscle and bone growth in laying hens.
+
+Transition from rearing to laying 
+environment 
+165. The environment in which pullets are reared 
+
+should be matched as far as possible to their 
+adult environment. There should be close liaison 
+between the pullet rearer and layer site to ensure 
+birds are reared in such a way as to reduce the 
+stress at transition. 
+
+156. The environment in which pullets are reared 
+should be matched, as far as possible, to that in 
+which they will live as adults, for example, having 
+similar perch and ramp provision or being reared 
+in multi-tiered if that is the system in which they 
+will be housed as adults. Early life experiences 
+for the individual and the flock as a whole can 
+affect their foraging and pecking behaviour, as 
+well as how they respond to changes or stresses 
+throughout their laying life. Providing increased 
+opportunities for exercise during rearing 
+increases bone strength. See also paragraphs 
+60 to 63. 
+
+157. Chicks start to peck and learn about appropriate 
+food and pecking substrates during the first 24 
+hours of life. Consideration should be given to 
+providing chicks with both food substrate and 
+water (for example, through the provision of a gel 
+block) as soon as possible after hatching; chicks 
+should not be expected to rely on the egg yolk 
+sac remnants as the sole source of nutrition. 
+
+Brooding (0-6 weeks)
+158. Chicks are particularly susceptible to heat stress 
+
+or chilling in their first few weeks of life. The 
+building should be pre-heated for at least a day 
+before litter is placed prior to chick arrival and 
+the litter must be friable and should be dry. 
+
+159. The majority of chicks will arrive on the farm as 
+day-old chicks. They need to be provided with 
+additional heat and easy access to water and 
+feed sources. It is important for the chick to 
+learn quickly where feed and water sources are 
+located. 
+
+160. The provision of dark brooders (horizontal heat 
+sources with curtains) may improve welfare by 
+providing the opportunity for the young chick to 
+choose the light and temperature to which it is 
+exposed. The chicks under the dark brooders 
+should be inspected frequently. 
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 37
+
+Annex 1: Legislation affecting 
+laying hens and pullets 
+
+(the protection of animals at the time of 
+killing) https://assets.publishing.service.
+gov.uk/government/uploads/system/
+uploads/attachment_data/file/325000/
+regulation_1099_2009_en.pdf 
+
+• and associated domestic legislation and 
+guidance 
+
+Disease control and biosecurity
+For guidance on registering poultry, see:
+https://www.gov.uk/guidance/poultry-
+registration
+
+See the Animal Health Act 1981: 
+https://www.legislation.gov.uk/ukpga/1981/22
+
+Responsible medicines usage and 
+record keeping
+See the following: 
+
+The Avian Influenza (Preventative Measures) 
+(England) Regulations 2006 requires those keeping 
+50 birds or more to register their flock with APHA. 
+
+The Control of Salmonella in Poultry Order 2007 
+requires certain records to be kept (including at 
+hatcheries) and Salmonella testing to be carried out 
+for breeding and laying flocks.
+
+Newcastle disease is covered by the Diseases of 
+Poultry (England) Order 2003 which requires those 
+keeping flocks of at least 250 birds to keep certain 
+records. 
+
+The Veterinary Medicines Regulations 2013 
+require records to be kept on medicine usage, 
+administration and disposal of unused medicines. 
+Records must be kept for at least 5 years.
+
+Note: The Welfare of Farmed Animals (England) 
+Regulations 2007 relates to recording what medicine 
+
+The main requirements are summarised below. 
+This does not represent an exhaustive list and note 
+that some legislation is regularly updated and/or 
+amended. All UK legislation can be found at: http://
+www.legislation.gov.uk 
+
+The Animal Welfare Act 2006:
+https://www.legislation.gov.uk/ukpga/2006/45/
+contents
+
+The Welfare of Farmed Animals (England) 
+Regulations 2007:
+http://www.legislation.gov.uk/uksi/2007/2078/
+contents/made
+
+The Mutilations (Permitted Procedures) (England) 
+Regulations 2007:
+http://www.legislation.gov.uk/uksi/2007/1100/
+contents/made
+
+Transport
+For information on transporting laying hens, see:
+
+• Council Regulation (EC) No 1/2005 (the 
+protection of animals during transport and 
+related operations) http://extwprlegs1.fao.org/
+docs/pdf/eur69655.pdf 
+
+• the Welfare of Animals (Transport) (England) 
+Order 2006 http://www.legislation.gov.uk/
+uksi/2006/3260/contents/made
+
+• and associated guidance https://www.gov.
+uk/guidance/farm-animal-welfare-during-
+transportation 
+
+Slaughter
+• For information on welfare at slaughter and 
+
+killing laying hens, see:
+
+• Council Regulation (EC) No 1099/2009 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/325000/regulation_1099_2009_en.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/325000/regulation_1099_2009_en.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/325000/regulation_1099_2009_en.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/325000/regulation_1099_2009_en.pdf
+https://www.gov.uk/guidance/poultry-registration
+https://www.gov.uk/guidance/poultry-registration
+https://www.legislation.gov.uk/ukpga/1981/22
+http://www.legislation.gov.uk
+http://www.legislation.gov.uk
+https://www.legislation.gov.uk/ukpga/2006/45/contents
+https://www.legislation.gov.uk/ukpga/2006/45/contents
+http://www.legislation.gov.uk/uksi/2007/2078/contents/made
+http://www.legislation.gov.uk/uksi/2007/2078/contents/made
+http://www.legislation.gov.uk/uksi/2007/1100/contents/made
+http://www.legislation.gov.uk/uksi/2007/1100/contents/made
+http://extwprlegs1.fao.org/docs/pdf/eur69655.pdf
+http://extwprlegs1.fao.org/docs/pdf/eur69655.pdf
+http://www.legislation.gov.uk/uksi/2006/3260/contents/made
+http://www.legislation.gov.uk/uksi/2006/3260/contents/made
+https://www.gov.uk/guidance/farm-animal-welfare-during-transportation
+https://www.gov.uk/guidance/farm-animal-welfare-during-transportation
+https://www.gov.uk/guidance/farm-animal-welfare-during-transportation
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets38
+
+is administered and when (for welfare purposes) and 
+applies to all farm animals. The Veterinary Medicines 
+Regulations 2013 recording requirements describe 
+in detail what must be recorded, how long the 
+records must be kept and includes the requirement 
+for records of when and where medicines are 
+acquired in addition to the requirement for records 
+at the time of administration. 
+
+Record keeping requirements are additionally 
+set out in the Animals and Animal Products 
+(Examination for Residues and Maximum Residue 
+Limits) Regulations 1997, Part V, paragraph 32: 
+http://www.legislation.gov.uk/uksi/1997/1729/
+contents/made
+
+Commission Regulation (EU) No 37/2010 on 
+pharmacologically active substances and their 
+classification regarding maximum residue limits in 
+foodstuffs of animal origin:
+http://eur-lex.europa.eu/legal-content/en/
+TXT/?uri=CELEX%3A32010R0037
+
+Animal by-products
+For the requirements on storage, transport and 
+disposal of animal by-products such as dead 
+carcases, manure and litter see:
+
+• Council Regulation (EC) No 1069/2009 http://
+eur-lex.europa.eu/LexUriServ/LexUriServ.
+do?uri=OJ:L:2009:300:0001:0033:EN:PDF 
+
+• Commission Regulation (EU) No 
+142/2011 http://eur-lex.europa.
+eu/LexUriServ/LexUriServ.
+do?uri=OJ:L:2011:054:0001:0254:EN:PDF 
+
+The requirements are enforced by The Animal By-
+Products (Enforcement) (England) Regulation 2013. 
+http://www.legislation.gov.uk/uksi/2013/2952/
+contents/made 
+
+http://www.legislation.gov.uk/uksi/1997/1729/contents/made
+http://www.legislation.gov.uk/uksi/1997/1729/contents/made
+http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010R0037
+http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010R0037
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:300:0001:0033:EN:PDF
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:300:0001:0033:EN:PDF
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:300:0001:0033:EN:PDF
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:054:0001:0254:EN:PDF
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:054:0001:0254:EN:PDF
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:054:0001:0254:EN:PDF
+http://www.legislation.gov.uk/uksi/2013/2952/contents/made
+http://www.legislation.gov.uk/uksi/2013/2952/contents/made
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 39
+
+Annex 2: Permitted procedures
+
+All mutilations of laying hens are banned under the 
+Animal Welfare Act 2006.  The Mutilations (Permitted 
+Procedures) (England) Regulations 2007 excludes 
+certain procedures from this ban.  The permitted 
+procedures for all laying hens and for chicks that are 
+intended to become laying hens, are listed below.  
+The list is correct at the point of publication.
+
+• Micro-chipping for identification can be carried 
+
+
+out.
+
+
+• Wing tagging for identification – the law states 
+this procedure:
+
+• may only be carried out on farmed birds 
+for the purposes of breed improvement 
+programmes or testing for the presence of 
+disease. 
+
+• Other methods of identification involving a 
+mutilation required by law can be carried out.
+
+• Beak trimming – the law states that, if this 
+procedure is carried out, it:
+
+• must be performed using a suitable instrument;
+
+• must be performed on both the lower and 
+upper beaks, with not more than one third of 
+each removed, or the upper beak only, with 
+not more than one third removed; and
+
+• any subsequent haemorrhage from the beak 
+must be arrested by cauterisation. 
+
+For laying hens and chicks that are intended 
+to become laying hens, which are kept on 
+establishments with 350 or more such birds, the 
+law states that beak trimming:
+
+• may only be performed in order to prevent 
+feather pecking or cannibalism;
+
+• may only be carried out using infra-red 
+technology*;
+
+• may not be performed on birds which are 
+aged 10 days or over*; and
+
+• must be carried out by a person who has 
+been provided with suitable and sufficient 
+information, instruction and training so that 
+they are qualified to perform the procedure.
+
+* These sub-paragraphs do not apply where 
+the procedure is carried out in an emergency in 
+order to control an outbreak of feather pecking or 
+cannibalism.
+
+• De-toeing – the law states:
+
+• this procedure can only be carried out on 
+a bird that is less than 3 days of age unless 
+a veterinary surgeon considers that it is 
+necessary; 
+
+• an anaesthetic must be administered where 
+the bird is aged 3 days or over.
+
+• Dubbing – the law states:
+
+• this procedure can only be carried out on 
+a bird that is less than 3 days of age unless 
+a veterinary surgeon considers that it is 
+necessary;
+
+• an anaesthetic must be administered where 
+the bird is aged 3 days or over.
+
+• Laparoscopy (examination of the abdominal 
+cavity by insertion of an instrument called a 
+laparoscope) – the law states:
+
+• this procedure can only be carried out if an 
+anaesthetic is administered.
+
+
+.
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets40
+
+Sources of further 
+information
+
+Disease control and biosecurity
+For advice on Avian influenza, see: 
+https://www.gov.uk/government/publications/
+biosecurity-and-preventing-disease
+
+For information on the Salmonella National 
+Control Programme, see: https://www.gov.uk/
+government/publications/the-uk-national-
+control-programme-for-salmonella-in-layers-
+gallus-gallus
+
+For the disease surveillance dashboards, see:
+http://apha.defra.gov.uk/vet-gateway/
+surveillance/scanning/disease-dashboards.htm
+
+Antimicrobials and vaccines 
+For guidance on the responsible use of 
+antimicrobials and vaccines, see:
+
+• www.ruma.org.uk/poultry/
+• https://www.farmantibiotics.org/media-news-
+
+updates/progress-by-sector/egg-production/
+
+Egg marketing and trading
+For information on egg marketing and trading, see:
+https://www.gov.uk/guidance/eggs-trade-
+regulations
+
+*These sources of further information are for information 
+only and should not be considered to be part of the Code 
+of Practice. These sources of information are current on 
+the date that this Code is published (please see the final 
+page for the date of publication). Any of the sources of 
+information listed here could change. 
+
+Code of recommendations of the 
+Council of Europe 
+This Code takes account of the Council of Europe 
+recommendations concerning domestic fowl 
+(Gallus gallus). These set out general principles of 
+husbandry and care and include a section on laying 
+hens. See: https://rm.coe.int/16805165ec 
+
+Slaughter
+The Humane Slaughter Association has a Code of 
+Practice for the Disposal of Chicks in Hatcheries.
+
+Transport
+For information on handling and transport, see:
+
+• Joint Industry Welfare Guide on the Handling 
+and Transport of End-of-Lay Hens http://www.
+britisheggindustrycouncil.co.uk/download/
+JIWGHELHB.pdf
+
+• Humane Slaughter Association’s Poultry 
+Catching and Handling guidance
+https://www.hsa.org.uk/shop/publications-1/
+product/-poultry-catching-and-handling-
+(free-pdf) 
+
+Animal by-products
+For information on animal by-products, see:
+
+www.gov.uk/guidance/animal-by-product-
+categories-site-approval-hygiene-and-disposal
+
+Welfare outcome assessments
+For advice on measuring welfare outcomes, see: 
+
+• AssureWel: www.assurewel.org
+• FeatherWel: http://www.featherwel.org/
+
+https://www.gov.uk/government/publications/biosecurity-and-preventing-disease
+https://www.gov.uk/government/publications/biosecurity-and-preventing-disease
+https://www.gov.uk/government/publications/the-uk-national-control-programme-for-salmonella-in-layers-gallus-gallus
+https://www.gov.uk/government/publications/the-uk-national-control-programme-for-salmonella-in-layers-gallus-gallus
+https://www.gov.uk/government/publications/the-uk-national-control-programme-for-salmonella-in-layers-gallus-gallus
+https://www.gov.uk/government/publications/the-uk-national-control-programme-for-salmonella-in-layers-gallus-gallus
+http://apha.defra.gov.uk/vet-gateway/surveillance/scanning/disease-dashboards.htm
+http://apha.defra.gov.uk/vet-gateway/surveillance/scanning/disease-dashboards.htm
+http://www.ruma.org.uk/poultry/
+https://www.farmantibiotics.org/media-news-updates/progress-by-sector/egg-production/
+https://www.farmantibiotics.org/media-news-updates/progress-by-sector/egg-production/
+https://www.gov.uk/guidance/eggs-trade-regulations
+https://www.gov.uk/guidance/eggs-trade-regulations
+https://rm.coe.int/16805165ec
+http://www.britisheggindustrycouncil.co.uk/download/JIWGHELHB.pdf
+http://www.britisheggindustrycouncil.co.uk/download/JIWGHELHB.pdf
+http://www.britisheggindustrycouncil.co.uk/download/JIWGHELHB.pdf
+https://www.hsa.org.uk/shop/publications-1/product/-poultry-catching-and-handling-(free-pdf)
+https://www.hsa.org.uk/shop/publications-1/product/-poultry-catching-and-handling-(free-pdf)
+https://www.hsa.org.uk/shop/publications-1/product/-poultry-catching-and-handling-(free-pdf)
+http://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal
+http://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal
+http://www.assurewel.org
+http://www.featherwel.org/
+
+
+
+
+Code of Practice for the Welfare of Laying Hens and Pullets 41
+
+Date of publication: 8 August 2018
+
+
+
+
+	Code of practice for the welfare of
+	Contents
+	Preface 
+	Introduction
+	Definitions
+	Section 1: Recommendations applying to all husbandry systems	 
+	Stockmanship and staffing 
+	Health and welfare plan
+	Biosecurity
+	Disease control (Notifiable and reportable diseases)
+
+	Contingency planning for disease and other emergencies
+	Inspection and responding to poor health and welfare
+	Welfare outcome assessments
+	Specific health and welfare issues
+	Injurious pecking, aggressive pecking and feather loss 
+	Skeletal health
+	Red mites 
+
+	Automatic or mechanical equipment
+	Ventilation and temperature 
+	Lighting
+	Laying hens in non-cage systems
+
+	Litter
+	Noise 
+	Laying hens in enriched cages
+
+	Feed and water 
+	Mutilations
+	Breeding procedures
+	Responsible medicines usage and record keeping
+	Catching and handling 
+	Housing: General requirements
+	Stocking density and freedom of movement
+	Environmental enrichment 
+
+	Non-cage systems: additional housing requirements
+	Free range systems: additional housing requirements 
+	Enriched cage systems: additional housing requirements 
+
+	Section 2: 
+	Recommendations applying to day-old chicks and pullet rearing
+	Brooding (0-6 weeks)
+	Pullet rearing environment
+	Transition from rearing to laying environment 
+
+	Annex: Legislation affecting laying hens and pullets 
+	Transport
+	Slaughter
+	Disease control and biosecurity
+	Responsible medicines usage and record keeping
+	Animal by-products
+
+	Sources of further information
+	Code of recommendations of the Council of Europe 
+	Slaughter
+	Transport
+	Animal by-products
+	Welfare outcome assessments
+	Disease control and biosecurity
+	Antimicrobials and vaccines 
+	Registering poultry
+	Egg marketing and trading
+
+	Annex_6
+	_GoBack
+	Preface 
+	Introduction
+	Definitions
+	Section 1: Recommendations applying to all husbandry systems	 
+	Stockmanship and staffing 
+	Health and welfare plan
+	Biosecurity and disease control
+	Contingency planning for disease and other emergencies
+	Inspection and responding to poor health and welfare
+	Welfare outcome assessments
+	Specific health and welfare issues
+	Injurious pecking, aggressive pecking and feather loss 
+	Skeletal health
+	Red mites 
+
+	Automatic or mechanical equipment
+	Ventilation and temperature 
+	Lighting
+	Litter
+	Noise 
+	Feed and water 
+	Mutilations
+	Beak trimming 
+
+	Breeding procedures
+	Responsible medicines usage and record keeping
+	Catching and handling 
+	Housing: General requirements
+	Stocking density and freedom of movement
+	Environmental enrichment 
+
+	Non-cage systems: additional housing requirements
+	Free range systems: additional housing requirements 
+	Enriched cage systems: additional housing requirements 
+
+	Section 2: 
+	Recommendations applying to day-old chicks and pullet rearing
+	Brooding (0-6 weeks)
+	Pullet rearing environment
+	Transition from rearing to laying environment 
+
+	Annex 1: Legislation affecting laying hens and pullets 
+	Annex 2: Permitted procedures
+

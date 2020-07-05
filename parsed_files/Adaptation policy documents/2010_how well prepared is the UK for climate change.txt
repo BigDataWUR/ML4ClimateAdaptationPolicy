@@ -1,0 +1,2886 @@
+
+
+
+
+16 Adaptation Sub-Committee
+
+Chapter 1
+
+1.2 What does climate change mean for the UK?
+
+The UK’s climate is already changing. Average annual temperatures have risen by about 
+1°C in central England since the 1970s, and by 0.8oC in Scotland and Northern Ireland since 
+about 1980. While annual average rainfall has changed little, there are signs of a trend towards 
+drier summers and wetter winters with heavier rainfall events. Sea levels around the UK have 
+risen by around 1mm per year during the 20th century.9 The seasons now arrive on average 
+11 days earlier than in the 1970s.10 There is increasing evidence of species expanding their 
+range northwards and onto higher ground.11 In UK coastal waters, some fish distributions have 
+moved northwards over the past 30 years by distances ranging from around 50 to 400km.12
+
+All parts of the UK – the economy, society and environment – are affected by the climate. 
+Impacts from extreme flood events are particularly vivid (see Table 1.1) and insured claims from 
+weather and subsidence currently average almost £1.5 billion each year in the UK.13 Extreme heat 
+can also have dramatic impacts as seen during the 2003 heatwave, when there were 2,000 excess 
+deaths in the UK and thousands more deaths across Europe.14 More moderate fluctuations in 
+weather can bring benefits, for instance tourism income increased by an estimated £300 million 
+during the hot summer of 1995.15
+
+9 Jenkins et al. (2009).
+10 Thackeray et al. (2010).
+11 Hopkins et al. (2007).
+12 Marine Climate Change Impacts Partnership (2010).
+13 Data from Association of British Insurers (provided in 2010) averages to £1,469 million per year from 1988 to 2009 expressed in 2009 values. Includes 
+
+subsidence and weather-related claims (storms and floods).
+14 Johnson et al. (2005a).
+15 Agnew and Palutikof (2006).
+
+
+
+
+How well prepared is the UK for climate change? 17
+
+Preparing for a changing climate
+
+Table 1.1: Recent impacts from extreme flooding in the UK
+
+Year Impact
+
+1998 Following an unusually wet April, heavy rainfall over Easter caused widespread river flooding 
+across Anglia, the Midlands, Wales and the Thames basin. Five people lost their lives and 1,500 
+people were evacuated, 4,500 domestic properties and 522 industrial premises were damaged, 
+and insurance claims exceeded £500 million.16
+
+2000 2000 was the wettest year in England and Wales for 270 years and caused widespread flooding.17 
+Financial losses were estimated at £1 billion;18 11,000 properties were flooded, thousands were 
+evacuated, many businesses were forced to close, water and power supplies were disrupted, 
+roads were closed, and train services were suspended with some lines closing.19
+
+2004 In August heavy rain caused rivers to burst their banks and about two billion litres of water to 
+rush into Boscastle at 140 tonnes per second. 80 homes and businesses and around 100 cars 
+were damaged or destroyed costing £5 million. Business interruptions cost £5 – 10 million.20
+
+2005 Floods in Carlisle were caused by 180mm of rainfall draining into the River Eden; killing  
+3 people, flooding 1,800 properties, damaging 1,500 cars and causing estimated damages  
+of £250 million.21
+
+2007 Widespread summer flooding across Yorkshire and Humberside, Gloucestershire and 
+Worcestershire, and Oxfordshire in 2007 affected 55,000 homes, killed 13 people and cost the 
+economy £3.2 billion (in 2007 prices). Over 40,000 hectares of agricultural land were inundated 
+causing £50 million damage; 14,500 households were provided with temporary accommodation 
+with 4,750 still not back in their homes a year later and critical national infrastructure suffered 
+£674 million damage.22
+
+2009 The Lake District in Cumbria was inundated with 175mm of rain in less than 24 hours affecting 
+hundreds of properties and leading to widespread evacuations in towns and villages across  
+the area.23
+
+16 17 18 19 20 21 22 23
+
+Over the next few decades, as the world warms, the UK climate will experience even 
+greater changes than those already occurring. Predicting future climate change at the UK 
+scale is much more difficult than predicting global mean temperature. The role of natural 
+variability (namely the size of short-term weather changes relative to the long-term average 
+climate) is far greater at local scales, and climate models show less agreement in predicting 
+localised changes for many climate parameters other than temperature. However, there is 
+agreement on the general direction of many future trends.
+
+16 Johnson et al. (2004, p40, 2005b). Insurance costs are estimated by Dlugolecki (2004). 
+17 Environment Agency (2001).
+18 Penning-Rowsell et al. (2002).
+19 Environment Agency (2001).
+20 Association for British Insurers (2005a).
+21 Met Office (2010), Association for British Insurers (2005b).
+22 Chatterton et al. (2009).
+23 Environment Agency (2010).
+
+
+
+
+18 Adaptation Sub-Committee
+
+Chapter 1
+
+The UK Climate Projections 2009 (UKCP09) provide information about the potential 
+changes to the climate throughout this century. The UKCP09 illustration below provides 
+some examples of projected seasonal and annual changes in the UK by the 2080s under a 
+particular emissions scenario (see Box 1.1 scenario (c)):
+
+•	 All	areas	of	the	UK	show	warming,	with	parts	of	southern	England	possibly	experiencing	 
+a rise in temperature of up to 4.2°C (with a ‘very likely’ range of 2.2 – 6.8°C) in summer. 
+The Scottish islands show least warming (around 2.5°C, or very likely 1.2 – 4.1°C in summer).
+
+•	 Annual	rainfall	shows	no	clear	change,	however	western	areas	may	experience	an	increase	
+of around 33% (very likely 9 – 70%) in winter. In summer, southern England could see a 
+decrease of around 40% (very likely 6 – 65%). 
+
+•	 Sea	level	rise	is	likely	to	range	from	around	25cm	near	Edinburgh	and	Belfast	to	around	
+40cm near London and Cardiff, although much higher values cannot be ruled out if the 
+Greenland and West Antarctic ice sheets start to melt.
+
+Consistent with these changes in average climate, it is very likely that there will be an increase 
+in the frequency and severity of extreme weather events, such as heavy rainfall, droughts and 
+heatwaves. There is evidence to suggest that extremely wet winters in the UK could be up to 
+five times more likely over the next 100 years,24 and that the extreme heatwave experienced 
+across Europe in 2003 is likely to become the norm by the end of the century.25
+
+While the scale of climate change over the next few decades has already been set by past 
+and present day emissions, mitigation efforts will have a much larger impact on the scale 
+of climate change later in the century, with estimates ranging from around 2°C under a 
+strong mitigation scenario up to and beyond 5.5°C without any mitigation (see Box 1.1). 
+This uncertainty is even larger at the regional level, particularly for changes in some climate 
+variables such as rainfall. Decisions that are sensitive to the climate or that have long-lasting 
+consequences should take this uncertainty into consideration, and ensure that adaptation 
+measures are robust to a range of possible future climates or flexible such that options can be 
+adjusted as more information about the climate becomes available. These types of decisions 
+and options are discussed in more detail in Chapter 2.
+
+All regions26 of the UK will experience a mixture of positive and negative impacts from 
+climate change (see Table 1.2); however the scale of the impacts will vary reflecting 
+regional differences in climate change and vulnerability. Some regions will be affected 
+more than others, and certain features within regions such as floodplains, estuaries, large 
+urban areas will face particular challenges. For example, London and South East England are 
+particularly vulnerable to water scarcity, given that water availability and demand are already 
+finely balanced and summer rainfall is predicted to reduce. Other regions such as South West 
+England could potentially benefit through increased tourism.27 The UK Climate Change Risk 
+Assessment will assess the impacts of climate change for all regions of the UK.
+
+24 Palmer and Raisanen (2002).
+25 Stott et al. (2004).
+26 Regions refer to the nine English regions and the Devolved Administrations.
+27 West and Gawith (2005).
+
+
+
+
+How well prepared is the UK for climate change? 19
+
+Preparing for a changing climate
+
+Table 1.2: Potential impacts of climate change in the UK
+
+Adverse impacts expected most widely include: 
+•	an	increase	in	the	risk	of	flooding	and	erosion 
+•	pressure	on	drainage	systems 
+•	possible	winter	storm	damage 
+•	habitat	loss 
+•	summer	water	shortages	and	low	stream	flows 
+•	increased	subsidence	risk	in	subsidence	prone	areas 
+•	increased	demand	for	summer	cooling 
+•	increasing	thermal	discomfort	in	buildings
+•		increases	in	health	problems	–	heat-related	illness	and	
+
+incidence of respiratory problems
+•		reduced	quality	and	yields	of	some	crops	due	to	heat	
+
+stress, drought, disease and pests 
+
+Commonly perceived benefits include: 
+•	less	winter	transport	disruption 
+•	reduced	demand	for	winter	heating 
+•	less	cold-related	illness
+•	increase	yields	of	some	crops
+
+Opportunities are anticipated: 
+•	agricultural	and	horticultural	diversification
+•	increased	tourism
+•		a	shift	to	more	outdoor-oriented	lifestyles	
+
+(improve well-being)
+
+Source: Table adapted from West and Gawith (2005).
+
+Some of the largest effects in the UK will result from climate change elsewhere in the 
+world. Low-latitude, less-developed regions of the world are generally at greatest risk, due to 
+a combination of high exposure (concentrations of people and development in high risk areas) 
+and a lower ability to adapt.28 Without adaptation, declining crop yields, especially in Africa, 
+are likely to leave hundreds of millions without the ability to produce or purchase sufficient 
+food.29 Even within the EU, countries around the Mediterranean basin are at risk of drastically 
+reduced water supply and increased desertification. Rising sea levels will mean that the homes 
+of tens to hundreds of millions of people are likely to be affected by coastal flooding.30 
+
+The consequences of these impacts will be transmitted through global trade, resource 
+flows, migration and political networks.31 
+
+•	 Approximately	half	the	food	consumed	and	two-thirds	of	the	fuel	used	in	the	UK	is	
+imported. Producing and transporting food and other products uses considerable amounts 
+of water and energy, often in places where water demand exceeds the supply – this indirect, 
+international water demand accounts for two thirds of the UK’s total water demand. Water 
+stress abroad would reduce the resilience of these supply chains.32
+
+•	 Agricultural	output	will	be	affected	by	extreme	weather	events;	however	technological	
+advances may help to offset some of the adverse impacts.33 Global food prices could 
+substantially increase in response to yield reductions in the main cereal-exporting regions 
+of the world which could have implications for the UK.34 The 2010 heatwave and associated 
+drought in Russia has caused grain output to fall by one-third, leading the country to 
+enforce a ban on grain exports. As a result global wheat prices have risen by 70% causing 
+concern in countries across the Middle East, North Africa and Europe who import wheat 
+from Russia.35 
+
+28 Intergovernmental Panel on Climate Change (2007), Working Group II, Chapter 19.
+29 Intergovernmental Panel on Climate Change (2007), Working Group II, Chapter 5.
+30 Intergovernmental Panel on Climate Change (2007), Working Group II, Chapter 6.
+31 The Government Foresight team are working with government departments to understand the implications of international climate change for the UK.
+32 Royal Academy of Engineering (2010); Hoekstra et al. (2009).
+33 Forthcoming Foresight report on “Global Food and Farming Futures” (October 2010).
+34 Parry et al. (2009).
+35 Reuters http://www.reuters.com/assets/print?aid=USTRE67B3XT20100812 (Accessed 12 August 2010).
+
+
+
+
+20 Adaptation Sub-Committee
+
+Chapter 1
+
+•	 UK	businesses	have	interests	and	assets	in	a	number	of	regions	and	markets	overseas	
+which are exposed to climate impacts. For example UK manufacturing product chains are 
+becoming highly complex and global in nature, increasing their vulnerability to climate 
+change. Financial markets in the UK are also particularly vulnerable as London is home to 
+one of the largest financial and insurance markets in the world. The UK insurance market 
+contributes £8 billion a year to UK overseas earnings and the industry held £795 billion 
+worth of assets globally in 2000.36
+
+•	 Population	migration	may	result	from	diminishing	water	and	food	supply	brought	about	
+by increased variability in rainfall patterns, loss of productive agricultural land to drought 
+or flooding from sea level rise.37 
+
+1.3. Adaptation can reduce the costs of climate change
+
+The consequences of not adapting both globally and in the UK are potentially great, 
+leading to larger costs further down the line and the risk of irreversible damage.  
+There is limited quantitative evidence on the costs and benefits of adaptation at the global  
+and country levels. A recent study suggests that adaptation measures may reduce damages 
+from climate change by roughly half for moderate amounts of warming.38 For example, the 
+Environment Agency estimates the benefit of current investment in flood defences can be at 
+least five times the cost.39
+
+In addition, well-designed adaptation could also contribute to the delivery of other 
+objectives. For example reducing emissions of greenhouse gases, improving well-being  
+and public health, protecting biodiversity and meeting the long-term infrastructure needs  
+of the UK. 
+
+Even so, there are limits to the level of climate change to which human and natural 
+systems can adapt. At significantly higher global temperatures (beyond 2°C) the costs of 
+adaptation are likely to rise sharply and the residual damages are likely to remain large either 
+because natural systems have reached a limit beyond which they can no longer adapt or 
+because adaptation is prohibitively expensive.40 Adaptation and mitigation are therefore both 
+integral to the UK’s climate change strategy. 
+
+36 Watkiss et al. (2009).
+37 Intergovernmental Panel on Climate Change (2007), Working Group II, Chapter 7.
+38 Economics of Adaptation Working Group. (2009) demonstrated that adaptation in 8 case studies could reduce the expected losses incurred in 2030 by  
+
+40-68%. Under severe climate change scenarios.
+39 House of Commons Environmental Audit Committee , Lord Smith, Witness Evidence pp. 86 (2010).
+40 Intergovernmental Panel on Climate Change (2007), Working Group II, Chapter 19.
+
+
+
+
+How well prepared is the UK for climate change? 21
+
+Chapter 2: What should be 
+happening today to prepare  
+for climate change?
+
+2.1 Introduction
+
+The Adaptation Sub-Committee (ASC) has a role to assess the UK’s progress on 
+adaptation. Under the Climate Change Act 2008 the ASC has a statutory obligation to provide 
+independent advice on adaptation and an assessment of the Government’s progress towards 
+implementing the National Adaptation Programme (NAP), which is to be laid before Parliament 
+after the publication of the first Climate Change Risk Assessment (CCRA) in 2012. 
+
+In order to fulfil this duty, we have begun to develop a framework for assessing the UK’s 
+performance in adapting to climate change. This chapter describes the priority areas where 
+early action is required, presents the key challenges associated with measuring success and 
+introduces the ASC’s framework.
+
+2.2 Where should adaptation start today?
+
+In a well-adapting society, risks are identified and managed in sectors that are highly  
+sensitive to weather and climate change in the short-term, and flexible and robust options  
+are implemented (where appropriate) in areas that will be affected by climate change over  
+the medium to long-term. Preparing for climate change today will reduce the costs and 
+damages of a changing climate and allow UK businesses, the public sector, the third sector  
+and individuals to take advantage of potential opportunities.
+
+We have used two broad criteria to identify the priority areas where adaptation measures 
+are required now to put the UK on the path to becoming a well-adapting society (see 
+Box 2.1 for descriptions of these priority areas):41
+
+1. Climate-sensitive decisions – decision-makers should identify and manage risks in areas 
+with a high sensitivity to the weather and climate in the short-term. Adaptation in these areas 
+will provide immediate benefits, increase the resilience to current and future climate and 
+reduce the risk of potentially long-lasting damage. This is particularly relevant for managing 
+natural resources as a number of ecosystems such as peatlands and freshwater habitats are 
+already showing signs of increased vulnerability to the climate, and emergency planning for 
+extreme weather events such as floods, droughts and heatwaves.
+
+41 Based on work by Ranger et al. (2010) (commissioned by the Adaptation Sub-Committee) building on existing research by HM Treasury (2003), and West and  
+Gawith (2005).
+
+
+
+
+22 Adaptation Sub-Committee
+
+Chapter 2
+
+2. Decisions with long-lasting consequences should not close off options and make it harder  
+to adapt in the future. These include:
+
+•	 Long asset life. The climate experienced by assets built today will be significantly 
+different in future decades. The UK can no longer rely on historic weather and climate 
+trends to inform planning and design. Allowing for future climate in the provision  
+of national infrastructure and the design of buildings, and incorporating flexibility  
+to cope with uncertainty is likely to be less costly and easier than retrofitting assets  
+in the future.
+
+•	 Irreversible impacts. This is a particular concern when managing natural resources.  
+For example, many habitats and ecosystems cannot be reintroduced once they are lost.
+
+•	 Systemic consequences. Some climate hazards, in particular extreme events, may 
+have disproportionate, far-reaching or multiple effects on the economy and society. 
+Understanding of the potential for these systemic consequences is very limited, but 
+their possibility means that they merit particular attention. Additionally, the effects of 
+climate change can result in conflicts and synergies between sectors or activities. In 
+making adaptation decisions it is important to recognise the broad-scale and long-term 
+consequences of these decisions. Failure to recognise these interactions can result in  
+maladaptation, for example building coastal defences without recognising that this could 
+increase flood risk on neighbouring coasts.42 This is important for land use planning 
+and the provision of national infrastructure. When making decisions about land use, 
+it will be important to avoid development in areas that will lock future generations into 
+a development path that increases vulnerability to climate change or that will be very 
+costly to maintain or reverse.
+
+Table 2.1: Characteristics of adaptation decisions in priority areas
+
+Climate-
+sensitive 
+decisions
+
+Long-lasting decisions
+
+Long asset 
+
+
+life
+
+
+Irreversible 
+impacts
+
+Systemic 
+consequences
+
+Land use planning X X X X
+
+Providing national infrastructure X X X
+
+Designing and renovating buildings X X
+
+Managing natural resources X X X
+
+Emergency planning X X
+
+42 Dawson et al (2009).
+
+
+
+
+How well prepared is the UK for climate change? 23
+
+What should be happening today to prepare for climate change?
+
+Box 2.1: Definitions of the priority areas and possible adaptation measures that could 
+be taken in each area
+
+•	 Land use planning. Determining where new domestic and commercial properties  
+(e.g. housing and business developments), national infrastructure (e.g. power plants and 
+substations) and green space (e.g. parks) are located. Possible adaptation measures that 
+could be taken in this area include:
+
+– locating new long-lived assets (buildings and infrastructure) in areas that minimise 
+exposure to flood risk, do not increase flood risk to others, and do not create a legacy 
+of flood defence or unmanageable water supply costs and pressures; 
+
+– managing competing pressures on land – domestic, commercial and agricultural –  
+in response to potential impacts of climate change; and
+
+– including and enhancing green space (where it is effective) in the design of urban 
+landscapes to help manage surface water drainage sustainably and cope with rising 
+temperatures compounded by the urban heat island effect.
+
+•	 Providing national infrastructure. How significant pieces of infrastructure in the energy, 
+transport, communication, water and waste sectors are planned and built. This includes 
+both public and private infrastructure. It includes the design of roads, railways and power 
+lines, and whether regional water networks are interconnected. Possible adaptation 
+measures that could be taken in this area include:
+
+– ensuring infrastructure is resilient to potential increases in extreme weather events 
+such as storms, floods and high temperatures;
+
+– ensuring investment decisions take account of changing patterns of consumer 
+demand, as a result of climate change, in areas such as energy and water use, travel 
+and consumption; and
+
+– building in flexibility so that infrastructure systems can be modified in the future 
+without incurring excessive cost.
+
+
+
+
+24 Adaptation Sub-Committee
+
+Box 2.1: Definitions of the priority areas and possible adaptation measures that could 
+be taken in each area
+
+•	 Designing and renovating buildings. How new domestic, commercial and public sector 
+buildings estates are planned and built, and the methods and materials used to renovate 
+existing buildings. Possible adaptation measures that could be taken in this area include:
+
+– ensuring flood damaged buildings are repaired to standards that improve their 
+resilience to future floods;
+
+– improving the water efficiency of plumbing and appliances;
+
+– incorporating sustainable drainage systems into new developments; and
+
+– ensuring buildings can cope with rising temperatures through the use of different 
+construction materials and ventilation systems that do not increase carbon emissions.
+
+•	 Managing natural resources. Management of ecosystems, habitats, agriculture, land, 
+seas and natural resources such as water. Possible adaptation measures that could be 
+taken in this area include:
+
+– increasing ecological resilience through habitat creation, protection and restoration, 
+and by establishing ecological networks; 
+
+– implementing measures that allow for natural changes in rivers and coasts; and
+
+– increasing water efficiency, including demand management, and building facilities for 
+water re-use, where appropriate.
+
+•	 Emergency planning. A process of risk management that mitigates and plans for the 
+potential and actual consequences of natural disasters (such as floods) and man-made 
+hazards (such as industrial accidents). Possible adaptation measures that could be taken  
+in this area include:
+
+– ensuring business continuity management accounts for severe disruptions to the 
+supply chain during floods and storms;
+
+– creating plans that ensure effective social care and reduce the impacts on vulnerable 
+groups, and ensuring healthcare is sufficient during heatwaves and floods; and
+
+– making better use of probabilistic weather forecasts to anticipate extreme weather 
+events more effectively and improve preparedness.
+
+Taking steps in these priority areas will have wider benefits. For example, a fully-functioning 
+infrastructure, including secure water supplies, and well-designed hospitals and care facilities 
+are all key to promoting human health and well-being.
+
+Chapter 2
+
+
+
+
+How well prepared is the UK for climate change? 25
+
+2.3 The challenges of measuring success
+
+Monitoring and evaluating successful adaptation is a challenge for several reasons:
+
+•	 Uncertainty about future climate. The UK’s adaptation strategy will have to anticipate a 
+range of future climates.43 While there is overwhelming evidence that the world is warming 
+and will continue to warm further, there are uncertainties surrounding the scale, timing 
+and nature of how the climate might change. These arise in part from uncertainty in future 
+emissions and in part from the chaotic nature in which the climate system behaves, which 
+becomes increasingly more unpredictable at the regional level. Uncertainty also arises 
+because climate models cannot simulate the real world with complete accuracy. These 
+uncertainties make it difficult to know what future climate to adapt to. 
+
+•	 Timing. Adaptation involves taking definite actions today to reduce possible damages and 
+capture future benefits. Many adaptation actions will have immediate benefits, but their full 
+benefits may not be realised until sometime in the future.
+
+•	 Adaptation is context specific. Unlike mitigation, where every unit of carbon has the same 
+cost regardless of where it is emitted, the “optimal” adaptation response is context specific, 
+depending on who is adapting, where in the country, and how they weigh up other factors 
+in their decisions. This makes it difficult to determine in advance what successful adaptation 
+will look like.
+
+2.4 The ASC’s approach to measuring progress 
+
+We have developed a simple framework to measure, evaluate and monitor how well the 
+UK is preparing for climate change (see Figures 2.1a and 2.1b).44 The framework comprises 
+three elements – desired outcomes from adapting, a ladder of key activities in delivering 
+adaptation outcomes, and policy to enable delivery:
+
+•	 Desired adaptation outcomes. The ladder leads to the achievement of desired adaptation 
+outcomes, which are essentially the result of actions that reduce the costs and damages 
+from climate change in the UK and enhance any potential opportunities. Decision-makers 
+need to understand how their current objectives are likely to be affected by the current 
+climate and future climate scenarios. This will help to define the adaptation outcome and 
+identify measures required to deliver it. For example, if your current objective is improving 
+public health, then your adaptation outcome may be to reduce heat-related illness, or at 
+least not let the number of people suffering from heat-related illness increase.
+
+ Decision-makers should monitor and evaluate whether the measures are delivering the 
+desired adaptation outcome and, where they are not, assess if alternative measures are 
+required or if the current objectives are still appropriate under a changing climate.
+
+43 Lempert and Collins (2007).
+44 West and Gawith (2005).
+
+What should be happening today to prepare for climate change?
+
+
+
+
+26 Adaptation Sub-Committee
+
+Chapter 2
+
+•	 Delivery of adaptation outcomes. The rungs of the ladder indicate increasing levels  
+of adaptation activity by public sector organisations, businesses and individuals:
+
+– build adaptive capacity, to increase the capability of individuals, groups or  
+organisations to understand what climate change means for them and how they  
+might need to respond;
+
+– this enables them to adopt a structured decision-making approach that involves 
+identifying and setting outcomes for adapting to climate change, and that explicitly 
+incorporates the impacts of climate change and their uncertainties into key decisions; 
+
+
+and
+
+– then take tangible action that reduces risk and vulnerability.
+
+•	 Policy to support delivery. The wider government policy framework will partly determine 
+how far and how quickly public sector organisations, businesses and individuals move up 
+the ladder. Policy-makers need to understand the market failures and other barriers that 
+may prevent adaptation taking place, and identify the range of instruments to stimulate  
+and incentivise organisations, businesses and individuals to adapt.
+
+Figure 2.1a: The adaptation preparedness ladder
+
+Adaptation outcome
+
+
+Policy: removing barriers Policy: encouraging adaptation
+
+Timely action
+
+Monitoring
+
+
+and
+
+evaluation
+
+Current objectives
+
+Decision-making
+
+Capacity
+
+
+
+
+How well prepared is the UK for climate change? 27
+
+What should be happening today to prepare for climate change?
+
+Figure 2.1b: The adaptation preparedness ladder applied to the forestry sector
+
+Monitoring
+
+
+and
+
+evaluation
+
+Increased climate resilience 
+of forests
+
+
+Incentives and regulation to enableappropriate action by the industry Removal of barriers to action
+
+
+Planting trees more suited 
+to future climate
+
+Sustainable forests and
+forestry industry
+
+Options appraisal using appropriate
+decision-making processes
+
+Current climate risks to
+forests understood
+
+The following section discusses the components of the ladder in more detail.
+
+2.4.1 Outcomes
+
+The ultimate goal of adaptation is to reduce the costs and damages from climate change 
+and enhance the opportunities. Costs and benefits can be expressed as conventional 
+economic metrics (e.g. monetary damage from flooding), quality of life measures (e.g. number 
+of people affected by drought), or environmental measures (e.g. species lost).
+
+To determine if the UK is making progress on adaptation it is first necessary to assess if 
+the desired adaptation outcomes are being achieved. In principle this could be done with a 
+range of metrics for key activities and variables, as was proposed in 1999 and again in 2004.45 
+This proposal will be revisited once the first Climate Change Risk Assessment is complete, 
+and should remain the long-term aim (see Chapter 4). In the interim, we will assess progress 
+at each rung of the preparedness ladder and evaluate the effectiveness of policy in enabling 
+progression up the ladder. This will provide a useful indicator of movement towards the 
+ultimate outcome and a good understanding of the factors driving changes in risk over time.
+
+45 Review of UK Climate Change Indicators. June 2003 (Revised Jan 2004) Department for Environment Food and Rural Affairs.
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+
+
+
+28 Adaptation Sub-Committee
+
+Chapter 2
+
+2.4.2. Delivery of outcomes
+
+Capacity
+Building adaptive capacity is an important first step. This will ensure that public sector 
+organisations, businesses and individuals have the knowledge and skills to take sensible 
+decisions, which will ultimately lead to sensible adaptation actions. The complex nature and 
+effects of climate change mean that organisations will need additional capacity to prepare.
+
+Decision-makers within organisations will need to ensure that they have adequate resources  
+to enable them to adapt by:46
+
+•	 gathering	evidence on the impacts of climate change and adaptation options to aid in 
+making decisions under uncertainty and understanding how climate change will affect 
+current objectives. For example, a better understanding of the direct and indirect impacts  
+of current and future climate change on health;
+
+•	 monitoring climate change impacts and examining previous decisions to learn lessons from 
+past experiences and to understand current vulnerability. For instance, businesses could 
+analyse their success in coping with previous floods and heatwaves; and
+
+•	 building	partnerships with external organisations to enhance the development and 
+implementation of adaptation actions, in order to maximise the benefits of adaptation 
+and avoid undesirable side-effects. This could involve ensuring that procurement partners 
+consider adaptation and working across local government to coordinate adaptation thinking.
+
+There is also a need to ensure that people have the capability to adapt by:
+
+•	 informing and training staff and individuals about climate change, adaptation and how 
+to develop suitable responses. Examples include advising property owners of the increase 
+in flood risk that they face due to climate change, teaching staff how to use climate 
+projections, and ensuring that professional guidance embodies appropriate reference  
+to climate change; and
+
+•	 building	strong leadership by ensuring there are staff with specific responsibility for 
+adaptation who can influence others within the organisation.
+
+Decision-making
+Adaptation requires some foresight about the future impacts of climate change. Uncertainty 
+can pose problems for taking sensible adaptation decisions, but the problem is not 
+insurmountable. Following a structured decision-making process allows the decision-maker 
+to balance future climate risks and uncertainties against other pressures (Box 2.2), key to this 
+will be the use of appropriate decision-making tools. This will help build the business case for 
+whether or not adaptation is required.
+
+46 Developed using Lonsdale et al. (2010) (UKCIP project commissioned by the Adaptation Sub-Committee), HM Treasury (2009) and National Audit Office (2009).
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+
+
+
+How well prepared is the UK for climate change? 29
+
+What should be happening today to prepare for climate change?
+
+Box 2.2: Decision-making process47
+
+A structured approach to making adaptation decisions should incorporate the following steps:
+
+•	 set	out	what	the	decision-maker	is	aiming	to	achieve;
+
+•	 assess	the	vulnerability	of	the	objective(s)	to	current	climate	and	future	climate	scenarios;	
+
+
+and
+
+•	 set	out	and	evaluate	possible	adaptation	options	to	address	the	risks.
+
+In many cases, low-regrets options that provide immediate benefits today and are not 
+sensitive to precise climate change predictions will be available. These can be implemented 
+immediately without having to proceed further in the decision-making process. There are 
+two broad categories of low-regrets options:
+
+•	 Measures that reduce current climate vulnerability. These provide immediate benefits 
+by protecting against current weather damage, while increasing resilience to future 
+climate change. For example, setting back flood defences in sparsely populated estuaries 
+can help to reduce current flood risk while providing room for estuaries to adapt to 
+increased sea level.
+
+•	 Measures with co-benefits or measures to manage non-climate risks. Some measures,  
+as well as being effective forms of adaptation, can also yield benefits with respect to 
+other objectives. For example, water conservation can reduce the amount of energy used 
+in water treatment and domestic water heating. 
+
+Where investments are significant and cover a long timescale, a more formal policy appraisal 
+will have to be carried out to evaluate and compare individual adaptation options.  
+As a result of the uncertainty about future impacts, it is particularly important to consider:
+
+•	 Robust options which broaden the coping range from the start. For example, where the 
+capacity of a water storage system is increased in anticipation of drier conditions.
+
+•	 Flexible options and strategies which allow for possible mid-lifetime adjustments as 
+more information about climate becomes available. For example, the Thames Barrier 
+adaptation plan can be modified in future to enable it to cope with sea level rise until the 
+end of the century if required.48
+
+The decision-making process should be periodically reviewed and repeated to take into 
+account reductions in uncertainty about climate change impacts and newly available 
+response options.
+
+47 48
+
+47 Intergovernmental Panel on Climate Change (1994), Ranger et al. (2010).
+48 Environment Agency (2009a).
+
+
+
+
+30 Adaptation Sub-Committee
+
+Chapter 2
+
+Timely action
+Ultimately, in order to change the physical resilience or vulnerability of a system, it is 
+important that timely, tangible actions are taken. This is distinct from the provision of 
+information or legislation, both of which aid progress but do not change the physical state  
+of the system.
+
+The decision-making process described in the previous section will result in actions that  
+reduce current climate vulnerability, provide co-benefits or build in robustness to a range  
+of future climate scenarios. Examples include improving the water efficiency of agriculture  
+and incorporating green spaces into urban landscapes. However, action does not have to  
+be immediate to be timely. Timely action might build in flexibility for future adaptation,  
+for example preventing building on land that may in future be needed for new reservoirs  
+or flood defences.
+
+2.4.3. Policy to enable delivery
+
+Adaptation will more often than not be undertaken by local authorities, communities, 
+businesses and individuals. However, central government policies will be required to:
+
+•	 ensure	relevant	organisations	have	the	knowledge,	skills	and	incentives	to	adapt,	such	 
+as adequate climate information, price and regulatory incentives and accountability;
+
+•	 remove	barriers	to	effective	adaptation,	such	as	short	term	thinking,	insufficient	price	signals	
+and obstructive regulations (Box 2.3), in order to incentivise action;
+
+•	 ensure	there	is	a	clear	allocation	of	responsibility	for	adaptation	and	sufficient	cooperation	
+among actors for measures that require coordination, for example across a catchment area 
+or between emergency services; and
+
+•	 protect	those	most	vulnerable	to	climate	change	and	limit	the	uneven	distribution	of	climate	
+change impacts across regional and social scales.
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+
+
+
+How well prepared is the UK for climate change? 31
+
+What should be happening today to prepare for climate change?
+
+Box 2.3: Examples of adaptation barriers and policy instruments
+
+Barriers
+•	 Behavioural barriers may delay complex decisions – particularly an issue for adaptation 
+
+due to the uncertainty over future climate.
+
+•	 Market failure because of information failures, externalities and the public-good 
+characteristics of some adaptation measures.
+
+•	 Institutional and regulatory barriers may directly constrain action or indirectly affect 
+adaption. Existing barriers which have been designed to achieve specific objectives may 
+nonetheless have an indirect impact on adaptation, for example agricultural policies can 
+affect the resilience of the natural environment.
+
+•	 Financial constraints, especially where adaptation options involve upfront costs, may 
+prevent adaptation from taking place. Individuals and business may not be able to afford 
+these options, even if they make economic sense in the long term. 
+
+Policy instruments
+•	 Direct regulation can help overcome information failures and ensure certain types of 
+
+actions are undertaken, for example, hosepipe restrictions can help ease water shortages 
+in times of drought.
+
+•	 Market-based measures such as price, licenses and property rights can create incentives 
+for businesses and individuals to adapt.
+
+•	 Research and monitoring programmes can incentivise research on climate change risks 
+and adaptation technologies, which are likely to be underprovided by the private sector.
+
+•	 Information provision and public engagement on climate change risks and adaptation 
+options can encourage organisations, businesses and individuals to adapt. 
+
+Source: Cimato and Mullan (2010).
+
+The progress that the UK has made in adapting to climate change will be assessed in the next 
+chapter by analysing the Government Departmental Adaptation Plans, with a particular focus 
+on the five priority areas that have been outlined in this chapter.
+
+
+
+
+32 Adaptation Sub-Committee
+
+Chapter 3: Progress in adapting  
+to climate change
+
+This chapter uses the preparedness ladder described in Chapter 2 to begin to assess the 
+UK’s progress in adapting to climate change.49 It draws predominantly on the Government’s 
+Departmental Adaptation Plans. These set out how departments are assessing and managing 
+the risks from climate change to their policies, programmes and estates.50 The analysis focuses 
+on those areas identified as being a priority for early action in Chapter 2 – land use planning, 
+providing national infrastructure, designing and renovating buildings, managing natural 
+resources, and emergency planning. Some limited analysis of adaptation occurring outside 
+central government has also been conducted where possible. Annex 3.1 summarises adaptation 
+occurring in Scotland, Wales and Northern Ireland because the Departmental Adaptation Plans 
+only cover England and reserved matters.
+
+In line with the preparedness ladder, we present key findings on progress in the following 
+sections:
+
+1) desired adaptation outcomes.
+
+2) delivering outcomes: 
+
+a) capacity and capability;
+
+b) decision-making; and
+
+c) timely actions.
+
+3) policy to enable delivery. 
+
+This report provides our first national assessment of the UK’s progress on preparing for climate 
+change. It will be updated as further information becomes available, including the Climate 
+Change Risk Assessment and the first tranche of reports from public bodies and infrastructure 
+providers, as required by the Climate Change Act. Box 3.1 summarises our findings.
+
+49 The UK refers to England and reserved matters within the devolved authorities in Scotland, Wales and Northern Ireland.
+50 All 16 central Government departments published Departmental Adaptation Plans on 31 March 2010. Discussions were also conducted with officials from  
+
+a number of key departments to enhance our understanding of their plans – including Departments for Environment Food and Rural Affairs (DEFRA),  
+Energy and Climate Change (DECC), Communities and Local Government (CLG), Health (DH), Treasury (HMT), Business Innovation and Skills (BIS) and  
+the Cabinet Office (CO). 
+
+
+
+
+How well prepared is the UK for climate change? 33
+
+Progress in adapting to climate change
+
+
+Box 3.1: Summary of UK progress in adaptation Adaptation outcome
+
+Policy: removing barriers
+
+Policy: encouraging adaptation
+
+
+Timely action Current objectives Decision-making Capacity Desired adaptation outcome Government Departments have generally evaluated climate risks on their current objectives, but have not defined  specific adaptation outcomes. Policy to enable delivery A number of barriers explain the limited uptake of adaptation measures, including lack of quality information and prioritising short-term objectives over long-term implications of climate change.  Policy needs to do more to incentivise adaptation and remove barriers. Delivery of outcomes Timely action: Little evidence of action taking place systematically across priority areas. Some progress in reducing vulnerability in emergency planning and protecting national infrastructure from flooding. Decision-making: Some evidence of current and future climate risk being incorporated into some priority decisions, such as in the water and floods sectors. Less clear whether climate risks are being factored in to decisions on national infrastructure and land-use planning. Capacity building: Some success at raising awareness, through the provision of information and tools to help understand climate impacts and adaptation measures.  Capacity is generally higher in the public sector than with businesses, but key gaps remain across all sectors. Desired adaptation outcome Government Departments have generally evaluated climate risks to their current objectives, but have not defined specific adaptation outcomes. Delivery of outcomes Timely action: Little evidence of action taking place systematically across priority areas. Some progress in reducing vulnerability in emergency planning and protecting national infrastructure from flooding. Decision-making: Some evidence of current and future climate risk being incorporated into some priority decisions, such as in the water and floods sectors. Less clear whether climate risks are being factored in to decisions on national infrastructure and land-use planning. Capacity building: Some success at raising awareness through the provision of information and tools to help understand climate impacts and adaptation measures. Capacity is generally higher in the public sector than with businesses, but key gaps remain across all sectors. Policy to enable delivery A number of barriers explain the limited uptake of adaptation measures, including lack of sufficient information and prioritising short term objectives over long-term implications of climate change. Policy needs to do more to incentivise adaptation and remove barriers.
+
+
+34 Adaptation Sub-Committee
+
+3.1 Desired adaptation outcome
+
+The Departmental Adaptation Plans evaluated how the previous Government’s policy 
+objectives could be affected by climate change. Most plans set out a range of policies, 
+programmes and initiatives that were either in place or being planned to respond to the 
+implications of climate change on their objectives.
+
+However, there is little evidence of any departments setting desired adaptation outcomes 
+or any process for evaluating the effectiveness of their plans, policies and programmes. 
+This is a critical stage of the adaptation process. In the absence of desired adaptation 
+outcomes, it is difficult to determine the effectiveness of the adaptation plans.
+
+Setting desired adaptation outcomes requires a good understanding of climate risk and 
+available adaptation measures. Departments do not yet generally have this information.  
+They anticipate that it will be provided by the forthcoming Climate Change Risk Assessment 
+and Adaptation Economic Assessment.51
+
+3.2 Delivering adaptation outcomes 
+
+This section assesses progress toward delivering adaptation outcomes across the rungs  
+of the preparedness ladder – capacity, decision-making and timely action.
+
+Adaptation activity in the UK has been underway for over a decade. Previous studies  
+on UK adaptation identified greater progress in building capacity and raising awareness than 
+delivering action, starting with the Climate Change Impacts Review Group reports in 1991  
+and 1996,52 and more recently with reviews by the UK Climate Impacts Programme (UKCIP) 
+and the Tyndall Centre.53 Activity has been dominated by government-funded initiatives, 
+principally climate change impact research. Sectors dependent on large, climate-sensitive 
+infrastructure (flood defence and water supply) have made most effort to identify possible 
+climate impacts and adaptation options. 
+
+The UK’s approach to adaptation compares favourably with progress in other countries. 
+The UK is the only country to have established a legal framework for adaptation, which requires 
+the Government to undertake regular risk assessments and prepare a National Adaptation 
+Programme. Within Europe the UK is one of only three countries to have established a formal 
+monitoring and review system for adaptation.54 The UK’s climate projections are among the 
+most advanced in the world and the formation of a statutory advisory committee that covers 
+both adaptation and mitigation is unique. However, these institutional arrangements do not  
+tell us how well prepared the UK is for climate change.
+
+According to a recent survey only 6% of organisations are comprehensively assessing 
+current and future climate risks and taking active steps to manage them, although 
+more have started to think about these issues (see Figure 3.1). This suggests that capacity 
+building has increased awareness of adaptation, but this has not yet translated into significant 
+action. Our analysis of the UK’s preparedness corroborates this finding.
+
+51 http://www.defra.gov.uk/environment/climate/adaptation/ccra/index.htm
+52 Climate Change Impacts Review Group (1996).
+53 West and Gawith (2005), Tompkins et al. (2010). 
+54 Swart et al. (2009).
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 35
+
+Progress in adapting to climate change
+
+Figure 3.1: How organisations are thinking about the risks and opportunities presented 
+by a changing climate.
+
+
+
+100%0%
+
+Comprehensively assessing present and
+future threats within risk management, acting
+on priorities and monitoring progress  
+
+
+2%10%13%26%24%19%4%
+
+Comprehensively assessing present and 
+future threats within risk management and
+acting on priorities 
+
+Looked at present and future threats
+(acting on priorities)
+
+Looked at present and future threats
+(thought about what to do) 
+
+Started to look at it 
+
+Plan to in the future 
+
+Not at all 
+
+Don’t know
+
+
+2%
+
+Source: Defra (2010a).
+Note: This figure is based on a Defra survey of 633 organisations, comprised of: 460 from businesses, 75 from local government, 
+25 from the health sector, 25 from the third sector and 48 from educational institutions. The survey included predominantly 
+larger businesses (>10 employees) for whom climate change is more likely to be an issue. The question asked was: ‘Which of these 
+statements best describes how much your business/organisation has thought about the kinds of risks or opportunities a changing 
+climate could present?’
+
+3.2a Delivering adaptation outcomes – capacity
+
+The Government’s approach to adaptation has had some success at building adaptive 
+capacity by providing information on climate impacts, developing tools to assist decision-
+making and establishing a range of networks and partnerships. The Government set 
+up the Adapting to Climate Change Programme in 2007. This funds the UK Climate Impacts 
+Programme, which works to build capacity across the public, private and third sectors.55  
+The UK Climate Projections provide information on the range of possible climate futures.56 
+
+More recently, the Government has required a range of organisations and institutions to 
+set out how they are considering the risks from climate change. This not only helps to raise 
+awareness of climate risks and adaptation measures, but also provides organisations with the 
+legitimacy to consider climate change alongside other drivers. The current framework covers 
+many priority organisations:
+
+•	 government	departments	through	Departmental	Adaptation	Plans;	
+
+•	 local	authorities	under	National	Indicator	188	(NI	188);57 and
+
+•	 bodies	with	functions	of	a	‘public	nature’	or	‘statutory	undertakers’	(such	as	water	or	energy	
+companies and regulators) under the statutory Adaptation Reporting Power.58
+
+55 http://www.ukcip.org.uk
+56 http://ukclimateprojections.defra.gov.uk
+57 NI 188 is a self-assessed process-based indicator that measures progress on assessing climate risks and incorporating appropriate action into local authority 
+
+strategic planning. The future of this performance framework is currently under review.
+58 See http://www.defra.gov.uk/environment/climate/legislation/reporting.htm
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+
+
+
+36 Adaptation Sub-Committee
+
+A number of other organisations have been asked to voluntarily consider adaptation in  
+their work.59
+
+We found some progress in building adaptive capacity, with evidence of growing 
+awareness in public and private sector organisations. However, it is not clear that this is 
+sufficient to enable these organisations to adapt. 
+
+Adaptive capacity in central government
+Central government’s self-assessment for the Environmental Audit Committee in 2009 
+showed many departments were beginning to think about adaptation.60 The level 
+achieved was broadly in line with the scale of the challenge faced by these departments. For 
+instance, capacity was reported to be higher in departments where climate change is likely to 
+affect many policy objectives directly (for example Communities and Local Government and 
+Defra). Capacity is generally lower in departments where climate impacts are likely to be less 
+significant, for example the Ministry of Justice where the direct effects of climate change will 
+primarily be felt on its estates (see Figure 3.2). 
+
+Figure 3.2: Central government’s adaptive capacity, scored by self assessment for the 
+Environmental Audit Committee in 2009. Departments were asked to score themselves 
+against five levels of progress for each of the five themes (Leadership, Policy and 
+Strategy, People, Partnerships and Processes). The maximum possible score was 25. 
+Asterisks indicate departments with lead (*) or partial (*) responsibility in high priority 
+areas (see Annex 3.2 for details). 
+
+
+Score of capacity to assess and manageclimate change risks1614121086420
+
+CLG DIUSDefra DECC DfT CO DH BIS HMT DCMS DCSF DWP MoJ HO MoD
+
+Departments with responsibility in
+
+* Land use planning
+* Providing national infrastructure
+* Designing and renovating buildings
+
+* Managing natural resources
+* Emergency planning
+
+Department
+
+Department acronyms: Communities and Local Government = CLG, Department for Environment, Food and Rural Affairs = Defra, 
+Department of Energy and Climate Change = DECC, Department for Transport = DfT, Cabinet Office = CO, Department of Health  
+= DH, Department for Business, Innovation and Skills = BIS, HM Treasury = HMT, Department for Culture, Media and Sports = 
+DCMS, Department for Children, Schools and Families = DCSF, Department for Work and Pensions = DWP, Ministry of Justice =  
+MoJ, Home Office = HO, Ministry of Defence = MoD, Department for Innovation, Universities and Skills = DIUS. The Department  
+for International Development and the Foreign and Commonwealth Office were not included in this assessment. 
+
+Source: National Audit Office (2009).
+
+59 For instance, the DfT Departmental Adaptation Plan outlines how local authorities are encouraged to consider climate change in Transport Plans (see p26).
+60 National Audit Office (2009). It is possible that departments have developed additional capacity since this evidence was collected (the report was published 
+
+in July 2009). 
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 37
+
+However, in some key departments with policy responsibility in priority areas capacity  
+is often limited to small, dedicated teams. While these teams are attempting to engage their 
+wider department on adaptation, this is unlikely to be sufficient to ensure that climate change 
+is fully embedded in all adaptation relevant policies. For instance, HM Treasury will need to 
+establish that spending decisions in priority areas take current and future risks from climate 
+change into account. Similarly, the Department of Health’s self-assessment of their adaptive 
+capacity is relatively low considering the significant risk that extreme weather events pose to 
+public health and well-being. 
+
+A number of adaptation plans noted the possible importance of overseas impacts 
+of climate change on their policy responsibilities. For instance, the Foreign and 
+Commonwealth Office noted that climate change could exacerbate conflict overseas. The 
+Department of Energy and Climate Change suggested that climate change could have indirect 
+consequences on security of energy supply.61 A Government Foresight project is studying 
+the risks to the UK presented by climate change elsewhere in the world through a Foresight 
+project.62 The Department for International Development and the Foreign and Commonwealth 
+Office also described a number of projects in their adaptation plans that aim to assist 
+developing countries in reducing their vulnerability to climate change. As climate change may 
+lead to significant international policy conflicts and dilemmas, which are likely to affect the UK, 
+this issue will warrant further consideration and analysis by policy-makers.
+
+Few departments demonstrated evidence of learning from other countries. The UK  
+could benefit from the experience of other countries who are also developing adaptation  
+plans or who already live with conditions similar to those projected to occur in the UK under 
+climate change scenarios.63 
+
+Adaptive capacity in local government
+Local authorities have a key role in addressing climate change impacts. Their 
+responsibilities include many priorities for early adaptation action – delivering land use 
+planning, providing local infrastructure, implementing building control, managing green space 
+and coordinating emergency planning.64 For instance, local authorities are responsible for 98% 
+of the road network in England and Wales.65 
+
+Over the last few years local authorities have started to adapt with some examples  
+of good practice,66 but overall capacity remains low. In 2005 there was little evidence 
+that local government was adapting to climate change.67 Since then, National Indicator 188 
+(NI 188) has been introduced to assess local authority preparedness (see Figure 3.3). By 2008 
+– 2009 (the first year of reporting) just over half of authorities were at Level Zero (Getting 
+Started) with 6% of authorities at Level 2 (Comprehensive Risk Assessment). Capacity had 
+grown by 2010, with 45% of authorities at Level 2. However, only 7% reported that they  
+had a plan to reduce climate risks (Level 3), and none had started to implement their plans 
+(Level 4). This lack of tangible adaptation action is discussed further in Section 3.2c.
+
+61 Foreign and Commonwealth Office (2010) Department of Energy and Climate Change (2010).
+62 http://www.foresight.gov.uk/OurWork/ActiveProjects/climatechange/climatechangeprojecthome.asp
+63 Biesbroek et al. (2010).
+64 House of Commons Environmental Audit Committee (2010 p.28-29).
+65 Cabinet Office (2010).
+66 Local Government Association (2010 p12-14).
+67 Tompkins et al. (2010).
+
+Progress in adapting to climate change
+
+
+
+
+38 Adaptation Sub-Committee
+
+There is already evidence that local authorities lack sufficient capacity in priority 
+adaptation areas. For example, a number of studies suggest the complexity of adapting may 
+exceed the current capability and capacity of planners and planning departments.68,69
+
+Figure 3.3: Percentage of local authorities at different stages of NI 188 from 2008-2010. 
+The data presented includes results from county councils and unitary authorities. 
+
+Level
+
+
+%0: 
+
+Getting
+started
+
+
+102030405060
+
+1: Public
+commitment
+and impacts
+assessment
+
+
+2:
+
+Comprehensive
+risk assessment
+
+
+3:
+
+Comprehensive
+
+action plan
+
+2008–9
+
+
+4:
+
+Implementation,
+monitoring and
+
+continuous
+review
+
+2009–10
+
+Graph to show the percentage of local areas (unitary and upper tier authorities)
+at each level in 2008–09 and 2009–10
+
+Source: Communities and Local Government data hub.
+
+Adaptive capacity in key delivery bodies 
+To date there has been no comprehensive evaluation of whether there is sufficient 
+adaptive capacity in delivery bodies (i.e. public sector agencies, regulators and businesses) 
+working in priority areas. While the evidence available suggests capacity is improving it still 
+appears insufficient for many organisations to take adaptation decisions (see Section 3.2b).
+
+In the business sector, survey data suggests that capacity is low. For example, an 
+assessment of 350 FTSE-listed companies found that in general adaptation is an unexplored 
+corporate issue, even though 87% believed they were exposed to climate change risk.70  
+The FTSE 350 survey concluded that the water sector is ahead of other sectors (see also  
+Section 3.2b). A survey of environmental managers cited the biggest barriers to progress  
+as lack of resources, lack of engagement and lack of understanding of the nature and risks  
+of climate change.71 
+
+In the natural environment sector, there are various capacity building programmes  
+either in place or being developed. For example, Natural England is advising farmers and 
+land managers on measures that deliver adaptation benefits for biodiversity.
+
+68 The Town and Country Planning Association (2009a, b) reviewed six previous studies and conducted a workshop with 29 planners to inform a Royal 
+Commission on Environmental Pollution report on adaptation (RCEP, 2009). The Town and Country Planning Association (2009a, p4) concluded that, 
+“the complexities of implementing adaptation across stakeholders from different sectors, parallel strategies and plans, and organisational structures and 
+hierarchies in the context of significant planning reforms have surpassed the capability and capacity of planners and planning departments”.
+
+69 Communities and Local Government (2010).
+70 Acclimatise (2009). This report analysed information disclosed to the Carbon Disclosure Project by FTSE 350 companies on adaptation.
+71 Institute of Environmental Managers and Assessment (2009).
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 39
+
+There is an increasing recognition that professional bodies can play an important role  
+in providing their members with the capacity to adapt. There are some examples of efforts 
+to raise adaptive capacity targeting these bodies:
+
+•	 The	Institute	of	Civil	Engineers	conducted	a	review	of	skills	for	flood	risk	management.72 
+Climate change was one of the main motivations for the review. Since then the Environment 
+Agency has taken a lead in encouraging civil engineering degrees to encompass flood risk;
+
+•	 UKCIP	has	worked	with	other	professional	groups	to	develop	the	knowledge	and	skills	
+required to evaluate climate change risks and opportunities and instigate adaptive action;73 
+
+
+and
+
+•	 The	National	Farmers’	Union	and	the	Country	Land	and	Business	Association	have	been	
+working together to raise awareness of climate change impacts and opportunities for 
+agriculture through the Farming Futures initiative. In a recent survey, 80% of farmers 
+thought the climate was changing, 70% believed these changes offered them advantages, 
+and 50% felt they presented some threats.74
+
+It will be important to maintain this momentum and broaden efforts to other priority 
+areas. For instance, in the health and social care sector, a recent survey found that over 50%  
+of organisations had only just begun or had not even started to look at the threats of current 
+and future climate.75 
+
+3.2b Delivering outcomes – decision-making
+
+This section examines whether climate change is being incorporated systematically 
+into decision-making in priority areas. Chapter 2 laid out a structured approach to making 
+adaptation decisions in the face of uncertainty, which involves the following key steps: 
+
+1. Set out what outcome is desired (see also section 3.1).
+
+2. Assess the vulnerability of this outcome to current and future climate scenarios.
+
+3. Determine what adaptation measures are available. Implement low-regrets options that 
+reduce current vulnerability or deliver co-benefits. Evaluate and compare other adaptation 
+options using formal policy appraisal.
+
+First we assess central government decision-making by reviewing how climate change risks are 
+incorporated into Departmental Adaptation Plans and policies in priority areas. Then we briefly 
+examine how government policy influences adaptation decisions made by delivery bodies in 
+priority areas of land use planning, providing national infrastructure, designing and renovating 
+buildings, managing natural resources, and emergency planning. 
+
+Decision-making in central government
+The Treasury Green Book supplementary guidance on adaptation sets out a structured 
+decision-making process, which focuses on the need to take a flexible approach and 
+identify low-regrets adaptation options.76 This guidance was published in 2009. The extent 
+to which it is used in policy appraisals to inform decisions in Government is not yet clear.  
+In the Departmental Adaptation Plans, thirteen departments reference the guidance and six 
+
+72 Institute of Civil Engineers (2004).
+73 See for example, Institute of Environmental Management and Assessment (2009). 
+74 http://www.farmingfutures.co.uk
+75 This data comes from Defra (2010a), but only included 25 organisations working in the health sector.
+76 Defra and HM Treasury (2009). 
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Progress in adapting to climate change
+
+
+
+
+40 Adaptation Sub-Committee
+
+departments make a commitment to using it, but we found no evidence that the guidance  
+had been used to inform a specific options appraisal to date. Defra are currently reviewing  
+the application of the Green Book supplementary guidance.
+
+The Departmental Adaptation Plans mapped out the risks from climate change to their 
+objectives. But, in many cases, departments did not know the costs and damages of 
+current weather events in areas for which they had responsibility and there was mixed 
+understanding of the scale of risks climate change represents. For instance, none of the 
+plans demonstrated a good understanding of the scale of the climate risks to critical national 
+infrastructure (energy or transport). This makes it difficult to build the business case for whether 
+or not adaptation is required. This is in part due to limits with existing impact models and the 
+resulting lack of evidence on the climate risks. Many departments were looking to the Climate 
+Change Risk Assessment to help fill this information gap.
+
+In areas where the climate change risk is known to be high, departments are embedding 
+climate change within their decision-making. An important output of government 
+decision-making is policy, so we looked to see whether policies in areas that are 
+adaptation priorities are considering climate change. One example of where this is 
+occurring is Defra’s policy for managing both flood risk and water supply.77 Communities and 
+Local Government has also taken steps to embed adaptation into national planning policy 
+guidance for local development plans and decisions on Nationally Significant Infrastructure 
+Projects.78 To date, draft National Policy Statements have been produced for energy and 
+ports, both of which include a requirement to consider climate risks, particularly flooding and 
+sea level rise. The Cabinet Office has published plans to make critical national infrastructure 
+resilient to current flood risk.79 Table 3.1 sets out some key examples of how climate risks are 
+being integrated into central government decision-making.
+
+77 Flood and Water Management Act (2010). 
+78 For example, Planning Policy Statements 1 and 25 and in the draft National Policy Statements on energy and ports.
+79 Cabinet Office (2010).
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 41
+
+
+Table 3.1 – Examples of how climate change risks are being incorporated into central government policies within priority areas for early action. Note – this table is a starting point for deeper analysis, not a comprehensive review. Priority areas Mechanism How does the mechanism incorporate climate change?Recent or planned reforms Land use planning National planning policy guidance Planning Policy Statement 25: aims to locate development away from flood areas and prevent inappropriate development in areas at high risk of flooding whenever possible. When development in flood risk areas is considered necessary, it aims to ensure this is resilient to the flood risks expected during its lifetime. This is achieved through guidelines which incorporate increased risks from climate change (e.g. that peak river flows could be 20% greater by 2025). Planning Policy Statement 1: has a supplement on Planning and Climate Change. This sets out how planning to provide new homes, jobs and infrastructure should help shape places that are resilient to climate change:•		regional	planning	bodies	should	bring	forward	adaptation	options for existing development in likely vulnerable areas;•		adaptation	and	mitigation	should	not	be	considered	independently of each other, and new development should be planned with both in mind. In the Coalition Agreement the Government stated that it will publish and present to Parliament a simple and consolidated national planning framework covering all forms of development. It will make an announcement on how it proposes to take forward the national planning framework and the implications for specific areas of planning policy including how to meet the Water Framework Directive requirements. Providing national infrastructure Planning Act 2008Nationally Significant Infrastructure Projects decided by the Infrastructure Planning Commission (IPC) on the basis of National Policy Statements for key types of nationally important infrastructure (energy, transport, etc). Draft National Policy Statements on energy and ports require proposed major infrastructure projects to take into account future climate projections. The role of the IPC is under review. The Government will shortly provide further details of its plans for major infrastructure. National Policy Statements on energy infrastructure will be published in the Autumn for another round of consultation and Parliamentary scrutiny with a view to bringing them forward for ratification by Parliament in Spring 2011. Sector Resilience Plans Set out the current level of resilience of critical national infrastructure and essential services to natural hazards (currently flooding). For instance in the energy sector these consider the protection of electricity and gas networks to current flooding risks. Sector Resilience Plans in the energy sector are being extended to cover existing power stations and other natural hazards (storms/gales, heavy snow/low temperatures, heatwave and drought in addition to flooding) by end of 2010.
+
+
+Progress in adapting to climate change
+
+
+
+
+42 Adaptation Sub-Committee
+
+
+80 
+
+
+80 While our priority action area is defined as designing and renovating, there is very little work targeted at renovating buildings.
+
+Chapter 3
+
+
+Table 3.1 – Examples of how climate change risks are being incorporated into central government policies within priority areas for early action. Note – this table is a starting point for deeper analysis, not a comprehensive review. Priority areas Mechanism How does the mechanism incorporate climate change?Recent or planned reforms Designing buildings80Building Regulations and Standards Builders are required to consider heat gain and loss, under Part L of the building regulations. The Government is considering if further changes are needed to ensure the Building Regulations continue to operate effectively. This will inform planned changes in 2013. Minimum water efficiency standard of 125 litres per person per day for all new homes (compared to the current national average of approximately 150 litres per day). Future reforms will be informed by the Water White Paper (see below). Code for Sustainable Homes The Code for Sustainable Homes sets non-mandatory standards for energy efficiency and sustainability, going beyond what is required by building regulations. These have been adopted for the development of new social housing. Climate change adaptation relevant aspects include minimum standards for energy and water use at each level and a requirement for sustainable urban drainage in larger social housing developments. Consultation on the Code for Sustainable Homes. This was launched in January 2010 to seek views on updating the code in 2013. It covers a range of issues, which are relevant to adaptation, such as overheating of buildings. Managing natural resources Water Framework Directive (WFD)River Basin Management Plans have regard for climate change adaptation. They consider the change in risk, due to climate change, of not achieving the WFD objectives. River Basin Management Plans to be reviewed in 2015 and updated thereafter. Water Industry Act 1991 and Flood and Water Management Act 2010A water undertaker may restrict the use of water (e.g. use of hosepipes) during or before predicted serious water shortages. Water companies must prepare Water Resources Management Plans that describe how they will maintain a supply/demand balance over a 25 year period, taking into account future pressures such as climate change. Sustainable drainage systems must be considered for new developments and re-developments to help prevent surface run-off overloading the sewer system. Water White Paper (see below) Ofwat leakage targets to qualify water company duty Sets individual water company annual targets for the maximum extent of leakage. Methodology for target setting reviewed and updated to take better account of social and wider environmental impacts. 
+
+
+How well prepared is the UK for climate change? 43
+
+81 82
+
+81 Defra (2010).
+82 Smithers et al. (2008).
+
+Progress in adapting to climate change
+
+
+Table 3.1 – Examples of how climate change risks are being incorporated into central government policies within priority areas for early action. Note – this table is a starting point for deeper analysis, not a comprehensive review. Priority areas Mechanism How does the mechanism incorporate climate change?Recent or planned reforms Managing natural resources(continued)Ofwat water efficiency targets to qualify water company duty Sets individual water company annual targets for the minimum amount of water to be saved through water efficiency activity. Target setting to be reviewed towards end of target period 2010/11 – 2014/15. Future Water Strategy (2007)Sets out the previous Government’s strategy for water policy and management to 2030. A Water White Paper is due to be published in June 2011.81  This will focus on the future challenges facing the water industry and will look to ensure that the UK has a sustainable water resources system in place that is resilient to the impacts of climate change. It should provide a framework to encourage water efficiency amongst the water industry and water consumers. UK Biodiversity  Action Plan Adaptation principles established.82UK Biodiversity Action Plan targets will be reviewed after the October 2010 conference of the Convention on Biological Diversity in Nagoya, to update them where necessary and ensure they are sufficiently robust to cope with climate change. Defra has been working to mainstream climate change within England’s Biodiversity Strategy. Progress is to be reviewed, and if necessary any further measures/support mechanisms will be incorporated into a new England strategy which will also reflect on the outcomes of the CBD meeting and Lawton Review. Sites of Special Scientific Interest (SSSI) designation and condition monitoring Some flexibility in notification process for coastal sites to reflect changes as a result of sea level rise. The Lawton review (due mid September 2010) is examining the adequacy of England’s ecological network, which is underpinned by SSSIs, and will be recommending policy changes to cope with pressures on the system including those from current and future climate. Promotion of green spaces and the permeability of landscapes are likely to be a core provision in the Natural Environment White Paper, currently being drafted by Defra. Natural England is currently considering how well the existing network of SSSIs will be able to respond to climate change. Emergency planning Civil Contingencies Act 2004 (CCA)NHS Emergency Planning guidance, issued under the CCA, requires all NHS organisations to prepare plans for adverse events.
+
+44 Adaptation Sub-Committee
+
+Incorporating climate change into decision-making in key delivery bodies 
+There is evidence that the decision-making of some key delivery bodies is incorporating 
+climate change, however, this is rare. 
+
+Defra now mandate that new flood defences consider sea level rise and future changes 
+in river flows.83 Policy and practice in flood risk management involves a strategic approach 
+that manages risks on a broad scale (in catchments, estuaries and coasts) and over extended 
+timescales. The Flood and Water Management Act (2010) has further strengthened the 
+strategic overview provided by the Environment Agency for flood risk management. The 
+Environment Agency’s long term investment strategy presents options for adaptation of flood 
+defence infrastructure in the face of a changing climate.84
+
+Climate change is a key consideration in the water industry.85 However, there is mixed 
+evidence of whether key investment decisions are incorporating risks from climate 
+change appropriately. Water companies are investing to conserve water supplies, improve 
+urban drainage and increase the resilience of critical infrastructure.86 These are all priorities for 
+early action. They have already produced 25 year Water Resource Management Plans, which 
+appraise options for balancing water supply with demand and explicitly consider climate 
+change.87 These are a good start to ensuring that adaptation action is proportionate, but 
+ideally should cover the lifetime of the investment.88 Some of the processes by which climate 
+change is factored into decision-making are not publicly available, so it is not possible for us to 
+determine how robust these decisions are, or to understand how current returns are traded off 
+against the often longer term benefits of adaptation. The real test of the effectiveness of these 
+decisions and the regulatory framework in which they operate will be their translation into 
+proportionate adaptation actions and investments.
+
+There is less evidence of climate impacts being considered in the energy and transport 
+sectors, although key regulators and businesses in these sectors are subject to the Reporting 
+Power, which will require many of these delivery bodies to report on their adaptation plans.
+
+•	 The	Acclimatise	Index	of	Adaptation	looks	at	how	FTSE	350	companies	understand	the	risks	
+and opportunities from climate change. In 2008, transport and energy companies scored 
+lower than the cross-sectoral average, on this index. However, anecdotal evidence suggests 
+that some transport and energy companies are considering the impacts of climate change 
+(for example Network Rail).89
+
+•	 The	energy	sector	has	taken	steps	to	understand	and	reduce	vulnerability	to	current	climate	
+variability. For instance, the Energy Networks Association has worked with the electricity 
+sub-sector to develop methods to identify flood risk and there is a provision for investment in 
+flood defences in price controls on the electricity transmission and distribution networks.90
+
+We have not found substantive evidence that local authorities are systematically 
+incorporating climate change into their local development policies. We are more confident 
+that local authorities are taking flood risk into account in development control decisions. 
+Adaptation to risks other than from floods is rarely considered, meaning that local planning 
+decisions are missing opportunities to adapt in ways that would bring immediate benefits.
+
+83 Defra (2006).
+84 Environment Agency (2009b).
+85 Ofwat (2010) Arnell and Delaney (2006).
+86 Ofwat (2009).
+87 A summary of the regulations requiring water companies to prepare Water Resource Management Plans is available at: http://www.defra.gov.uk/
+
+environment/quality/water/resources/planning/index.htm#2
+88 Environment Agency (2009c) indicated that the current 25 year timeframe for Water Resource Management Plans is too short to properly appraise climate 
+
+change adaptation options in the water sector.
+89 Confederation of British Industry (2010).
+90 Cabinet Office (2010).
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 45
+
+•	 Local development planning policy is not adequately considering adaptation. While 
+nearly all local planning authorities have undertaken a strategic flood risk assessment to 
+inform local plans, only a minority of plans recommend effective adaptation measures91 
+and these assessments exclude other climate risks like heatwaves. It is important that 
+impetus for adaptation in local authorities is maintained because development has far-
+reaching consequences. A strategic approach is needed, both to avoid increasing the UK’s 
+vulnerability to climate change and to prevent adaptation from becoming more difficult 
+in future. It has been shown that strategic land use planning can also have adaptation 
+benefits, for instance reducing flood risks by more than half. Furthermore, an analysis of the 
+application of the climate change policies in the supplement to Planning Policy Statement 1 
+suggests that uptake is patchy. The authors conclude that adaptation remains a novel 
+consideration and is poorly understood. 92
+
+•	 Elements of strategic planning such as Shoreline Management Plans and Catchment 
+Level Management Plans are more advanced. There have also been early moves to 
+develop a process for surface water management. 
+
+•	 There is good evidence that local development control decisions are taking flood 
+risk into account, driven by Planning Policy Statement 25. In 2007-2008, where the 
+Environment Agency objected to planning applications on flood risk grounds and where 
+local authorities advised the Environment Agency of the outcome, the objections were 
+upheld on 96% of occasions.93 For the decisions where the Environment Agency objects, 
+over two-thirds arise because the applicant has not submitted an adequate flood risk 
+assessment.94
+
+There are early signs that climate change is being incorporated into Nationally Significant 
+Infrastructure planning decisions. 
+
+•	 The Infrastructure Planning Commission (IPC) was made responsible for processing 
+applications for Nationally Significant Infrastructure Projects under the Planning Act 2008. 
+At the time of writing this report, 19 projects had submitted scoping proposals to the 
+IPC. Although the IPC had not yet taken any decisions, their responses to these scoping 
+proposals showed some evidence that climate change would be taken into account in their 
+approval process. For instance, in several cases – the energy from waste generating station 
+near Stewartby, the nuclear power station at Hinckley Point, the biomass power stations 
+near Blyth and in Hull Harbour – the IPC asked applicants to consider the risks of flooding 
+from current and future climate.95 When the full applications are processed it will be 
+important to understand how climate change risks are evaluated alongside other drivers. 
+
+•	 The future of both the IPC and the regional planning tier, including Regional Spatial 
+Strategies, are currently under review. The bodies previously responsible for delivering 
+regional planning (regional development agencies and government offices) are being closed. 
+Future delivery arrangements will need to ensure clear responsibility and enable cooperation 
+to consider adaptation at a landscape scale. We discuss this further in Chapter 4.
+
+Adaptation principles and guidance have been developed in the biodiversity conservation 
+sector. These encourage an increasingly dynamic and flexible approach to conservation, as well 
+
+91 Communities and Local Government (2009, p.4).
+92 Association of British Insurers (2005).
+93 Environment Agency (2009d). Guidance was rejected by Local Planning Authorities on 100 occasions, including 16 major developments when Environment 
+
+Agency advice was doubted or considered unreasonable on 8 occasions and previous developments set the precedent on 3 occasions (Environment Agency, 
+2009e). The Environment Agency is currently finalising statistics for 2008-9 with Local Authorities but has indicated that their guidance was followed at 
+similarly high levels to 2007-8. Notably, this is considerably higher than in 2003-4 when Environment Agency guidance was only followed by local planning 
+authorities on 77.5% of occasions (Environment Agency, 2004).
+
+94 Communities and Local Government (2010).
+95 As of writing (August, 2010), the IPC has published 10 responses. Examining a sample of 4 responses showed that the IPC recommended that climate change 
+
+adaptation be included within Environmental Impact Assessments, a suggestion also made by the OECD (Agrawala et al., 2010). 
+
+Progress in adapting to climate change
+
+
+
+
+46 Adaptation Sub-Committee
+
+Chapter 3
+
+as highlighting the importance of addressing existing (non-climate) pressures such as pollution, 
+agricultural intensification, development and freshwater abstraction.96 
+
+There is partial evidence that decisions on conservation policy and practice are 
+considering climate change. For example, some conservation objectives have been amended 
+to reflect the changes in habitat type and species composition resulting from sea level rise97 
+and some organisations are starting to employ adaptive approaches to planning and delivery. 
+Further examples are provided in Box 3.2. Furthermore, a considerable evidence base continues 
+to be developed to help inform decision-makers and practitioners ranging from observation of 
+impacts of climate change on biodiversity and ecosystems, modelling future responses under 
+different climate and management scenarios, to designing and implementing interventions to 
+test their effect. 
+
+It is not clear how adaptation principles are being incorporated into the Biodiversity 
+Action Plan process, which is the main delivery mechanism for nature conservation. 
+However, Defra is currently commissioning a review of progress with embedding climate 
+change into biodiversity policy in England and the forthcoming Lawton Review is likely to offer 
+suggestions on the broad changes needed to make the UK’s ecological network (including 
+designated areas) more resilient to current and future climate. This will help assess the potential 
+value of undertaking a systematic review of conservation policy and practice to ensure it can 
+cope with the implications of climate change. 
+
+Box 3.2: Decision-making in the natural environment sector
+
+Several nature conservation bodies are assessing ways to meet the UK’s conservation 
+objectives as the climate changes, for example:
+
+Natural England (as Defra’s lead delivery body on the natural environment) is assessing 
+climate risks to its objectives and identifying appropriate responses. This includes the 
+way it delivers its advisory and land management programmes. Natural England research 
+examining the effectiveness of different adaptation measures for biodiversity will be 
+published in 2011.
+
+The Royal Society for the Protection of Birds (as a key non-governmental delivery body) 
+is modifying its existing reserve management planning system to take better account of 
+the projected impacts of climate change. This builds on an ongoing programme to increase 
+the resilience of their network of nature reserves. Implications of projected changes in 
+temperature, water availability and growing season length are now included in each reserve 
+management plan. Changes to the reserves’ management objectives, and the ability to 
+achieve them, will be tracked. This is enabled with guidance describing the likely impacts of 
+climate change on priority species and habitats, and the types of actions that should help 
+mitigate the most damaging impacts of climate change on these.
+
+3.2c Delivering adaptation outcomes – timely actions
+
+This section examines evidence of timely action by organisations, businesses and 
+individuals that will tangibly reduce the UK’s risk to climate change. 
+
+The minimum we would expect from a society that is adapting well is that low-regrets 
+adaptation options are being implemented. Chapter 2 explained that although there are 
+
+96 Hopkins et al. (2007) and Smithers et al. (2008).
+97 For example, Porlock Ridge Site of Special Scientific Interest (SSSI) in the Severn Estuary was originally designated as a freshwater habitat. Storms in 1990 
+
+resulted in the shingle ridge being breached and the inundation of seawater. Following a further storm event in 1996, the management of the site changed  
+to slowly allow saltmarsh to form. The designation has since been formally renotified as one the largest saltmarsh habitats on the estuary.
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+
+
+
+How well prepared is the UK for climate change? 47
+
+Progress in adapting to climate change
+
+many ways to adapt to climate change, it makes sense to take low-regrets options now because 
+they deliver immediate benefits and are favourable whatever future climate unfolds. Other 
+adaptation options require a more sophisticated decision-making process to determine their 
+suitability. And therefore, the ASC would need a more comprehensive sector by sector analysis 
+to determine whether proportionate action beyond low-regrets was happening. Instead, we 
+looked for illustrative examples that low-regrets measures are being taken up as this provides 
+an important index of progress (see Table 3.2).
+
+The Departmental Adaptation Plans provided pockets of evidence that these types  
+of adaptation have started to occur. For instance:
+
+•	 improvements	are	being	made	to	increase	the	resilience	of	the	electricity distribution 
+network to flooding;
+
+•	 an	early	warning	system	has	been	put	in	place	to	alert	health	and	social	care	providers	to	
+heatwaves; and
+
+•	 water meters have been installed in 37% of households, which has been shown to reduce 
+water usage.
+
+The plans outline policies, programmes, measures and initiatives to enable the 
+uptake of adaptation options. But there is little evidence to show that these are as yet 
+systematically delivering proportionate action on the ground. This makes it difficult to 
+judge the effectiveness of adaptation plans in enabling timely action. For instance: 
+
+•	 Property-level flood resistance measures98 such as door guards can be cost-effective  
+in areas of high flood risk. Defra has made £5 million available for the installation of 
+resistance measures in high risk homes. The acid test of progress will be the widespread 
+installation of flood resistance measures in high risk areas where community-scale flood 
+defences are uneconomic.99
+
+•	 Sustainable drainage systems can alleviate the risk of surface water flooding which 
+currently threatens 2.8 million homes in England and Wales.100 The Flood and Water 
+Management Act 2010 should enable the uptake of sustainable drainage by giving local 
+authorities responsibility for managing surface water flood risk, limiting the right for new 
+developments to automatically connect to sewers, and encouraging developers to include 
+sustainable drainage in new developments where appropriate. The acid test will be that 
+more sustainable drainage is being deployed and that surface water flood risks are reduced;
+
+•	 Landscape-scale biodiversity conservation based on an approach that enhances 
+connections between habitats can reduce the vulnerability of the natural environment to a 
+range of pressures, including climate change. As a first step, existing habitat networks and 
+potential for enhancements are being mapped across the UK. The acid test of progress will be 
+the widespread delivery of targeted measures on the ground, such as habitat restoration and 
+creation, that will maintain and expand these networks.
+
+Other reviews examining activity on adaptation to date have found little evidence that 
+action is occurring. For instance, reporting by local authorities under NI 188 (see section 3.2a, 
+particularly Figure 3.3) and by FTSE 350 companies through the Carbon Disclosure Project 
+show that few organisations are yet implementing adaptation plans. Similarly a review by 
+Tompkins also found very few examples of adaptation actions occurring.101
+
+98 Environment Agency (2009b).
+99 Harries (2008).
+100 Environment Agency (2009e).
+101 Tompkins et al. (2010).
+
+
+
+
+48 Adaptation Sub-Committee
+
+102 103 104 105 106 107 108 109 110 111 
+
+102 Pitt (2008a).
+103 Environment Agency (2009f). Statistics for 2008-2009 are currently being finalised, but the Environment Agency expects similar levels of performance.
+104 Shaw et al. (2007).
+105 Greater London Authority (2010), TEP (2005), Chris Blandford Associates (2010).
+106 Environment Agency (2009e).
+107 Cabinet Office (2010).
+108 Pitt (2008).
+109 Flood and Water Management Act 2010 (2010).
+110 Chartered Institution of Building Services Engineers (2005).
+111 Technology Strategy Board (2010).
+
+
+Table 3.2: Examples that illustrate progress in the uptake of low regrets adaptation measures. Priority areas Low-regrets action What do we know has happened?Land use planning Locate new, long lived assets in areas that minimise flood risks. As recommended in the Pitt Review.102Local authorities followed Environment Agency guidance on new developments in 96% of cases in 2007-2008.103Include green space (or ‘green infrastructure’) in planning for the built environment. Reduces the urban heat island effect, improves surface water drainage and provides other benefits such as improved air quality.104Green Infrastructure Strategies are in place or being developed in many urban areas, for example London, Liverpool, Manchester and Milton Keynes.105 Providing National Infrastructure Improve the resilience of infrastructure to current climate variability. Many critical national infrastructure sites are vulnerable to flooding today. For instance, over 7,000 electricity infrastructure assets are located in flood plains106 – 50 are critical to electricity supply and at risk of flooding.107Ofgem have made £112 million available from 2010-2015 for reducing addressing flood risks to electricity distribution assets. Designing and renovating buildings Deploy sustainable drainage systems. Existing drainage systems are susceptible to overloading during periods of heavy rain. Sustainable drainage helps alleviate this problem.108The Flood and Water Management Act 2010 gives local authorities responsibility for managing surface water flood risk, limits the right for new developments to connect to sewers and encourages the uptake of sustainable drainage.109 Defra’s 2008 Water Strategy restricts rights for paving over front gardens as they increase the risk of surface water flooding. Design and renovate properties so that they are suited to current and future temperatures. Many new and existing buildings are already vulnerable to overheating, and this is likely to get worse as temperatures increase this century.110 Building regulations require new building developments to consider heat and solar gain as part of energy efficiency, but do not directly address the impact of overheated buildings on the health and comfort of occupants. The Technology Strategy Board plans to spend £5 million to develop adaptation strategies for new and existing buildings  in the UK.111 
+
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 49
+
+112 113 114 115 116 117 118 119 120 121
+
+112 Entec UK and Greenstreet Berman (2008).
+113 Pitt (2008).
+114 Defra (2010d).
+115 Walker (2009, p74).
+116 Ofwat (2010).
+117 Hopkins et al. (2007), Smithers et al. (2008).
+118 Natural England (2008).
+119 The Wildlife Trusts (2010).
+120 Royal Society for the Protection of Birds (2010).
+121 However, there is some evidence that more vulnerable, elderly, groups may not take appropriate action because they do not perceive themselves to be at risk 
+
+from heat (Wolf et al., 2010).
+
+
+Table 3.2: Examples that illustrate progress in the uptake of low regrets adaptation measures. Priority areas Low-regrets action What do we know has happened?Designing and renovating buildings Install property level flood resistance measures in homes facing high risks of flooding. Ensure flood damaged buildings are repaired to be resilient to current and future climate risks. Benefits of installing flood resilience measures are likely to outweigh the costs for properties with a 2% annual chance of flooding, when repairs or refurbishments are needed anyway.112 Resilience measures are cost beneficial at lower risk levels in some instances.113Defra has provided £5.6 million to fund the installation of flood resistance measures in high risk homes – focused on keeping water out of properties.114 The ABI have produced advice on resilient repair which was distributed to all flooded policy holders in Cumbria. ABI also agreed to survey members about their experiences of resilient repair uptake following the November 2009 floods in Cumbria.  A report is expected in late September 2010. Managing natural resources Improve water efficiency and reduce water usage. Charging for water on a volumetric basis through water meters has shown to reduce average household water demand by 16% in some studies.115 This is also a pre-requisite to measures like variable tariffs that can enable demand reduction.  37% of households in England and Wales are currently metered.116 Maintain and enhance ecological networks at the landscape-scale through habitat protection, restoration and creation. Ecological networks that improve connectivity at the landscape-scale will assist species dispersal, help reduce the vulnerability of biodiversity and maintain the ability of ecosystems to deliver goods and services.117Reduce other sources of harm to biodiversity (e.g. pollution, abstraction from rivers, agricultural intensification) so that  species populations are more resilient and able to cope with climate change. Natural England has developed an approach to mapping habitat networks at the landscape scale and identifying opportunities to enhance them. It is targeting its delivery of Environmental Stewardship (an agri-environment scheme funded through the EU Common Agriculture Policy) in those areas.118Several national initiatives are being driven by NGOs to identify viable landscape scale conservation projects. For example Living Landscapes from the Wildlife Trusts119 and Futurescapes from RSPB.120Emergency response Protect vulnerable people during heatwaves. The elderly are particularly vulnerable to high temperatures. There are some simple steps, such as drinking water and spending time in cool rooms that can reduce the chances of morbidity. The Department of Health’s heatwave plan has four response levels triggered by Met Office forecasts. This information is relayed to relevant care providers and the general population, with supporting communications on protection measures.121
+
+
+Progress in adapting to climate change
+
+
+
+
+50 Adaptation Sub-Committee
+
+3.3 Policy enabling delivery
+
+This section reviews evidence to assess the extent to which the current policy landscape 
+is enabling organisations to move up the ASC’s preparedness ladder. Chapter 2 (Box 
+2.3) describes the role that policy can in theory play to enable the delivery of adaptation by 
+removing barriers and incentivising action.
+
+Our analysis in this chapter shows that despite continued efforts to build capacity, there 
+is little evidence of decision-making incorporating risks from current and future climate, 
+and even less of tangible action to respond to these risks. We find that key barriers remain 
+in place, many of which could potentially be removed through the use of various policy 
+instruments such as incentives, regulation and the provision of better information. 
+
+Removing Barriers
+We have identified a number of existing barriers that could limit the uptake of 
+adaptation measures. A recurring issue is insufficient and/or inadequate information to 
+help understand the uncertainties of climate risk (see Box 3.3). A lack of information makes it 
+difficult to make the business case for adaptation, which can be a significant barrier for long-
+term investment decisions in the infrastructure sector.122 This may explain why responsibility 
+for managing climate risk is generally not assigned to senior decision-makers.123 This barrier 
+can generally be overcome either by providing better information or better tools to aid 
+decisions under uncertainty.
+
+Box 3.3: Example of lack of information acting as a barrier to adaptation
+
+In our analysis, Departments generally understood the UKCP09 climate projections, but 
+were unable to evaluate with any precision the risks posed by current and future climate to 
+meeting their objectives. This made it harder for departments to compare climate change 
+with other risks, undermining the business cases for taking adaptation action. 
+
+Information about some types of climate risks is not available, such as for surface water 
+flooding or for possible changes to wind speed. For example, the Department of Energy and 
+Climate Change was not able to estimate the potential risk to future wind power capacity, 
+which could have potentially significant implications for its current departmental objectives.
+
+There is evidence that many businesses do not think they have access to adequate weather 
+data and climate projections, preventing them assessing risks from current and future 
+climate. The CBI has recently expressed concern about the accessibility of the UKCP09 data 
+and the ability of businesses to use the information. They call for more robust and accessible 
+climate data for businesses.
+
+Sources: Lloyds (2010), BERR (2008 p52), BIS (2010 p9), The Geneva Association (2009 p7), CBI (2010).
+
+Understanding climate risks is not necessarily enough to prompt businesses and 
+individuals to take timely action. A recent survey of businesses in the North East found that 
+only about 10 – 41% were reducing risks from current climate, even though 61% had been 
+affected by extreme weather in the last two years.124 About 60% of those households located 
+in flood risk areas within England and Wales claim to be aware of these risks. However, of these 
+
+122 Defra (2010b p5).
+123 This barrier was also cited both by West and Gawith (2005) and more recently by the Institute of Environmental Management and Assessment (2009).
+124 Climate North East (2010).
+
+Policy OutcomeTimely 
+action
+
+Decision-
+making
+
+Capacity
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 51
+
+only 6% are taking preventative action to prepare and reduce possible damage,125 for instance 
+by installing door guards or air-brick covers.126 
+
+Other market and policy barriers may be preventing businesses and individuals from 
+taking up timely, low-regrets actions that will reduce their vulnerability to both current 
+and future climate. We have found evidence of a mixture of regulatory, institutional and 
+behavioural barriers that are likely to be preventing the uptake of a range of adaptation 
+measures. Some examples include:
+
+•	 the	uptake	of	sustainable	drainage	systems	has	been	limited	due	to	uncertainties	regarding	
+the legal responsibility for their ownership and maintenance. However, as noted above,  
+this barrier may be removed through measures in the Flood and Water Management  
+Act (2010); and
+
+•	 the	design	of	insurance	products	does	not	always	support	property-owners	to	improve	
+the resilience of their homes even though this would also reduce expensive claims. This is 
+likely to be due to the risk of customers switching to another insurer, who can offer lower 
+premiums without funding these measures.127 
+
+Encouraging adaptation 
+In some priority areas there is little incentive to consider or take action on the risks  
+from current and future climate. A clear example is the retrofitting of existing building  
+stock to ensure it is able to cope with the current and future climate. There are currently 
+minimal incentives in place to encourage the sort of action needed, such as expanding 
+the capacity of the drainage network and improving the resilience of buildings to water 
+damage and heat stress.128 Mechanisms are potentially already available to incentivise action, 
+for example building regulations and professional standard setting, but they would only 
+deliver very slow change as and when renovations are made and so make a relatively small 
+contribution to retrofitting existing building stock. Other policy instruments may be required 
+to incentivise action, for example insurance premium rebates for flood resilience measures.
+
+Even where policies mention adaptation, they do not necessarily provide sufficient 
+incentives for organisations to take adaptation into account when compared with other 
+shorter-term priorities (see Table 3.1). We found only limited evidence that climate risks are 
+being evaluated fully or transparently alongside short-term priorities in areas where early action 
+is required.129 For example if investment decisions in regulated sectors cannot take into account 
+costs and benefits over the full lifetime of infrastructure, then this could be a significant barrier 
+to the uptake of adaptation measures. The CBI found that this could be a particular problem 
+where adaptation is not a regulatory driver in price-controlled sectors, such as in energy and 
+transport, and companies cannot pass on these costs.130 This is line with our own findings that 
+adaptation in these sectors is less advanced than in the water sector. There are some difficult 
+trade-offs. Ofwat needs to balance its responsibility for keeping water prices affordable with 
+pressures for greater investment in water efficiency measures to manage the projected increase 
+in drought risks, for example in water metering.131
+
+125 Ironically, this may be because acting forces people to accept they face a risk of flooding which would make them feel less secure (Harries, 2008). 
+126 Environment Agency (2009f). 
+127 This point is made in the Pitt Review (2008, p75). More recently, the Association of British Insurers have initiated research to investigate whether victims  
+
+of the 2009 floods in Cumbria repair their homes in ways which also increase resilience to future flooding. 
+128 Town and Country Planning Association (2007); Chartered Institute of British Service Engineers (2005).
+129 West and Gawith (2005) also cite, “inadequate incorporation of future climate in regulations, codes and standards” as a barrier discouraging adaptation action.
+130 Confederation of British Industry (2010).
+131 Waterwise (2010). 
+
+Progress in adapting to climate change
+
+
+
+
+52 Adaptation Sub-Committee
+
+Annex 3.1: Adaptation in the Devolved Administrations
+
+The main body of this report applies the ASC’s analytical framework as a first step to carrying 
+out its statutory duty to assess the UK Government’s Adaptation Programme. With the 
+exception of reserved matters, the Programme relates to England only, which is reflected in 
+the scope of this report. The Climate Change Act (2008) also contains a provision for the ASC 
+to provide advice and analysis, if requested, to Devolved Administrations on their adaptation 
+programmes. Scotland, Wales and Northern Ireland are each developing their own responses 
+to climate change (see below). The ASC will be discussing with the Devolved Administrations 
+the potential to apply its preparedness framework to these programmes in due course.
+
+Scotland’s Climate Change Act 2009 requires Scottish Ministers to lay an adaptation 
+programme before the Scottish Parliament setting out adaptation objectives and proposals 
+and policies to meet those objectives. It also places a statutory duty on public bodies to 
+exercise their functions in such a way that will help deliver the Scottish Government’s (SG’s) 
+statutory adaptation programme. The SG’s Adaptation Framework (2009),132 a non-statutory 
+forerunner to the programme, outlines actions to build resilience to climate change and 
+identifies 12 key sectors (e.g. water resource management, energy, emergency and rescue 
+services and biodiversity and ecosystems) to focus action. This is further supported by the 
+work of the Scottish Climate Change Impacts Partnership. All Scotland’s local authorities 
+(LAs) have committed133 to take steps to adapt to climate change and report annually on 
+progress, while the Scottish Environment Protection Agency, Scottish Natural Heritage, 
+Forestry Commission Scotland and Historic Scotland134 have collaborated on a joint statement 
+setting out their respective roles in adapting to climate change and promoting adaptation. 
+
+In Wales, research has scoped the potential impact of climate change across different sectors 
+out to 2080.135 The Welsh Assembly Government’s forthcoming Climate Change Strategy 
+features an Adaptation Framework that addresses vulnerability to climate change impacts 
+by building the evidence base, mainstreaming adaptation activity, communicating the need 
+for action and providing skills and tools necessary to build capacity. The Delivery Plan that 
+accompanies the Strategy contains 24 actions that will deliver the Framework. In the wider 
+public sector, the National Park Authorities, Fire & Rescue Authorities and all 22 unitary 
+authorities have signed the Welsh Commitment to Address Climate Change,136 while a pilot 
+project currently underway in four unitary authorities explores developing climate change 
+adaptation understanding and the impacts of climate change on strategy and service 
+delivery.137 It will report in 2011.
+
+To analyse and assess the risks of climate change in Northern Ireland, (i.e. on the natural 
+and built environment, social well-being and economic infrastructure) Northern Ireland’s 
+Department of the Environment commissioned ‘Preparing for a Changing Climate in 
+Northern Ireland’. Following a recommendation in the report, the Northern Ireland Climate 
+Change Impacts Partnership was set up in March 2007 to widen understanding of the 
+impacts of climate change within Northern Ireland and actions necessary to deal with it.  
+The Northern Ireland Assembly’s Environment Committee also recently reported on 
+its inquiry into climate change, recommending that Northern Ireland develop an 
+implementation strategy to address both mitigation and adaptation.
+
+132 133 134 135 136 137
+
+132 http://www.scotland.gov.uk/AdaptationFramework 
+133 http://climatechange.sustainable-scotland.net/
+134 http://www.sepa.org.uk/climate_change.aspx
+135 http://wales.gov.uk/topics/environmentcountryside/climatechange/tacklingchange/strategy/adaptation/changingclimate
+136 http://www.wlga.gov.uk/english/archive-of-reports9/welsh-commitment-to-address-climate-change/
+137 http://www.wlga.gov.uk/english/archive-of-reports9/changing-climate-changing-places/
+
+Chapter 3
+
+
+
+
+How well prepared is the UK for climate change? 53
+
+Annex 3.2: Departments that have lead responsibility or some responsibility in the  
+five priorities for early adaptation action. It does not include departments that have  
+no responsibilities in these priority areas.
+
+DEPARTMENT INVOLVEMENT WITH PRIORITY AREAS 
+(Land use planning, Providing national infrastructure,  
+Designing and renovating buildings, Managing natural resources,  
+Emergency planning)
+
+Lead responsibility Some responsibility
+
+Communities and Local 
+Government
+
+Land use planning 
+Building Regulations
+Fire and Rescue Service National 
+Framework 
+Local government 
+
+Land use planning
+Water
+
+Department for Environment, 
+Food and Rural Affairs
+
+Forestry
+Natural environment
+Water and floods
+Land management
+
+Department for Energy and 
+Climate Change
+
+Energy sector
+
+Department for Transport Transport sector
+
+Cabinet Office Emergency response
+Resilience of critical national 
+infrastructure
+
+Department of Health Emergency health care provision
+Hospitals (and associated 
+infrastructure)
+
+Department for Business, 
+Innovation and Skills*
+
+Telecommunications
+
+HM Treasury Infrastructure UK
+
+Department for Culture, Media 
+and Sports
+
+Olympics legacy 
+
+Department for Children, Schools 
+and Families
+
+Schools
+
+Department for Work and 
+Pensions
+
+Social Fund
+
+Ministry of Justice Police
+
+Home Office Prisons
+
+*Formerly known as BERR
+
+Progress in adapting to climate change
+
+
+
+
+54 Adaptation Sub-Committee
+
+Chapter 4: The ASC’s advice  
+on further adaptation action  
+and next steps
+
+4.1 Introduction
+
+The Climate Change Act 2008 sets the legal framework for adaptation policy in the UK. 
+
+It identifies two primary duties for the Adaptation Sub-Committee (ASC):
+
+1. provide independent advice to the UK Government and the devolved administrations  
+(if requested) on adaptation to climate change,138 and on the preparation of the Climate 
+Change Risk Assessment;139 and
+
+2. report annually to Parliament and the devolved administrations on progress made by the  
+UK Government towards implementing the National Adaptation Programme.140
+
+In line with these duties, this chapter is divided into two parts. In the first part, based on the 
+analysis in Chapter 3, we set out our initial advice to the Government on where further action 
+on adaptation is required to ensure the UK is preparing well for a changing climate. In the 
+second part, we set out the work we will undertake over the next year to develop a robust 
+framework for monitoring progress on adaptation, which we will use to fulfil our statutory  
+duty to report to Parliament. 
+
+4.2 The ASC’s advice on where action is required
+
+The ASC has found that the UK has started to build capacity in adaptation, with evidence 
+of information provision and growing awareness. However, from the evidence reviewed 
+we conclude that capacity building is not yet systematically translating into tangible 
+action on the ground to reduce the UK’s vulnerability to climate change. We advise that 
+further action is required by public sector agencies, businesses and individuals, beyond capacity 
+building. Barriers to adaptation must be removed and appropriate incentives introduced that 
+will enable public sector agencies to take timely action to reduce the risks and take advantage 
+of the opportunities from climate change.
+
+Local authorities, public sector agencies, regulators, businesses and relevant professional 
+bodies all have essential roles to play in ensuring that the UK is preparing adequately 
+for a changing climate. Adaptation will more often than not be a local activity in response 
+to locally specific climate risks and opportunities. The analysis illustrates that a considerable 
+number of local authorities, businesses and other organisations have either not started or only 
+
+138 Section 38 (1) of the Climate Change Act 2008.
+139 Section 57 (1).
+140 Section 59 (1).
+
+
+
+
+How well prepared is the UK for climate change? 55
+
+just started to build the necessary capacity on adaptation. The results from National Indicator 
+188 (discussed in Chapter 3) further show that even though some local authorities are starting 
+to consider climate risks, none are at the stage of implementing adaptation plans. In the  
+ASC’s view:
+
+•	 local	authorities	need	to	focus	efforts	on	moving	up	the	ladder	to	deliver	adaptation	
+measures by building an understanding of their vulnerability to current and future climate 
+and embedding adaptation into their risk management functions; and
+
+•	 businesses	and	relevant	professional	bodies	should	take	climate	change	into	account	
+for long-lasting decisions and in the setting of relevant standards and specifications. 
+The Adaptation Reporting Power will be an important mechanism for encouraging and 
+promoting structured decision-making by key delivery bodies over the next few years.
+
+The Government has a critical role in enabling key public sector agencies, businesses and 
+individuals to move up the ASC’s adaptation ladder. The market alone cannot deliver the 
+scale of adaptation required. As we noted in Chapter 2, central government action is needed to:
+
+•	 ensure	relevant	actors	have	the	knowledge	and	skills	to	adapt;
+
+•	 remove	barriers	to	effective	adaptation;
+
+•	 ensure	there	is	a	clear	allocation	of	responsibility	for	adaptation	and	sufficient	cooperation	
+among actors for measures that require coordination; and
+
+•	 protect	those	most	vulnerable	to	climate	change	and	limit	the	uneven	distribution	of	climate	
+change impacts.
+
+The ASC’s adaptation preparedness ladder can help to structure the main challenges for 
+the Government in developing the UK’s first National Adaptation Programme. The ASC’s 
+advice for the Government on each step of our ladder is set out below.
+
+Desired adaptation outcomes
+•	 Establish a process for defining adaptation outcomes for the UK. To help do this, 
+
+the Government should evaluate how its policy objectives are likely to be affected by the 
+current climate and future climate scenarios and make decisions on the levels of risk it is 
+prepared to accept. The Government should evaluate whether its policy objectives will need 
+to be modified in the light of these adaptation outcomes. Once adaptation outcomes are in 
+place, arrangements will be needed to monitor and evaluate the effectiveness of policy in 
+enabling their achievement.
+
+•	 In	setting	adaptation	outcomes,	the	Government	could	focus	more	effort	on	understanding	
+the international implications of climate change on the UK. This should include sharing 
+good practice with other countries that are also going through the process of setting 
+adaptation outcomes.
+
+Delivery of outcomes 
+•	 Consolidate	initial	progress	and	promote	adaptation	capability	and	capacity	in	priority	areas	
+
+where progress has been slow, particularly with local authorities, land use planners, relevant 
+professional bodies, the construction industry and infrastructure managers. It will also be 
+important to ensure that decision-makers have practical tools and sufficient information to 
+understand key climate risks in order to help them build a business case for adaptation.
+
+The ASC’s advice on further adaptation action and next steps
+
+
+
+
+56 Adaptation Sub-Committee
+
+Policy to enable delivery 
+•	 Consider how changes to the delivery landscape (such as the removal of the regional 
+
+tier of planning) and the decentralisation of power to the local level will enable timely 
+and effective adaptation. The essential role of local authorities in adaptation needs to be 
+strengthened and consideration given to how their progress can be transparently measured, 
+particularly in the absence of performance indicators such as NI 188.
+
+•	 Ensure clear responsibility for adaptation is allocated in the new delivery 
+arrangements and mechanisms to ensure cooperation between delivery bodies.  
+This will be particularly important in the following priority areas:
+
+– land use planning – the Government should consider how the new planning regime, 
+including the proposed National Planning Policy Framework, can ensure sufficient 
+cooperation at the landscape scale, for example across a catchment area or along a 
+stretch of coastline. The proposed duty to cooperate between local planning authorities 
+could be a key lever;
+
+– providing national infrastructure – the Government should consider how the new 
+national consenting regime will transparently account for adaptation and effectively 
+manage the systemic risks of infrastructure failure;
+
+– emergency planning – the Government should consider whether local authorities 
+and other government agencies responsible for emergency planning are collectively 
+accounting for climate risks as part of their duty of competence and leadership roles.
+
+•	 Consider how its programme of policy reforms, including those set out in the  
+draft Departmental Structural Reform Plans, can remove barriers to and provide 
+incentives for enabling adaptation. This will be particularly important in the following 
+priority areas:
+
+– designing and renovating buildings – as part of any review of building regulations, 
+the Government should consider whether amendments are required to address the 
+performance of buildings in more extreme (particularly hotter) weather, and in the wider 
+context, how to upgrade the existing building stock; and
+
+– managing natural resources – the Government should consider including incentives 
+to drive forward water efficiency in the Water White Paper and how the current delivery 
+arrangements for biodiversity could be strengthened to cope with climate change in the 
+Natural Environment White Paper.
+
+4.3 Next steps for the ASC
+
+To fulfil our duties, as set out in the Climate Change Act 2008, we will develop a 
+programme of work to understand, monitor and assess preparedness and progress on 
+adaptation. The preparedness ladder set out in Chapter 2 provides the architecture for our 
+future work programme, which will be based around:
+
+1. measuring the achievement of adaptation outcomes;
+
+2. monitoring the delivery of adaptation measures by organisations; and
+
+3. examining the effectiveness of the enabling policy environment. 
+
+Chapter 4
+
+
+
+
+How well prepared is the UK for climate change? 57
+
+We will focus primarily, but not exclusively, on the five priority areas identified in this report – 
+land use planning, national infrastructure, building design and renovation, natural resources 
+and emergency planning. In doing this, we will build on the substantial body of existing 
+analysis141 and draw on the experiences of other countries, as many are developing their own 
+approaches to monitoring progress in adaptation (see Box 4.1). We will work closely with 
+Defra and other parts of government on their own efforts to develop adaptation monitoring 
+frameworks. We will report on the next stage of our work in 2011, and annually thereafter.
+
+Box 4.1: Adaptation monitoring for New York City
+
+The approach being developed in New York City is based on three main categories of 
+indicators:
+
+(i)  Physical climate change variables: there are a wide variety of measurements for the 
+New York area, many going back over decades (and longer), allowing for the historical 
+tracking of climate trends. For example, datasets on average temperature, days per year 
+with maximum temperatures over 90°F and number of heatwaves per year.
+
+(ii)  Risk, exposure, vulnerability and impacts: tracking potential impacts of climate hazards 
+is more difficult as they have not been consistently collected and archived, and are not 
+always readily available. Some potential indicators have been identified:
+
+• temperature: transit service interruptions (rail buckling), cooling equipment 
+purchases, extreme heat-related deaths, swimming pool usage, unhealthy air quality 
+days, and electrical outages;
+
+• precipitation: reservoir capacity, combined sewer overflows, water quality, pumping 
+equipment purchases, sewer backup complaints, transit service interruptions 
+(flooding); and
+
+•	 sea level rise and coastal storms: brownfield cleanup acreage, beach erosion, ferry 
+service interruptions, salt water intrusion and water treatment plant operations.
+
+(iii) Adaptation measures and their effectiveness: monitoring adaptation activities 
+requires indicators that show whether adaptation is taking place, at what pace and in 
+what locations. Indicators chosen to track are:
+
+•	 number	of	building	permits	issued	that	are	(a)	located	in	coastal	flood	zones	and	
+(b) located in areas likely to be coastal flood zones by 2080;
+
+•	 percentage	of	building	permits	that	have	measures	to	reduce	precipitation	runoff	
+(e.g. by green roofs, permeable surfaces, etc);
+
+•	 index	based	on	insurance	data	that	measures	the	insurer’s	perception	of	
+infrastructure-coping capacity to climate risks based on levels of premiums or 
+instances of withdrawal of cover;
+
+•	 index	that	measures	the	rating	of	bonds	solicited	by	infrastructure	operators	for	
+capital projects with climate change risk exposure;
+
+•	 trend	of	weather-related	emergency/disaster	losses;	and
+
+•	 number	of	days	with	major	telecommunication	outages.
+
+Source: Jacob and Blake (2010).
+
+141 Climate Change Impacts Review Group (1991, 1996), UK Climate Impacts Programme (2005), Tompkins et al. (2010).
+
+The ASC’s advice on further adaptation action and next steps
+
+
+
+
+58 Adaptation Sub-Committee
+
+Measuring achievement of adaptation outcomes
+
+One way to measure whether the UK is achieving its adaptation outcomes would be 
+to monitor how climate risk is changing over time. The Climate Change Risk Assessment 
+will be critical to monitoring changes in vulnerability, as it will for the first time provide 
+a comprehensive assessment of climate risk. However, it will be important that the risk 
+assessment is rooted in a solid understanding of the UK’s vulnerability to present-day climate 
+variability, as a starting point to assess how risks are expected to change over time (Box 4.2). 
+We will support the Climate Change Risk Assessment by exploring approaches to measuring 
+current climate vulnerability and examine how they can be used to inform the assessment of 
+future climate risks.
+
+Box 4.2: Climate Change Risk Assessment
+
+The risk assessment should identify the priority risks to the UK and form a judgement on 
+the current scale of vulnerability from present-day climate variability. This will effectively 
+establish a baseline against which changes in risk and vulnerability can be identified over 
+time. Over the long term, this will allow us to assess the effectiveness of adaptation policy 
+in reducing the risk to the UK from climate change.
+
+Some of the benefits of this approach are that it:
+
+•	 identifies	key	climate	variables	to	monitor;
+
+•	 provides	insight	into	how	sensitive	the	UK	is	to	both	present-day	and	future	climates,	
+which helps highlight adaptation measures that deliver immediate benefits by reducing 
+current vulnerability;
+
+•	 helps	decision-makers	quantify	the	scale	of	climate	risks	compared	to	other	risks	(identify	
+priority risks) which will be important for building the business case for adaptation (see 
+Chapter 3); and
+
+•	 stimulates action without relying on uncertain future climate scenarios.
+
+Measuring changes in risk and vulnerability will be challenging in early years.  
+The second Climate Change Risk Assessment is not due until 2017. Comparing the two 
+assessments could potentially identify if there have been changes in risk and vulnerability at  
+a comprehensive scale over that time. However, as the data and methodology for the Climate 
+Change Risk Assessment are likely to improve, we expect it will be challenging to directly 
+compare the results of these two assessments. In the meantime, there will be changes in 
+specific risks and vulnerability that we will be able to measure before 2017. We will also be 
+seeking to use new data on climate and vulnerability to validate the Climate Change Risk 
+Assessment results. 
+
+Delivery of outcomes
+
+Measuring the achievement of adaptation outcomes is only part of the picture for 
+monitoring preparedness. There will also need to be an element of process monitoring 
+to assess the effectiveness of key delivery bodies in considering the implications of 
+current and future climate and delivering timely adaptation actions. To do this, we will 
+develop a suite of qualitative and quantitative metrics to evaluate progress at each rung of the 
+preparedness ladder (Box 4.3). To the extent that it is possible, we will set out benchmarks for 
+
+Chapter 4
+
+
+
+
+How well prepared is the UK for climate change? 59
+
+what we would expect to see at each stage of the ladder, recognising the complexities and 
+uncertainties surrounding adaptation. 
+
+Box 4.3: Assessing progress for each element of preparedness
+
+(i) Building capacity
+
+Organisations, businesses and individuals in the front line of delivery in the five priority 
+areas for early action will require the greatest capacity to adapt effectively. We will assess 
+progress using a range of data-sources, including the first round of reports under the 
+Adaptation Reporting Power and results of the application of the Performance Acceleration 
+Climate Tool (PACT).142
+
+We will further consider how local authority capacity can be monitored, given the move 
+away from top-down performance indicators such as National Indicator 188. This is an 
+important issue because many of the services that local authorities provide are a priority for 
+early adaptation action, including land use planning, building control, emergency planning, 
+local infrastructure provision and green space management.
+
+(ii) Decision-making
+
+Monitoring decision-making will not be straightforward, as there are a large number of 
+decisions being taken across wide range of organisations that are relevant to adaptation, 
+including by government departments, local government, statutory agencies, businesses 
+and individuals. Key sources of evidence here will include:
+
+•	 use	of	Treasury	Green	Book	supplementary	guidance	in	public	sector	decision-making;
+
+•	 use	of	the	first	round	of	the	Adaptation	Reporting	Power	reports	to	analyse	the	extent	
+to which climate change is taken into account in investment decisions by infrastructure 
+providers;143 and
+
+•	 analysing	how	climate	change	is	considered	in	decisions	on	nationally	significant	
+infrastructure projects, in local planning policies and in local development decisions.
+
+(iii) Timely action
+
+Unlike mitigation where the carbon price provides a common currency, establishing what 
+the right adaptation decision should be in individual cases depends very much on local 
+circumstances. Nevertheless, there are a range of low-regrets adaptation measures that 
+we	would	expect	to	see	coming	forward	if	the	UK	is	preparing	well.	Building	on	Defra’s	
+Adaptation Economics Assessment, we will explore methods for identifying cost-effective 
+adaptation measures and then monitor their implementation.
+
+142 143
+
+Policy to enable delivery
+
+As set out in our advice above, the new policy and delivery landscape offers both 
+opportunities, as well as potential risks, for enabling adaptation. We will evaluate the 
+effectiveness of the policy and delivery landscape to removing barriers and incentivising 
+adaptation. In doing this, we will focus on policies influencing decisions and timely action in 
+the	five	priority	areas,	including	those	outlined	in	Departmental	Structural	Reform	Plans	and	
+policy reforms in the devolved administrations.
+
+142 This	was	developed	by	Ballard	and	Alexander	(2008)	and	is	being	used	within	the	Climate	Change	Risk	Assessment.
+143 Reporting	organisations	will	be	submitting	their	reports	from	autumn	2010	through	to	the	end	of	2011.
+
+The	ASC’s	advice	on	further	adaptation	action	and	next	steps
+
+
+
+
+60 Adaptation Sub-Committee
+
+Glossary
+
+Adaptation 
+Adjustment of behaviour to limit harm, or exploit beneficial opportunities, arising from climate 
+change. 
+
+Adaptive capacity
+The ability of a system to adjust to climate change (including climate variability and extremes), 
+to moderate potential damages, to take advantage of opportunities, or to cope with the 
+consequences.
+
+Climate
+Climate in a narrow sense is usually defined as the average weather, or more rigorously, as the 
+statistical description in terms of the mean and variability of relevant quantities over a period of 
+time ranging from months to thousands or millions of years. The classical period for averaging 
+these variables is 30 years, as defined by the World Meteorological Organisation. The relevant 
+quantities are most often surface variables such as temperature, precipitation and wind.
+
+Climate change
+Climate change refers to a change in the state of the climate that can be identified (for example 
+by using statistical tests) by changes in the mean and/or the variability of its properties, and 
+that persists for an extended period, typically decades or longer. Climate change may be due 
+to natural internal processes or external forcings, or to persistent anthropogenic changes in 
+the composition of the atmosphere or in land use. In this report, when using the term ‘climate 
+change’ we are specifically referring to anthropogenic climate change. 
+
+Climate variability
+Climate variability refers to variations in the mean state and other statistics (such as standard 
+deviations and the occurrence of extremes) of the climate on all temporal and spatial scales 
+beyond that of individual weather events. Variability may be due to natural internal processes 
+within the climate system (internal variability), or to variations in natural or anthropogenic 
+external forcing (external variability). 
+
+Exposure
+Stimuli impacting upon a system, represents the background climate conditions within a system 
+and any changes in those conditions.
+
+Extreme weather event 
+An event that is rare at a particular place and time of year. Definitions of ‘rare’ vary, but an 
+extreme weather event would normally be as rare as or rarer than the 10th or 90th percentile 
+of the observed probability density function. By definition, the characteristics of what is called 
+extreme weather may vary from place to place in an absolute sense. Single extreme events 
+cannot be simply and directly attributed to anthropogenic climate change, as there is always  
+a finite chance the event in question might have occurred naturally. When a pattern of extreme 
+weather persists for some time, such as a season, it may be classed as an extreme climate event, 
+
+
+
+
+How well prepared is the UK for climate change? 61
+
+especially if it yields an average or total that is itself extreme (for example drought or heavy 
+rainfall over a season).
+
+Maladaptation
+Any changes in natural or human systems that inadvertently increase vulnerability to climatic 
+stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead. 
+It can also cover spending a disproportionate amount of effort and investment focussed upon 
+adaptation beyond what is required.
+
+Mitigation
+Action to reduce the sources (or enhance the sinks) of factors causing climate change, such  
+as greenhouse gases. 
+
+Resilience 
+The ability of a social or ecological system to absorb disturbances while retaining the same 
+basic structure and ways of functioning, the capacity for self-organisation, and the capacity  
+to adapt to stress and change.
+
+
+
+Risk
+
+Combines the likelihood an event will occur with the magnitude of its consequences. 
+Consequences may be defined according to a variety of metrics including economic, social  
+and environmental. Risks can be either adverse costs and damages (true costs including  
+non-monetary costs) or beneficial opportunities. 
+
+Sensitivity 
+The degree to which a system is affected, either adversely or beneficially, by climate related 
+stimuli. The effect may be direct (e.g. a change in crop yield in response to a change in the 
+mean, range, or variability of temperature) or indirect (e.g. damages caused by an increase  
+in the frequency of coastal flooding due to sea level rise). 
+
+Vulnerability
+Degree to which a system is susceptible to, and unable to cope with, adverse effects of climate 
+change, including climate variability and extremes. Vulnerability is a function of a system’s 
+exposure, its sensitivity, and its adaptive capacity (see earlier definitions).
+
+Weather
+Refers to the state of the atmosphere, across space and time, with regard to temperature, 
+cloudiness, rainfall, wind, and other meteorological conditions.
+
+Glossary
+
+Exposure
+
+Potential  
+Impact
+
+Adaptive  
+Capacity
+
+VulnerabilitySensitivity
+
+
+
+
+62 Adaptation Sub-Committee
+
+References
+
+Acclimatise (2009). Building business resilience to inevitable climate change. Carbon Disclosure Project Report 
+2008. FTSE 350. Oxford.
+
+Agrawala, S., Bosello, F., Carraro, C. (2010). Plan or react? Analysis of adaptation costs and benefits using 
+integrated assessment models. OECD Environment Working Paper no. 23.
+
+Arnell, N. W. and Delaney, K. (2006). Adapting to climate change: Public water supply in England and Wales. 
+Climate Change, 78, (2-4), 227-255.
+
+Association of British Insurers (2005a). Making Communities Sustainable – Managing Flood Risks in the 
+Government’s Growth Areas. Summary Report.
+
+Association for British Insurers (2005b). Safe as houses: flood risk and sustainable communities. 
+
+Agnew, M.D. and Palutikof, J. (2006). Impacts of short-term climate variability in the UK on demand for 
+domestic and international tourism. Climate Research, 31, 109–120.
+
+Ballard, D.I. and Alexander, S.J., (2008). Adaptive Capacity Benchmarking: A handbook and toolkit. Winchester, 
+UK: Hampshire County Council for the ESPACE project.
+
+Biesbroek, G.R. Swart, R.J. Carter., T.R. et al. (2010). Europe adapts to Climate Change: Comparing National 
+Adaptation Strategies. Global Environmental Change, 20.
+
+Cabinet Office (2010). Sector Resilience Plan for Critical Infrastructure. 
+
+Chartered Institution of Building Services Engineers (2005). Climate Change and the Indoor Environment: 
+Impacts and Adaptation. The Chartered Institution of Building Services Engineers, London.
+
+Chatterton, J., Morris, J., Viavattene, C., Penning-Rowsell, E. and Tapsell, S. (2009). The costs of the summer 
+2007 floods in England. Final Project Report: SC070039/R1. Environment Agency.
+
+Chris Blandford Associates (2010). Green Infrastructure by Design – A Guide for Sustainable Communities in 
+Milton Keynes and South Midlands. 
+
+Cimato, F. and Mullan, M. (2010). Adapting to Climate Change: Analysing the Role of Government. Defra 
+Evidence and Analysis Series, Paper 1.
+
+Climate Change Impacts Review Group (1996). Review of the potential effects of climate change in the United 
+Kingdom. Department of the Environment, HMSO, London.
+
+Committee on Climate Change (2008). Building a low-carbon economy – The UK’s contribution to tackling 
+climate change. London: The Stationary Office. 
+
+Communities and Local Government (2010). Take up and application of the policies in the planning policy 
+statement on planning and climate change. 
+
+Communities and Local Government (2009). Initial review of the implementation of Planning Policy Statement 
+25: Development and Flood Risk. 
+
+
+
+
+How well prepared is the UK for climate change? 63
+
+Confederation of British Industry (2010). Whatever the weather – Managing the risks from a changing climate. 
+London.
+
+Dawson, R.J., Dickson, M.E., Nicholls, R.J. et al. (2009). Integrated analysis of risks of coastal flooding and cliff 
+erosion under scenarios of long term change. Climate Change, 95 (1-2), 249-288.
+
+Department for Business, Enterprise and Regulatory Reform (2008). Supporting innovation in services. 
+
+Department for Environment, Food and Rural Affairs (2010a). Climate Change Adaptation: A Survey of Private, 
+Public, and Third Sector Organisations. 
+
+Department for Environment, Food and Rural Affairs (2010b). Draft Structural Reform Plan. 
+
+Department for Environment, Food and Rural Affairs (2010c). Adapting Energy, Transport and Water 
+Infrastructure to the Long-term Impacts of Climate Change. 
+
+Department for Environment, Food and Rural Affairs (2010d). Property level flood protection grant scheme. 
+
+Department for Environment, Food and Rural Affairs (2006). Flood and Coastal Defence Appraisal Guidance: 
+FCDPAG3 Economic Appraisal Supplementary Note to Operating Authorities – Climate Change Impacts. 
+
+Department for Environment, Food and Rural Affairs and HM Treasury (2009). Accounting for the Effects of 
+Climate Change – Supplementary Green Book Guidance. 
+
+Department of Energy and Climate Change (2010). DECC climate change action plan. 
+
+Dlugolecki, A. (2004). A Changing Climate for Insurance – A Summary Report for Chief Executives and 
+Policymakers. Association of British Insurers. London.
+
+Economics of Climate Adaptation Working Group (2009). Shaping climate-resilient development: a framework 
+for decision-making.
+
+Entec UK and Greenstreet Berman (2008). Developing the evidence base for flood resistance and resilience. 
+Report for Defra.
+
+Environment Agency (2010). Hundreds of flooded homes evacuated in Cumbria. 
+
+Environment Agency (2009a). Thames Estuary 2100: Managing flood risk through London and the Thames 
+Estuary. Strategic Environmental Assessment. Environmental Report Summary.
+
+Environment Agency (2009b). Investing for the future: flood and coastal risk management in England – A long-
+term investment strategy. Bristol. 
+
+Environment Agency (2009c). Water for people and the environment: Water resources strategy for England and 
+Wales. 
+
+Environment Agency (2009d). Development and Flood Risk in England 2007/8: High level target 5. 
+
+Environment Agency (2009e). Development and Flood Risk in England 2007/8: High level target 5. Appendix 3: 
+LPA Planning Application Decisions contrary to Environment Agency advice. 
+
+Environment Agency (2009f). Flooding in England: A National Assessment of Flood Risk. 
+
+Environment Agency (2009g). Prepare your property for flooding: a guide for householders and small businesses. 
+
+References
+
+
+
+
+64 Adaptation Sub-Committee
+
+Environment Agency (2004). High Level Target 12: development and flood risk 2003/04, Joint Report to Defra 
+and ODPM by the Environment Agency and Local Government Association.
+
+Environment Agency (2001). Lessons learned: the autumn 2000 floods. Bristol.
+
+European Commission (2009). Adapting to Climate Change: Towards a European framework for action. White 
+Paper. COM(2009)147 Final. Commission of the European Communities, Brussels.
+
+Flood and Water Management Act (2010). Chapter 29. 
+
+Foreign and Commonwealth Office (2010). Preparing for global climate change. 
+
+Greater London Authority (2010). The draft climate change adaptation strategy for London: Public 
+consultation draft. 
+
+Hacker, J. N., Belcher, S. E. and Connell, R. K. (2005). Beating the Heat: keeping UK buildings cool in a warming 
+climate. UKCIP Briefing Report. UKCIP, Oxford.
+
+Harries, T. (2008). Feeling secure or being secure? Why it can seem better not to protect yourself against a natural 
+hazard. Health Risk & Society, 10(5): 479-490. 
+
+HM Treasury (2003). The Green Book – Appraisal and Evaluation in Central Government. London.
+
+Hopkins, J.J., Alison, H.M., Walmsley, C.A. et al. (2007). Conserving biodiversity in a changing climate: guidance 
+on building capacity to adapt. Published by Defra on behalf of the UK Biodiversity Partnership.
+
+Hoekstra, A.Y., Chapagain, A.K., Aldaya, M.M. and Mekonnen, M.M. (2009). Water footprint manual: State of 
+the art 2009. Water Footprint Network, Enschede, the Netherlands. 
+
+House of Commons Environmental Audit Committee (2010). Adapting to Climate Change, Sixth Report of 
+Session 2009–10, London: The Stationery Office.
+
+Institute of Civil Engineers (2004). Engineering Skills for Flood Risk Management. 
+
+Intergovernmental Panel on Climate Change (2007). Climate Change 2007: Impacts, Adaptation and 
+Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel 
+on Climate Change, [M.L. Parry, O.F. Canziani, J.P. Palutikof, P.J. van der Linden and C.E. Hanson, Eds.], 
+Cambridge: Cambridge University Press.
+
+Intergovernmental Panel on Climate Change (2007). Climate Change 2007: Synthesis Report. Contribution of 
+Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 
+[R.K. Pachauri and A. Reisinger, Eds.].
+
+Intergovernmental Panel on Climate Change (1994). IPCC Technical Guidelines for Assessing Climate  
+Change Impacts and Adaptations, [T.R. Carter, M.L. Parry, H. Harasawa and S.Nishioka] London: University 
+College London.
+
+Jacob, J. and Reginald, B. (2010). Climate Change Adaptation in New York City: Building a Risk Management 
+Response.
+
+Jenkins, G.J., Perry, M.C., and Prior, M.J. (2009). The climate of the United Kingdom and recent trends. Met 
+Office Hadley Centre, Exeter, UK.
+
+Johnson, H., Kovats, R. S. and McGregor, G. R. (2005a). The impact of the 2003 heatwave on mortality and 
+hospital admissions in England. Health Statistics Quarterly, Spring, 6–11.
+
+References
+
+
+
+
+How well prepared is the UK for climate change? 65
+
+References
+
+Johnson, C. L., Tunstall, S. M., Penning-Rowsell, E. C. (2005b). Floods as Catalysts for Policy Change: Historical 
+Lessons from England and Wales. International Journal of Water Resources Development, 21 (4), 561-575.
+
+Johnson, C., Tunstall, S. and Penning-Rowsell, E. (2004). Crises as Catalysts for Adaptation: Human Response  
+to Major Floods. Flood Hazard Research Centre, Publication No. 511.
+
+Lempert, R. J. and Collins, M. T. (2007). Managing the Risk of Uncertain Threshold Responses: Comparison  
+of Robust, Optimum, and Precautionary Approaches. Risk Analysis, 27: 1009–1026.
+
+Lloyds (2010). East London extreme rainfall: importance of granular data. Lloyds emerging risks team. 
+
+Local Government Association (2010). Be aware, be prepared, take action II: what do the latest climate change 
+projections mean for you? Report published with Defra and UKCIP. 
+
+Lonsdale, K. G., Gawith, M. J., Johnstone, K., Street, R. B., West, C. C. and Brown, A. D. (2010). Attributes of 
+Well-Adapting Organisations. UKCIP, Oxford. Research commissioned by the Adaptation Sub-Committee.
+
+Meehl, G.A., Washington, W.M., Collins, W.D. et al. (2005). How Much More Global Warming and Sea Level 
+Rise? Science 307:1769–1772.
+
+Met Office (2010). Floods in Carlisle- January 2005. 
+
+Moreno, A., Pye, S., Quiroga, S., van Regemorter, D., Richards, J., Roson, R. and Soria, A. (2010). Climate 
+change impacts in Europe. Final report of the PESETA research project.
+
+National Audit Office (2009). Adapting to Climate Change. A review for the Environmental Audit Committee.
+
+Natural England (2008). The natural environment – adapting to climate change. 
+
+Ofwat (2010). Climate change – good practice from the 2009 price review. 
+
+Ofwat (2009). Final Determination of water company prices 2010-2015. 
+
+Palmer, T.N. and J. Raisanen, J. (2002). Quantifying the risk of extreme seasonal precipitation events in a 
+changing climate, Nature, Vol. 415, pages 512 – 514.
+
+Parry, M., Evans, A., Rosegrant, M.W. and Wheeler, T. (2009). Climate change and hunger. World Food 
+Programme, p. 74.
+
+Penning-Rowsell, E., Chatterton, J., Wilson, T. and Potter, E. (2002). Autumn 2000 floods in England and 
+Wales: assessment of national economic and financial losses. Enfield: Flood Hazard Research Centre, Middlesex 
+University.
+
+Pitt, M. (2008). Learning Lessons from the 2007 Floods. 
+
+Ranger, N., Millner, A., Dietz, S., Fankhauser, S., Lopez, A., Ruta, G. (2010). Adaptation in the UK: a decision-
+making process. London School of Economics and Political Science, Centre for Climate Change Economics 
+and Policy and the Grantham Research Institute on Climate Change and the Environment. Research 
+commissioned by the Adaptation Sub-Committee. 
+
+Royal Academy of Engineering (2010). Global water security – an engineering perspective. 
+
+Royal Commission on Environmental Pollution (2010). Adapting Institutions to Climate Change. Twenty-eighth 
+Report. London: The Stationary Office.
+
+
+
+
+66 Adaptation Sub-Committee
+
+References
+
+Royal Society for the Protection of Birds (2010). Futurescapes: space for nature, land for life. 
+
+Shaw, R., Colley, M., and Connell, R. (2007). Climate change adaptation by design: a guide for sustainable 
+communities. TCPA, London.
+
+Smithers, R.J., Cowan, C., Harley, M. et al. (2008). Climate Change Adaptation Principles – Conserving 
+biodiversity in a changing climate. Published by Defra on behalf of the England Biodiversity Strategy.
+
+Stott, P. A., Gillett, N. P., Hegerl, G. C. et al. (2010). Detection and attribution of climate change: a regional 
+perspective. Wiley Interdisciplinary Reviews: Climate Change, 1: 192–211. 
+
+Strott, P.A., Stone, D.A. and Allen, M.R. (2004). Human contribution to the European heatwave in 2003. 
+Nature, 432, 610-614.
+
+Swart, R., Biesbroek, R., Binnerup, S. et al. (2009). Europe Adapts to Climate Change: Comparing National 
+Adaptation Strategies. PEER Report No 1. Helsinki: Partnership for European Environmental Research.
+
+Technology Strategy Board (2010). Design for Future Climate: Adapting Buildings.
+
+TEP (2005). Green Infrastructure for the Liverpool and Manchester City-Regions. Produced for Community 
+Forests North West and The Countryside Agency. 
+
+Thackeray, S.J., S. J., Spark, T. H., Frederksen, M. et al. (2010). Trophic level asynchrony in rates of 
+phenological change for marine, freshwater and terrestrial environments. Global Change Biology. 
+
+The Geneva Association (2009). The insurance industry and climate change – Contribution to the global debate. 
+
+Tompkins, E.L., Adger, N. W., Boyd, E., Nicholson-Cole, S., Weatherhead and K., Arnell, N. (2010).  
+Observed adaptation to climate change: UK evidence of transition to a well-adapting society. Global 
+Environmental Change. 
+
+Town and Country Planning Association (2009a). Helping to deliver climate change adaptation through the  
+UK planning system. Report prepared for the Royal Commission on Environmental Pollution. 
+
+Town and Country Planning Association (2009b). Helping to deliver climate change adaptation through the  
+UK planning system. Workshop report prepared for the Royal Commission on Environmental Pollution. 
+
+UK Water Industry Research (2010). Assessment of the Significance to Water Resource Management Plans  
+of the UK Climate Projections 2009. 
+
+Walker, A. (2009). The Independent Review of Charging for Household Water and Sewerage Services. 
+
+Waterwise (2010). Evidence base for large-scale water efficiency in homes. Phase II Interim report. 
+
+Watkiss, P., Hunt, A. and Horrocks, L. (2009). International impacts of climate change on the UK. 
+
+West, C.C. and Gawith, M.J. (Eds.) (2005). Measuring progress: Preparing for climate change through the  
+UK Climate Impacts Programme. UKCIP, Oxford.
+
+Wild Life Trusts (2010). A Living Landscape. 
+
+Wolf, J., Adger, N. W., Lorenzoni, I., Abrahamson, V. and Raine, R. (2010). Social capital, individual responses 
+to heatwaves and climate change adaptation: An empirical study of two UK cities. Global Environmental 
+Change, 20, 44–52.
+
+
+
+
+Designed and typeset by Artwork Agency www.artworkagency.com
+
+
+
+
+Committee on Climate Change Adaptation  
+4th Floor  
+Manning House  
+22 Carlisle Place  
+London SW1P 1JA
+
+www.theccc.org.uk 
+
+How well prepared is the  
+UK for climate change?
+
+
+How w
+
+ell p
+
+
+repared
+
+ is th
+
+
+e UK fo
+
+r clim
+
+ate ch
+
+
+ange?Adap
+
+tatio
+
+
+n Sub-Comm
+
+ittee – Sep
+
+
+tember 2010
+
+
+Adaptation Sub-Committee
+September 2010
+
+
+
+

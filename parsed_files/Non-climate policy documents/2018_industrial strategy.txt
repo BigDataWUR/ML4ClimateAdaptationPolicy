@@ -1,0 +1,2307 @@
+
+
+
+
+
+Industrial 
+Strategy
+Artificial Intelligence Sector Deal
+
+
+  3
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+
+2  3
+
+
+Foreword
+
+Throughout history, there have been moments when the  
+progress of technology has taken great steps forward, when  
+a combination of the right tools, a capacity for innovation,  
+and sparks of ingenuity lead to breakthroughs that transform  
+how we live our lives.
+
+How we produce and process 
+information is critical to innovation 
+– and our methods of recording and 
+communicating information have 
+themselves undergone great leaps. 
+From the development of writing, to 
+Gutenberg’s printing press – which 
+advanced the spread of knowledge 
+to the masses and ushered in the 
+enlightenment and scientific revolution 
+– to the first programmable digital 
+computer Colossus, the cost of 
+reproducing and communicating 
+information, or data, has fallen again 
+and again. At the same time, tools for 
+processing and making sense of large 
+quantities of data have developed 
+exponentially – with artificial intelligence 
+(AI) representing the latest leap. In 
+the same way that Gutenberg’s press 
+ushered in a new era of growth, data-
+driven technologies such as AI will 
+underpin our future prosperity.
+
+There is no doubt that machine learning 
+and AI is already improving peoples’ 
+lives, from intelligent personal assistants 
+that can prepare us for changes in the 
+weather, to systems that protect our 
+money from criminals, or devices that 
+
+offer medical advice from the comfort 
+of our own home. And this is only the 
+start; the potential of AI is undeniable. 
+Our next challenge will be to harness 
+this technology to transform how 
+we diagnose diseases, manufacture 
+goods and build our homes.
+
+Using advanced algorithmic techniques 
+such as ‘deep learning’, AI has the 
+potential to solve complex problems 
+fast, and in so doing, free up time and 
+raise productivity. But we also need 
+to make sure AI benefits everyone in 
+the UK, which is why – in addition to 
+this Sector Deal – the government is 
+establishing a Centre for Data Ethics 
+and Innovation to advise on the 
+ethical use of data, including for AI.
+
+The huge global opportunity AI presents 
+is why the Industrial Strategy White 
+Paper identified AI and data as one of 
+four Grand Challenges – in which the UK 
+can lead the world for years to come.
+
+The UK is well placed to do this. We 
+are already home to some of the 
+biggest names in the business such 
+as Deepmind, Swiftkey and Babylon. 
+
+
+  5
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+
+4  5
+
+
+And it’s not just the established 
+players – Kwiziq, Cleo and Mindtrace 
+are examples of UK AI startups 
+leading the way in areas as diverse 
+as education, personal finance and 
+autonomous vehicles. Major established 
+companies in the tech sector, but also 
+increasingly beyond, are using AI to 
+tune up their operations and services.
+
+To realise all the social and economic 
+benefits, we will need a strong 
+partnership between business, 
+academia and government. This 
+sector deal establishes the beginning 
+of that partnership. It responds to 
+the recommendations of the AI 
+Review, Growing the AI Industry in the 
+UK, led by Professor Dame Wendy 
+Hall and Jérôme Pesenti, which 
+articulated how the government and 
+industry can work together on skills, 
+infrastructure and implement a long-
+term strategy for AI in the UK.
+
+We need to be strategic and focused: 
+recognising the increasing convergence 
+of technologies and focusing on the 
+areas where we can compete globally. 
+
+While robotics, a complementary 
+technology to AI, was outside the scope 
+of the AI Review, recommendations 
+on the robotics industry have been 
+made in the Robotics Review RAS 
+2020, and in Made Smarter, a review 
+on digitising the manufacturing 
+industry. Moving forwards, identifying 
+and making the most of these 
+synergies will be crucial for success.
+
+A revolution in AI technology is already 
+emerging. If we act now, we can lead 
+it from the front. But if we ‘wait and 
+see’ other countries will seize the 
+advantage. Together, we can make the 
+UK a global leader in this technology 
+that will change all our lives.
+
+ 54  5
+
+Rt Hon Matt Hancock
+
+Secretary of State for Digital, 
+Culture, Media and Sport
+
+Professor Dame Wendy Hall
+
+Regius Professor of Computer Science, 
+the University of Southampton
+
+Jérôme Pesenti
+
+Vice President of AI, Facebook
+
+Rt Hon Greg Clark MP
+
+Secretary of State for Business,  
+Energy and Industrial Strategy
+
+
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+6
+
+Industrial Strategy at a glance
+
+We will create an economy that boosts productivity and earning 
+power throughout the UK
+
+Industrial Strategy is built on 5 foundations
+
+
+5
+
+foundations of 
+productivity
+
+Ideas 
+the world’s most innovative economy
+
+People 
+good jobs and greater earning power for all
+
+Infrastructure 
+a major upgrade to the UK’s infrastructure
+
+Business environment  
+the best place to start and grow a business
+
+Places  
+prosperous communities across the UK 
+
+We will set Grand Challenges to put the United Kingdom 
+at the forefront of the industries of the future:
+
+AI & Data Economy
+
+We will put the UK at the 
+forefront of the artificial 
+intelligence and data revolution
+
+Clean Growth
+
+We will maximise the advantages 
+for UK industry from the 
+global shift to clean growth
+
+Future of Mobility
+We will become a world  
+leader in the way people, 
+goods and services move
+
+Ageing Society
+We will harness the power of 
+innovation to help meet the 
+needs of an ageing society
+
+Key policies include:
+
+Ideas
+``  Raise total research and 
+development (R&D) investment to 
+2.4 per cent of GDP by 2027
+
+``  Increase the rate of R&D 
+Expenditure Credit to 12 per cent
+
+``  Invest £725m in new Industrial 
+Strategy Challenge Fund programmes 
+to capture the value of innovation
+
+People
+``  Establish a technical education 
+system that rivals the best in the 
+world to stand alongside our world-
+class higher education system
+
+``  Invest £406m in skills, including 
+maths, digital and technical education, 
+helping to address the shortage of 
+science, technology, engineering 
+and maths (STEM) skills
+
+``  Create a new National Retraining 
+Scheme that supports people to gain 
+new skills as the economy changes, 
+beginning with a £64m investment 
+for digital and construction training.
+
+Infrastructure
+``  Increase the National Productivity 
+Investment Fund to £31bn, supporting 
+investments in transport, housing 
+and digital infrastructure
+
+``  Support electric vehicles through 
+£400m charging infrastructure 
+investment and an extra £100m 
+to extend the plug-in car grant
+
+``  Boost our digital infrastructure with 
+over £1bn of public investment, 
+including £176m for 5G and £200m 
+for local areas to encourage roll 
+
+out of full-fibre networks
+
+Business Environment
+``  Launch and roll out Sector Deals – 
+partnerships between government 
+and industry aiming to increase sector 
+productivity. The first Sector Deals are 
+in life sciences, construction, artificial 
+intelligence and the automotive sector
+
+``  Drive over £20bn of investment in 
+innovative and high potential businesses, 
+including through establishing a new 
+£2.5bn Investment Fund, incubated 
+in the British Business Bank
+
+``  Launch a review of the actions that 
+could be most effective in improving 
+the productivity and growth of small 
+and medium-sized businesses, including 
+how to address what has been called the 
+‘long tail’ of lower productivity firms
+
+Places
+``  Agree Local Industrial Strategies 
+that build on local strengths and 
+deliver on economic opportunities
+
+``  Create a new Transforming Cities  
+fund that will provide £1.7bn for  
+intra-city transport. This will fund 
+projects that drive productivity by 
+improving connections within  
+city regions
+
+An independent Industrial Strategy Council will assess our progress  
+and make recommendations to government.
+
+
+  9
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+
+8  9
+
+
+Executive summary
+
+Creating an economy that harnesses artificial intelligence (AI) 
+and big data is one of the great opportunities of our age. 
+This Sector Deal is the first 
+commitment from government and 
+industry to realise this technology’s 
+potential, outlining a package of 
+up to £0.95bn of support for the 
+sector, which includes government, 
+industry and academic contributions 
+up to £603m in newly allocated 
+funding, and up to £342m from within 
+existing budgets, alongside £250m 
+for Connected and Autonomous 
+Vehicles. This support complements 
+and leverages some of the £1.7bn 
+that has been announced under the 
+cross-sectoral Industrial Strategy 
+Challenge Fund so far, with five 
+challenges having AI components 
+that AI businesses will be able to bid 
+into through future competitions.
+
+This Sector Deal sets out actions 
+to promote the adoption and use 
+of AI in the UK, and delivers on the 
+recommendations of the independent 
+AI review, Growing the AI industry 
+in the UK, led by Professor Dame 
+Wendy Hall and Jérôme Pesenti1. 
+Their review, published in October 
+2017, engaged widely with businesses, 
+academia, investors and other 
+stakeholders on ways to boost the 
+UK’s emerging AI sector at home 
+and across the world. It sets out 
+proposals to improve the institutions 
+that support AI in the United Kingdom, 
+to build a skilled workforce, and to 
+
+stimulate access to data – collectively 
+the lifeblood of any AI business.
+
+This Sector Deal reinforces the five 
+foundations of the Industrial Strategy: 
+ideas, people, infrastructure, the 
+business environment and places. It 
+also draws on the government’s Digital 
+Strategy, which focuses on reinforcing 
+our strengths in telecoms, data and 
+enterprise. A key ambition of the 
+industrial strategy is for the UK to be 
+the world’s most innovative economy 
+– this Sector Deal aims to attract and 
+retain both domestic and global AI 
+talent; deliver major upgrades to our 
+digital and data infrastructure; ensure 
+that the UK is the best place to start 
+and grow an AI business; and contribute 
+to communities’ prosperity by spreading 
+the benefits of AI across the country. 
+
+People
+The Industrial Strategy has people 
+at its core: it is focused on creating 
+good jobs and greater earning power 
+for all people in the UK. To do this, we 
+must equip citizens for jobs shaped by 
+next generation technology. Growing 
+the AI industry in the UK outlined the 
+fast-growing demand for expertise to 
+develop and apply AI technologies, 
+and proposed ways to increase the 
+supply of skills at different levels. 
+Building on these recommendations 
+and the commitments in the Industrial 
+
+Strategy and Digital Strategy to grow 
+science, technology, engineering and 
+maths (STEM) and digital skills training, 
+this Sector Deal sets out how the 
+government, universities and industry 
+will work together to greatly improve 
+the supply of skills. It also sets out 
+how we will attract the best, and most 
+diverse, global AI talent to the UK. 
+
+Infrastructure
+Ensuring the UK has the right digital 
+infrastructure – both physical and, 
+crucially, data infrastructure – is critical 
+to meeting our ambition of leading the 
+world in AI. That is why, as part of our 
+Industrial Strategy, we are investing 
+over £1bn to create a country with 
+world class digital capabilities: from 5G 
+mobile networks to full-fibre broadband. 
+Equally important is the availability of 
+data, which is required on a vast scale 
+to train machine learning systems. 
+The government and public bodies 
+are already leading the way in making 
+public datasets open and available. But 
+there remain significant challenges 
+to sharing private sector datasets. 
+Through this Sector Deal, we will tackle 
+both the practical and cultural barriers 
+to sharing both publicly and privately 
+held data. As part of this we will explore 
+data sharing frameworks such as Data 
+Trusts – mechanisms where parties 
+have defined rights and responsibilities 
+with respect to shared data – in order to 
+protect sensitive data, facilitate access 
+to data, and ensure accountability. This 
+will allow and ensure fair and equitable 
+data sharing between organisations 
+in the private sector, and between 
+the private and public sectors.
+
+Ideas
+The government set out a vision in 
+the Industrial Strategy to make the UK 
+the world’s most innovative economy. 
+To achieve this, we are committing to 
+work with the private sector to boost 
+research and development (R&D) 
+spending to 2.4 per cent by 2027, 
+and 3 per cent over the longer term. 
+This begins with a £725m investment 
+through the Industrial Strategy 
+Challenge Fund competition, designed 
+to capture the value of innovation by 
+commercialising a great idea in the lab 
+to a successful business. For example, 
+one early commitment is our £210m 
+Challenge on research into the early 
+diagnosis of chronic illness – including a 
+substantial investment in AI diagnostics 
+techniques2. The use of AI is central to 
+this work, which includes programmes 
+applying AI to raise output in sectors 
+of the economy that have struggled 
+with productivity, from reducing crop 
+disease in the agriculture sector, to 
+delivering services digitally in the public 
+sector. We are seeing industry respond 
+to our commitment to AI innovation 
+with investments in R&D in the UK, 
+such as those from major players 
+like Beyond Limits and Element AI. 
+
+Business Environment
+Our intention is to be the best place to 
+start and grow a business in the world. 
+With a new business starting up every 
+75 seconds in the UK, and a massive 
+increase in the finance available to 
+knowledge-intensive and innovative 
+firms – such as those developing AI 
+– through the British Business Bank, 
+we are in a strong starting position.
+
+
+  11
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+10  11
+
+Grand Challenge
+
+Growing the UK’s AI & 
+data-driven economy
+
+We are at the cusp of one of the most exciting times in our lives, 
+and if we get our strategy for AI right, then we will be able 
+to reap the rewards for our economy for decades to come. 
+The Industrial Strategy set out four 
+Grand Challenges where the UK must 
+act now to put itself at the forefront 
+of the industries that will shape our 
+futures and have a transformative 
+impact on society. Through the 
+Grand Challenges we are committed 
+to taking advantage of major 
+global trends, improving people’s 
+lives and working in partnership 
+with business and academia.
+
+One of these is for the UK to maximise 
+the economic and societal benefits 
+of the current global technological 
+revolution. We recognise that AI 
+will transform the way we live and 
+work, from the way we diagnose and 
+treat cancer to the security of online 
+transactions. It can realise the potential 
+for higher productivity and new jobs in 
+nearly every sector in every country. 
+
+This Sector Deal will ensure we 
+seize this global opportunity, and is 
+focused on the recommendations 
+put forward by Professor Dame 
+Wendy Hall and Jérôme Pesenti to 
+promote AI businesses in the UK. 
+
+But we will go further, setting out a 
+vision of how the UK can respond to the 
+broader opportunities and challenges 
+for society posed by AI, including by:
+
+``  making the UK a global centre 
+for AI and data-driven innovation 
+by investing in R&D, skills and 
+regulatory innovation; 
+
+``  supporting sectors to boost 
+their productivity through 
+artificial intelligence and data 
+analytics technologies;
+
+``  leading the world in the safe and 
+ethical use of data through a 
+new Centre for Data Ethics and 
+Innovation, and strengthening the 
+UK’s cybersecurity capability; and
+
+``  helping people develop the skills 
+needed for the jobs of the future 
+through investment in STEM skills 
+and computer science teachers, as 
+well as retraining and researching the 
+impact of automation across sectors.
+
+As at September 2017, over £350m3 
+has been invested in 243 technology 
+companies through the British Business 
+Bank’s venture capital programmes.
+
+AI is emerging in its own right as a 
+nascent industry with the potential 
+to raise the productivity of diverse 
+sectors and create entirely new jobs. 
+To maximise this potential, this deal 
+will establish a new AI Council to 
+bring together respected leaders in 
+the field from across academia and 
+industry; a new delivery body within the 
+government – the Office for Artificial 
+Intelligence – to support it; and a new 
+Centre for Data Ethics and Innovation. 
+The deal will also increase promotion of 
+AI businesses globally and take steps to 
+attract AI entrepreneurs to the UK. A 
+recent report by Oxford Insights ranked 
+the UK top for government readiness to 
+implement AI, and these measures will 
+allow us to capitalise on the UK’s world-
+class R&D and tech entrepreneur base4. 
+
+Places
+The Industrial Strategy set out the 
+goal of helping communities prosper 
+throughout the UK. Growing the AI 
+industry in the UK outlined the thriving 
+AI ecosystem that already exists. 
+London is the European capital of AI, 
+while significant clusters exist in places 
+such as Edinburgh, Belfast, Bristol 
+and Cambridge. As important as the 
+growth of these clusters of expertise 
+is, our ambition is for AI to be adopted 
+by businesses across the country. 
+
+This deal will help businesses around 
+the UK to grow using AI, and is 
+supported by the government’s 
+backing for the expansion of Tech 
+City UK and Tech North into the 
+national network Tech Nation, 
+alongside its Scale Up campaign. At 
+the same time, we are expanding the 
+academic commitment to AI across 
+the UK as universities partner with 
+The Alan Turing Institute, the national 
+institute for data science and AI. 
+
+QuantumBlack is a British tech 
+company using machine learning 
+and artificial intelligence “in the wild” 
+to help clients in the government, 
+corporate, and third sectors increase 
+their performance. The teams include 
+data engineers, data scientists, and 
+designers. Now a British “scale-up” 
+story, QuantumBlack has grown from 
+
+its early days in Formula One racing, 
+where the three founders met, to 
+350 technology experts in the UK 
+head office and also in Boston, India 
+and Australia. The thriving London 
+tech and talent scene, as well as 
+the UK’s leading universities, have 
+been pivotal in this growth story.
+
+Case Study: QuantumBlack – from startup to scale-up
+
+
+  13
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+12  13
+
+Artificial 
+Intelligence 
+Sector Deal
+Key commitments
+
+Ideas
+
+To be the world’s most innovative economy.
+
+Support AI innovation to 
+raise productivity
+``  Invest up to £20m in the application 
+of AI in the services sector through 
+the Next Generation Services 
+Industrial Strategy Challenge. This 
+will include a network of Innovation 
+Research Centres and collaborative 
+R&D to develop new applications of 
+AI and data-driven technologies in 
+sectors such as law and insurance5. 
+``  Invest £93m from the Industrial 
+Strategy Challenge Fund into 
+the robotics and AI in extreme 
+environments programme, towards 
+the research and development of 
+robotics and AI technologies for 
+use in industries such as offshore 
+and nuclear energy, space and deep 
+mining, with the aim of supporting 
+safer working practices for people 
+in extreme environments that 
+could prevent potential harm 
+and increase productivity.
+``  The government will work with 
+academia, the broader research 
+community, industry and end users 
+to integrate AI into future Industrial 
+Strategy Challenge Fund challenges.
+
+Stimulate uptake of AI, including 
+within the public sector
+``  Create a £20m GovTech 
+Fund, supported by a GovTech 
+Catalyst, which will support 
+tech businesses to provide the 
+government with innovative 
+solutions for more efficient 
+public services and stimulate the 
+UK’s growing GovTech sector. 
+``  Raise overall UK R&D intensity 
+by raising total R&D spending 
+across public and private sectors 
+to 2.4 per cent by 2027, and 3 
+per cent over the longer term.
+``  Increase in the rate of the R&D 
+Expenditure Credit from 11 per cent 
+to 12 per cent from January 2018.
+
+Research support for AI
+``  £300m has been allocated by the  
+Engineering and Physical Sciences 
+Research Council (EPSRC) to fund 
+research related to ‘data science 
+and AI’ complementing the new 
+centres for doctoral training.
+``  £83m EPSRC funding for 159 
+AI grants listed under the 
+EPSRC Research Area Artificial 
+Intelligence Technologies. 
+``  £42m EPSRC funding for 
+the Alan Turing Institute.
+
+Government action to support AI
+
+
+  15
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+14
+
+Investments in the UK from AI powerhouses
+
+Google DeepMind and its parent, Alphabet’s Google, are global 
+leaders in AI. Google currently has three offices in 
+London, with a new HQ planned for King’s Cross that 
+will house 7,000 staff when it opens in 2020.
+
+Element AI Element AI is an artificial intelligence solutions provider 
+that was co-founded in October 2016 by established 
+entrepreneur Jean-François Gagné and leading AI 
+researcher Yoshua Bengio. With deep domain expertise and 
+access to cutting-edge technology, it focuses on turning 
+AI research into transformative business applications 
+and will open a new R&D centre in London in 2018.
+
+Amazon Amazon has expanded its headcount in the UK to 
+24,000, including the opening of a new head office and 
+doubling the number of roles at its London Development 
+Centre, bringing Amazon’s total corporate and R&D 
+workforce in London to approximately 5,000 by the 
+end of 2017. The company has also announced plans to 
+open two further robotics enabled fulfilment centres.
+
+
+ 15
+
+
+Investments in the UK from AI powerhouses
+
+Beyond  
+Limits
+
+Beyond Limits is a private company based in Glendale 
+California spun-out of JPL – part of NASA, and a leading 
+software developer – to commercialise 20 years of 
+investment in next generation cognitive reasoning AI. 
+This software has been deployed successfully by NASA, 
+the US military and other government agencies for fully 
+autonomous systems that can ‘think outside the box’ and 
+handle new situations, even where there is little or no data. 
+Beyond Limits has chosen the UK for its international base 
+for global expansion centred around the Cambridge area 
+where there is a deep pool of AI and data science talent.
+
+Ironfly 
+Technologies
+
+Ironfly Technologies is a rapidly growing startup  
+headquartered in Hong Kong that uses AI and machine 
+learning to interact with live market data to generate 
+bespoke analytics for the financial sector. Having 
+recently established a base in London, it is looking to 
+expand its London team of product developers.
+
+Astroscale Japanese company Astroscale will develop a world 
+leading capability in AI technology for cleaning up space 
+debris and in orbit satellite servicing in the UK, which is 
+expected to generate over 100 high-value engineering 
+jobs in the UK within five years. This will be backed with 
+over $20m from Astroscale to build a supply chain with 
+a significant amount of that investment in the UK, and is 
+supported by £4m from the Robotics and AI in Extreme 
+Environments Industrial Strategy Challenge Fund.
+
+Chrysalix Top-ranking Vancouver based venture capital firm Chrysalix, 
+is establishing its European HQ in the UK. A strong investor 
+in AI and robotics, Chrysalix expects to invest 40-60% of 
+its latest $250m fund through its European base. Chrysalix 
+is also engaging UK universities and centres of excellence 
+to bring business challenges to the academic world and 
+to connect new inventions with the business world.
+
+Invest in AI-related R&D to boost productivity
+``  Industry will provide match 
+funding for AI solutions across 
+key sectors: services, life sciences, 
+agriculture and the public sector.
+``  Recognise the UK’s strengths 
+in AI by backing it as a country 
+to invest in, as seen through 
+recent major investments.
+
+``  Up to £12m of anticipated 
+industry funding to support 
+the Next Generation Services 
+Industrial Strategy Challenge.
+``  Commit to £69m of industry 
+funding to support the 
+development of robotics and 
+AI in extreme environments.
+
+Industry action to support AI
+
+HPE, Arm, SUSE, and the universities of Bristol, 
+Edinburgh and Leicester will invest into Catalyst 
+UK, a three year programme to establish one of the 
+largest Arm-based supercomputer deployments to 
+accelerate deployment of artificial intelligence available 
+to both academia and industry across the UK.
+
+
+HPE  17
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+16
+
+People
+
+To generate good jobs and greater earning power for all.
+
+Government action to support AI
+
+Work with schools, universities 
+and industry to ensure a 
+highly-skilled workforce
+``  Develop a prestigious global Turing 
+Fellowship programme to both 
+attract and retain the best research 
+talent in AI from around the world 
+to the UK, to include individuals 
+already based here. This will put 
+the infrastructure in place to train 
+future generations of AI talent.
+``  Build towards an additional 200 
+doctoral studentships in AI and 
+related disciplines a year by 
+2020–21, raising numbers year-
+on-year into the next decade. 
+By 2025, we will have at least 
+1,000 government supported 
+PhD places at any one time.
+``  The AI-relevant studentships will be 
+distributed via the current EPSRC 
+call for Centres in Doctoral Training, 
+which will be supported with £100m 
+investment from government.
+``  Invest £406m in skills, with a focus 
+on maths, digital, and technical 
+education, including funding to 
+upskill up to 8,000 computer 
+science teachers and creating a 
+National Centre for Computing. 
+We have also committed to 
+introduce a National Retraining 
+Scheme this Parliament, with an 
+initial investment in construction 
+and digital skills while the 
+
+scheme is being developed.
+``  The government will refer to The 
+Alan Turing Institute’s upcoming 
+reviews on the application of AI to 
+sectors in the UK to inform future 
+strategic thinking on the adoption 
+of AI in industry and government.
+
+Enable access to high-skilled  
+global talent
+``   Doubled Tier 1 (Exceptional Talent) 
+visas to 2,000 a year to attract 
+the best and brightest talent in 
+science, digital technology (including 
+specialists in AI), engineering, 
+arts and creative sectors.  
+``  Work with Tech Nation to explore 
+how to promote this and other 
+visa routes to AI specialists.
+``Changed immigration rules to         
+
+ enable world-leading scientists and  
+ researchers arriving under the Tier  
+ 1 (Exceptional Talent) route to apply  
+ for settlement after three years.
+``Made it quicker for                                   
+
+ highly-skilled  students to apply            
+ to work in the UK after finishing   
+ their degrees, and reduce red tape  
+ in hiring international researchers.
+Take steps to promote diversity 
+in the development of AI
+``  The government will work with 
+the AI Council to promote the 
+importance of a diverse research 
+base and workforce in AI. 
+
+Industry action to support AI
+
+Invest to increase the size 
+of the AI workforce
+``  Work with universities to develop 
+industry-funded Masters 
+programmes in AI, based at leading 
+universities across the UK.
+``  Work with government and 
+universities to assess the 
+potential role for new Masters 
+conversion courses in AI-
+related expertise, for skilled 
+graduates in other disciplines.
+``  Commit an estimated £60m 
+funding towards the AI-relevant 
+doctoral studentships, which will 
+be distributed by the EPSRC call 
+for Centres in Doctoral Training.
+``  Support the Turing Fellowship 
+scheme for AI, to keep and 
+foster the best researchers in 
+the UK and internationally.
+
+``  Sage is running a pilot programme 
+for 150 under-18s across the UK, to 
+encourage them to think about a 
+career in the AI sector. The ‘Sage 
+FutureMakers Labs’ will teach a 
+broad range of skills required to 
+work in the field of AI - including 
+machine learning, natural language 
+processing, problem solving 
+and other cognitive techniques, 
+as well as an understanding of 
+the ethical considerations that 
+surround AI. The aim is to show 
+the leaders of tomorrow that 
+AI is a career choice open to all 
+that can be accessed through 
+classroom or on-the job learning.
+
+Work to increase the diversity 
+in the AI workforce.
+``  Commit to increasing the 
+diversity in the AI workforce 
+and support efforts to address 
+this, led by the AI Council.
+
+
+ 17  19
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+18  19
+
+Infrastructure
+
+To drive a major upgrade to the UK’s infrastructure.
+
+Government action to support AI
+
+Enhance the UK’s existing 
+data infrastructure
+``  Build on the UK’s strength in  
+data infrastructure by taking 
+steps to publish more high quality 
+public data in an open, easily 
+findable and reusable format 
+suitable for machine learning.
+``  Establish the Geospatial 
+Commission to determine how  
+best to improve access to geospatial 
+data to a wider range of users, 
+including businesses using and 
+innovating with AI technologies. 
+``  Provide legal certainty over 
+the sharing and use of data 
+in accordance with the UK’s 
+strengthened Data Protection Bill.
+``  The Alan Turing Institute and 
+the Information Commissioner’s 
+Office will work together to 
+develop guidance to assist in 
+explaining AI decisions.
+
+Develop fair, equitable and secure 
+data sharing frameworks 
+``  Work with major data holders 
+in both the private and public 
+sectors, along with the data 
+science community, to identify 
+barriers to sharing data. 
+``  Work with industry to explore 
+frameworks and mechanisms for 
+safe, secure and equitable data 
+transfer such as Data Trusts.
+
+Deliver a strong digital 
+and telecommunications 
+infrastructure across the UK
+``  Reach 95 per cent superfast 
+broadband coverage.
+``  Invest over £1bn to develop 5G 
+mobile networks and extend full 
+fibre broadband to build the next 
+generation digital infrastructure.
+
+Industry action to support AI
+
+Work towards interoperable 
+and, where possible, open 
+data standards
+``  AI developers to enhance and 
+define technical standards that 
+allow interoperability between 
+AI systems, and collaborate with 
+the government on a framework 
+of standards to underpin this. 
+``  AI developers to engage with 
+government on their digital and 
+data infrastructure requirements.
+``  Publish identified trends and 
+findings from use and analysis of 
+public data openly to strengthen 
+our data infrastructure.
+
+Partner in the development of 
+data sharing frameworks 
+``  Businesses, academia and other 
+expert organisations as holders 
+and users of data to participate 
+in developing data sharing 
+frameworks such as Data Trusts. 
+``  Businesses to come forward with 
+use cases for publicly held data 
+that can be shared securely when 
+the  frameworks are piloted.
+
+Strengthen and deliver 
+telecommunications and 
+digital infrastructure
+``  Telecommunications companies 
+to offer competitive delivery 
+of full fibre and 5G.
+``  AI industry to work with 
+telecommunications providers on 
+specific needs for AI-supportive 
+telecommunications infrastructure.
+
+
+  21
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+20  21
+
+Business environment
+
+To be the best place to start and grow a business.
+
+Government action to support AI
+
+Develop policy to support 
+AI in the UK
+``  The government will use its 
+convening power to establish 
+an AI Council of leading figures 
+from industry and academia 
+with ministerial representation. 
+The Council will drive action, 
+oversee implementation of 
+the deal, galvanise industry, 
+and advise government. 
+``  The government will establish 
+a new Office for Artificial 
+Intelligence to work with the AI 
+Council to create and deliver 
+the AI strategy, and collaborate 
+with other relevant initiatives, 
+such as the GovTech Catalyst.
+
+Promote UK Artificial 
+Intelligence globally
+``  The government will work closely 
+with the new AI Council to expand 
+export and investment support 
+for AI businesses in the UK 
+including through promoting AI 
+businesses at trade missions.
+
+``  The government will increase its 
+export support for innovative AI 
+and data businesses, and the Global 
+Entrepreneur Programme will look 
+to increase its focus on attracting 
+AI and data-led businesses to 
+establish headquarters in the UK.
+
+Improve the environment for high 
+growth businesses, including in AI 
+``  Establish a new £2.5bn Investment 
+Fund incubated in the British 
+Business Bank. By co-investing with 
+the private sector, a total of £7.5bn 
+of investment will be supported.
+``  Expand significantly the 
+support available to innovative 
+knowledge-intensive businesses 
+through reforming the Enterprise 
+Investment Scheme (EIS) and 
+Venture Capital Trusts (VCTs), 
+realising over £7bn of new 
+investment into high growth 
+businesses over the next ten years.
+``  Work with the Pensions Regulator 
+to clarify investment guidance 
+for trustees to give pension 
+funds confidence that they 
+can invest in assets supporting 
+innovative businesses as part 
+of a diverse portfolio.
+
+Industry action to support AI
+
+Leadership, policy setting 
+and strategy
+``  Senior figures from industry 
+and academia will participate in 
+the AI Council to provide high 
+level leadership and momentum 
+for the implementation of 
+AI review recommendations 
+and the Sector Deal.
+``  Industry will work closely with 
+the government, through the AI 
+Council, on broader questions 
+related to AI such as data ethics and 
+the role of AI in the public sector.
+
+Promotion of AI in the 
+UK and globally
+``  Industry will continue to develop 
+the broader ecosystem that 
+will drive trade and attract AI 
+investment to the UK, including 
+through participating in trade 
+missions, AI exhibitions and 
+international conferences.
+
+Improve the environment 
+for start-ups
+
+``  Global Brain, one of the largest 
+venture capital firms in Japan 
+with $700m under management, 
+is opening its first European HQ 
+in the UK, with plans to deploy 
+£35m over 5 years in UK deep-
+tech startups, with a key focus 
+on AI, Blockchain and Robotics, 
+as well application areas such as 
+Cybersecurity, Cloudtech, Fintech, 
+Aerospace and Healthtech. They 
+will support companies with 
+investment as well as business 
+development within Japan, for 
+instance by connecting investees 
+to large corporate customers.
+
+``  Hewlett Packard Enterprise 
+recently announced new offerings 
+to help customers ramp up, 
+optimise and scale AI usage 
+across business functions to drive 
+outcomes such as better demand 
+forecasting, improved operational 
+efficiency and increased sales.
+
+
+  23
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+22  23
+
+Places
+
+To have prosperous communities throughout the United Kingdom.
+
+Government action to support AI
+
+Work closely with key clusters to provide the support needed for  
+AI businesses to thrive
+``  Invest £21m in Tech City UK 
+over four years, to become Tech 
+Nation and support regional 
+tech companies and startups 
+to fulfil their potential.
+``  Invest over £1bn in next 
+generation digital infrastructure 
+to ensure the whole of the 
+UK is digitally connected.
+``  Support The Alan Turing 
+Institute’s plans for expansion 
+to become the national 
+academic institute for artificial 
+intelligence and data science.
+
+``  Work with Digital Catapult centres 
+across London, North East & Tees 
+Valley, Northern Ireland, Brighton 
+and Yorkshire to help implement 
+digital policies and identify policy 
+needs in emerging technologies.
+``  Ensure that the views of the 
+devolved administrations are 
+represented in the AI community 
+through engagement with 
+the new Office for AI.
+
+Industry action to support AI
+
+Take action to expand AI clusters across the UK
+``  BT is collaborating with Ulster 
+University by investing in a 
+new £29m AI R&D cluster 
+that aims to attract and retain 
+industrial engineers and 
+university researchers.
+``  Leading semiconductor specialist 
+IQE is to invest £38m alongside 
+Cardiff University to develop 
+a compound semiconductor 
+facility that will manufacture 
+high performance components 
+used in AI applications as part 
+of the £1.2bn City Deal agreed 
+between local authorities, and 
+the Welsh and UK governments. 
+
+``  Barclays has launched the bank’s 
+first Scottish ‘Eagle Lab’ in 
+Edinburgh in a new partnership 
+with CodeBase, the UK’s largest 
+tech incubator, to help businesses 
+scale-up - including AI businesses.
+``  Startups nationwide will make use 
+of the Digital Catapult’s ‘Machine 
+Intelligence Garage’ programme 
+to access specialised hardware 
+and expertise affordably, and drive 
+adoption of AI across the UK.
+
+
+  25
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+24  25
+
+DeepMind – and a world leader in 
+AI – is building a new headquarters 
+in London that will be home to 7,000 
+staff: a significant vote of confidence 
+in the UK’s strength in R&D.
+
+Amazon is similarly building its UK 
+base, increasing its staff by almost 
+a fifth in 2017 to 24,000, including a 
+major expansion of its R&D workforce 
+to around 1,500. This includes a new 
+development centre in Cambridge 
+(the company’s second in the city), 
+to add to existing development 
+centres in Edinburgh and London.
+
+The UK has also produced other 
+globally recognised AI firms such 
+as Improbable, which specialises in 
+using AI for virtual reality (VR), and 
+has developed simulation technology 
+with the potential to model the 
+behaviour of millions of people. In 
+2017, Japanese telecommunications 
+corporation SoftBank invested $500m 
+in Improbable, raising the value of the 
+
+startup to over $1bn. Onfido, which 
+was founded five years ago to make 
+identity verification checks quicker and 
+easier for businesses, has developed 
+machine learning technology used by 
+businesses all over the world to help 
+hire staff more quickly and easily.
+
+Most recently, we have also seen 
+notable investments in the UK from 
+global AI firms including Ironfly 
+Technologies, a Hong Kong-based 
+startup that uses machine learning 
+in financial services and Element 
+AI, an artificial intelligence solutions 
+provider, which is opening a new 
+R&D centre in London in 2018.
+
+We are confident that the measures 
+announced through this Sector Deal, 
+alongside the government’s vision to 
+be a leader in meeting the challenges 
+posed by AI and data, will lead to 
+further major investments in UK AI 
+from businesses around the world.
+
+Ideas
+
+Support AI innovation 
+to raise productivity
+Our vision in the Industrial Strategy 
+- for the UK to be the world’s most 
+innovative economy - is supported 
+by a very significant increase in R&D 
+spending between the government and 
+industry. This will boost R&D spending 
+to 2.4 per cent of GDP by 2027, and 
+3 per cent over the longer term, 
+beginning with a £725m investment 
+in new Industrial Strategy Challenge 
+Fund programmes to capture the value 
+of innovation. This is part of a broader 
+commitment to raise total public 
+investment in R&D from around £9.5bn 
+in 2016/17 to £12.5bn in 2021/22. 
+
+This Sector Deal positions the Artificial 
+Intelligence sector to play a growing 
+role in meeting this ambition – with a 
+potential contribution of £200bn or 
+10 per cent of UK GDP by 20306. The 
+government, industry and academia will 
+co-invest to drive R&D in AI including 
+through the Industrial Strategy 
+Challenge Fund. Industry recognises 
+this commitment to innovation: already 
+some of the most R&D intensive 
+startups are basing themselves here 
+such as Beyond Limits and Element AI.
+
+It’s not just the startups who are 
+investing. Rolls-Royce has signed 
+a Memorandum of Understanding 
+with the Alan Turing Institute to co-
+design and deliver a programme of 
+collaborative research in data science 
+and AI. In particular, jointly-run 
+
+research projects will explore: how 
+data science can be applied at scale, 
+the application of AI across supply 
+chains, data-centric engineering and 
+predictive maintenance, and the role 
+of data analytics and AI in science. 
+
+Stimulate uptake of AI 
+within the public sector
+As announced in the Industrial Strategy 
+White Paper, the government will invest 
+£20m in GovTech initiatives that will 
+improve the delivery of public services, 
+from transport and the environment, to 
+education and health. We will also bring 
+together existing work across central 
+government and public bodies to share 
+these technologies and understand how 
+they are deployed most successfully.
+
+Investments in the UK 
+from AI powerhouses
+Many of our most successful businesses 
+started life as an idea in a university 
+lab here in the UK. As the home 
+of four of the top 10 universities in 
+the world, we are a magnet for the 
+highest calibre researchers in artificial 
+intelligence and related disciplines. 
+
+DeepMind, a prominent UK-based 
+AI firm developed out of our leading 
+universities, not only created AlphaGo, 
+(the programme that defeated the 
+world’s greatest player of Go, a fiendishly 
+complex board game) but created a new 
+version which taught itself to defeat 
+the original programme. Alphabet, 
+the parent company of Google and 
+
+Case Study: STFC-IBM ideas for an intelligent future
+
+Science and Technology Facilities 
+Council (SFTC) and IBM Researchers, 
+as part of the Hartree Centre, in 
+Daresbury, are collaborating on 
+projects with multiple industrial and 
+government research organisations 
+in the UK. Exploiting AI methods, 
+they are creating reusable digital 
+assets including: in machine learning 
+and in uncertainty quantification to 
+greatly increase productivity through 
+mechanical and experimental 
+design, intelligent control of complex 
+
+systems, and to speed up modelling 
+and simulation – which will lead to 
+enhanced competitive advantage 
+in a variety of areas ranging from 
+fast moving consumer goods, 
+advanced materials and molecular 
+discovery, to even waste water 
+treatment. The Hartree Centre is 
+able to leverage the wider STFC 
+and IBM Research organisations 
+to provide additional capability for 
+its clients including the Hursley 
+and Rutherford Appleton Labs.
+
+
+  27
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+26  27
+
+ASI helps organisations develop 
+capability in AI through a combination 
+of expertise, technology and training. 
+They run Europe’s most prestigious 
+programme for helping top STEM 
+PhDs to transition into real world 
+data scientists. Nearly 10% of the 
+UK’s STEM PhDs apply for their 
+fellowship every year, and the 
+programme has enabled British firms 
+like easyJet, Babylon Health, Asos, 
+Ovo Energy and Zopa to access the 
+skills needed to build some of the 
+
+most sophisticated AI capabilities in 
+the world. ASI’s in-house data science 
+team use cutting edge machine 
+learning expertise to help clients 
+solve problems ranging from making 
+trains run on time to detecting 
+terrorist propaganda online. And 
+all of this is powered by their data 
+science platform, SherlockML, which 
+has been developed to be the world’s 
+best environment for data scientists 
+to efficiently develop and deploy 
+artificial intelligence algorithms.
+
+Enable access to high-
+skilled global talent
+The government has doubled the 
+number of available Tier 1 visas 
+for ‘Exceptional Talent’ – including 
+specialists in AI – from 1000 to 
+2000 per year. This presents a great 
+opportunity to ensure the UK attracts 
+the best and brightest talent in AI, 
+alongside world leaders in science, 
+digital technology, engineering, arts and 
+creative sectors. We will work with Tech 
+Nation to explore how to promote this 
+and other visa routes to AI specialists 
+to maximise the growth of AI in the UK.
+
+Take steps to promote 
+diversity in the AI workforce
+Increasing diversity in the AI workforce 
+is vital to ensure that everyone with 
+the potential to participate has the 
+opportunity to do so. It is essential 
+that AI developed in the UK reflects 
+the needs and make-up of society 
+as a whole and that industry and the 
+public sector are able to access the 
+greatest supply of talent in terms 
+of numbers. The government will 
+work with the AI Council to promote 
+diversity in the AI workforce.
+
+People
+
+Work with schools, universities and industry to ensure a  
+highly-skilled workforce
+Skilled experts are needed to develop 
+AI, and they are in short supply. As 
+a global leader, the UK needs a large 
+workforce with deep AI expertise; a 
+more diverse, AI research base and 
+workforce; and better digital skills 
+in the wider workforce to use AI. 
+
+Demand for AI talent in AI techniques, 
+such as machine learning, is increasing 
+rapidly. Action is needed now to ensure 
+the skills pipeline can meet the needs 
+of industry now and in the future. By 
+one estimate, the market value of AI 
+technologies is expected to increase 
+at a compound annual growth rate of 
+over 60 per cent to 20227. We must 
+take concerted action or risk other 
+countries seizing the opportunity and 
+causing a brain drain from the UK.
+
+In 2017 there were 26 UK universities 
+offering undergraduate courses 
+in AI and more than 30 graduate 
+programmes running across 20 
+universities. Numbers of students 
+have been rising modestly in recent 
+years, driven predominantly by PhD 
+level places (where the number of 
+enrolments have almost doubled to just 
+under 400 between 2013 and 20158). 
+A recent government consultation 
+with AI academics highlighted the 
+gap between supply and demand for 
+university places, with one institution 
+turning down 13 viable candidates 
+per available masters place. 
+
+The government recognises that to 
+provide the advanced skills needed 
+for creating AI algorithms, the work 
+begins in schools. That is why we 
+have announced a major reform of 
+technical education with the launch 
+of T levels and investment in STEM 
+subjects. We announced in the 2017 
+Autumn Budget £84m of new funding 
+to deliver a comprehensive four year 
+programme to improve computing 
+education and drive up participation in 
+computer science, including upskilling 
+up to 8,000 computer science teachers, 
+to ensure there is a suitably qualified 
+GCSE teacher in every school. The 
+government has also supported the 
+creation of Ada, the National College of 
+Digital Skills, which will train up to 5,000 
+students over the next seven years for 
+a wide range of digital careers. At a 
+higher level, industry will be investing 
+to fund a Masters degree programme 
+with an integrated internship, targeting 
+an initial cohort of 200 students per 
+year. The government will be funding 
+450 new PhD places, and establishing 
+a prestigious Turing Fellowship to 
+support an initial cohort of 10 AI 
+Fellows, to keep the best and brightest 
+AI researchers in the UK. These are 
+just the first steps that we are taking to 
+ensure the growth of AI skills in the UK.
+
+Case Study: ASI – Creating capability in tomorrow’s leading scientists
+
+
+  29
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+28  29
+
+Similarly, open environmental data has 
+been used to create flood risk and water 
+quality apps. To test the autonomous 
+vehicles of the future we will need good 
+quality 3D topographic data on road 
+conditions and roadside obstacles.
+
+The government is committed to 
+opening up more data in a way that 
+makes it reusable and easily accessible. 
+A good example is geospatial data. The 
+Geospatial Commission announced in 
+the 2017 Autumn Budget will provide 
+strategic oversight to the various 
+public bodies who hold geospatial data, 
+seeking to maximise the growth of 
+the digital economy and consolidate 
+the UK’s position as the best place to 
+start and grow a digital business. To 
+
+further boost the digital economy, 
+the government is working with the 
+Ordnance Survey (OS) and the new 
+Commission to establish how to 
+open up freely the OS MasterMap 
+data to UK-based small businesses 
+in particular. Geospatial data is a 
+key enabler for AI technologies. 
+
+In addition, the eInfrastructure 
+Advisory Board (eAB) has recently 
+been set up by UKRI with the purpose 
+of advising the CEO of UKRI on High 
+Performance Computing (HPC) 
+Research infrastructure, and will 
+be developing an eInfrastructure 
+development roadmap, as well as other 
+HPC related projects, going forward.
+
+Infrastructure 
+
+Enhance the UK’s existing data infrastructure 
+Data is a critical part of our digital 
+infrastructure – and fundamental 
+to AI. It enables all kinds of services 
+we use everyday from maps on our 
+smartphones, to social media and 
+payment processes. Without access 
+to good quality data from a range of 
+sources (whether privately or publicly 
+held), AI technologies cannot deliver 
+on their promise of better, more 
+efficient and seamless services.
+
+Open data published by organisations 
+across a range of sectors have enabled 
+other businesses to innovate and 
+build new services, which in turn can 
+make significant contributions to 
+the economy. Transport apps such 
+as CityMapper, for example, make 
+journeys more efficient and have 
+led to the creation of ‘pop-up’ bus 
+routes for commonly made journeys 
+that were previously unserved. 
+
+Case study:  Ocado – Machine learning to build a smart broadband 
+of grocery
+
+Ocado are the world’s largest 
+online-only grocery retailer, with 
+over 600,000 active customers 
+in the UK. As they are fully online, 
+creating a robust data infrastructure 
+and managing data effectively are 
+both crucial to the success of the 
+business. For example, in order 
+to classify and prioritise the daily 
+stream of emails into their call 
+centre, Ocado has built a cloud-
+based machine learning model, 
+which was trained on a database 
+of three million emails previously 
+classified by call centre agents. 
+
+Machine learning is also used to 
+monitor the health of their robot 
+swarms, which carry out the bulk 
+of the work in their new automated 
+
+warehouses. Here, data from the 
+robots are streamed to a data lake 
+where analytical systems oversee 
+performance and identify servicing 
+requirements. By programming 
+machine learning into the robots 
+themselves using technologies such 
+as embedded Tensor Flow, this also 
+creates opportunities for swarm 
+learning, where the learnings of one 
+robot can be shared with the rest 
+of the swarm, a concept which will 
+keep driverless vehicles responsive 
+and agile when on the road.
+
+These are just two examples of the 
+many ways that AI and machine 
+learning pervade Ocado’s end-
+to-end e-commerce, fulfilment 
+and logistics platform.
+
+
+  31
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+30  31
+
+Business environment
+
+Develop policy to support AI in the UK
+Effective leadership and partnerships 
+will be vital to driving forward AI in 
+the UK. As part of the Sector Deal, 
+the government will use its convening 
+power to establish an AI Council as a 
+central forum where industry, academia 
+and government leaders can come 
+together to identify opportunities and 
+issues and actions to address them. 
+
+Similar partnerships have been 
+successful in other sectors such as 
+professional and business services, 
+and the automotive industry. 
+
+This council will be supported by the 
+new Office for AI, a delivery body 
+tasked with implementing the Sector 
+Deal and the government’s overarching 
+strategy for AI. Finally, a Centre for 
+Data Ethics and Innovation will be 
+tasked with ensuring safe, ethical 
+and ground-breaking innovation in 
+AI and data-driven technologies. 
+
+Together, these new institutions 
+will provide the governance and 
+oversight of delivery of the Sector 
+Deal and the wider Grand Challenge.
+
+Develop fair, equitable and secure 
+data sharing frameworks  
+Some of the most valuable data –  
+in terms of its potential for enabling 
+innovation, improving services of 
+realising public sector savings – 
+cannot be made open because it 
+contains nationally critical, personal 
+or commercially sensitive information. 
+This includes data which could be used 
+to identify individuals. Organisations 
+looking to access or share data 
+can often face a range of barriers, 
+from trust and cultural concerns 
+to practical and legal obstacles. To 
+address these issues, we are working 
+with industry to pioneer mechanisms 
+for data sharing such as Data Trusts. 
+These frameworks will ensure that all 
+parties involved have defined rights 
+and responsibilities towards the data 
+and individuals’ personal data, and 
+other sensitive data, is protected. For 
+example, the vision for Data Trusts is 
+that they will allow two or more parties 
+in any sector to partner in data sharing 
+agreements, shape the agreements 
+according to their needs and enable 
+multiple organisations  to work 
+together to solve a common problem.
+
+In addition to Data Trusts, we will 
+explore how to improve data sharing 
+generally, through sharing frameworks 
+and consideration of data portability.
+
+Deliver a strong digital 
+infrastructure across the UK
+The government will work with 
+the telecommunications industry 
+to extend coverage of superfast 
+broadband across the UK, achieving 
+
+a baseline speed of 24 Megabits per 
+second (Mbps). More than £1bn is 
+being invested to develop 5G mobile 
+networks and extend the full-fibre 
+rollout, capable of providing a highly 
+reliable connection and speeds 
+exceeding 1 Gigabit per second.
+
+In addition, the University of 
+Cambridge Research Computing 
+Service is making the UK’s fastest 
+academic supercomputer available 
+to AI technology companies. This 
+new AI supercomputer is a £10m 
+partnership between the Engineering 
+and Physical Sciences Research 
+Council (EPSRC), the Science and 
+Technology Facilities Council (STFC) 
+and the University. Capable of solving 
+the largest scientific and industrial 
+challenges at very high speeds, it is 
+supported by advice and consultancy 
+from the team at Cambridge. The 
+aim is to help companies to create 
+real business value from advanced 
+computing infrastructures.
+
+In the 2017 Autumn Budget, the 
+government announced a range of 
+initiatives to ensure the infrastructure 
+of the UK is wholly digitally connected. 
+This included funding from the National 
+Productivity Investment Fund to launch 
+the £190m Challenge Fund for Local Full 
+Fibre Networks and provide a further 
+£159m for the 5G Testbeds and Trials 
+programme. This will close down digital 
+coldspots, ensuring AI businesses 
+can thrive anywhere in the UK.
+
+
+  33
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+32  33
+
+Improve the environment for high growth businesses, including in AI
+The government is committed to 
+making the UK the best place to start 
+and grow a business. As an emerging 
+sector, support for scaling up is 
+particularly important for AI businesses 
+where technology changes rapidly, 
+funding rounds are frequent and the 
+burn-rate high. The government is 
+committed to improving the financing of 
+growth in highly innovative businesses. 
+To do this the government is:
+
+``  establishing a new £2.5bn 
+Investment Fund incubated in 
+the British Business Bank;
+
+``  investing in a series of private 
+sector fund of funds of scale – the 
+British Business Bank will seed 
+the first wave of investment with 
+up to £500m, unlocking double 
+its investment in private capital;
+
+``  doubling the annual allowance for 
+people investing in knowledge-
+intensive businesses through 
+the Enterprise Investment 
+Scheme (EIS) to £2m a year;
+
+``  providing greater flexibility for 
+knowledge-intensive businesses 
+over when they can access a 
+first investment through EIS and 
+Venture Capital Trusts (VCT);
+
+``  doubling the amount knowledge-
+intensive businesses can receive 
+in a single year through EIS or 
+VCT investment to £10m;
+
+``  backing first-time and emerging 
+fund managers through the British 
+Business Bank’s established 
+Enterprise Capital Fund programme 
+unlocking at least an additional 
+£1.5bn of investment;
+
+``  backing overseas investment in 
+UK venture capital, expected to 
+release £1bn of investment;
+
+``  supporting long-term investment 
+by giving pension funds confidence 
+that they can invest in assets 
+supporting innovative businesses 
+as part of a diverse portfolio;
+
+``  changing the qualifying rules in 
+Entrepreneurs’ Relief to remove 
+the disincentive to accept external 
+investment and consulting on 
+the detailed implementation 
+of that change; and
+
+``  increasing the rate of the 
+R&D expenditure credit from 
+11 per cent to 12 per cent. 
+
+Promote UK Artificial Intelligence globally
+The UK is a world leader in exporting 
+innovation and technology. Our 
+businesses serve customers all round 
+the world in every sector. We have a 
+fantastic opportunity to export our 
+AI expertise too. The government is 
+committed to helping our AI businesses 
+succeed globally. It will increase its 
+promotion of UK AI businesses through 
+trade missions and take steps to attract 
+AI entrepreneurs to the UK. It will look 
+to increase its focus on attracting AI 
+and data-led businesses to establish 
+headquarters in the UK. And, as part of 
+the government’s broader commitment 
+to increasing investment and exports, 
+AI will benefit from the nine new Trade 
+Commissioners responsible for leading 
+
+export promotion, inward and outward 
+direct investment, and trade policy 
+overseas. The fruits of this effort are 
+already showing – as demonstrated 
+through the commitments by Element 
+AI and others to establish bases in the 
+UK. In addition, government’s Venture 
+Capital Unit has supported international 
+companies – such as Global Brain, 
+who committed to establishing their 
+European HQ in London – and continue 
+to work with venture capitalists looking 
+to invest in the UK. Along with our 
+commitments to a visa system that 
+welcomes the best talent, we will 
+establish the UK as the go-to place 
+to headquarter an AI business.
+
+Case study: DigitalGenius – A cutting-edge AI company  
+on an export journey
+
+DigitalGenius brings practical 
+applications of artificial intelligence 
+(AI) into the customer service 
+operations of some major global 
+businesses. Its customer service 
+platform combines the best of human 
+and machine intelligence, enabling 
+businesses to live up to and exceed 
+rising consumer expectations. The 
+platform automates and increases 
+the quality and efficiency of customer 
+
+support across communication 
+channels like email, chat, social 
+media and mobile messaging. 
+
+A focus on exports has been a key 
+part of the company’s business 
+plan from the start and – with the 
+support of the government – has 
+enabled DigitalGenius to grow from 
+20 to 60 employees in one year. Its 
+software is currently powering over 
+30 contact centres around the world.
+
+
+  35
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+34  35
+
+These and other universities based in 
+all four nations of the UK with strengths 
+in AI, will host prestigious Turing 
+Fellowships, whose holders will also be 
+based at the Turing Institute. This will 
+enable the Institute’s geographical span 
+to grow and transform it into a truly 
+national institute for AI and data science.
+
+The actions we are taking to support 
+the growth of AI ecosystems apply 
+throughout the United Kingdom and the 
+challenges we face are shared with our 
+partners in the devolved administrations. 
+As we deliver this Sector Deal we will 
+look for opportunities to collaborate.
+
+As the UK’s longest established AI 
+research centre, the University of 
+Edinburgh has been the home for many 
+spin-out businesses, such as Skyscanner, 
+while the Edinburgh Centre for Robotics 
+recently won a £36m grant for research 
+into offshore robotics. Additionally, data 
+driven innovation and AI technologies 
+underpin the £1.1bn Scottish & UK 
+
+government funded Edinburgh City 
+Region Deal. Meanwhile, BT is opening 
+a £29m R&D facility in Belfast, and 
+partnering with Ulster University to 
+research future technologies such as 
+the Internet of Things, AI, data analytics, 
+cybersecurity and 5G. Welsh company 
+IQE has been at the forefront of the 
+compound semiconductor industry for 
+more than 25 years, and has joined 
+with Cardiff University to invest in 
+developing a compound semiconductor 
+cluster in the area as part of the 
+£1.2bn City Deal agreed between local 
+authorities, Welsh and UK governments. 
+This builds on the existing cluster in 
+the region, which is supported by the 
+UK government’s investment in the 
+Compound Semiconductor Applications 
+Catapult. We want to support the 
+growth of these clusters and the 
+measures in the Industrial Strategy 
+and Sector Deal will help achieve this.
+
+Places
+
+Work closely with key clusters to provide the support needed for  
+AI businesses to thrive
+The government is committed to 
+helping prosperous communities to 
+thrive across the UK. As highlighted 
+in Growing the AI industry in 
+the UK, while the majority of AI 
+businesses are based in London 9, 
+there are a number of other major 
+technology clusters around the UK.
+
+Yet many places are not realising their 
+full potential. By introducing Local 
+Industrial Strategies, and further 
+strengthening local leadership through 
+Local Enterprise Partnerships and 
+Mayoral Combined Authorities, we will 
+provide incentives to make regions 
+across the UK attractive environments 
+for AI businesses and research to 
+flourish in. The huge potential for AI 
+to transform sectors means action is 
+needed now so that new and existing 
+clusters are equipped to support 
+the growing demand for AI, and to 
+be able to offer services locally.
+
+For example, we are investing £21m in 
+Tech City UK over four years to expand 
+into Tech Nation. Tech Nation will roll 
+out dedicated sector programmes 
+in tech specialisms, including AI. The 
+AI programme will operate in two or 
+three key clusters where there is AI 
+expertise and potential to provide the 
+mentoring and growth support needed 
+for ambitious AI businesses to thrive. 
+The aim is to link promising AI clusters 
+into a powerful network of high growth 
+
+AI businesses – part of Tech Nation’s 
+strategy of linking regional tech clusters 
+in London, Cambridge, Bristol and 
+Bath, Manchester, Newcastle, Leeds 
+and Sheffield, Reading, Birmingham, 
+Edinburgh and Glasgow, Belfast, and 
+Cardiff, to create a world leading 
+national network of high growth 
+tech entrepreneurs in the UK.
+
+Key to the UK realising the full 
+economic benefit of AI is ensuring 
+the adoption, deployment and use 
+of AI technologies by organisations 
+of all size and sector. Following a 
+recommendation made in the AI 
+Review techUK, the Royal Academy of 
+Engineering and the Digital Catapult 
+are working together to provide 
+practical guidance and tools to support 
+the effective and responsible use of 
+AI by businesses across the UK. We 
+are also working with Digital Catapult 
+centres across London, North East 
+and Tees Valley, Northern Ireland, 
+Brighton and Yorkshire to help 
+businesses adopt AI effectively.
+
+Alongside the five founding partner 
+universities (Cambridge, Edinburgh, 
+Oxford, Warwick and University College 
+London) and the Engineering and 
+Physical Sciences Research Council, 
+The Alan Turing Institute has begun a 
+programme of accepting new university 
+partners. Eight new university partners 
+have been announced in recent months. 
+
+Case study: BT – Supporting national growth through regional  
+R&D partnerships
+
+BT is funding AI research at 15 
+leading universities across the UK, 
+and is the UK’s largest telecoms and 
+ICT investor in R&D. In addition, BT is 
+leading a five year, £5m partnership 
+with the Universities of Lancaster, 
+Cambridge, Surrey and Bristol, as 
+part of EPSRC’s £78m Prosperity 
+programme, creating an AI powered 
+next generation data infrastructure 
+for the UK. BT is expanding its global 
+R&D centre and startup cluster 
+
+at Adastral Park in East Anglia. 
+Specifically, BT is committed to 
+creating carrier scale and critical 
+national infrastructure ready AI 
+technology. This is an integral part 
+of the evolving consortium of UK 
+companies and institutions behind a 
+proposed national Future Networks 
+Research Centre with its hub at 
+Adastral Park to drive AI into the 
+global telecoms infrastructure.
+
+
+  37
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+36  37
+
+Implementation plan
+
+Key deal activities
+
+Date Milestone
+
+Oct 2017 Publication of the AI Review
+
+Nov 2017 Industrial Strategy White Paper published
+
+Announcement of £20m Industrial Strategy Challenge Fund 
+(ISCF) support for Next Generation Services using artificial 
+intelligence, and £210m ISCF support for Data to early 
+diagnostics and precision medicine which includes using  
+AI to analyse medical images in digital pathology
+
+Q2 2018 Sector Deal launched
+
+Establishment of AI Council, interim Centre for Data Ethics 
+and Innovation, and Office for AI
+
+First meeting of the AI Council
+
+First funded challenges are launched, including Next 
+Generation Services
+
+Q1 2019 Annual Review of the Sector Deal
+
+Governance
+
+Oversight of the implementation of the Sector Deal will be led  
+by the Office for Artificial Intelligence, which will review progress 
+against objectives regularly.
+The new government Office for 
+Artificial Intelligence will be established 
+with responsibility for implementing 
+this Sector Deal. It will support the AI 
+Council which will oversee and drive 
+the implementation of the deal.
+
+An early role for the Office for AI 
+will be to agree implementation 
+plans for each section of the deal, 
+including agreed success metrics. 
+
+Membership of the AI Council will be 
+announced ahead of the first meeting. 
+The main aim of the AI Council will 
+be to provide strategic leadership 
+and momentum in delivery.
+
+The Office for AI will report to the AI 
+Council regularly and will be subject to 
+challenge sessions from government 
+ministers on progress in implementing 
+the Sector Deal. The Industrial Strategy 
+team will provide the challenge on 
+delivery timetable, metrics and ambition 
+on outcomes as well as providing 
+updates and escalation to ministers 
+across the suite of Sector Deals.
+
+
+  39
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+38  39
+
+References
+
+1. Hall, W and Pesenti, J - Growing 
+the Artificial Intelligence Industry 
+in the UK (2017) - https://www.
+gov.uk/government/uploads/
+system/uploads/attachment_data/
+file/652097/Growing_the_artificial_
+intelligence_industry_in_the_UK.pdf
+
+2. Industrial Strategy Challenge 
+Fund challenges are subject to HM 
+Treasury business case approval
+
+3. This includes third party 
+funding as well
+
+4. Oxford Insights - Government AI 
+Readiness Ranking Index (2017) - 
+https://www.oxfordinsights.com/
+government-ai-readiness-index/
+
+5. Industrial Strategy Challenge 
+Fund challenges are subject to HM 
+Treasury business case approval
+
+6. PWC - The Impact of Artificial 
+Intelligence on the UK Economy 
+(2017) - https://www.pwc.
+co.uk/economic-services/
+assets/ai-uk-report-v2.pdf
+
+7. PR Newswire - Artificial Intelligence 
+Market Report (2016) - http://www.
+prnewswire.co.uk/news-releases/
+artificial-intelligence-market-
+report-2016---global-forecast-
+to-2022-artificial-intelligence-ai-
+market-is-expected-to-be-worth-
+usd-1606-billion-by-2022-at-
+a-cagr-of-629---research-and-
+markets-606786556.html
+
+8. Hall, W and Pesenti, J - Growing 
+the Artificial Intelligence Industry 
+in the UK (2017) - https://www.
+gov.uk/government/uploads/
+system/uploads/attachment_data/
+file/652097/Growing_the_artificial_
+intelligence_industry_in_the_UK.pdf
+
+9. 80 per cent of AI companies, 
+according to Sonovate - 50 Hottest 
+UK AI Companies (2017) - http://
+www.sonovate.com/quickview/50-
+hottest-uk-ai-companies
+
+
+
+
+Industrial Strategy Artificial Intelligence Sector Deal
+
+
+40
+
+© Crown copyright 2018
+
+This publication is licensed under the terms of the Open Government 
+Licence v3.0 except where otherwise stated. To view this licence, visit 
+nationalarchives.gov.uk/doc/open-government-licence/version/3 or 
+write to the Information Policy Team, The National Archives, Kew, 
+London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.Where 
+we have identified any third party copyright information you will 
+need to obtain permission from the copyright holders concerned.
+
+This publication is available from: www.gov.uk/beis 
+
+Contact us if you have any enquiries about this publication, including 
+requests for alternative formats, at: enquiries@beis.gov.uk 
+
+
+
+

@@ -1,0 +1,1556 @@
+
+
+
+
+
+Fuller Working Lives – A Framework for Action
+
+
+
+
+                                             
+
+
+                   											
+
+Fuller Working Lives – A Framework for Action -
+
+Contents 
+
+
+
+
+Ministerial Foreword ........................................................................................... 3
+
+
+	
+
+The case for fuller working lives ........................................................................ 5
+
+
+	
+
+What we know about early labour market exits ................................................ 9
+
+
+	
+
+Health conditions and disability....................................................................... 10
+
+
+	
+
+Carers ................................................................................................................. 13
+
+
+	
+
+Back to work support........................................................................................ 15
+
+
+	
+
+Skills and workplace factors ............................................................................ 18
+
+
+	
+
+Financial security and incentives .................................................................... 21
+
+
+	
+
+Next Steps...........................................................................................................24
+
+
+	
+
+Moving Forward................................................................................................. 25
+
+
+	
+
+References: ........................................................................................................ 26
+
+
+	
+
+This document outlines the business case for fuller working lives. Further facts, 
+figures and research are in the accompanying publication: “Fuller Working Lives – 
+Background Evidence”, which includes full details of methodology, data sources 
+and citations. 
+
+Some of the policies referred to in this document are applicable across the whole of 
+the UK and many to England only. The devolved administrations have their own 
+policies with regard to devolved matters. 
+
+
+
+
+                                     
+
+
+   
+
+
+                                                           
+
+
+     
+
+
+    Fuller Working Lives – A Framework for Action 
+
+Ministerial Foreword 
+
+
+
+
+We live in changing times; we’re living longer and can expect many more years of 
+healthy life. But despite this, too many people are leaving work prematurely. 
+Unplanned exit from the labour market can have catastrophic consequences for 
+individuals’ living standards into old age, and comes at great cost to the economy, 
+business and society as a whole. 
+
+So we want to take action to prevent this. We have already been working to reform 
+legislation. Just three years ago it was perfectly legal in this country to sack someone 
+for turning 65, no matter how good they were at their job, or how long they wanted to 
+continue. The removal of the default retirement age now means most people have 
+that choice. Automatic enrolment in a workplace pension will continue to help more 
+workers to save for their retirement. This and the introduction of a new State Pension 
+from 2016 will ensure people approach retirement with more confidence and 
+certainty. 
+
+These measures help everyone to take responsibility for their retirement income, to 
+move away from the idea of a cliff-edge retirement that is inevitable at a given age, 
+and ensure they plan for a retirement that is based on personal circumstance and 
+choice. 
+
+For some, retirement is something to look forward to, something they’ve worked hard 
+to achieve, a time to spend more time doing more of the things they love: taking up 
+new hobbies, volunteering in the community or simply taking it easy. For others, 
+without adequate financial planning, it can become a time of boredom, loneliness and 
+poverty. 
+
+
+3 
+
+                                             
+
+
+  
+
+        
+
+
+          
+
+Fuller Working Lives – A Framework for Action -
+
+We need to act now and focus in the first instance on preventing individuals’ 
+catastrophic withdrawal from the labour market, and where we cannot, support older 
+workers to re-enter the world of employment. We owe it to those people who might 
+otherwise be left behind. People like the person in their 50s who wants to work, but 
+cannot because they have caring responsibilities, or the worker who can no longer do 
+their strenuous manual job because they have a bad back.  
+
+It’s time to change the conversation about extending working life from one about 
+working “until you drop”, to one about a fuller working life, that means working as 
+long as is necessary to create the future you want. The business case is compelling, 
+and this document sets it out clearly for individuals, employers and the State. It also 
+provides a framework within which all the key players can bring about the changes 
+we need to ensure adequate income in retirement, better wellbeing in later life, a 
+more productive labour market, and increased economic activity.  
+
+Steve Webb Minister of State for Pensions 
+
+Esther McVey Minister of State for Employment 
+
+
+. 4 
+
+                                             
+
+
+    			
+
+
+Fuller Working Lives – A Framework for Action -
+
+The case for fuller working lives 
+
+
+
+
+People leaving work before State Pension age is a significant problem: 
+
+- Out of 10.2 million people aged 50-State Pension age, 2.9 million (28 per 
+cent) are out of work 
+
+- Over half of men and women have already stopped working by the year 
+before they reach State Pension age1 
+
+Life expectancy is increasing and the structure of our society is changing. By 2030, 
+the number of people in England aged over 65 will go up by 50 per cent, and the 
+number of people aged 85 and over will double. One in three of the children born 
+today will live to be 1002. 
+
+This is both a huge opportunity and a huge challenge for Government and will impact 
+on every aspect of society. To ensure we are ready for the challenges an ageing 
+society will bring, we are taking action on employment, welfare, pensions, health and 
+social care. We want to keep people well and living independently for as long as 
+possible and working longer is one way for people to ensure they have a healthier 
+future with adequate income in retirement.  
+
+One of the first actions this Government took was to ensure employers can no longer 
+force employees to retire just because they reach the arbitrary age of 65. The 
+removal of the default retirement age means the vast majority of people now have a 
+choice about when to retire. This brings the UK in line with many other countries, 
+encouraging responsible retirement planning and enabling people to work as long as 
+they want to. 
+
+There are more over 50s in employment than ever before. Latest labour market 
+data shows 4,860,000 men and 4,140,000 women over 50 are now in work3, 
+increases of 465,000 and 469,000 respectively over the last four years. However, 
+people leaving work before State Pension age is still a significant problem. 
+
+On average, men leave the labour market earlier now than they did in the 1950s and 
+1960s4, and often this is not a planned early retirement, but people forced out of work 
+by circumstances beyond their control.  Of the 2.9 million people aged 50-State 
+Pension age who are out of work, only 0.7 million see themselves as “retired”, yet 1.7 
+million think it is unlikely that they will ever work again; and more than half of men 
+and women have already stopped working before they reach State Pension age. 
+Many of these are sick or disabled, caring for loved ones, or have given up looking 
+for work after losing a job5. This early exit from the labour market can have 
+serious implications for the health, wellbeing and incomes of individuals and comes 
+at a significant cost to the economy, business and society as a whole. 
+
+Demographic change and increasing life expectancy is making this problem more 
+acute, and people will need to work longer to fund their retirement. The average time 
+
+
+5 
+
+                                             
+
+
+       
+
+
+Fuller Working Lives – A Framework for Action -
+
+a man spends in retirement is still increasing, from 20 to 22 years since the late 
+1990s, and for women from 25 to 26 years6. 
+
+The chart below demonstrates vividly that there is a rapidly growing number and 
+proportion of older people coming into the labour market in the coming decade: 
+Office for National Statistics projections suggest there will be 700,000 fewer people 
+aged16-49, but 3.7 million more people aged 50-State Pension age driven by 
+increases to the State Pension age and demographic change. 
+
+Projected changes to population (2012-2022) 
+
+Population 16-24 
+
+Population 25-49 
+
+Population 50-59 
+
+Population 60-SPA 
+
+-1,000,000 
+
+-500,000 
+
+
+0 
+
+500,000 
+
+1,000,000 
+
+1,500,000 
+
+2,000,000 
+
+2,500,000 
+
+3,000,000 
+
+
+Projected change (2012-2022) 
+
+
+Source: ONS principal population projections for the UK (2012 - based) 
+
+Currently the UK employment rate for 55-64 year-olds is around 60 per cent and, 
+whilst this has been increasing for the past 10-15 years, the recent improvement has 
+been relatively modest compared to many other nations. Several countries achieve 
+employment rates of around 70 per cent or above7, so there is significant room for 
+improvement. 
+
+Early labour market exit can be catastrophic for individuals  
+
+
+
+
+Leaving work before State Pension age makes it much more difficult to maintain 
+living standards into retirement. A third of people who stopped work aged 50 to State 
+Pension age between 2008 and 2010 saw their overall household income 
+immediately drop by more than half8. There is also a loss of potential workplace 
+pension income, because those leaving the labour market early stop paying in, and 
+their former employer stops contributing too. 
+
+
+6 
+
+                                             
+
+
+             	
+
+Fuller Working Lives – A Framework for Action -
+
+So, in addition to the immediate financial impact, people spending less time in work 
+in their 50s are at higher risk of low income later in retirement9, and those leaving 
+work involuntarily are also more likely to be on low incomes or rely on means-tested 
+benefits as pensioners10.
+
+We estimate that there are currently around 12 million adults below State Pension 
+age heading towards an inadequate retirement income11, and around 40 per cent 
+of these are expected to spend less than 35 years in work.  Retiring before State 
+Pension age can substantially reduce private pension savings, spreading a smaller 
+pension pot over a longer retirement, and could mean receiving less than the full 
+State Pension amount12. Spending longer in work is key to providing adequate living 
+standards in retirement. 
+
+Case study: How early retirement can reduce private pension wealth 
+
+David earns £28,900 a year13 and saves into a defined contribution private pension 
+at a combined contribution rate of 8 per cent.  Working from age 25 until his State 
+Pension age of 65 he could expect to accumulate a private pension pot of £128,000 
+(in current prices terms). If he stops working at age 55, his private pension pot 
+would be over a third smaller – approximately £81,000 – as he stops contributing, 
+and taking his pension early means the fund has less time to grow.  His wealth would 
+also be spread over a longer retirement: an expected 32 years when retiring at age 
+55 compared to an expected 22 years when retiring at State Pension age14. 
+
+Furthermore, there is evidence that work is generally good for physical and 
+mental health and well-being. Research suggests that unplanned early labour 
+market exit can be harmful to overall well-being, particularly where there is less social 
+interaction in retirement15. 
+
+Early labour market exit damages public finances and the wider 
+economy
+
+
+	
+
+There is a widespread belief that increasing the employment of older people would 
+limit opportunities for younger people, but there is a broad span of evidence to 
+suggest that this is not the case16. In fact, the evidence from a number of countries 
+suggests the contrary, that increasing employment rates amongst older workers 
+does not lead to fewer jobs for younger workers, and increases the total size of 
+the workforce. 
+
+
+7 
+
+(This case study is for illustrative purposes only)
+
+
+
+
+                                             
+
+
+                   	
+
+Fuller Working Lives – A Framework for Action -
+
+Government spends around £7 billion on out-of-work benefits for claimants aged 50-
+State Pension age and more than 80 per cent of this is on incapacity-related benefits 
+(£6 billion)17. In 2011 the National Institute of Economic and Social Research 
+(NIESR)18 showed that increased employment of older workers would increase 
+tax revenues and overall economic output. Our updated analysis suggests that 
+halving the employment gap between older people aged 50-State Pension age and 
+those in their 40s could have seen income tax and National Insurance receipts one 
+per cent (just under £3 billion) higher and nominal Gross Domestic Product (GDP) up 
+to one per cent (£18 billion) higher in 201319. 
+
+Early labour market exit can be damaging for business
+
+
+	
+
+Evidence suggests that employers who fail to retain their older workers are losing 
+important skills from their workforce, and the premature loss of older workers can 
+lead to loss of output and higher recruitment costs for employers. Despite some 
+outdated stereotypes there is no systematic evidence that older workers are less 
+productive than younger workers20. 
+
+Looking to the future, keeping more older people in work will be crucial to meet 
+future labour demand. In the 10 years from 2012 to 2022, employers expect a 
+significant number of new jobs to be created in the UK economy21, and the 
+combination of more older people and more new jobs means that the labour market 
+and our attitudes towards older workers must evolve to meet the challenge. 
+
+“Changing demographics in the workplace mean that later life workers are 
+now the fastest growing age group in the labour market. Yet despite the 
+growing numbers of mature workers, their contribution to business and the 
+wider economy often goes unsung. It might surprise people to learn that at 
+McDonald’s we employ over 1,000 people aged 60 and above. These 
+employees play an important role in our business and, as the research 
+shows, they make a huge impact on customer satisfaction.” 
+
+David Fairhurst Chief People Officer, McDonald’s Europe 
+
+
+8 
+
+                                             
+
+
+            
+
+Fuller Working Lives – A Framework for Action -
+
+“They’re like gold-dust. Their experience and flexibility would be hard and 
+costly to replace. At the same time we do also have a 16 year old apprentice 
+mechanic who is shaping up well and is very keen. Life is full of conundrums, 
+but the bottom line is that I manage my human resources for the best return. 
+It’s better for my business to keep our older workers, many working flexibly, 
+than to recruit replacements. It’s all about long-term survival, even more so in 
+the current climate.” 
+
+AT Brown Coaches Director Ewen MacLeod on older workers 
+
+What we know about early labour market exits 
+If someone has planned adequately and is financially secure, no-one should 
+begrudge them an early retirement.  The Government needs to focus on the major 
+causes of unplanned early labour market exit that can be so damaging to finances, 
+wellbeing and health. 
+
+The interplay of factors that lead people to feeling forced to stop work vary from 
+person to person. However, we know the major factors that influence decisions to 
+leave work are22: 
+
+ Health conditions
+ Disability
+ Caring responsibilities
+ Redundancy
+ Workplace factors
+ Financial security
+
+We also know that many factors can be specific to certain occupations or industries, 
+and some industries feature more prominently than others given high concentrations 
+of older workers in particular sectors. For example, half of economically inactive older 
+men previously worked in one of just four sectors: manufacturing, construction, 
+transport, and wholesale/retail. And two thirds of economically inactive older women 
+previously worked in education, health/social care, wholesale/retail, and public 
+administration23. Older people from protected groups24can also be at risk of poor 
+labour market outcomes, and it is important that no-one is left behind. 
+
+
+9 
+
+                                             
+
+
+                	 	 	 
+
+Fuller Working Lives – A Framework for Action -
+
+Health conditions and disability
+
+
+ 
+
+“Let's make the workplace fit for humanity as it is, not some perfect view of 
+humanity” 
+
+Liz Sayce, CEO Disability Rights UK 
+
+Almost half of people aged 50-State Pension age have a long-term health 
+condition, a quarter have more than one long-term condition and a quarter are 
+disabled. Many people who develop a health condition can manage their condition 
+and need no additional support, but there are currently over 1 million people aged 50 
+-State Pension age who are not working because of sickness or disability25, and over
+a million over 50s claiming Incapacity Benefit or Employment and Support Allowance
+(45 per cent of the total), whereas over 50s make up only 27 per cent of the adult
+population below State Pension age26.
+
+While there is no single thing that can help older people who develop health 
+conditions or impairments stay in work, evidence points to the need to focus on 
+awareness of disability, the prevention of work-related conditions and a focus on a 
+healthy workplace, effective management of sickness absence, availability of flexible 
+working options, effective line-management and matching responsibilities to 
+capabilities. 
+
+The feedback we received from stakeholder engagement events suggested a need 
+to prioritise actions, focus on early intervention and the creation of a healthy 
+workplace environment. Stakeholders felt that investment in health and wellbeing 
+programmes can have long-term benefits for business and employees. 
+
+What Government is already doing 
+Government is already working in partnership with a range of stakeholders on the 
+following areas:  
+
+ Changing attitudes to disability and long-term health conditions. The
+Disability Confident campaign aims to help employers who are unsure about
+the benefits of employing disabled people, or who worry about the logistics,
+discover for themselves the talents and value that disabled people bring to
+business27.
+
+ The Disability and Health Employment Strategy published in December
+2013 looks at how Government can best support disabled people and people
+with health conditions in the labour market and how partnership working with
+employers and other stakeholders can make a difference.
+
+ We have introduced the Personal Independence Payment (PIP), which is
+available to those both in and out of work, to support disabled people who face
+the greatest barriers in society.
+
+
+10 
+
+                                             
+
+
+              		 	 	 	 	 		 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+Actions Government will be taking forward 
+
+
+
+
+	 A new Health and Work Service: A lack of occupational health support for 
+employers, particularly small and medium enterprises (SMEs), means many 
+employees do not get the support they need to stay in and return to work28, so 
+in late 2014 the Government will introduce the Health and Work Service. Once 
+an employee has reached four weeks of sickness absence they will be 
+referred to the service by their GP for an assessment by an occupational 
+health professional, who will look at all the issues preventing the employee 
+from returning to work. Employers, employees and GPs will also be able to 
+access independent and objective advice via a phone line and website on 
+issues preventing a sustained return to work, and on how to prevent sickness 
+absence from occurring. 
+
+	 Learning what works to support older people with health conditions back 
+to work: We are currently running Randomised Control Trials for 
+Employment and Support Allowance claimants with long-term health 
+conditions, comparing the effectiveness between three methods of support for 
+two years either from a Work Programme provider, a health care professional 
+or an increase in Jobcentre Plus Work Coach support. Around 2,000 to 4,000 
+people are expected to participate and nearly half are expected to be older 
+claimants. This is a major opportunity to learn more about what works for this 
+group. 
+
+	 Many disabled people rely on assisted living technologies (ALT) to give them 
+greater control over their everyday lives, and ALT in turn has the potential to 
+help carers feel more confident about combining employment and their 
+support role. But research shows that many of these technologies are not 
+being adopted and used to their full potential. The current assisted technology 
+market is failing to match growing and projected demand which is expected to 
+grow rapidly over the coming years owing to demographics and the pressures 
+on state health and social care budgets. We are therefore looking at the 
+potential for inventors and small and medium enterprises to work with 
+disabled people to improve existing assisted living products, or develop 
+new ideas. 
+
+	 The Psychological Wellbeing and Work Project will run pilots to: 
+o	 Examine whether offering Improving Access to Psychological Therapies 
+
+(IAPT) treatment and employment support can offer better outcomes for 
+claimants with common mental health conditions. 
+
+o	 Test telephone-based psychological wellbeing and employment-related 
+support from specialist providers for some benefit claimants, with the 
+aim of understanding whether employment-focused talking therapies 
+can improve claimants’ chances of gaining sustainable employment.  
+
+o	 Test early access to online mental health assessments and 
+computerised Cognitive Behavioural Therapy to see if this improves 
+employment and health outcomes for those with, or at risk of 
+developing, common mental health problems 
+
+
+11 
+
+                                             	
+
+
+           	 	 
+
+Fuller Working Lives – A Framework for Action -
+
+ New guidance toolkit for employers: The Government will build on the
+existing Age Positive employer guidance to develop additional accredited
+guidance and toolkits where gaps have been identified, to help employers
+support older workers in the workplace. We will do this in partnership with the
+Confederation of British Industry (CBI), Chartered Institute of Personnel and
+Development (CIPD), Employers Network for Equality and Inclusion (ENEI),
+Advisory Conciliation and Arbitration Service (ACAS), Trades Union Congress
+(TUC), Institute of Directors (IoD), Federation of Small Businesses (FSB) and
+others. We will take in to account relevant research and advice, for example
+guidance being written by the National Institute for Health and Care
+Excellence (NICE) on workplace policy and management practices.
+Information will focus on the business benefits of employing older workers,
+and on what works in terms of healthy workplaces in different sectors
+and occupations.
+
+ Public Health England (PHE) in partnership with Greater Manchester Public
+Health Network is developing a new national strategy for publication in 2015.
+It will look at ways for the healthcare profession to support older people to
+remain active in work, self-employment and participation in civic society,
+by seeking to reduce the number of people who feel unable or unsupported to
+work because of ill health or declining health. As well as considering how best
+to maximise the number of healthy years an individual has after retirement. It
+will also focus on actions and develop and test recommendations with local
+people and service providers to reduce the numbers of people who leave work
+because of health issues after the age of 50 years. They are also considering
+additional measures to reflect these priorities in the PHE outcomes framework
+
+Discovering their line managers were reluctant to agree to changes to 
+working practices because they didn’t know what was “reasonable”, and 
+were worried about setting precedents and getting into trouble with their 
+managers, Lloyds decided to produce guidance not just covering physical 
+adjustment such as equipment, but also non-physical adjustment which 
+covers for example the way someone performs a job - hours worked, 
+working pattern and training. 
+
+They discovered that the vast majority of adjustments required were of the 
+non-physical type - over 76 per cent.  
+
+As a result Lloyds now ensure all their line managers are fully trained in all 
+aspects of adjustment. They believe this ensures all colleagues work 
+effectively so they can contribute towards the long-term success of their 
+teams and business. 
+
+Lloyds Banking Group 
+
+
+12 
+
+                                             
+
+
+       
+
+Fuller Working Lives – A Framework for Action -
+
+Carers 
+A quarter of women and a sixth of men aged 50-64 have informal caring 
+responsibilities for a sick, disabled or elderly person29. People in late middle-
+age are often caught between the different generations of family members requiring 
+care: parents and in-laws, spouses or partners, children or grandchildren.   
+
+People with multi-generational caring responsibilities are often referred to as 
+“sandwich carers”. While the number is relatively small, there is an increasing 
+incidence of people having dual caring responsibilities for both older and younger 
+people30 and difficulties managing these responsibilities alongside work can lead to 
+premature labour market exit.  
+
+Many people with caring responsibilities can and do balance work and care, but the 
+more intense the caring, the more difficult this becomes.  12 per cent of economically 
+inactive people aged 50-State Pension age are caring for a sick, disabled or elderly 
+person for 20 or more hours per week, compared to only 3 per cent of workers31, and 
+recent estimates conducted for the Carers in Employment Task and Finish Group 
+suggest that 315,000 adults below State Pension age are out of work, having left 
+work to care for someone32. Our ageing population means that demand for 
+informal carers is likely to increase in future so this is an issue we cannot ignore. 
+
+A range of actions can help more carers stay in employment, for example, ensuring 
+that care and support services meet the needs of carers, ensuring that carers who do 
+stay in work benefit financially, and that employers value carers and recognise their 
+need for flexibility. Innovation in areas such as assistive technology can also play an 
+important role. 
+
+
+13 
+
+                                             
+
+
+                		 	 
+
+Fuller Working Lives – A Framework for Action -
+
+What Government is already doing  
+
+We understand and value the work of carers in society. There is no doubt that we 
+could not manage without the dedication and hard work they undertake. In 
+recognition of this, the Care Act33  builds the system around people’s wellbeing, 
+needs and goals. It sets out new rights for carers; emphasises the need to prevent 
+and reduce care and support needs, and introduces a national eligibility 
+threshold for care and support. Reliability and quality of care is crucial to prevent 
+premature labour market exit. Without trust in the care offered to their loved ones, 
+people feel obliged to leave paid employment and do it themselves. For the first time, 
+there will be a duty on local authorities to meet the eligible needs of carers, including 
+their wishes to stay in employment, as well as a duty to develop the diversity of the 
+care and support market. 
+
+‘Recognised, valued and supported: next steps for the Carers Strategy’34 published 
+in 2010 sets out the Government’s priorities for carers and identifies the actions 
+being taken to ensure the best possible outcomes for carers and those they sup port, 
+including enabling those with caring responsibilities to fulfil their educational and 
+employment potential. The Action Plan for the National Carers Strategy is 
+currently being updated and will be published soon.  It will set out the Government’s 
+commitments to carers over the next few years. 
+
+Actions Government will be taking forward 
+
+ We want to find out more about how adult carers can be supported to remain
+in paid employment so, working with the Social Care Institute for Excellence,
+the Government will commission a two-year project to develop five pilots.
+The pilots will investigate the take up and use of an assistive technology
+fund to support carers who are in employment, and will support and
+encourage people to set up companies that exist ‘on the boundary’ of
+homecare and auxiliary services. The approach would support the
+development of a care market for self- funders who will require support
+services outside the remit of traditional care services.
+
+ Gloucestershire and West of England Jobcentre Plus District is also
+commencing work to identify and understand the particular barriers to
+employment for carers in Bristol and South Gloucestershire, with the aim
+of designing specific interventions to support carers into work
+
+
+14 
+
+                                             
+
+
+                     
+
+Fuller Working Lives – A Framework for Action -
+
+ Rolling out Universal Credit with its improved support for carers (see section 
+on Financial security and incentives). 
+
+Back to work support 
+Redundancy can often lead to early labour market exit.  Around a quarter of 
+economically inactive people aged 50 and over were made redundant from 
+their last job35 .  Older people are not significantly more likely than younger people to 
+be made redundant, but they are much less likely to find work again afterwards. Our 
+analysis shows that 47 per cent of unemployed older people had been out of work for 
+a year or more compared to 40 per cent of 25-49 year olds, and only 33 per cent of 
+unemployed 18-24 year olds. And 27 per cent of unemployed people aged 50 to 
+State Pension age end up economically inactive a year later compared to only 19 per 
+cent of people aged 25-4936. Effective back-to-work support is crucial to ensure that 
+older jobseekers are able to get back into work quickly and avoid becoming long-term 
+unemployed, or economically inactive. 
+
+What Government is already doing 
+
+The Jobcentre Plus Offer delivers back-to-work support to claimants across all 
+work-related benefits through a flexible model that focuses on outcomes and 
+personalised support. 
+
+The Rapid Response Service, managed by Jobcentre Plus, provides support to 
+people affected by redundancy or other workforce management measures, for 
+example voluntary release schemes. The service aims to work with employers, and 
+provides timely and targeted support for them and their employees to help people 
+move rapidly into alternative employment. Examples of support include: 
+
+ matching people facing redundancy to known job vacancies; 
+ helping people to construct a CV; 
+ helping people to enhance their jobsearch skills;  
+ helping people to identify their transferable skills and training needs;  
+ providing job-focussed training to help people develop vocational skills, and  
+
+helping to meet discretionary costs e.g.travel to work expenses. 
+
+The Flexible Support Fund is a locally managed budget allowing local Jobcentre 
+Plus offices to make decisions about the type and style of support which is 
+appropriate to meet the needs of the local labour market. This local approach and 
+flexibility can work well for older claimants and examples of the range of activities to 
+support older claimants include: use of work psychologists to support work coaches 
+to identify barriers and improve interviewing techniques with older claimants, access 
+to conversion courses to convert outdated or obsolete qualifications into modern 
+certification, supporting claimants to develop their IT and digital skills, and working 
+
+
+15 
+
+                                             
+
+
+        
+
+
+Fuller Working Lives – A Framework for Action -
+
+with DWP’s National Employer Service Team to develop links with employers to 
+challenge their perceptions of older workers and promote the benefits of a multi-
+generational workforce. It can also be used to set up bespoke interventions for older 
+claimants, such as sector-based work academies. 
+
+To spread good practice we have developed an internal best practice guide to help 
+Jobcentre Plus work coaches target support where it is most effective. To promote 
+this, we have re-launched an internal intranet site that sets out the advice, tools and 
+support available to Jobcentre Plus work coaches to help older claimants get back 
+into work. 
+
+Sector-based work academy 
+Doreen was made redundant from a large printing firm a couple of years ago. 
+Since then, she has had lots of temporary short-term contracts, has been on 
+and off JSA, and has combined work with caring for her elderly mother.  
+Doreen’s role looking after her mum was intense. She would spend whole 
+nights there, organising medication and delivering personal care. She wanted 
+more stability from a job, and realised she could get paid for caring for others 
+too. Doreen was referred to a care sector-based work academy (sbwa). She 
+was successfully selected, and on completion of the training was offered a 
+permanent job. 
+
+The Work Programme  
+Some unemployed older people will need the more intensive support available 
+through the Work Programme. The Work Programme offers tailored support to 
+those who are at risk of becoming long-term unemployed and is delivered by 
+providers who are free to design support based on individual and local need.  
+
+Last year, the Government launched the Work Programme ‘Building Best Practice 
+Group’, which is considering the best ways of addressing the particular needs of 
+claimants, including older workers. The group will report back to Ministers later in 
+2014. 
+
+Self-Employment 
+
+Self-employment can match very well with the needs of older people. The flexibility it 
+allows can fit around other commitments and starting a business can make the most 
+of years of experience or untapped talent. The New Enterprise Allowance is a 
+successful scheme that supports people who wish to move off benefits and into self-
+employment by providing access to business mentoring and financial support.  The 
+scheme has been very successful with older claimants. By the end of December 
+2013 9,260 people aged 50 and over had started a new business with the help 
+of the New Enterprise Allowance since April 201137. 
+
+
+16 
+
+                                             
+
+
+          		 	 	 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+New Enterprise Allowance (NEA) 
+Heather had recently been made redundant after 10 years employment as a 
+Business Manager. Being over 50 she was worried it would be difficult to 
+get another job. She had some sound business ideas on how she could turn 
+her hobby, knitting and sewing, into a business and was prepared to invest 
+her redundancy payment into the venture.     
+We decided to go down the NEA route way. She received valuable 
+mentoring from an NEA provider to develop her business plan and was 
+soon in a position to begin trading. The NEA was crucial in maintaining 
+cash flow in the early weeks. 
+The business is now a success and is continuing to grow, as she is always 
+introducing new ideas. Heather has achieved what she never though she 
+would and has turned her hobby into a source of livelihood and become her 
+own boss. 
+
+Actions Government will be taking forward 
+
+We want to learn new, effective ways of helping older claimants back to work and 
+remain in work. The Government is doing this through a number of trials: 
+
+	 A Randomised Control Trial to test the impact that up to six months 
+adviser-led in-work support can have, with claimants aged 25 and over who 
+leave JSA and move into work. This is an important opportunity to understand 
+more about the effectiveness of supporting this group as they make their first 
+steps back into work. 
+
+	 The Supervised JobSearch Pilots will test the effect of claimants (both Pre-
+and Post-Work Programme) being mandated to attend full-time provision. 
+The aim of the pilots is to explore the impact on claimants of all ages of daily 
+attendance, supervision and support for jobseeking.  
+
+ We are testing new and tailored provision for older jobseekers in some 
+Jobcentres using the Flexible Support Fund. In the West of England, Weston 
+College will be offering an Age Positive course for older jobseekers, which if 
+successful may be rolled out to other areas. 
+
+th	 DWP will also hold an ‘Older Claimants’ fortnight from 9 -23rd June 2014 
+that will focus attention on supporting older people to find a job. This will 
+include a range of internal and external communication activities to fully 
+demonstrate the benefits to business. 
+
+
+17 
+
+                                             
+
+
+       
+
+
+Fuller Working Lives – A Framework for Action -
+
+Skills and workplace factors 
+Fewer older people engage in work-based training and they are less likely to 
+voluntarily change jobs than younger workers38. This can leave those who find 
+themselves out of a job at a disadvantage. A focus on training, development and 
+active career planning is crucial to ensure older workers have the skills to remain 
+competitive in the jobs market.  For people who find themselves out of work, we need 
+to make sure that back to work support reflects the needs of older jobseekers. 
+
+Evidence from interviews with jobseekers looking for work through Jobcentre Plus 
+suggests that more 50+ claimants said they were not confident their skills were 
+up to date compared to 18-24 year olds39. Furthermore, older jobseekers are less 
+confident that an employer would offer them an interview, suggesting that confidence 
+and real or perceived age discrimination are still issues in the recruitment process.   
+
+Workplace factors are known to be very important in retirement decisions. 
+Reorganisation and technological shocks can provide an involuntary “push” out of 
+employment and occupational stress, repetitive or boring work, lack of autonomy and 
+lack of flexibility in terms and conditions can all play a part in an individual’s decision 
+making in terms of leaving or staying in the labour market40. These can be 
+particularly important for people with health conditions or caring responsibilities, and 
+it is important that significant workplace-based barriers are addressed. 
+
+What Government is already doing 
+
+The Government has established a simplified skills system in England. Training 
+providers now have greater freedom to tailor training to the needs of the local 
+community and economy. 
+
+Funding is available to help adults train or re-skill. Professional and Career 
+Development loans are deferred repayment bank loans supported by Government 
+which can help pay for professional and vocational courses that help adults with their 
+career development or helps them to get into work. In addition, individual training 
+providers such as City & Guilds also offer a limited number of grants and bursaries 
+and Learndirect offers a range of free and low cost training. 
+
+The Government-funded Mid-life career review project was announced in July 
+2012 and has been undertaken by the National Institute for Adult Continuing 
+Education (NIACE), in partnership with the National Careers Service and others. One 
+of its aims is to prevent early labour market fall out, as well as early consideration of 
+work and retirement planning issues. An initial evaluation report has been 
+published41 and work continues to fully evaluate the outcomes. 
+
+People on JSA, people in the work-related activity group in ESA, and those on 
+Universal Credit mandated to training are able to access fully funded training to help 
+them into work. This training can consist of qualifications and units up to level 2, even 
+if the individual already holds a qualification at level 2, from the Qualifications and 
+Credit Framework (QCF) for example in basic skills or employability. 
+
+
+18 
+
+                                             
+
+
+               		 	 	 	 	 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+In 2011/12, 21.1 per cent of adult learners were aged 45-59 and 8 per cent were 
+aged 60 and over. In 2012/13 12 per cent of apprenticeship starts were by those 
+aged 45-59 and 0.6 per cent by those aged 60 and over. 
+
+Older people are also well represented among those participating in Government 
+funded community learning: in 2012/13 48 per cent of community learning learners 
+were aged 45 and over while 16 per cent were aged 65 and over.42 
+
+We know that we cannot bring about the changes needed without the help of 
+employers and business networks. Employers want to learn what works from similar 
+businesses and networks that they respect. Our Age Positive  initiative provides 
+guidance and case studies to employers and business organisations about 
+employing older workers and the business benefits of adopting flexible approaches to 
+work and retirement. We continue also to work with leading business and age expert 
+organisations through the Age Action Alliance's Healthy Workplaces  group to 
+develop practical resources to help employers effectively manage the health and 
+productivity of an ageing workforce. 
+
+On 10 June Government hosted a conference on introducing flexible working into the 
+workforces of smaller employers. 
+
+Actions Government will be taking forward 
+
+	 We will extend the right to request flexible working to all employees in June 
+2014 and will work with business to ensure they understand the benefits of a 
+flexible workplace. ACAS is producing a code of practice which will explain the 
+simple steps employers need to take to respond to employees who wish to 
+take up flexible working. 
+
+	 The newly formed Centre for Ageing Better is pleased to be working with 
+Business in the Community exploring opportunities to change the labour 
+market view of older workers and to develop solutions that meet the needs 
+of older people and business. 
+
+	 We will incorporate lessons learned from the Mid-life career review pilots and 
+integrate the ‘50+ delivery model’ into existing partner practice, to ensure older 
+workers can access an in-depth career review for the first time.  
+
+	 We will develop a communications strategy to ensure that the business 
+benefits of fuller working lives are better understood by both individuals and 
+employers, and that both existing good practice and any new tools reach a 
+wide audience using business networks and representative bodies.  
+
+	 We will work with the Older Workers’ Champion to ensure the issue of 
+working longer and the business benefits are both in the public eye, and more 
+specifically, well known by business. 
+
+
+19 
+
+
+https://www.gov.uk/government/organisations/department-for-work-pensions/series/age-positive�
+http://ageactionalliance.org/theme/healthy-workplaces/�
+https://www.gov.uk/government/organisations/department-for-work-pensions/series/age-positive
+http://ageactionalliance.org/theme/healthy-workplaces/
+
+
+
+
+                                             
+
+
+                  		 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+	 We will hold a national event for Local Enterprise Partnerships (LEPs), to 
+make the business case for local action for the retention of older workers and 
+work with the West of England and other interested LEPs to develop local 
+initiatives to support older workers in the workplace.  
+
+A pub company with more than 900 outlets throughout the UK, J D 
+Wetherspoon’s customer base is very broad, a fact which it is keen to reflect in 
+its workforce. The company removed its retirement age in 2006, a move which 
+ensures that it can retain valuable skills and experience and give staff the 
+choice of working for longer. 
+
+J D Wetherspoon has found it beneficial to attract diverse age ranges by 
+offering flexible hours. This enables the employee to strike a balance between 
+work and family or other commitments and the business to cover its core 
+hours. For example, lunchtime is a particularly busy period for the company’s 
+outlets and it has found that some older workers - who might be looking to 
+work for a few hours a week - are adaptable and happy to work at this time. 
+Older staff are welcomed at all levels of the business, from part-time bar work 
+to managerial posts. Feedback from pubs which employ older workers 
+suggests they are particularly stable, with low absence, a strong work ethic 
+and a commitment to the business. Training is also available at all levels and J 
+D Wetherspoon have a number of older employees who have progressed to 
+manager level. 
+
+J D Wetherspoon 
+
+Mid-Life Career Review 
+
+“It’s given us focus to address how we can support an older workforce. 
+We’ve had staff who’ve been with us for a long time...so we must be doing 
+something right. But we want to make sure that continues. Older people bring 
+so many benefits to an organisation. It’s the experience. There’s just so much 
+they bring. But if they don’t feel valued or supported then we’ll lose them’”. 
+
+Mid-Life career review learning advocate 
+
+
+20 
+
+                                             
+
+
+      
+
+Fuller Working Lives – A Framework for Action -
+
+Financial security and incentives 
+
+The incentives provided by the benefits, pensions, tax and National Insurance 
+systems, as well as an individual’s specific financial circumstances, play a large part 
+in any decision to stop, or carry on working43. Finances are rarely the only factor on 
+which people base their decisions, with other factors such as health, caring, a dislike 
+of their job or redundancy usually taking precedence for people who stop working 
+before State Pension age44. However, ongoing financial security is important for 
+everyone.   
+
+At the point where a retiree decides to leave the labour market, it is important that 
+they understand the financial implications of this for the whole of their retirement, not 
+just in the short term. For example, the prospect of receiving an initial lump sum upon 
+retiring may be attractive, but consideration also needs to be given to whether the 
+residual income or capital will be sufficient for the longer term.   
+
+The UK tax-benefit system contains few structural disincentives for older people to 
+stay in work, and there are major changes being implemented that will remove some 
+of the potential disincentives that we know exist.  
+
+What Government is already doing 
+
+The Government has put in place a number of financial incentives to ensure work 
+pays. Principally, Universal Credit will ensure that work, and more work, always 
+pays. Universal Credit has more generous work allowances than is true in the 
+fragmented benefit system that precedes it, a smoother income taper and greater 
+requirement to seek or prepare for work. Thus it improves work incentives, including 
+incentives to earn more through increased working hours or better paid work. This is 
+true for jobseekers, people claiming for health or disability reasons and carers. 
+
+Most carers under State Pension age wish to stay in touch with the jobs market, not 
+just for their financial well-being, but also to enhance their own lives and the lives of 
+those for whom they care. The carer element in Universal Credit provides better 
+flexibility for carers to combine work and caring. While Carer’s Allowance ceases 
+when the claimant earns more than £102 per week, there is not a similar cliff-edge 
+effect in Universal Credit, which withdraws the benefit smoothly as individuals earn 
+more, thus improving the ability of carers to combine paid work with caring 
+responsibilities. 
+
+The introduction of Universal Credit sits alongside the raising of the personal tax 
+allowance for workers born after 6 April 1948. 
+
+In addition, employees over State Pension age are exempt from paying National 
+Insurance contributions and individuals are able to continue working alongside 
+claiming their pension. 
+
+The necessary increase in the State Pension age influences expectations around the 
+length of working life. We have legislated to bring forward the planned increase in 
+
+
+21 
+
+                                             
+
+
+     
+
+Fuller Working Lives – A Framework for Action -
+
+State Pension age to 67 and to provide for a regular review of State Pension age 
+once every Parliament. 
+
+The new State Pension due to be introduced from 6 April 2016 for anyone 
+reaching State Pension age after that date is a simpler, flat rate pension which will be 
+set above the basic level of the means test. It will therefore provide a clearer 
+foundation for private income from savings and earnings. In steady state, to 
+receive the full weekly rate of the new State Pension, an individual will need 35 
+qualifying years of National Insurance contributions or credits, with a pro-rata 
+entitlement for people with fewer qualifying years. 
+
+The increase in the qualifying age for Pension Credit45 may also encourage 
+people to stay in the labour market. Mixed age couples (where one partner is 
+below the Pension Credit qualifying age and one is above it) will in future claim 
+Universal Credit rather than Pension Credit. As a result, the younger partner will 
+retain their link to the labour market and, should the older partner be in paid 
+employment, he or she will see improved returns on earned income. 
+
+We are also taking action on private pensions to encourage people to save for their 
+retirement - there are already millions more people newly saving (or saving more) 
+into a workplace pension because of automatic enrolment with more than 3.3 
+million workers having been enrolled since October 201246. It is vital that everyone 
+gets a good deal from their pension scheme and has confidence in them and so we 
+are taking action to ensure that workplace schemes offer good value for money. In 
+March this year we announced measures to protect members of workplace defined 
+benefit schemes from high and unfair charges, introduce full transparency of costs 
+and charges, and ensure that schemes are well-governed47. Under Universal Credit, 
+100 per cent of private pension contributions will be disregarded when calculating 
+earnings, meaning there is a greater financial incentive to save for retirement as 
+compared to current out of work benefits where the disregard is limited to 50 per 
+cent. 
+
+The recent Budget announcements on pension flexibility provide an opportunity for 
+people to extend their working lives. Individuals with defined contribution pensions 
+will in future no longer have the limited choice of facing a retirement ‘cliff edge’ 
+whereby there is a specific moment where they buy their income for retirement or 
+chose a seemingly complex financial product.  Instead, they will be able to use their 
+pension pots more flexibly, mixing employment and non-employment sources of 
+income, and potentially choosing to phase their retirement more gradually. In 
+recognition of increasing longevity and the expectation that individuals should remain 
+engaged with the labour market for longer, we have also proposed to raise the 
+minimum age at which individuals can access their private pension, under the tax 
+rules. The Government has proposed to increase the normal minimum pension age 
+from 55 currently to 57 from 2028 and from then on it will rise in line with the State 
+Pension age so that it is always ten years below it. 
+
+Through the Public Service Pensions Act the Government has made a number of 
+changes to support public service workers to stay in the labour market for longer. For 
+example, we have abolished the requirement, present in some existing 
+
+
+22 
+
+                                             
+
+
+                    		 	 	 	 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+schemes, that if a member wishes to return to work after retiring, he or she 
+must forfeit part of their pension. This will also incentivise public service workers 
+to continue working for longer or to return to work after retiring. We have taken steps 
+to increase the take up of flexible and partial retirement: the new provisions will allow 
+many members to take part of their pension while continuing to work and while 
+continuing to accrue further pension benefits. The move to Career Average Revalued 
+Earnings schemes, where pensions are accrued on the basis of earnings in each 
+year of service, will allow those public service workers who wish to continue working, 
+but at a lower grade and on a lower salary, to do so, without it having as much of a 
+detrimental impact on their pension benefits as if they had been in a final salary 
+pension scheme. 
+
+Actions Government will be taking forward 
+
+	 Bringing forward the planned increase in State Pension age to 67, in 
+
+reflection of increased life expectancy. 
+
+
+
+
+ Rolling out Universal Credit with its improved work incentives, more generous 
+treatment of pension contributions and better support for carers. 
+
+	 Raising the age at which people can access Pension Credit and changing 
+the rules around access to benefits for mixed age couples to increase the 
+incentives for the younger partner to stay in work, and improved returns on 
+earned income for both partners. 
+
+	 Introducing the new State Pension in April 2016 so people can be clearer 
+about what they need to save to supplement their State Pension. 
+
+ Continuing the roll-out of automatic enrolment, through which we expect to 
+get 6-9 million people newly saving or saving more in a workplace pension 
+and we are taking measures to make sure workplace schemes offer value for 
+money for savers. 
+
+	 Increasing flexibility in the way individuals can access their pension pots. 
+
+ Conducting further work to understand any major financial (dis)incentives. 
+We would welcome views and contributions on this, in addition to those we 
+have already received from our stakeholder engagement events during the 
+preparation of this Framework. 
+
+
+23 
+
+                                             
+
+
+               	 	 	   
+
+
+Fuller Working Lives – A Framework for Action 	 -
+
+Next Steps
+
+
+ 
+
+Governance 
+
+We will set up a governance structure to review and direct progress of the 
+implementation of actions outlined in the Framework and identify further priority 
+actions. This body will include representatives from the relevant Government 
+Departments, representatives of employers and employees, and employers 
+themselves. We will consider the potential role of representatives of the medical and 
+caring professions in this context. We will also continue to involve the UK Advisory 
+Forum on Ageing in the development of policies on fuller working lives, to ensure a 
+voice for older people. 
+
+Test and learn 
+
+The trials we have committed to will increase our understanding about what works to 
+prevent premature labour market exit, but this is just the beginning. We want to make 
+learning about what support is most effective for older people a core part of what we 
+do. We will work across Government and with stakeholder organisations to ensure 
+we build our knowledge. For example we will: 
+
+	 Partner with the Medical Research Council (MRC) on a major programme of 
+research. £5.8 million has already been invested by research councils in 8 
+research projects which are running from 2013 to 2016 on a range of issues 
+including the health risks and benefits of extending working life; late-career 
+transitions and initiatives to get over 50s back into employment. 
+
+	 Continue to engage with LEPs to ensure they understand the business case 
+for fuller working life and discuss with them the potential for future work. 
+
+Monitoring Progress 
+In this Framework for action we have outlined measures which will: 
+
+ Offer more support to help keep people in work, particularly people with health 
+conditions, disabled people, or those who are caring for a loved-one. 
+
+ Help us to make better use of back to work support for older people. 
+
+From autumn 2015 we will periodically outline progress made and the scale of 
+cultural change still required. In particular we intend to: 
+
+
+24 
+
+                                             
+
+
+         		 		 
+
+Fuller Working Lives – A Framework for Action 	 -
+
+	 Publish labour market data on an annual basis showing how the position of 
+older workers in the UK economy is changing; in particular ensuring that the 
+employment rate of people aged 55-64 keeps pace with increases across the 
+group of nations represented in the Organisation for Economic Co-operation 
+and Development (OECD).  Between now and 2020, if we are achieving our 
+desired outcomes on fuller working lives, we should expect to improve our 
+placing in the league table of OECD nations on older people’s employment.  
+We will also monitor inequalities for groups who are at risk of early labour 
+market exit, to ensure that the gaps are closing – for example, but not limited 
+to, people with a health condition or who are disabled, women, carers, people 
+in low skilled occupations and other protected groups48. 
+
+	 Provide progress updates against the actions identified in this document. 
+
+	 Provide updates on what works for older workers, including the formal 
+evaluation of local and national initiatives linked to the Framework, and the 
+outputs of our work with stakeholder organisations. 
+
+Moving Forward 
+The dialogue that Government has had with stakeholders has been invaluable. We 
+would like to thank those who have contributed. The ideas and views discussed have 
+been instrumental in developing the Framework and actions. We want to continue to 
+expand this partnership working to ensure that what we do makes a difference and 
+has the impact we seek. Government cannot and should not work in isolation - 
+employers, trade bodies, trade unions and individuals all have a part to play to bring 
+about the changes needed. 
+
+As we move forward to implement the actions set out in this Framework, we welcome 
+your comments and ideas. We are particularly keen to hear from those interested in 
+helping us progress particular actions. Please contact us at: 
+FULLER.WORKINGLIVES@DWP.GSI.GOV.UK 
+
+
+25 
+
+
+mailto:FULLER.WORKINGLIVES@DWP.GSI.GOV.UK
+
+
+
+
+                                             
+
+                                            
+
+
+  
+
+Fuller Working Lives – A Framework for Action -
+
+References: 
+1 DWP analysis using the Labour Force Survey (see Background Evidence Section 
+
+
+
+2a).
+
+
+2 Office for National Statistics (ONS) principal population projections, 2012-based, 
+
+and estimates of cohort life expectancy. 
+
+3 ONS labour market statistics Jan-Mar 2014. 
+
+4 DWP calculations based on data from Blondell and Scharpetta (1999), ONS 
+
+Pension Trends, and ONS cohort-based life expectancy (see Background Evidence 
+
+Section 3a). 
+
+5 DWP analysis using the Labour Force Survey (see Background Evidence Section 
+
+
+
+2a).
+
+
+6 DWP analysis based on the difference between the Average Age of Labour Market 
+
+Exit, and cohort life expectancy at 65 (see Background Evidence Section 3a). 
+
+7 OECD employment statistics (2012) (see Background Evidence Section 3b). 
+
+8 DWP analysis of the English Longitudinal Study of Ageing (see Background 
+
+Evidence Section 2c). 
+
+9 Bardasi and Jenkins (2002) (see Background Evidence Section 2c). 
+
+10 Glaser (2009) (see Background Evidence Section 2c). 
+
+11 This definition is based on the income that someone would need to maintain their 
+
+living standards into retirement.  See DWP (2013) The Framework for the Analysis of 
+
+Future Pension Incomes for more detail.    
+
+12 Individuals will need 35 years of National Insurance contributions from work or 
+
+credited activity to claim a full State Pension from 2016.  People leaving work and not 
+
+moving to a credited activity risk having a smaller amount of State Pension. 
+
+13 The median male earnings in the Annual Survey of Hours and Earnings 2013 were 
+
+£28,900.
+
+14 DWP analysis using I-Pen modelling (see Background Evidence Section 2c and 
+
+Annex F for details).
+
+15 Waddell and Burton (2006), Dave et al (2008) (see Background Evidence Section 
+
+
+
+2c).
+
+
+16 See for example Eichhorst et al (2013) (further evidence and citations in 
+
+Background Evidence Section 3c). 
+
+17 DWP analysis (see Background Evidence Section 2e and Annex G for details). 
+
+18 Barrell et al (2011) (see Background Evidence Section 2e). 
+
+19 DWP analysis (see Background Evidence Section 2e and Annex H for details). 
+
+20 Yeomans (2011) (see Background Evidence Section 2d). 
+
+21 Industrial forecasts produced by the UK Commission for Employment and Skills for 
+
+2012-2022 (see Background Evidence Section 2d). 
+
+22 Irving et al (2005) (see Background Evidence Section 4a). 
+
+23 DWP analysis using the Labour Force survey, relating to people who had left work 
+
+in the last 8 years (see Background Evidence Section 4f). 
+
+24 Equality Act protected 
+
+characteristics:http://www.legislation.gov.uk/ukpga/2010/15/contents 
+
+25 DWP analysis using Labour Force Survey (see Background Evidence Section 4b). 
+
+26 Statistics from DWP tabulation tool (see Background Evidence Section 2e). 
+
+27 See https: //www.gov.uk/government/publications/the-disability-confident-campaign 
+
+28 Black and Frost (2011) 
+
+
+26 
+
+www.gov.uk/government/publications/the-disability-confident-campaign
+
+
+
+
+                                             
+
+                                                                                                                                        
+
+
+           
+
+Fuller Working Lives – A Framework for Action -
+
+29 Figures for England only, based on the 2011 census (see Background Evidence 
+
+Section 4c).
+
+30 Ben-Galim and Silim (2013) (see Background Evidence Section 4c). 
+
+31 DWP analysis using the Family Resources Survey 2010/11 (see Background 
+
+Evidence Section 4c). 
+
+32 The Employers for Carers and Department of Health Task and Finish Group (2013) 
+
+(see Background Evidence Section 4c).
+
+33 See http://www.publications.parliament.uk/pa/bills/cbill/2013-2014/0168/14168.pdf
+
+
+ 
+
+34 See https://www.gov.uk/government/publications/recognised-valued-and-
+supported-next-steps-for-the-carers-strategy
+
+35 DWP analysis using the Labour Force Survey (see Background Evidence Section 
+
+
+
+4d).
+
+
+36 DWP analysis using 5 quarter longitudinal Labour Force Survey (2010-2011) (see 
+
+Background Evidence Section 4d). 
+
+37 DWP official statistics (see Background Evidence Section 4d). 
+
+38 McNair (2011) (see Background Evidence Section 4d). 
+
+39 Coulter et al (2012) (see Background Evidence Section 4d). 
+
+40 Meadows (2003) (see Background Evidence Section 4d). 
+
+41 See http://www.niace.org.uk/sites/default/files/project-docs/midlife_career_review_-
+_findings.pdf
+
+
+ 
+
+42 Source: Individualised Learner Record (ILR)
+
+
+ 
+
+43 Banks et al (2014) (see Background Evidence Section 4e). 
+
+44 Irving et al (2005) (see Background Evidence Section 4a). 
+
+45 Rising in line with women’s State Pension age and then the increase in State 
+
+Pension age for both men and women from 2018. 
+
+46 The Pensions Regulator’s automatic enrolment monthly registration report. 
+
+47 DWP (2014) Better Workplace Pensions: Further measures for savers.
+
+
+ 
+
+48 Equality Act protected 
+
+characteristics:http://www.legislation.gov.uk/ukpga/2010/15/contents 
+
+
+27 
+
+http://www.publications.parliament.uk/pa/bills/cbill/2013-2014/0168/14168.pdf
+https://www.gov.uk/government/publications/recognised-valued-and-supported-next-steps-for-the-carers-strategy
+https://www.gov.uk/government/publications/recognised-valued-and-supported-next-steps-for-the-carers-strategy
+http://www.niace.org.uk/sites/default/files/project-docs/midlife_career_review_-_findings.pdf
+http://www.niace.org.uk/sites/default/files/project-docs/midlife_career_review_-_findings.pdf
+
+
+
+
+	Ministerial Foreword
+	The case for fuller working lives
+	What we know about early labour market exits
+	Health conditions and disability
+	Carers
+	Back to work support
+	Skills and workplace factors
+	Financial security and incentives
+	Next Steps
+	Moving Forward
+	References:
+
+
+
+

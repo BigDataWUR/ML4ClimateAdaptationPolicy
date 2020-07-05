@@ -1,0 +1,3173 @@
+
+
+
+
+
+Culture is Digital
+
+Department for
+Digital, Culture,
+Media & Sport
+
+March 2018
+
+
+
+
+Department for Digital, Culture, Media & Sport 
+Printed in the UK on recycled paper 
+
+© Crown copyright 2018
+
+You may re-use this information (excluding logos) free of charge in any
+format or medium, under the terms of the Open Government Licence.
+
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/ 
+open-government-licence/ or e-mail: psi@nationalarchives.gsi.gov.uk.
+
+Where we have identified any third party copyright information you will
+need to obtain permission from the copyright holders concerned.
+
+Any enquiries regarding this document should be
+sent to us at enquiries@culture.gov.uk
+
+This document is also available from our website at www.gov.uk/dcms
+
+Cover: Laser Forest created by Marshmallow Laser Feast – Photo © Sandra Ciampone 
+
+
+
+
+Culture is Digital 3
+
+Contents
+
+Foreword 4
+
+Executive Summary 7
+
+1. Audiences: using digital technology to engage audiences 9
+2. Skills and the digital capability of cultural organisations 10
+3. Future Strategy: Unleashing the creative potential of technology 11
+
+A. Digital Infrastructure for Culture 11
+B. Innovation 12
+C. Collaboration and Partnerships 13
+
+Summary of policy commitments 15
+
+1. Audiences – using digital technology to engage audiences 18
+
+Introduction 18
+Reaching more people 19
+Reaching new audiences 20
+Understanding audiences 25
+The role of place 26
+New cultural experiences 27
+Tackling access inequalities 29
+
+2. Skills and the capability of cultural organisations 31
+
+Introduction 31
+Building Capacity 34
+Leadership 37
+Data and Business Models 38
+Intellectual Property 40
+
+3. Future Strategy: Unleashing the creative potential of technology 43
+
+Introduction 43
+A. Digital Infrastructure for Culture 45
+
+Digitising Collections 45
+Live to Digital 51
+
+B. Innovation 52
+C. Collaboration and Partnerships 60
+
+Our Approach 62
+
+
+
+
+Department for Digital, Culture, Media & Sport4
+
+Foreword
+By the Secretary of State for Digital, Culture, Media and Sport 
+
+Rt Hon. Matt Hancock
+
+The UK’s future will be built at the nexus of our artistic and cultural creativity and 
+our technical brilliance. The Centre for Economics and Business Research 2018 World 
+Economic League Tables identify this particular blend of creativity and technology skills 
+as the driving force behind the UK’s strong economic prospects over the long term1; a 
+powerful combination of talents to project to the world as we prepare to leave the EU.
+
+Digital technology is breaking down the silos between the cultural sectors2, blurring the 
+lines between disciplines – theatre blends with film; computer programming merges 
+with sculpture. We have virtual reality curatorship, animated artworks, video games 
+scored by classical music composers.
+
+Tech meets culture
+
+Tech companies are collaborating with cultural organisations and practitioners to create 
+new experiences for audiences, often exploring the boundaries of new technology at the 
+same time. The Royal Shakespeare Company’s groundbreaking production of The Tempest 
+brought digital avatars to life in real-time as part of a collaboration with Intel and 
+Imaginarium. The partnership between English Heritage and Google Arts and Culture 
+uses 360 degree image capture to reveal historical treasures online for the first time. 
+
+The Tempest, The Royal Shakespeare Company
+
+1 World Economic League Tables 2018
+2  For the purposes of this report, we have defined cultural organisations as those from the performing arts, 
+visual arts, heritage, museums, archives, libraries, film and making connections with the wider creative 
+industries. 
+
+https://www.google.com/culturalinstitute/beta/u/0/project/english-heritage
+https://gcp.global/uk/products/welt-2018
+
+
+
+
+Culture is Digital 5
+
+Unprecedented opportunities
+
+Technology offers unprecedented opportunities for the UK cultural sector. On a 
+daily basis we witness technology’s role in engaging new audiences, nationally and 
+internationally, through digital platforms and distribution channels; in driving business 
+models; creating art, cultural content and experiences; and increasing access to our 
+world-class archives and collections. The Associated Board of the Royal Schools of 
+Music sets the standard for music examinations in 93 countries. Its international 
+reach and continued success is dependent on the use of digital tools to communicate 
+with teachers and learners across the world. National Theatre Live is opening up 
+performances to cinemas and classrooms all over the world whilst the Forever Project at 
+the National Holocaust Centre and Museum near Newark, Nottinghamshire preserves 
+the testimonies of Holocaust survivors using laser image technology.
+
+The ultimate power couple 
+
+The UK technology and cultural sectors make the ultimate power couple but more action 
+is needed to make sure that they share the same interests. By focusing on the synergies 
+between culture and technology – where the UK has dual competitive advantage – this 
+Digital Culture Report focuses on the use of digital technology to drive our cultural 
+sector’s global status and the engagement, diversity and well-being of audiences. 
+
+This report is the culmination of the Digital Culture Project which I launched in April 
+2017 with the #CultureisDigital online consultation. The enthusiastic response to 
+#CultureisDigital animated this project’s consultation and policy making process. Our 
+hashtag trended on twitter in week one, the online stakeholder discussion platform 
+was viewed 39,000 times and the blogs on the project on our DCMS channels received 
+thousands of views. As a result the stakeholder consultation attracted contributions 
+from more than 150 organisations, from major national institutions to local arts 
+charities, as well as large digital companies and tech start ups. Throughout the process, 
+clear messages emerged about the opportunities and challenges and the demand 
+from all parties for leadership, coordination and action3. We heard that a number of 
+cultural organisations feel held back by a lack of infrastructure or resources, that they 
+need better digital skills and to focus more time on leadership training; there are often 
+communication barriers when working in a cross disciplinary way, and the pace of 
+change in technology itself has resulted in a fragmented approach.
+
+Audience expectations
+
+We also heard a plea for evolution rather than upheaval. My department has 
+responsibility for all things digital. But not everything is high tech. Or needs to be. 
+We still enjoy reading a book, looking at a painting and watching a play without a 
+mobile phone or a VR headset. Great art and cultural experiences are being created and 
+appreciated by audiences in traditional formats. But audience expectations are changing 
+and so are the practices of artists, creators and curators and we must ensure that the 
+right structures are in place to support this transformation so that the UK continues its 
+long history of creative excellence – digital and analogue. 
+
+Cultural organisations have a powerful role to play for audiences – particularly younger 
+audiences – in the digital age. In the echo chamber of social media where content and 
+commentary can be chosen to confirm existing views, cultural organisations can provide 
+challenge, interrogate our opinions, reveal our history and support our sense of community.
+
+3 Further details on our approach can be found in the final section of this report.
+
+https://cultureisdigital.dialogue-app.com/
+https://cultureisdigital.dialogue-app.com/
+
+
+
+
+Department for Digital, Culture, Media & Sport6
+
+Our Dancing Shadows by Kaleider. Photo credit: Kaleider 
+
+Over the following pages I aim to set out a vision for Digital Culture. I hope it shines a 
+light on the considerable successes of culture’s engagement with technology and sets 
+out some practical actions to help tackle the barriers for organisations of all sizes; tech 
+and cultural.
+
+Tech and culture partnerships
+
+Through this report I want to encourage tech companies – large and small – to think 
+about partnerships with cultural organisations. To help provide creative thinking, to 
+scrutinise tech development or to connect to new audiences. The policy commitments 
+are an Action Plan for cultural and tech organisations but they also provide a framework 
+for the coordination and development of future activity. 
+
+My enormous thanks go to the many individuals, organisations and advisors from 
+across the cultural and tech sectors who have given freely of their experience, skills and 
+ideas. I am particularly grateful to Jane Finnis, Will Saunders, Professor Simeon Yates, 
+Tonya Nelson and Lucy Sollitt who were seconded to the Digital Culture Project over 9 
+months to develop policy ideas and whose work is reflected in this report. This project 
+has been a team effort so far, and there is much more to do. 
+
+Rt. Hon. Matt Hancock 
+Secretary of State for Digital, Culture, Media and Sport
+
+
+
+
+Culture is Digital 7
+
+Executive Summary
+
+The UK has a dual competitive advantage in creative and technological skills4 and our 
+future prosperity will be driven by this particular combination of strengths. In March 
+2017, the Government set out an ambitious Digital Strategy, aimed at ensuring that 
+the UK is the best place to start and grow a digital business and trial new technology, 
+and that our digital sectors remain world-leading. This has been amplified by the 
+Government’s Industrial Strategy, which set out how the UK will build on its strengths, 
+extend them into the future and capitalise on the opportunities before us.
+
+The UK is 5th in the global innovation index and an ‘innovation leader’ on the 2017 
+Euro Innovation Scoreboard. We are a tech savvy market, quick to take up and innovate 
+with new technology; our capital’s tech firms raised a record £2.45 billion in 2017, 
+and evidence shows that the UK and, in particular, London remain the most attractive 
+destination in Europe for tech investors, gaining more venture capital investment in 
+2017 than Germany, France, Spain and Ireland combined.5 The Government’s Industrial 
+Strategy aims to expand on these successes, providing greater resources that enable 
+firms of all kinds to start-up, scale-up and grow. Through the Digital Charter, the 
+Government will ensure the internet works for everyone, agreeing norms and rules for 
+the online world and putting them into practice. Following the work of the Artificial 
+Intelligence review, we will work to make the UK a global centre for AI and data 
+innovation and embed the power of these technologies across our economy. 
+
+A fast-growing sector
+
+Creative Industries; those sectors which have their origin in individual creativity, 
+skills and talent and which have the potential for wealth and job creation through 
+the generation and exploitation of intellectual property, sit within and alongside the 
+digital sector.6 Sir Peter Bazalgette’s Independent Review of the Creative Industries 
+highlights the significance of these sectors to the UK’s Industrial Strategy. The creative 
+industries contributed over £90 billion in GVA in 2016, over 5% of the UK economy 
+(comparable to the Construction or Information sectors) and, between 2010 and 2016, 
+grew by 45% – faster than any other sector.7 Cultural organisations and practitioners 
+are vital components in this success story, contributing just under a third (£26.8 billion) 
+of the GVA generated by the Creative Industries8.
+
+4 World Economic League Tables 2018
+5 PitchBook December 2017 and London and Partners
+6  DCMS Sector Economic Estimates Methodology sets out the overlaps between the Creative and Digital 
+sectors.
+
+7 DCMS Sectors Economic Estimates 2016: GVA
+8  Creative Industries statistics do not include data for the heritage sector beyond museums and galleries. 
+Further detail on the economic contribution of the heritage sector is available here: Historic England – 
+Heritage and the economy 2017
+
+https://www.gov.uk/government/publications/uk-digital-strategy
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/publications/digital-charter
+https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk
+https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk
+https://www.gov.uk/government/news/bazalgette-review-sets-recommendations-for-continued-growth-of-uks-creative-industries
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://gcp.global/uk/products/welt-2018
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/684127/DCMS_Sectors_Economic_Estimates_-_Methodology.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/662958/DCMS_Sectors_Economic_Estimates_2016_GVA.pdf
+https://content.historicengland.org.uk/content/heritage-counts/pub/2017/heritage-and-the-economy-2017.pdf
+https://content.historicengland.org.uk/content/heritage-counts/pub/2017/heritage-and-the-economy-2017.pdf
+http://www.londonandpartners.com/media-centre/press-releases/2017/20180105-2017-record-year-for-london-and-uk-tech-investment
+
+
+
+
+Department for Digital, Culture, Media & Sport8
+
+A world-class cultural destination
+
+The UK is one of the most exciting cultural destinations in the world; boasting world 
+class museums, with the British Museum, the National Gallery and Tate Modern in 
+the top ten most visited museums in the world9. Experts in our archive institutions 
+preserve a thousand years of iconic national documents and the 3,223 libraries on high 
+streets and in communities across Great Britain10 provide a range of services to meet 
+the needs of local people. We can celebrate our nation’s rich heritage with our historic 
+buildings and monuments ranked 5th on the Nations Brand Index11 and we can boast of 
+a cutting-edge performing arts sector with three of the world’s top five universities for 
+the performing arts located in the UK. That training quality, in turn, feeds into our UK 
+film industry which contributed £5.2 billion to UK GDP in 201512, due to the talent both 
+in front of and behind the camera and the quality of production, with the top three 
+films released at the UK box office in 2017 being UK qualifying productions13. 
+
+The Digital Culture Project has been about bringing these success stories together. Born 
+out of the Culture White Paper14, the Digital Culture Project and the #CultureisDigital 
+online consultation was launched in April 2017. Its aim has been to explore how culture 
+and technology can work together to drive audience engagement, boost the capability 
+of cultural organisations and unleash the creative potential of technology.
+
+Laser Light Synth, Brighton Digital Festival
+
+9 British Museum no.3, National Gallery no. 4, Tate Modern no.6 in 2016 – The Art Newspaper 
+10  At 31 March 2017, the total number of library service points open 10+ hours per week in England 
+
+(including mobiles) was 2,958 and for Great Britain was 3,223. CIPFA statistics, 2017: 
+11 Visit Britain: Britain’s Image Overseas
+12 BFI Statistical Year Book 2017
+13 BFI Top Films in 2017
+14  The Culture White Paper announced a review of culture and digital with the aim of ‘making the UK one 
+
+of the world’s leading countries for digitised collections and using technology to enhance the online 
+experience of users’
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+http://asemus.museum/news/the-art-newspaper-most-visited-museums-and-exhibitions-in-2016/
+https://www.ipf.com/cipfavalidation/login/login.asp?type=OTHER&dest=www.cipfastats.net/leisure/publiclibrary/Default.asp
+https://www.visitbritain.org/britain%E2%80%99s-image-overseas
+http://www.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2017.pdf
+http://www.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2017.pdf
+
+
+
+
+Culture is Digital 9
+
+Working across the UK
+
+Although cultural policy itself is devolved to Scotland, Northern Ireland and Wales, 
+this report covers the whole of the UK and seeks to highlight digital cultural activities 
+across borders. There are common issues to be pursued as each of the devolved 
+administrations recognise the significance of technological changes to cultural 
+organisations and audiences, and we collectively aspire to extract the maximum 
+benefit where proposals have UK wide reach. We have highlighted where actions are 
+UK-wide or solely for England. Generally, only those actions being delivered by the Arts 
+Council England alone, as its remit is restricted to England, are unavailable for cultural 
+organisations in the devolved administrations to participate in and benefit from.
+
+The devolved nations are active in this space. Creative Scotland’s 10 Year Plan 2014-
+2024 sets out an expectation that all organisations will build digital thinking into their 
+work and ‘Ensure that creative people and organisations have the digital skills and 
+capacity to share and market their work’.15 The Welsh Government is committed to 
+celebrating the unique culture and heritage of Wales (Prosperity for All, p20)16 and to 
+promoting digital access, developing the potential for digital media to promote culture 
+through projects such as Casgliad y Werin (People’s Collection Wales).
+
+Themes
+
+The policy commitments in this report congregate around three key themes, each a 
+chapter of this report. Below are introductions to each theme:
+
+1. Audiences: using digital technology to engage audiences
+
+Digital experiences are transforming how audiences engage with culture and are 
+driving new forms of cultural participation and practice. As technology advances, so do 
+the behaviours of audiences, especially younger audiences. We are no longer passive 
+receivers of culture; increasingly we expect instant access to all forms of digital content, 
+to interact and give rapid feedback. Audiences are creating, adapting, and manipulating, 
+as well as appreciating art and culture. In an era where the UK has an online audience 
+of 50.4m people17, 76% of adults have a smartphone18 and 80% use the internet 
+daily or almost daily19, digital technology is transforming the relationship that cultural 
+organisations have with the public. 
+
+Technology allows cultural experiences to be more accessible than ever; whether 
+viewing collections online, experiencing immersive theatre or purchasing e-tickets 
+for productions. We can look at a painting, read a novel, discover the heritage on our 
+doorstep, or listen to music at a moment’s notice, on multiple platforms and wherever 
+we are in the world. Cultural organisations are beginning to harness the potential of 
+digital technology to engage audiences through new formats and mediums and by 
+diversifying their distribution channels.  
+
+In using new technologies, there is the potential to reach out to new as well as existing 
+audiences, including those who may have been previously disengaged or uninterested, 
+and provide a hook for audiences to experience culture in new or ‘deeper’ ways. 
+
+15 Creative Scotland 10 Year Plan p.27.
+16 Prosperity for All: the national strategy – p.20.
+17  The UK’s online audience stood at 50.4 million people in March 2017, Ofcom report, Aug 2017, 
+
+https://www.ofcom.org.uk/__data/assets/pdf_file/0021/105438/uk-internet-online.pdf 
+18 Ofcom report, Aug 2017, p.164.
+19 Internet access – households and individuals: August 2017, Office for National Statistics
+
+http://www.creativescotland.com/what-we-do/the-10-year-plan
+http://www.creativescotland.com/what-we-do/the-10-year-plan
+http://www.creativescotland.com/__data/assets/pdf_file/0012/25500/Creative-Scotland-10-Year-Plan-2014-2024-v1-2.pdf
+http://gov.wales/docs/strategies/170919-prosperity-for-all-en.pdf
+https://www.ofcom.org.uk/__data/assets/pdf_file/0021/105438/uk-internet-online.pdf
+https://www.ofcom.org.uk/__data/assets/pdf_file/0021/105438/uk-internet-online.pdf
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2017
+
+
+
+
+Department for Digital, Culture, Media & Sport10
+
+The collection, analysis and improved sharing of audience data is a key opportunity, 
+allowing organisations to develop a more informed and responsive relationship with 
+existing audiences and to engage new and under-represented audiences. 
+
+With audience statistics showing levels of under-representation from Black, minority 
+ethnic and disabled people, and lower socio-economic groups for many of the cultural 
+sectors this report emphasises how digital communications and data tools can support 
+efforts around audience diversity20 in combination with the provision of cultural content 
+and experiences.
+
+The Sage, a major venue of the  Great Exhibition of the North
+
+2. Skills and the digital capability of cultural organisations
+
+Developing digital skills, for individuals, businesses, government and other organisations 
+was at the forefront of the UK’s Digital Strategy and the UK’s Industrial Strategy. 
+These set out Government ambitions to ensure that we have the skilled and capable 
+workforce necessary for an increasingly digital world. 
+
+Cultural organisations are increasingly using technology to help them deliver across 
+many areas of their business. Research21 shows that organisations who benefit most 
+from digital technology are those who are digitally mature. Digital Maturity is where 
+digital activity is embedded across an organisation as part of the strategic vision and 
+throughout every part of the business, from its creative output and audience outreach 
+through to e-commerce. 
+
+The cultural sector has particular skills gaps around intellectual property and data 
+analysis. Organisations don’t have the skills relating to rights clearance, or access to legal 
+advice around intellectual property rights. This lack of expertise is limiting their ability to 
+create and exploit digital content. A lack of skills in data analysis is preventing cultural 
+organisations from collecting data and using it to develop their business models. 
+
+20 DCMS Taking Part Diversity Trends 2005/06 to 2015/16
+21 Lloyds Bank Digital Index for Small Business and Charities (2016)
+
+https://www.gov.uk/government/publications/uk-digital-strategy
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/610859/Diversity_focus_report.pdf
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+
+
+
+
+Culture is Digital 11
+
+Our consultation also found that digital leadership – from both trustees and executive 
+leaders – within the cultural sector has a significant influence on organisational 
+behaviours. Change happens when there is senior recognition of the importance of 
+digital skills and the transformational role that technology can play to support creative, 
+audience and business model development.
+
+3. Future Strategy: Unleashing the creative potential of
+technology 
+
+The UK cultural offer is key to our soft power, as well as an important source of exports 
+and inward investment. The UK is recognised as one of the world’s most adept soft 
+power nations, ranked second on the Soft Power Index, a ranking for which our strong 
+culture and digital sectors are important contributor 22. 
+
+Culture is a key driver for the Tourism sector. The 377,000 listed buildings, almost 
+20,000 scheduled monuments and 31 world heritage sites are cited as important 
+motivators for visitors to the UK23 and DCMS-sponsored museums inspired 22 million 
+overseas visits in 2016/1724 . We export cultural exports of £18 billion which are 
+growing quickly25 and the cultural sector is a significant contributor to the GREAT 
+Britain Campaign with events such as the Music is GREAT: British Music Showcase at 
+MIDEM in June 2017, helping the GREAT campaign deliver economic returns of £2.7 
+billion for the UK already.26
+
+Priorities
+
+The Digital Culture Project has highlighted three policy priorities to drive a Digital 
+Culture Future Strategy and exploit international opportunities :-
+
+A. Digital Infrastructure for Culture
+
+Our museum and archive collections are the envy of the world; 2,600 English 
+museums care for important domestic and international collections, both historic 
+and contemporary, and their curation is world renowned and respected. Our cultural 
+institutions have responsibility for the curation, protection and preservation of the 
+material they look after, for both present and future generations.27 
+
+The Culture White Paper set out the aspiration to make the UK one of the world’s leading 
+countries for digitised public collections28. Digitisation has already had a significant impact 
+on access to collections; 61% of museums have digitised up to 50% of their collection, 
+with half of those with a digitised collection having made some of it available online29. 
+
+22 Softpower30
+23 Heritage Statement 2017 p7-10, Department for Digital, Culture, Media and Sport (DCMS)
+24 Sponsored Museums Annual Performance Indicators 2016/17, DCMS, p.4
+25  DCMS Sectors Economic Estimates 2017: Employment and Trade This figure is for 2015 – the latest year 
+
+for which data is available. The cultural export figure quoted combines goods and services which use 
+different methods of collection.
+
+26 GREAT Britain Campaign
+27  The Mendoza Review: an independent review of museums in England, November 2017, Department for 
+
+Digital, Culture, Media and Sport
+28 The Culture White Paper, March 2016, Department for Digital, Culture, Media and Sport, p.9.
+29  Arts Council England and Nesta Digital Culture Survey 2017 (Museums factsheet) find that museums are 
+
+more likely than any other artform to digitise collections with 73% of museums surveyed undertaking 
+this activity.
+
+http://www.greatbritaincampaign.com/
+http://www.greatbritaincampaign.com/
+http://www.midem.com/
+https://softpower30.com/
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664657/Heritage_Statement_2017__final_-_web_version_.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/657464/Sponsored_Museums_Performance_Indicators_2016_17.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/640628/DCMS_Sectors_Economic_Estimates_2017_Employment_and_Trade.pdf
+http://www.greatbritaincampaign.com/#!/about
+https://www.gov.uk/government/publications/the-mendoza-review-an-independent-review-of-museums-in-england
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+https://www.nesta.org.uk/sites/default/files/dc2017_museums_factsheet.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport12
+
+The National Archives have digitised and published online over 80 million of their 
+historical documents, which in 2015-16 received more than 17 million visits. 
+
+A number of projects already in development are aimed at joining up collections, such 
+as the British Library-led project for a Single Digital Libraries Presence; The Heritage 
+Gateway; The National Archives Discovery Project; ArtUK, and the British Film 
+Institute’s Unlocking Film Heritage Programme. However, throughout this project 
+there have been calls for a more strategic and coordinated approach to enable more 
+connections and curated content to be available across multiple digitised collections, 
+across sectors and to improve discoverability for audiences. This change would meet 
+the expectations of audiences, scholars and the museums and archives workforce who 
+expect digital content to be easy to navigate and open for them to enjoy, contribute to, 
+participate in and share. 
+
+Art UK contains over 200,000 digitised art works
+
+B. Innovation
+
+The fast rate of growth in the creative industries is largely driven by a combination 
+of creative risk taking and Research and Development (R&D)30. The UK has a world 
+beating HEI sector for creative subjects with institutions like Glasgow School of Art, 
+University of the Arts London and Goldsmiths University. Students graduate with fully 
+converged creative and digital skills and expect to pursue their creative practice using 
+new technology. 
+
+The UK is at the cutting edge of innovation and technology globally, attracting more 
+overseas investment in R&D than Germany, France and China31. However, our research 
+found that the cultural sector, like the wider creative industries, finds it difficult to 
+access R&D funding, resulting in less experimentation, access to technical skills and 
+expertise, research, hardware and software, as well as time and space to undertake 
+
+30  Defining R&D for the creative industries, Hasan Bakhshi and Elizabeth Lomas, March 2017, Nesta, AHRC 
+& UCL. 
+
+31 Eurostat Science and Technology database (2017), ‘Research and Development’
+
+https://www.bl.uk/press-releases/2017/august/single-digital-presence-announcement
+http://www.heritagegateway.org.uk/gateway/
+http://www.heritagegateway.org.uk/gateway/
+http://discovery.nationalarchives.gov.uk/
+https://artuk.org/
+http://www.bfi.org.uk/britain-on-film/unlocking-film-heritage
+http://www.bfi.org.uk/britain-on-film/unlocking-film-heritage
+http://www.ahrc.ac.uk/documents/project-reports-and-reviews/policy-briefing-digital-r-d/
+http://ec.europa.eu/eurostat/web/science-technology-innovation/data/database
+
+
+
+
+Culture is Digital 13
+
+R&D. The Bazalgette Review of Creative Industries notes that smaller organisations 
+lack the capacity for strategic, cross-sectoral R&D which, if properly recognised and 
+supported, could propel growth within the sector32. 
+
+The immersive reality market is growing at a fast pace, and is expected to reach 
+£100 billion worldwide by 202033, with the UK share currently estimated to be 5%. 
+Cultural pioneers such as the Royal Opera House and the Philharmonia Orchestra are 
+showcasing British excellence in immersive cultural production and demonstrate the 
+potential for cultural organisations to play an influential role in positioning the UK as 
+a global leader in content creation for immersive technology. International touring 
+projects like the collaboration between Marshmallow Laser Feast and Abandon Normal 
+Devices in the award winning show In the Eyes of the Animal – a sensory perspective 
+of three species of animals which inhabit British forests – and Rain Room by Random 
+International – an installation in which rain falls all around the visitor but its touch 
+remains absent due to 3D tracking devices – demonstrate the export potential of 
+immersive cultural experiences. 
+
+In the Eyes of the Animal, Abandon Normal Devices AND Festival 2015. Photo by 
+Luca Marziale
+
+By testing pioneering new experimental ideas and experiences using emerging 
+technologies, culture can provide fuel for the wider creative economy. 
+
+C. Collaboration and Partnerships
+
+Highlighted in the Culture White Paper, cultural organisations have a strong history 
+of collaboration and successful partnership working and for many UK cultural 
+organisations, multiple partnerships are a way of life. Effective tech sector partnerships 
+can give cultural organisations access to digital talent, space, data, equipment, funding, 
+peer to peer learning opportunities, and experimentation with technologies and new 
+ways of working. In turn, the tech sector benefits from access to creative minds and 
+
+32 Independent Review of the Creative Industries, Sir Peter Bazalgette, September 2017, p.28.
+33 After mixed year, mobile AR to drive $108 billion VR/AR market by 2021, www.digi-capital.com
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/649980/Independent_Review_of_the_Creative_Industries.pdf
+http://iteota.com/experience/welcome-to-the-forest
+http://random-international.com/exhibitions/rainroombarbican/
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/649980/Independent_Review_of_the_Creative_Industries.pdf
+https://www.digi-capital.com/
+
+
+
+
+Department for Digital, Culture, Media & Sport14
+
+creative content with which to innovate and a chance to reach out to new audiences to 
+test the technology further than conventional consumer testing.
+
+Content creation can also help to drive technical innovations, pushing the possibilities 
+of the software and its experiential potential. We are already seeing some impressive 
+collaborations and partnerships between the culture and tech sector. For instance, 
+Watershed in Bristol is working with the University of Bristol and their industrial 
+partners to prototype and showcase new public facing applications of 5G. Government 
+wants to create the conditions where more partnerships between cultural and tech 
+organisations of all sizes are possible. 
+
+The Virtual Orchestra, produced by the Philharmonia Orchestra and presented in 
+partnership with Southbank Centre
+
+
+
+
+Culture is Digital 15
+
+Summary of policy commitments
+
+Audiences – using digital technology to engage audiences
+
+1.  Arts Council England and the Heritage Lottery Fund will ensure that funded 
+organisations get better at collecting, using and sharing audience data, including:
+
+ a.  Collecting and understanding data on the reach and impact of their digital and 
+nondigital work and using it to drive their audience engagement strategies 
+ensuring it is done on a consistent basis across the arts and heritage sector;
+
+ b.  Encouraging the use of integrated databases, such as Audience Finder, and the 
+sharing of audience insight research, so that all businesses in the sector can 
+better understand digital and physical audiences
+
+2.   The Space and The Audience Agency will work with arts and cultural organisations, 
+Nesta, the BBC and other content publishers and partners to develop a metrics 
+framework and best practice guidance for arts and cultural organisations to 
+use when planning and assessing audience engagement across different digital 
+platforms.
+
+3.   In order to further broaden cultural engagement and empower communities 
+to share their voices, views and creative content digitally, Arts Council England 
+will ensure that its Creative People & Places programme makes use of digital 
+communications and platforms and that the analysis and learning from the projects 
+are widely shared.
+
+4.   We will encourage recipients of UK City of Culture and Cultural Development 
+Funding to include ambitions to enhance digital audience engagement in their local 
+place-shaping and growth strategies.
+
+Skills and the digital capability of cultural organisations
+
+5.   Arts Council England, working with the Heritage Lottery Fund and partners, will 
+create and pilot the use of a Digital Maturity Index for the cultural sector, to enable 
+organisations to understand and benchmark their own digital capability and set 
+plans in place to make improvements.
+
+6.   Arts Council England, working with the Heritage Lottery Fund and partners, will 
+work together to create a Digital Culture Code; a set of guidelines and principles 
+which cultural organisations should sign up to in order to demonstrate a 
+commitment to developing their own digital maturity and the maturity of the wider 
+cultural sector.
+
+7.  Arts Council England will set-up a Digital Culture Network, investing £1.1m over 
+two years to create a network of expertise and sharing of best practice across each 
+region in England in order to increase its sectors’ digital skills and capability.  The 
+Network will:
+
+
+
+
+Department for Digital, Culture, Media & Sport16
+
+a.  Produce and deliver packages of support to increase the digital maturity of
+organisations and improve digital skills within organisations;
+
+b.  Look to partner with technology organisations to deliver training regionally
+reflecting key regional trends and needs;
+
+c.  Facilitate partnerships and collaboration between its funded organisations and
+the tech sector and others;
+
+d.  Provide targeted support to leaders to increase the digital maturity of their
+organisations, including the creation of a digital board bank and guidance of
+digital criteria for senior leadership appointments.
+
+8.  In order to build the digital capability of the sectors it supports, the Heritage Lottery 
+Fund will:
+
+a.  Fund a £1m campaign which will run over two years, to attract high-quality 
+projects to build the sector’s digital capacity, starting in 19/20 with a grant 
+budget of £500k p.a.;
+
+b.  Make digital a key feature throughout the Heritage Lottery Fund’s Business 
+Transformation programme, with a particular focus on upskilling staff.
+
+9.  In order to support the cultural sector in its understanding of Intellectual Property:
+
+a.  The Intellectual Property Office will work with the British Library’s Business
+& Intellectual Property Centres and representatives from the cultural sector
+to develop guidance and training so that cultural organisations can better 
+understand the Intellectual Property framework and its relevance to them.
+
+b.  The Space will lead work with cultural organisations, cultural rights holders and 
+seek guidance from the Intellectual Property Office to develop a Cultural Digital 
+Rights Code of Practice. 
+
+Future Strategy: Unleashing the creative potential of technology 
+
+10.  The National Archives will work with culture sector representatives to develop a
+new strategic approach to the digitisation and presentation of cultural objects,
+for example, looking at the common standards needed to make our nation’s great
+cultural assets more interoperable34, discoverable and sustainable.
+
+11.  The National Gallery and the Royal Opera House will open up new opportunities for
+the culture sector to experiment with new technology and cultural content:
+
+a.  The National Gallery, working with data partners like Nesta, will create an
+Innovation Lab so that cultural organisations, and in particular museums, are able
+to make best use of advanced digital technologies in enhancing visitor experience
+and creating content, and can develop best practice in collaborating with the
+technology and academic sectors.
+
+b.  The Royal Opera House will create an Audience Lab to work with diverse
+talent, developing new skill sets to create innovative content using emerging
+technologies. The Audience Lab will strive to develop cross-sector collaborations
+to open up new experiences for audiences.
+
+34  Interoperability refers to the basic ability of computerized systems to connect and communicate with one 
+another readily, even if they were developed by widely different manufacturers in different industries
+
+
+
+
+Culture is Digital 17
+
+12.   The Royal Shakespeare Company, the BBC and the Arts and Humanities Research 
+Council will share selected Research & Development prototypes and technical assets 
+and will offer related capacity building and innovation support to cultural partners 
+of all sizes across the UK. This commitment is aimed at mitigating resource issues, 
+reducing duplication and encouraging innovation through collaboration.
+
+Conclusion
+
+This report is the first of its kind and, as such, is a call to action to practitioners and 
+organisations across the cultural and tech sectors. Here, we propose an approach to 
+support the whole digital culture ecology: our audience is both the world-leading and 
+the small, voluntary led organisations in communities; technology companies ranging 
+from start-ups and scale-ups to large and multinational tech companies; those working 
+at the cutting edge of technology development and those using more basic digital tools. 
+We encourage cultural and tech sector organisations to support the proposals set out 
+here and work together to unlock the opportunities for Digital Culture. There is more 
+to be achieved and we hope that individuals and organisations will use the framework 
+of this report to coordinate themselves and the expertise and enthusiasm that we have 
+seen over the last year. 
+
+
+
+
+Department for Digital, Culture, Media & Sport18
+
+1. Audiences – using digital technology to 
+engage audiences
+
+Introduction
+
+Digital technology is increasingly important in our daily lives; 78% of adults have a 
+smartphone35 and 80% use the internet daily or almost daily36. As our interactions with 
+technology increase and technology itself continues to advance, audiences’ expectations 
+and our work and leisure behaviours are changing; including the way we engage with 
+culture. 
+
+The Culture White Paper outlined the Government’s commitment that “everyone 
+should have the chance to experience culture, participate in it, create it, and see their 
+lives transformed by it”. Engagement in arts and culture can bring joy, improve quality 
+of life, boost self esteem, bring communities together, improve mental health, and help 
+people to maintain levels of independence and curiosity.37 Our arts, heritage, libraries, 
+museums and galleries, films and archives all have a vital role to play in enhancing 
+people’s lives, regardless of their background or where they live. 
+
+Technology provides an opportunity to turn up the dial on audience engagement, 
+enabling cultural organisations to engage more people and to reach out to new 
+audiences. Technology can also allow for a more meaningful or deeper relationship with 
+audiences, including more interactivity, with users able to curate their own experiences 
+and generate their own content.
+
+Case Study: Park explorer38
+
+The National Trust, in partnership with the Capability Brown Festival 2016, 
+developed the Park Explorer, an innovative approach to help visitors access 
+information about Petworth Park’s landscape heritage and make more of their visit. 
+
+Thanks to a network of Wi-Fi hotspots, discreetly placed in the Park and Grounds 
+of Petworth House, visitors have access to free, safe and secure resources through 
+any smart phone or tablet. Devices can be used to pick up animations, videos, 
+digital reconstructions of former landscapes, and scenes that you can rub away 
+to help visualise the past. Devices with NFC technology also support location-
+triggered content; for example visitors can listen to extracts of 18th century letters 
+or recreate historic views. Content draws on three years of archaeological research 
+at Petworth Park, working with over 100 volunteers. The project was supported by 
+the National Lottery through the Heritage Lottery Fund.
+
+35 OFCOM Technology Tracker H2 2017
+36 ONS report- Internet access – households and individuals: August 2017
+37 Further analysis to value the health and educational benefits of sport and culture, 2015 
+38 http://www.capabilitybrown.org/event/park-explorer-petworth-park 
+
+https://www.ofcom.org.uk/__data/assets/pdf_file/0017/107360/Ofcom-Technology-Tracker-H2-2017-data-tables.pdf
+https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2017
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446273/Health_and_educational_benefits_of_sport_and_culture.pdf
+http://www.capabilitybrown.org/event/park-explorer-petworth-park
+
+
+
+
+Culture is Digital 19
+
+3D Replica of Model Room, Sir John Soane’s Museum
+
+Reaching more people
+
+In March 2017, the UK’s online users numbered 50.4 million, with the average person 
+spending 83 hours online during that month. The increase in use of smartphones, 
+social media and on demand content means that cultural content can be more easily 
+distributed amongst audiences through an environment where users interact daily, 
+rather than audiences having to actively seek out content. 
+
+With digital content, cultural organisations are able to reach and engage more people 
+than could ever have physical access to culture through visits, opening up our nation’s 
+cultural offering to all rather than only those living within travelling distance. For 
+instance, the Natural History Museum reaches more people in a single month through 
+social platforms than visit the museum in person during a whole year.39 In 2016/7, 
+National Theatre Live screened 30 productions internationally and sold 240,000 tickets 
+for screenings in the US alone. Cinegi Arts&Film40 is trialing a digital distribution 
+service that makes it easy to screen films or cultural content in venues such as pubs, 
+libraries, museums and community centres throughout the UK, transforming it into a 
+pop-up cinema for special events or regular screenings. 
+
+The power of digital communications was seen to great effect in the 330 million social 
+media impressions made by Jeremy Deller’s We’re Here Because We’re Here. This 
+modern memorial to the opening day of the Battle of the Somme saw 1,400 volunteers 
+dressed as First World War soldiers appearing unexpectedly throughout the UK on 1st 
+July 2016. Commissioned by 14-18 NOW, the digital reach of this project ensured 
+63% of the UK population became aware of it. 
+
+39 Will Saunders speech ‘ Is Culture Digital’
+40 The project is supported by the Art Council England in partnership with the BFI.
+
+https://cinegi.com/
+https://becausewearehere.co.uk/
+http://willpsaunders.com/2017/12/08/is-culture-digital/
+
+
+
+
+Department for Digital, Culture, Media & Sport20
+
+Case Study: How digital has increased public libraries’ reach
+
+Public libraries have enhanced the provision of digital access to culture, by making 
+digital resources available online and in libraries, and through loans of e-books, 
+e-magazines and e-audiobooks. These can be downloaded onto personal devices
+allowing people who might not otherwise engage with libraries and books (such
+as those who can’t easily visit a library), access to a wide range of material and
+connect with their communities. This provision has grown rapidly in recent
+years with nearly all local authorities now providing e-lending to library users.
+There were 5.47 million annual issues of e-books by public library services in
+England in 2016/17 compared with 3.19 million annual issues of both e-books
+and e-magazines in 2015/16. Some local authorities are innovating further and
+developing these digital library services to address social isolation and foster
+community engagement. For instance, projects in Lewisham, West Sussex and
+Hampshire are piloting loans of devices like tablets to older people and the
+disadvantaged, providing access to digital reading and other cultural opportunities
+that might not otherwise have been available.
+
+Reaching new audiences
+
+The Culture White Paper set out the Government’s expectation that cultural 
+organisations in receipt of public money should reach out to everyone regardless of 
+background, education or geography41 
+
+Cultural engagement data shows fluctuations since 2005/6 when audience data was 
+first collected by Government, but varying by sector. For adults data shows rises over 
+that period in engagement at museums (up 10 percentage points), Heritage (up 4 
+percentage points) and the Arts (up 1 percentage point) whilst libraries has seen a 
+significant fall (down 14 percentage points).42 
+
+Although there have been some notable improvements43 there remain gaps with 
+black and minority ethnic and disabled people consistently under-represented in arts, 
+heritage and museum engagement.44 The Arts Council England’s report into diversity 
+covering 2016/2017 also finds engagement is skewed towards those in higher 
+socioeconomic groups. The report finds that whilst 31% of the population are in the 
+lowest DE socioeconomic groups, these groups represent 22% of ticketed and 24% of 
+non-ticketed events for their partner organisations.45 For libraries, however, black and 
+ethnic minority use is more than 13 percentage points above the use by those of white 
+ethnicity, and there is no longer a significant difference in public library use between 
+those with or without a disability/long-standing illness. Libraries also have the highest 
+relative use by women, with a gap of 9 percentage points over male use.46 
+
+41 Culture White Paper, p.23
+42  Taking Part 16/17 statistical release – Figures in 2016/17 are – 77% of adults have engaged with the arts, 
+
+74% have visited a heritage site in the last year,  52% have visited a museum or gallery in the last year, 
+and 52% have visited a museum in the last year.
+
+43  The Heritage sector has seen black and minority ethnic engagement increase (from 51% in 2005/06 to 
+58% in 2016/17) and disabled engagement rise (from 64% to 70% over the same period). Museums saw 
+a similar increase in black and minority ethnic engagement (from 35% to 44%). 
+
+44  Taking Part 2016/17 Q4 statistical release – Gap in non-disabled engagement vs disabled use in 2016/17 
+(Arts +5, heritage +6 and museums 7 percentage points). Gap in White use vs Black and minority ethnic 
+use in 2016/17 (Arts +8, heritage +19 and museums +10 percentage points) 
+
+45  Art’s Council England has begun collecting audience data across gender, ethnicity, disability and sexual 
+orientation for its partner organisations but is as yet unpublished because the data is in its infancy.
+
+46 Taking Part 2016/17 Q4 statistical release
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+http://www.artscouncil.org.uk/sites/default/files/download-file/Diversity_report_1617_FINAL_web.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664933/Adult_stats_release_4.pdf
+https://www.gov.uk/government/statistics/taking-part-201617-quarter-4-statistical-release
+https://www.gov.uk/government/statistics/taking-part-201617-quarter-4-statistical-release
+
+
+
+
+Culture is Digital 21
+
+Digital communication and content are tools which can help deliver greater levels 
+of cultural engagement. Younger audiences, in particular, provide an opportunity for 
+cultural organisations to increase engagement given their high levels of technological 
+sophistication and digital consumption. 99% of 12-15 year olds go online, averaging 
+21 hours of online time per week, whilst 77% play computer games, at an average of 
+12 hours per week.47 
+
+Case Study: Younger audiences: Playcraft: the world’s first 
+live play in Minecraft
+
+In 2017, The Space commissioned Derry Playhouse to produce Playcraft, 
+the world’s first play designed, developed and performed in Minecraft and 
+simultaneously on the stage. The Playhouse team were particularly keen to engage 
+with younger audiences – 9-12 year olds are the prime users of Minecraft.
+
+The Space introduced the team at Derry to Alex Scarrow, author of the TimeRiders 
+series for young adults. Alex was commissioned to write a new play that existed 
+within the pre-established world he had created in the novels. Scarrow’s time-
+travelling plot leant itself to a mixture of performances live on stage and in  
+Minecraft, with the actors performing onstage some of the time, and then moving 
+into Minecraft.
+
+On the night of the live broadcast in Minecraft and on YouTube, the 200 audience 
+members in the theatre in Derry were joined by hundreds of thousands of people 
+from across the world watching the production. As of the end of November 2017 
+the views of the play across all platforms exceeded 430,000, with views of all 
+accompanying artwork content over 700,000, and this is growing over time. The 
+recording of the live stream is available on YouTube:
+
+No silver bullet
+
+However, simply making digital content available does not mean that audiences will 
+automatically engage.
+
+Our expert advisor on research and evidence, Professor Simeon Yates, found a strong 
+association between cultural exclusion (visiting a cultural venue) and digital exclusion 
+(being online). Whilst some parts of the population are being ‘double served’ by 
+physical and digital cultural offerings, others remain on the outside. This means that, at 
+least for some, technology is not a way to drive cultural engagement. 
+
+OFCOM’s Adult Media Literacy Tracker shows that 12% of the adult population 
+do not go online and among those that do go online, 28% are ‘narrow users’ of the 
+internet, using the internet for a small number of activities.48 These behaviours are 
+particularly prevalent amongst the over 75s, of whom 56% do not go online and, 
+among those that do go online, 51% are narrow users of the internet.49 
+
+47  Data taken from OFCOM’s Children’s Media Literacy Research 2017.  Report also showed that in 2017 
+of 12-15 year olds, 83% have their own smartphone, 55% have their own tablet and 74% have a social 
+media profile. Additionally 8 in 10 of 5-15 years olds reported to using YouTube.
+
+48  Narrow users are defined as people who undertake between one and four types of internet activity out of 
+the 15 assessed. 
+
+49 Adult Use and Attitudes Report 2017 – OFCOM
+
+https://www.youtube.com/watch?v=Shp71F2gcdM
+https://www.ofcom.org.uk/__data/assets/pdf_file/0020/102755/adults-media-use-attitudes-2017.pdf
+https://www.ofcom.org.uk/__data/assets/pdf_file/0020/102755/adults-media-use-attitudes-2017.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport22
+
+Playcraft – Derry Playhouse Theatre/Hypixel/Blockworks/Adam Clarke/Alex 
+Scarrow/The Space/Dragnoz 
+
+Alternatively, some people simply prefer to engage with culture as a live experience 
+and a visit to a museum, heritage site, library or theatre is an opportunity to step away 
+from digital activity for a few hours.
+
+These levels of digital consumption are not a static picture. Whilst certain groups and 
+individuals are currently beyond digital reach, these behaviours change rapidly. For 
+example, the proportion of internet users aged over 75 with a social media profile or 
+account, doubled between 2015 and 2016 from 19% to 41% whilst 39% of those aged 
+65-74 reported using a smartphone in 2016, up 11 percentage points from 201550.
+
+Marriage of digital communications and content
+
+Feedback from our consultation has been clear that to increase participation from 
+under-represented audiences, content and digital communications strategies must 
+work hand in hand. Cultural organisations should consider the engagement patterns 
+of potential audiences rather than presuming digital communications and content will 
+automatically reach a wider audience. The most effective audience engagement brings 
+together digital communications with content or experiences which are compelling to a 
+particular audience or community. 
+
+Case Study: Made in Corby: Reaching new audiences
+
+Corby is an area of low engagement in the arts and ‘Made in Corby’s’ aim is to 
+inspire more local Corby people to take the lead in experiencing, creating and 
+taking part in high quality arts and cultural activities. Over the first three years, it 
+provided 579 separate opportunities for local people to enjoy the arts.
+
+50 Adult Use and Attitudes Report 2017 – OFCOM
+
+https://www.ofcom.org.uk/__data/assets/pdf_file/0020/102755/adults-media-use-attitudes-2017.pdf
+
+
+
+
+Culture is Digital 23
+
+Over the next three years, ‘Made in Corby’ are launching a new annual outdoor 
+arts festival aimed particularly at engaging the ‘Facebook Families’ audience who 
+are least likely to participate in arts activities but have high levels of engagement 
+with social media. For the first festival, this will include an augmented reality app, 
+with families able to hunt the festival’s mascot in places around the town and the 
+mascot revealing teasers of festival events. The app will also enable the digital 
+creation of installations that are financially unachievable for the festival to deliver 
+– for example a waterfall installation cascading down the town’s civic centre.
+
+Made in Corby has been successful in engaging new audiences. For events 
+taking place in Q2 2016/17, it was reported an average of 47% of visitors had 
+participated in the arts in the last 12 months; suggesting that up to 53% were new 
+to the arts.51 Made in Corby is part of the Creative People and Places programme, 
+initiated and funded by Arts Council England through the National Lottery.
+
+Imperial War Museum, Duxford
+
+Cultural Education
+
+One particular area in which cultural organisations have the potential to add value for 
+young people is through their digital cultural educational offer. The Culture White Paper 
+noted the positive benefits that cultural education and interactions have on young people, 
+including increasing the likelihood of a young person going on to further and higher 
+education and how ‘experiencing and understanding culture’ is integral to education.
+
+The Arts Council England’s National Portfolio Organisations working with children and 
+young people, are asked to outline their plans to use digital technology to capture 
+and create content for children and young people as well as offering young people 
+opportunities to create their own content. Each of Arts Council England’s ten Bridge 
+Organisations (organisations funded to connect the cultural and education sectors) 
+
+51  Creative People and Places Evaluation p.32. The data was provided for 37 of the 60 projects taking place 
+in Q2 2016/17.
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+http://creativepeopleplaces.org.uk/sites/default/files/Ecorys_end_of_yr3_report.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport24
+
+supports cultural organisations to deliver digital work for and by young people by 
+providing training and networking events. Digital activity for children, young people and 
+their teachers ranges from online and face to face Continuing Professional Development 
+programmes for teachers delivered by organisations including the Hepworth Wakefield, 
+Design Museum and V&A Museum, to comprehensive free resources available to 
+download from the British Museum and the National Theatre of Wales’ online network 
+‘TEAM’ for 16+ creatives.
+
+Examples of work in this area include Birmingham Open Media offering a cutting 
+edge technology programme in which children and young people make their own work 
+in response to gallery content. Culture24 helps museums to create online learning 
+content for children and young people. Technology is being used by cultural 
+organisations to address particular barriers, such as the use of Soundbeam, Skoogs and 
+iPads in Special Educational Needs music education settings. Connect: Resound is a 
+digital music education project52 bringing together music teachers, orchestras and music 
+ensembles with children from schools in rural areas across England to transform access 
+to music education. Following a successful pilot the North Yorkshire music education 
+hub NYMAZ has rolled the programme out in rural locations elsewhere in England.
+
+In 2015/16 Arts Council England partnered with TES Global, British Museum, Victoria & 
+Albert museum and Royal Shakespeare Company on the ‘Huge History Lesson’ to deliver 
+cultural education teaching resources online. Into Film is a charity working 
+UK-wide and funded principally by the National Lottery via the British Film Institute 
+(BFI). The Into Film programme promotes watching, making and understanding film for 
+5-19 year olds, focusing on film clubs as well as curriculum-based activity, training for
+teachers and club leaders, and links to cinemas and the film industry.
+
+School pupils use tech to enhance their field trip
+
+52  The pilot was supported by Art Council England, Nesta and the Art and Humanities Research Council’s 
+Digital Research and Development Fund for the Arts, with the roll out receiving funding from the Arts 
+Council England.
+
+https://www.nymaz.org.uk/connectresound
+https://www.nymaz.org.uk/connectresound
+http://www.weareculture24.org.uk/projects/digital-skills-in-museums/
+
+
+
+
+Culture is Digital 25
+
+Understanding audiences
+
+The collection and analysis of data provides an opportunity to learn more about the 
+likes, dislikes, viewing habits and behaviours of different audiences.
+
+Free national online tools such as the Audience Agency’s Audience Finder enable 
+cultural organisations to understand, compare and apply audience insight so that they 
+can create with audiences in mind. Audience Finder brings together data on all UK 
+households with data from over 800 cultural organisations: over 170 million tickets, 
+59 million transactions, approximately 280,000 surveys and web analytics from all 
+the UK’s major arts and cultural organisations as of January 2018. However, these 
+databases are only as good as the evidence base supplied to them, needing data from 
+many and varied sources to give real insights to content creators and organisations.
+
+Arts and cultural organisations could also benefit from greater consistency and depth of 
+understanding when interpreting digital audience data. 
+
+Case Study: The Marlowe Theatre: Translating Insight into 
+Revenue and Engagement
+
+The Marlowe Theatre in Canterbury used Audience Finder along with the 
+embedded Audience Spectrum profiling system to understand and predict the 
+behaviour of their highest-paying customers – at the Marlowe and elsewhere 
+in their local area. Using these insights, they launched a successful campaign to 
+attract new audiences identified by Audience Finder as having a similar profile 
+to their existing high-paying patrons. Most importantly, they were also able to 
+use Audience Finder to pinpoint a small but distinctive new audience in their 
+catchment area who would be willing to support new work that is vital for The 
+Marlowe’s reputation and positioning. Over the course of a year, they have 
+increased their reach in this market by an impressive 50%.
+
+Like many others The Marlowe has to balance its social objectives with financial 
+challenges. Beyond their ability to increase targeted revenues through newfound 
+insights, they are also able to use Audience Finder to identify and prioritise new and 
+low-engaged audiences who can benefit from their discounts and outreach work.
+
+Policy commitments:
+
+1.   Arts Council England and the Heritage Lottery Fund will ensure that funded 
+organisations get better at collecting, using and sharing audience data, including:
+
+ a.  Collecting and understanding data on the reach and impact of their digital and 
+non digital work and using it to drive their audience engagement strategies 
+ensuring it is done on a consistent basis across the arts and heritage sector;
+
+ b.  Encouraging the use of integrated databases, such as Audience Finder, and the 
+sharing of audience insight research, so that all businesses in the sector can 
+better understand digital and physical audiences.
+
+2.  The Space and The Audience Agency will work with arts and cultural 
+organisations, Nesta, the BBC and other content publishers and partners to 
+develop a metrics framework and best practice guidance for arts and cultural 
+organisations to use when planning and assessing audience engagement across 
+different digital platforms.
+
+https://www.theaudienceagency.org/audience-finder
+
+
+
+
+Department for Digital, Culture, Media & Sport26
+
+The role of place 
+
+The Industrial Strategy introduced key policies to support prosperous communities 
+throughout the UK and creating thriving communities through culture is central to the 
+power of place. The Culture White Paper outlined how our cultural sectors already 
+make a crucial contribution to the regeneration, health and wellbeing of our regions, 
+cities, towns and villages. They also play a vital role in the UK’s creative clusters53. 
+Digital communications enable new engagement with audiences locally, focusing on 
+what people care about in their local areas. 
+
+Hull, UK City of Culture in 2017 has shown the impact that cultural investment can 
+have. Government funding for Hull of £15 million unlocked £3.3 billion worth of 
+investment in the City since winning the nomination in 2013. Analysis shows that 
+changes in the perception of the City is attributed as a key factor in securing that 
+investment. Hull’s culture led regeneration plan has created 7000+ jobs.
+
+A £2 million Cultural Development Fund was announced in the Autumn 2017 Budget 
+to support the role that culture and the creative industries can play to boost local 
+economic growth. The creative use of digital technology, communications and tools 
+to engage audiences will be an important part of developing and implementing place 
+based strategies.
+
+Art Council England’s Creative People and Places (CPP) project has focused on locally-
+led arts projects in areas of low cultural engagement since 2013, creating content 
+with significance to each local community and giving communities a voice. The CPP 
+programme has shown that locally driven and locally relevant work can engage those 
+who wouldn’t ordinarily access culture. In the first three years of the CPP project 91% 
+of audiences54 belonged to one of the medium or lower engaged audience groups, with 
+around three quarters living in the project area of the event they attended. Digital 
+tools and technology potentially have a great role to play in further increasing this 
+engagement.
+
+Case Study: Creative Scene
+
+The Creative People and Places project in West Yorkshire, has embraced 
+digital as a way of creating new content that engages audiences and brings new 
+audiences to outdoor arts events, in an area where there are few galleries, theatres 
+or public venues. As well as commissioning new digital content, the project also 
+presents the work in the public realm, often using digital as part of an immersive 
+mix of outdoor digital image projections, beautiful and captivating lighting and 
+illuminations, outdoor theatre and interactive artworks.
+
+The commissions celebrate, interpret and reflect the local history, heritage and 
+culture – and add some ‘wow’ to the mix – showing the area in a new light.
+
+53 NESTA – Creative Nation 2018
+54 Audience Agency profiling 2014-2016 – national report
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+https://www.gov.uk/government/publications/autumn-budget-2017-documents/autumn-budget-2017
+http://www.creativepeopleplaces.org.uk/100-stories-blog/Creative%20Scene
+https://www.nesta.org.uk/sites/default/files/creative_nation-2018.pdf
+http://www.creativepeopleplaces.org.uk/sites/default/files/Audience%20Agency%20profiling%202014-2016%20-%20national%20report.pdf
+
+
+
+
+Culture is Digital 27
+
+Ticket to Ride, Creative Scene, West Yorkshire
+
+Policy commitment:
+
+3.  In order to further broaden cultural engagement and empower communities 
+to share their voices, view and creative content digitally, Arts Council England 
+will ensure that its Creative People & Places programme makes use of digital 
+communications and platforms and that the analysis and learning from the 
+projects are widely shared.
+
+4.  We will encourage recipients of UK City of Culture and Cultural Development 
+Funding to include ambitions to enhance digital audience engagement in their 
+local place-shaping and growth strategies.
+
+New cultural experiences
+
+Technology is having a profound effect on cultural activity, especially for younger 
+generations. Audiences are no longer simply passive receivers of cultural content. They 
+are selecting on-demand content, controlling interactive experiences, instantly sharing 
+and distributing content and co-creating artwork itself.
+
+User generated content
+
+User generated content and crowdsourcing projects are driving new and closer 
+relationships with audiences. For instance, Historic England’s Enrich the List project 
+encourages members of the public to contribute information and images of England’s 
+historic buildings and places and has seen 400,000 contributions added to the list. In 
+Sleep No More, a Punchdrunk collaboration with MIT Media Lab, the theatre audience 
+moves freely through the epic story of Macbeth, creating their own journeys through 
+the film noir world.
+
+Mobilising audiences
+
+Audience interactivity has been powerfully mobilised with thousands of organisations 
+and communities across the UK marking the Centenary of the First World War through 
+local and national projects, many funded from the Heritage Lottery Fund. Young people 
+are actively involved in shaping this activity and digital technology plays a key role in 
+
+https://historicengland.org.uk/listing/enrich-the-list/
+https://www.punchdrunk.org.uk/sleep-no-more/
+
+
+
+
+Department for Digital, Culture, Media & Sport28
+
+communicating research, telling stories and securing the legacy of the Centenary for the 
+next generation. In We are #Youngwummin’55 YouthLink Scotland, youth groups and 
+the National Library of Scotland, invite young women to contribute to telling the story 
+of the incredible Scottish women who helped win the war. Central Youth Theatre’s 
+powerful pieces After Dawn’ and ‘Goodnight My Boys’ based on true stories of West 
+Midlands soldiers shot for offences such as desertion or perceived cowardice, are freely 
+available on You Tube. 1st Menai Bridge Scout Group on Anglesey are exploring the 
+role of Snowdonia and Anglesey Scouts and Scouting during the First World War and 
+ensuring their research is easily accessible after the project ends.
+
+Meanwhile in Northern Ireland, led by The Nerve Centre, Reimagine, Remake, Replay 
+will see over 4,000 young people take part in activities including making and curating 
+their own exhibitions, writing, casting and directing their own films, and creating apps 
+and games.
+
+
+ 
+
+Scotswummin youth workers Fozzia and Rebecca research Scottish women’s history 
+at the National Library of Scotland. Credit. © YouthLink Scotland
+
+Case Study – New cultural experience – On-line Quilting
+
+Wales-based artists Joanna Wright and Lenka Clayton have created a ‘live’ touring 
+social quilting project online (Two itinerant quilters). They have taken inspiration 
+from the 18th century travelling quilters who would stay with families in order to 
+create patchwork quilts from old clothing, rags and sacks found at each home, and 
+involves the artists asking members of the public to donate a small patch of their 
+clothing to contribute to a growing quilt. As well as donating a piece of fabric, 
+each participant contributes a story, remark or comment linked to the clothing, so 
+the collection of stories grows as the physical quilt expands. In return, the artists 
+sew a piece of contrasting fabric into participants’ clothing, to replace the piece 
+which has been donated.
+
+55 Scotswummin
+
+https://www.scotswummin.org/#we-are-scotswummin
+https://www.youtube.com/channel/UCn8D94CB4kANxt_oghLtS4w
+https://www.youtube.com/channel/UCn8D94CB4kANxt_oghLtS4w
+https://www.hlf.org.uk/about-us/media-centre/press-releases/1st-menai-bridge-scout-group-wins-heritage-lottery-support
+http://www.nervecentre.org/news/nerve-centre-awarded-heritage-lottery-funding-connect-young-people-heritage#.WpbcFVSFhGx
+https://www.scotswummin.org/#we-are-scotswummin
+
+
+
+
+Culture is Digital 29
+
+The aim of the work, funded by The Space, is to connect people, sharing the 
+images and stories online to build a virtual quilt of colour, texture and personal 
+narratives over time, alongside the physical quilt. So far, more than 300 people 
+have contributed pieces of clothing to the work, 1,800 people have engaged with 
+the virtual quilt online and over 7,500 Instagram followers have viewed posts 
+regarding the quilt stories. The gallery on Instagram and the emerging quilt can be 
+seen at the links below. 
+https://www.twoitinerantquilters.com/ 
+https://www.instagram.com/twoitinerantquilters/
+
+Patched jacket, Two Itinerant Quilters
+
+Technology and creators
+
+Technological advances also offer creators new ways of producing content and cultural 
+experiences for audiences. Super high resolution imagery allows viewers to zoom in to 
+focus on every brush stroke, virtual tours allow access to stately homes and monuments 
+which are inaccessible to the public for conservation reasons, and immersive reality 
+dance performances allow audiences to enjoy new experiences; stripping away time, 
+stereotypes and even gravity. CGI technology brings Sir Richard Arkwright to life in the 
+‘Arkwright Experience’ at Cromford Mills in Derbyshire, enabling audiences to hear 
+first hand about the inventions, money and espionage intrigues from his life. Historical 
+Houses Association lets users discover special houses and places by drone, giving a 
+novel view of these prize assets. 
+
+Tackling access inequalities
+
+The Taking Part 2016/17 survey shows that although engagement in culture from 
+those with long term illness or disability has increased since 2005, there is still a notable 
+participation gap56. Support is available to help. For example, UK charity VocalEyes 
+provides excellent guidance to cultural organisations on how they can ensure that websites, 
+as well as physical premises, are fully accessible to d/Deaf and disabled audiences.
+
+56 The gap has fallen from 9 percentage points in 2005/06 to 5 percentage points in 2016/17.
+
+https://www.cromfordmills.org.uk/arkwright-experience-and-exhibitions
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664933/Adult_stats_release_4.pdf
+http://vocaleyes.co.uk/wp-content/uploads/2016/12/Museum-access-information-guidelines-2016-VocalEyes.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport30
+
+Arkwright Experience, Cromford Mills, Derbyshire
+
+Digital technology tools can also help close this gap and greatly enhance the experience 
+of those with disabilities. Hi-tech glasses like those being developed by the National 
+Theatre allow d/Deaf audience members to watch performances with subtitles without 
+having to rely on dialogue screens at the side of the auditorium. Mobile apps are 
+unlocking cultural content for many users, and apps such as Signly are delivering smart 
+signed content directly to a user’s device. We would encourage cultural organisations to 
+test and use these new technologies.
+
+Case Study: Signly App and The Roald Dahl Museum and 
+Story Centre
+
+The app, developed in collaboration with The Roald Dahl Museum and Story 
+Centre, can be pointed at labels throughout the Museum to display British Sign 
+Language videos enabling visitors to access information about the exhibits without 
+having to wait for interpreted tours or make a ‘special need’ known. 
+
+Open Access Smart Capture Glasses, National Theatre. ©  Cameron Slater
+
+http://www.telegraph.co.uk/news/2017/10/03/deaf-hard-hearing-theatre-goers-given-hi-tech-glasses-can-watch/
+http://www.telegraph.co.uk/news/2017/10/03/deaf-hard-hearing-theatre-goers-given-hi-tech-glasses-can-watch/
+https://signly.co/apps/roald-dahl/
+
+
+
+
+Culture is Digital 31
+
+2. Skills and the capability of cultural
+organisations
+
+Introduction
+
+A key aim of the Government’s Digital Strategy and Industrial Strategy is to improve 
+the digital skills of UK businesses and citizens in order to make the UK a world-leading 
+digital economy – one in which our cultural sector can play its part. 
+
+It is predicted that, within 20 years, 90% of all jobs will require some element of digital 
+skills57. The Government is committed to ensuring that everyone has access to the 
+digital skills they need to thrive in the digital age, increasing their earning power and 
+giving better job opportunities. The Industrial Strategy sets out the Government’s 
+commitment to helping people develop the skills needed for jobs of the future, including 
+investing an additional £406 million in maths, digital and technical skills in England. 
+At the start of this year the Department for Education announced the Government’s 
+commitment to fully fund basic digital courses from 2020, mirroring the approach 
+to maths and English58. In the interim, the Government will continue to support the 
+provision of basic digital skills training for adults in colleges and community learning 
+centres across England through the Adult Education Budget and other programmes.
+
+A need to improve digital skills
+
+In the cultural sector, there is a need to focus on digital skills from basic skills59 through 
+to the specialist digital skills60 to ensure no segment of our workforce is left behind. 
+At the same time, digital tools offer opportunities to drive efficiencies in back office 
+operations, increase commercial revenues and fundraising, and improve audience reach.
+
+The Department for Digital, Culture, Media and Sport has recently undertaken and 
+published a series of reviews and reports.61 All of these reviews highlighted a need 
+for DCMS’s Arm’s-Length Bodies to improve the digital capability of their own 
+organisation and, in their roles as funders and development agencies, to support cultural 
+organisations to do the same. Building digital skills has been identified by the Arts 
+Council England as a priority, with 37% of its sectors’ organisations saying that a lack 
+of capability and knowledge was a major barrier to achieving their digital aspirations62 
+and Heritage Lottery Fund’s consultation on its future direction has a focus on digital 
+
+57 The Digital Strategy, 2017, UK Government
+58 See Minister for Apprenticeships and Skills speech, 24th January 2018.
+59  The LLoyds Bank UK Business Digital Index and The Tech Partnership’s Basic Digital Skills Framework 
+
+identify the 5 key areas of basic digital skills as: managing information, communicating, transacting, 
+creating and problem-solving. (Note- this framework is currently under review and being consulted on by 
+Lloyds and The Tech Partnership). 
+
+60 Such as IT business analysts, programmers and system designers
+61  Including the Tailored Review of the Arts Council England, the Tailored review of the Heritage Lottery 
+
+Fund and National Heritage Memorial Fund, The Mendoza Review: an independent review of museums 
+in England, the Strategic review of DCMS-sponsored museums, The Heritage Statement and the Libraries 
+Deliver: Ambition for public libraries in England. 
+
+62 Tailored Review of Arts Council England, UK Government, p.33, April 2017
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.hlf.org.uk/about-us/news-features/we-want-hear-you-hlfs-future-direction-and-funding
+https://www.gov.uk/government/publications/uk-digital-strategy
+https://www.gov.uk/government/publications/uk-digital-strategy
+https://www.gov.uk/government/speeches/anne-milton-speech-at-bett-show-2018
+https://www.thetechpartnership.com/globalassets/pdfs/research-2016/ukbusinessdigitalindex_oct16.pdf
+https://www.thetechpartnership.com/basic-digital-skills/basic-digital-skills-framework/
+https://www.gov.uk/government/publications/tailored-review-of-arts-council-england
+https://www.gov.uk/government/publications/tailored-review-of-the-heritage-lottery-fund-and-national-heritage-memorial-fund
+https://www.gov.uk/government/publications/tailored-review-of-the-heritage-lottery-fund-and-national-heritage-memorial-fund
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673938/Strategic_review_of_DCMS-sponsored_museums.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664657/Heritage_Statement_2017__final_-_web_version_.pdf
+https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021
+https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/610358/FINAL_Arts_Council_England_Tailored_Review_Report.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport32
+
+capability so they can better understand the support needed by organisations they fund 
+to use digital technologies.
+
+Respondents to our consultation highlighted that digital skills are a key area of 
+weakness for many cultural organisations. A Lloyds study63 on small businesses and 
+charities64 found that a lack of digital skills and fears linked to online security were 
+key reasons for organisations holding back on their potential to do more online65. The 
+2017 Digital Culture Survey reports that 70% of organisations reported a major 
+positive impact from digital technology on their ability to deliver their mission66 but 
+the majority of organisations view themselves as only having basic digital skills67. The 
+survey reports that digital skills gaps cover everything from digital production and 
+commissioning, to rights clearance68 and data analysis (see Figure 1). 
+
+Note: Arrows denote statistically significant changes
+
+Figure 1: Proportion of organisations that report they are well-served for Digital 
+Skills, Arts Council England and Nesta Digital Culture Survey 2017. 
+
+0% 10% 20% 30% 40% 50% 60% 70%
+
+0 10 20 30 40 50 60 70
+
+Digital marketing (including use of Facebook and Twitter,
+email newsletters)
+
+Multimedia/website design (including audio, graphics, text,
+animation, video)
+
+Digital production (including A/V Production, audio and
+film production and editing)
+
+Research and evaluation
+
+Digital archiving
+
+Digital strategy and planning
+
+Data analysis
+
+Software development (including website and
+app development)
+
+Database management/Customer Relationship Management
+(CRM)
+
+Project management (including agile development
+methodologies)
+
+Legal advice around intellectual property rights
+(e.g. in relation to collaborative projects)
+
+All forms of digital commissioning and partner management
+(e.g. creative, services)
+
+Rights clearance
+
+User interface design and user testing
+
+
+
+2013
+
+
+
+
+2015
+
+
+
+
+201768%68%69%57%50%50%50%45%48%34%
+
+39% New in 2014
+
+
+37%
+
+38% New in 2014
+
+38% New in 2017
+
+
+29%27%34%34%31%32%31%30%30%32%28%29%25%22%26%34%20%25%24%17%24%21%18%23%
+
+63 Lloyds Bank UK digital index 2016, p.2. 
+64 Most cultural organisations are charities and there are very similar characteristics between these sectors.
+65  This was a change from previous years of the survey where attitudinal barriers, such as digital 
+
+technologies not being relevant, had been the focus.
+66  The Arts Council England and Nesta Digital Culture Survey 2017 found there was also a significant 
+
+increase in the proportion of organisations reporting major positive impacts on their business model and 
+operations (up from 51% in 2013 to 68% in 2017), p.6. (Lloyds Bank UK digital index 2016, p.2). 
+
+67 Digital Culture Survey 2017, Nesta and Arts Council England, p.6.
+68  Rights clearance refers to cultural business ensuring that they can publish digitally without breaching the 
+
+rights of an original content provider, for example music rights in a dance performance.
+
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://www.nesta.org.uk/publications/digital-culture-2017
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://www.nesta.org.uk/publications/digital-culture-2017
+
+
+
+
+Culture is Digital 33
+
+Digital Maturity
+
+Research69 and our consultation has shown that organisations are more likely to 
+experience benefits from digital technologies if they are digitally mature; where digital 
+is embedded across an organisation throughout every part of the business, from admin 
+and security, to e-commerce and asset management70. 
+
+However, digital maturity will only occur if UK cultural sector leaders have the digital 
+literacy and confidence to drive forward the adoption of digital technologies across 
+their business plans. The Digital Culture Survey shows that only 38% of organisations 
+felt that they are well served with the skills to create this sort of digital strategy71. 
+
+A Digital Maturity Matrix allows organisations to make sustainable and continued 
+incremental digital improvements to their businesses. The tool allows organisations 
+to make an evidence-based case for digital transformation demonstrating the value in 
+investing resources to do so. A number of tools to measure digital maturity have been 
+developed and used across organisations in the UK and here we outline two of them. 
+
+Case Study: Breast Cancer Care: Digital Maturity Matrix72
+
+In 2015, Breast Cancer Care developed a digital maturity matrix tool as part of 
+its digital strategy review but also wanted to ensure others could benefit from 
+it so made it open source. The goal of the index was to quantify a previously 
+subjective view on a charity’s digital progress. The tool assessed the charity’s 
+existing digital capability across eight dimensions (everything from technology 
+to governance), using a series of statements and allowed the organisation to 
+set targets for the following year. Based on the digital maturity index, the 
+organisation managed to raise their own digital maturity by 24% in just 12 
+months. The rights to the tool are now held by the NCVO, who have maintained 
+it as an open source tool for the sector with over 800 charities now having used 
+the index to increase their own maturity. 
+
+Case Study: Art Fund: Culture sector Digital Maturity Model
+
+The Art Fund underwent an extensive process to evaluate its own digital maturity 
+using a model specifically adapted for a cultural organisation. By exploring digital 
+maturity models the process enabled the Art Fund to understand the digital gaps 
+that it faced as an organisation and the possibilities that working with digital 
+technology can bring, while learning about the broader use of technology in 
+different sectors. By fully engaging all of its employees to think about digital best 
+practice, they have been able to embed new ideas and plans to capitalise on their 
+digital future and better fulfil the Art Fund’s mission. The use of a culture sector 
+digital maturity model, assessing everything from technology to governance, 
+would allow cultural organisations to clearly identify skills and knowledge gaps 
+and be able to set appropriate targets for the following year to help address these 
+gaps. It will enable better understanding of where they need to invest and be able 
+to put into place specific plans for improvement.
+
+69 Lloyds Bank Digital Index for Small Business and Charities (2016)
+70  The Arts Council England and Nesta Digital Culture survey 2017, p.25, notes a perceived barrier to the 
+
+uptake of digital technologies by cultural organisations is having ‘no senior manager with a digital remit’. 
+71 This figure is 61% for ACE NPOs, Arts Council England and Nesta Digital Culture Survey 2017, p.22.
+72 The Digital Maturity Matrix is an open source tool now owned by NVCO. 
+
+https://www.nesta.org.uk/publications/digital-culture-2017
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport34
+
+Policy commitment:
+
+5.  Arts Council England, working with the Heritage Lottery Fund and partners, will
+create and pilot the use of a Digital Maturity Index for the cultural sector, to
+enable organisations to understand and benchmark their own digital capability
+and set plans in place to make improvements.
+
+Alongside the Index will sit a Digital Culture Code. The code will set out some core 
+principles supported by government and cultural funders to help organisations 
+understand what is being asked of them when working with digital tools and technology. 
+Principles might include a commitment to data sharing and designing audience 
+engagement using data, support for building capacity across organisations (including big 
+institutions supporting smaller ones and pooling resources across organisations) and a 
+commitment to building digital maturity and the maturity of the wider cultural sector. 
+
+Policy commitment:
+
+6.  Arts Council England, working with the Heritage Lottery Fund and partners,
+will work together to create a Digital Culture Code; a set of guidelines and
+principles which cultural organisations should sign up to in order demonstrate a
+commitment to developing their own digital maturity and the maturity of the
+wider cultural sector.
+
+Building Capacity
+Arts Council England
+
+It is mandatory for Arts Council England’s National Portfolio Organisations (NPOs) 
+receiving £250,000 per annum or more to have a digital policy and plan and Arts 
+Council England has developed guidance and training to support NPOs in developing 
+these policies and plans. However, Arts Council England intends to further support 
+its sectors to develop their digital maturity at scale; in particular to make savings, 
+transform business models and reach audiences. 
+
+The Arts Council England and Nesta Digital Culture survey highlighted regional 
+variations in access to digital skills73, and found that London has the highest number of 
+‘digital leaders’, with organisations outside London feeling less confident in their digital 
+skills74. It is therefore important that a regional approach is adopted. 
+
+Arts Council England will invest in a Digital Culture Network to develop its sectors’ 
+digital skills and capabilities. It will have a mission to increase the digital maturity of the 
+organisations it supports, to embed digital skills, facilitate partnership and collaborative 
+working, provide guidance and advice to senior leadership of its organisations on digital, 
+sharing expertise and best practice. Since 2015 Google has been running the Digital 
+Garage project which has helped 200,000 people in Britain learn crucial skills for the 
+digital age. More recently Google have developed a coastal town tour of Google’s 
+Digital Garage: a specific programme targeting hospitality and tourism industries in 
+seaside communities. As part of the Digital Culture project, Google Arts and Culture will 
+explore together with Arts Council England, if a similar specific project for the culture 
+sector could be developed to help organisations improve their online presence, reach 
+new audiences and create exciting digital experiences.
+
+73 Arts Council England and Nesta Digital Culture Survey 2017, p.40
+74 Arts Council England and Nesta Digital Culture Survey 2017, p.33 and p.40. 
+
+https://learndigital.withgoogle.com/digitalgarage
+https://learndigital.withgoogle.com/digitalgarage
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+
+
+
+
+Culture is Digital 35
+
+Policy commitment:
+
+7.  Arts Council England will set-up a Digital Culture Network, investing £1.1m
+over two years to create a network of expertise and sharing of best practice
+across each region in England in order to increase its sectors’ digital skills and
+capability. The Network will:
+
+a.  Produce and deliver packages of support to increase the digital maturity of
+organisations and improve digital skills within organisations;
+
+b.  Look to partner with technology organisations to deliver training regionally
+reflecting key regional trends and needs;
+
+c.  Facilitate partnerships and collaboration between arts and cultural
+organisations and the tech sector and others;
+
+d.  Provide targeted support to leaders to increase the digital maturity of their
+organisations, including the creation of a digital board bank and guidance of
+digital criteria for senior leadership appointments.
+
+Heritage Lottery Fund
+
+Almost every project supported by the Heritage Lottery Fund produces digital outputs 
+ranging from simple web sites presenting archival images, sound or film, to the 
+innovative 3D experience of the Battle of Bannockburn and apps to help people 
+identify species at risk. Heritage Lottery Fund recognises there is more it can do to 
+support the use of digital technology to conserve and open up heritage.  
+
+The Tailored Review of the Heritage Lottery Fund and National Heritage Memorial 
+Fund included a recommendation on digital capability75 and highlighted that Heritage 
+Lottery Fund should work strategically to support, heritage projects that use digital, and 
+to build the digital skills of organisations working in the heritage sector and those with 
+heritage assets. The Digital Culture survey 2017 found that the ‘Heritage bodies’ which 
+responded (the majority of which are Museums), are falling behind the wider cultural 
+sector in their use of digital technology)76. 
+
+In order to support the Heritage sector to build digital capacity, the Heritage Lottery Fund 
+will create a £1 million two year campaign, focused on attracting high quality digital 
+skills projects, starting in 2019/20. Heritage Lottery Fund will first seek to understand 
+more about how it can support the sector through its Strategic Funding Framework 
+consultation, the results of which will inform its ambitions for this campaign.
+
+The Heritage Lottery Fund is also committed to ensuring that digital capability is a 
+significant feature in the organisation’s own Business Transformation programme. As 
+part of this commitment, they will appoint a Digital Trustee to its Board and appoint 
+a new senior post to lead work internally and in its grant-making in the 2018-19 
+financial year. 
+
+75  38% of respondents felt that HLF adequately supported the development of digital content, and the use 
+of digital technologies by heritage organisations through its investments (62% either said they didn’t 
+know, no, or that HLF could do more Tailored review of the Heritage Lottery Fund and National Heritage 
+Memorial Fund, UK Government, November 2017. 
+
+76  For instance the survey found that heritage organisations are the least likely to have a mobile-optimised 
+site, and are also the least active on social media, with 33% using Instagram and YouTube compared to 
+50% of organisations overall, Arts Council England and Nesta Digital Culture Survey 2017.
+
+https://www.hlf.org.uk/about-us/news-features/we-want-hear-you-hlfs-future-direction-and-funding
+https://www.hlf.org.uk/about-us/news-features/we-want-hear-you-hlfs-future-direction-and-funding
+http://battleofbannockburn.com/
+https://www.gov.uk/government/publications/tailored-review-of-the-heritage-lottery-fund-and-national-heritage-memorial-fund
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/662546/HLF_Tailored_Review_Final_Report.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/662546/HLF_Tailored_Review_Final_Report.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport36
+
+Battle Master leads a group of school pupils through a simulated battle in the Battle 
+Room, Battle of Bannockburn Centre
+
+Policy commitment:
+
+8.  In order to build the digital capability of the sectors it supports, the Heritage
+Lottery Fund will;
+
+a.  Fund a £1m campaign which will run over two years, to attract high-quality
+projects to build the sector’s digital capacity, starting in 19/20 with a grant
+budget of £500k p.a.
+
+b.  Make digital a key feature throughout the Heritage Lottery Fund’s Business
+Transformation programme, with a particular focus on upskilling staff.
+
+Working with other DCMS workstreams
+
+The Digital Culture report policy commitments will help support and deliver, where 
+appropriate, the digital strands of work identified in The Mendoza Review: an 
+independent review of museums in England and the Strategic review of DCMS-
+sponsored museums. The museums sector will be represented in all work streams of 
+this project to ensure they can work with, and learn from, the wider cultural sector in 
+improving their use of digital technologies. 
+
+The Digital Strategy committed to create a Digital Skills Partnership (DSP), bringing 
+together technology companies, local businesses, local government, charities and other 
+organisations to develop local targeted digital skills training, highlighting excellence 
+and avoiding duplication of resources and training. The sectors working with the DSP 
+have similar digital skills and capability needs to the cultural sector, especially charities 
+and SMEs. DCMS will ensure that the cultural sector is represented in the Digital Skills 
+Partnership, appointing representatives to sit on the Digital Enterprise Delivery Group 
+in order to align the Digital Culture skills work with the wider work of Government 
+on digital skills . Lloyds Bank co-chair this Enterprise delivery group and with their 
+experience of having reported on the digital maturity of small businesses and charities 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673938/Strategic_review_of_DCMS-sponsored_museums.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673938/Strategic_review_of_DCMS-sponsored_museums.pdf
+https://www.gov.uk/government/publications/uk-digital-strategy
+https://www.gov.uk/government/publications/the-digital-skills-partnership
+
+
+
+
+Culture is Digital 37
+
+for four years running there is a particular scope to align and share best practice on the 
+development of a digital maturity index for the cultural sector. 
+
+National Theatre’s Enter Wonder.land promoted the musical Alice in Wonderland
+
+Leadership
+
+The importance of digital leadership is singled out as a theme across a number of 
+studies. Research by Fujitsu from 2016 found that for 71% of businesses, the success 
+of digital projects is a gamble77. The Lloyds Bank Digital Index for Small Business 
+and Charities (2016)78 revealed that almost half lack all five basic digital skills 
+(managing information, communicating, transacting, creating and problem solving) 
+and that 4 out of 5 charities report investing no money in digital skills, even though 
+many recognise their own skills gaps. Digital transformation initiatives are shown to 
+fail, in any sector, when they are not led from the top of the organisation. A 2015 
+study79 found that lack of engagement and buy-in from senior leadership is a common 
+barrier to digital transformation and the 2017 Digital Culture Survey reports that 
+organisations experiencing minimum impact from tech changes are less likely to have 
+senior managers who are knowledgeable about digital or who distribute responsibility 
+for digital across their organisation80.
+
+Cultural leaders and boards set organisational strategies, and digital tools and 
+technology should be included across these plans. If leaders understand the importance 
+of digital, they will be able to identify where strategic digital investment and resources 
+are needed. 
+
+77  Less than a quarter (21%) of IT decision-makers are confident in advising the business on digital projects, 
+while over half (59%) admit it’s difficult to know the right choices to make when it comes to digital 
+adoption. 
+
+78 The majority of arts and cultural organisations are also charities.
+79 The New Reality, 2015
+80 Arts Council England and Nesta Digital Culture Survey 2017, p43. 
+
+http://www.fujitsu.com/uk/news/pr/2016/fs-20160119.html
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://www.accenture.com/gb-en/insight-lloyds-bank-uk-business-digital-index-2016
+https://drive.google.com/file/d/0Bxfi21joAmYPUmRVSlZ0RGRoc1E/view
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport38
+
+Case study: Royal Historic Palaces – 5 year 
+transformation project
+
+In 2013, Historic Royal Palaces (HRP) undertook a 5-year digital change programme 
+focussed around improving and modernising the customer journey and experience. 
+What HRP realised very early is that the transformation was truly a change 
+programme, not an IT programme. Of the 42 projects scheduled to take place, only 
+7 were around technology. 35 were about people, process, organisation and culture.
+
+Crucial to this change was Board level leadership, governance and championing of 
+digital initiatives. Where operating models need to change – where departments 
+need to work differently or be shaped differently – where functions need 
+streamlining or centralising – where roles are changing and skills are evolving: 
+board level visibility and buy-in are absolutely key.
+
+In Digital Programmes, all of these things can and do happen, because of the 
+uniquely cross-cutting nature of digital technology and benefits. Certainly in HRP 
+they did. The Programme was led by a Change Stream, which organised Board level 
+sponsors for each stream, regular executive level show-and-tells, an executive-led 
+programme board, and regular reports to Executive and Trustee Boards.
+
+All this couldn’t make the change painless, but it did make the change happen. 
+The results are the delivery of tangible business benefits and new ways of working 
+across the organisation.
+
+Data and Business Models
+
+The Industrial Strategy’s Artificial Intelligence and Data-Driven Economy Grand Challenge 
+commits to making the UK a global centre for artificial intelligence and data-driven 
+innovation and supports sectors to boost their productivity through these and data analytic 
+technologies. These commitments reflect the importance of our data economy to the UK’s 
+growth and future prosperity. 
+
+For cultural organisations data can provide significant insights. Collecting data not only 
+allows cultural organisations to understand their audiences better but the data collected 
+– audience demographic data, commercial transactional data, metadata, crowdsourced
+data, locations-based data, and machine-generated data – can all be used to help develop
+business plans and organisation strategies.  Data is also a powerful tool to challenge
+organisational assumptions. The Alan Turing Institute recognises the importance of data
+science and is driving forward cross disciplinary work to develop solutions data science
+can offer for real-world problems. Through a summer internship programme they will
+be encouraging PhD students to join them to analyse data and solve problems, share
+knowledge and build networks in an open and collaborative way.
+
+The Government has a clear position on open data81, to be open by default, and 
+encourages businesses to take the same approach so new insights and innovative 
+approaches can be explored, while also increasing transparency. Data should be shared 
+in a fair, safe and equitable fashion between public and private parties, and Data Trusts, 
+highlighted in the Industrial Strategy, can contribute to this. 
+
+81 G8 Open Data Charter and Technical Annex, Policy Paper, UK Government 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.turing.ac.uk/media/news/tackle-data-science-challenges-alan-turing-institute-intern-summer/
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default
+
+
+
+
+Culture is Digital 39
+
+Case study: Artsadmin-developing an integrated data system
+
+Artsadmin working with Golant Media Ventures and funded by Arts Council 
+England, created an integrated data system that combines information on the artists, 
+audiences, collaborators, clients, customers, and donors – as well as its projects and 
+physical spaces. The purpose of the project was to unlock the value of knowledge 
+held in different parts of the organisation. Specifically the project aimed to:
+
+•  Create an interconnected way of gathering and understanding the many types
+of data that they collect
+
+•  More effectively connect the people we reach to the activity we deliver
+
+•  Build better connections between our networks and facilitate data sharing
+
+A surprising aspect of the project was that the scoping phase brought about 
+significant change in the organisation. Employees reported having a better sense 
+of what being ‘data capable and confident’ means in practice: knowing what you 
+want out of your data, and why you’re capturing it at all. 
+
+Artsadmin’s Customer Relationship Management architecture diagram for their data 
+transformation project ‘KIWI’
+
+Using data effectively
+
+However, cultural organisations currently lack the capability to use their data effectively. 
+Culture Counts report that 80% of cultural organisations surveyed (UK and Australia) are 
+‘data shy’- the lowest classification of data-readiness82 and the Arts Council England 
+and Nesta Digital Culture Survey 2017 reports that only 18% of organisations use 
+audience data to inform the development of new services or products83.
+
+82  “Data culture and organisational practice.” MW2016: Museums and the Web 2016. Published March 20, 
+2016. Consulted February 28, 2018.
+
+83 Arts Council England and Nesta Digital Culture Survey 2017, p.19.
+
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport40
+
+Case studies and consultation responses to this project suggest that the first important 
+step for cultural organisations is to understand the best ways to collect data including 
+what data is needed and for what purpose, and then learn to use that data to 
+provide value to their organisations. There is even greater potential for the sector if 
+organisations learn, and are willing, to share and integrate that data across the sector. 
+
+Through the Data Protection Bill, Government will ensure that our data protection 
+laws are fit for the digital age so that those collecting data use it in a responsible way 
+giving UK citizens confidence that their personal data is secure. DCMS will work with 
+the cultural sector to communicate the implications of the Data Protection Bill for the 
+data they hold and collect, and to ensure access to guidance and training created by the 
+Information Commissioner’s Office (ICO). 
+
+Intellectual Property
+
+The Intellectual Property Office (IPO)’s 2015-2020 strategy states that “Intellectual 
+Property (IP) is being underutilised, leading to lost opportunities” finding that “only 1 
+in 10 [UK firms] has provided any IP training to staff.” The Digital Culture survey tells 
+us that only 24% of organisations feel well-served for skills relating to rights clearance, 
+and only 26% in relation to legal advice around intellectual property rights84. 
+
+In exploiting intellectual property, the wider cultural sector faces the same key 
+challenges as the Creative Industries – lack of knowledge and legal expertise, vulnerable 
+to losing control of their creative content85. Cultural organisations often fail to realise 
+the benefits of their digital assets, missing out on opportunities to extend audience 
+reach and brand awareness via non-commercial distribution or not pursuing commercial 
+exploitation. They may limit access to certain types of content or fail to exploit the 
+revenue generating opportunities of other content. 
+
+The Space86 has recently examined how various cultural organisations are creating 
+digital work and the necessary rights clearance effort involved. Their work indicates that 
+rights clearance for cultural projects is often challenging due to the complex underlying 
+rights involved and the lack of standardised terminology associated with publishing 
+online. There is no method to share best practice in this area and organisations 
+often struggle with resource to be able to identify rights holders and develop rights 
+agreements from scratch. To respond to these challenges, The Space will consult 
+with members from the cultural sector, rights holders, representatives from union 
+bodies that represent professional performers and creative practitioners and the IPO 
+to examine solutions to make rights clearances better understood and utilised by the 
+cultural sector. One proposed step is to create a Code of Practice which would provide 
+a template from which rights clearance procedures in the cultural sector could be more 
+efficiently handled.  
+
+Improving understanding of Intellectual Property
+
+The UK intellectual property system is world-class87 but new technology can offer 
+a challenge to business models and is changing the ways in which IP is being 
+commercially exploited. There is a need to maintain a balance between protection and 
+
+84 Arts Council England and Nesta Digital Culture Survey 2017, p.21.
+85 Independent Review of Creative Industries, 2017, UK Government, p.32.
+86  The Space are an organisation founded and funded by the Arts Council England and the BBC with a focus 
+
+on reaching new audiences digitally. 
+87 The US Chamber International IP Index 2018 ranks the UK as 2nd in the global rankings.
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/528791/Corporate_5_Year_Strategy.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.nesta.org.uk/sites/default/files/digital_culture_2017.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/649980/Independent_Review_of_the_Creative_Industries.pdf
+http://www.theglobalipcenter.com/wp-content/uploads/2018/02/GIPC_IP_Index_2018.pdf
+
+
+
+
+Culture is Digital 41
+
+remuneration of rights on the one hand and digital innovation and audience access on 
+the other hand. The IPO will lead work to develop guidance and training for the cultural 
+sector so that organisations can better understand the relevance of the Intellectual 
+Property framework to their work.
+
+Case study: British Library Business & Intellectual 
+Property Centres working with cultural organisations
+
+The British Library Business & IP Centre network (which covers public libraries in 
+London, Birmingham, Exeter, Hull, Leeds, Liverpool, Manchester, Newcastle, Norwich, 
+Northampton and Sheffield) provided support to hundreds of cultural and creative 
+organisations, including theatre schools, radio broadcasters, events management and 
+talent management agencies as well as animation and photography studios. Here are 
+a couple of examples where these centres have assisted them.
+
+Theatre Workout is an award-winning theatre and events company based in 
+London’s West End. They run workshops for over 8,000 people a year, delivered 
+by highly trained and experienced performers, artists and practitioners.87 In 2017 
+they attended the Business & IP Centre’s Innovating for Growth programme, 
+where they received a bespoke programme of support to grow and develop their 
+business, taking a step back to look at their branding, marketing, strategy and 
+planning and intellectual property needs.
+
+Kalory photography and video studio specialises in creating visual content (photo 
+and video), so that a business can redefine their image and perception for their 
+customers. Franck Jehanne, co-founder of Kalory, said: “The Innovating for Growth 
+team helped us a lot by giving us the confidence to hire our first employee. 
+The programme is also really good at forcing you to step back and analyse your 
+business. You are often so busy that you neglect your strategy or marketing. By 
+raising questions and discussing the business, we changed some crucial elements 
+in our branding and commercial strategies. The group sessions were also extremely 
+useful. We met entrepreneurs with similar issues but in other industries and that’s 
+a great way to make you think outside the box.” 
+
+Policy commitment:
+
+9.  In order to support the cultural sector in its understanding of Intellectual
+Property;
+
+a.  The Intellectual Property Office will work with the British Library’s Business
+& Intellectual Property Centres and other representatives from the cultural
+sector to develop guidance and training for the cultural sector so that cultural
+organisations can better understand the Intellectual Property framework and
+its relevance to them.
+
+b.  The Space will lead work with cultural organisations, cultural rights holders
+and seek guidance from the Intellectual Property Office to develop a Cultural
+Digital Rights Code of Practice.
+
+https://www.theatreworkout.com/
+http://www.kalory.co.uk/
+
+
+
+
+Department for Digital, Culture, Media & Sport42
+
+Newcastle Library Intellectual Property Centre. © Newcastle Library
+
+
+
+
+Culture is Digital 43
+
+3. Future Strategy: Unleashing the creative
+potential of technology
+
+Introduction
+
+The UK is a global leader in culture and creativity and, as we leave the European Union, 
+we are committed to maintaining our position on the world stage, to driving creative 
+innovation, and to producing talent that is recognised the world over. 
+
+Despite containing less than 1% of the world’s population, we have world leading 
+creative industry sectors contributing £91.8 billion in GVA in 2016 with Creative 
+Industries growing at twice the rate of the rest of the UK economy. Cultural 
+organisations and practitioners contributed just under a third (£26.8 billion) of the GVA 
+generated by the Creative Industries.88
+
+The GfK Anholt Nation Brands Index consistently ranks the UK as one of the world’s 
+top five destinations for culture.89 The strength of the UK’s culture offering sees it 
+project considerable soft power, ranking second on the cultural element, on the back of 
+the global reach and influence of state institutions such as the British Council and BBC 
+World Service.90 
+
+We export £18 billion in cultural exports which are growing quickly – 16% annual 
+growth for service exports and 27% for good exports between 2014-15 (the latest year 
+for which statistics are available).91 The GREAT Britain campaign has been successful 
+in promoting the best of the country to international audiences, and the cultural sector 
+is a significant part of this offering. The British Council reaches more than 500 million 
+people online each year through its extensive overseas network. This reach helped 31 
+million people engage with its China showcase of the best of UK arts organisation 
+content through Dandu – one of China’s main online platforms.
+
+World-class culture
+
+We have world-class museums with three of our national museums in the top ten most 
+visited museums in the world92 with each close to 6 million visitors in 2016. Many 
+visitors including international visitors, flock to our historic buildings (2.7 million visited 
+the Tower of London), monuments (1.4 million visited Stonehenge) and sites (1.1 
+million visited the Roman Baths in Bath).93 
+
+88  To note, Northern Ireland’s next economic estimates for the creative industries will be published in June 
+2018.
+
+89 Leveraging our culture – Brazil, China, Italy p.4.
+90 Softpower30 – the strength of the UK’s internationally recognised brands is another factor.
+91  DCMS Sectors Economics Estimates – The cultural export figure quoted combines goods and services 
+
+which use different methods of collection.
+92  British Museum no.3, National Gallery no. 4, Tate Modern no.6. The Art Newspaper – Visitor Numbers 
+
+2016, The Art Newspaper
+93 The Annual Survey of Visits to Visitor Attractions 2016 by Visit Britain and Visit England
+
+http://www.greatbritaincampaign.com/#!/about
+https://www.communities-ni.gov.uk/topics/culture-and-heritage-statistics
+https://www.visitbritain.org/sites/default/files/vb-corporate/Documents-Library/documents/foresight_145_-_leveraging_our_culture_brazil_china_italy.pdf
+https://softpower30.com/country/united-kingdom/
+https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2017-employment-and-trade
+https://www.theartnewspaper.com/news/visitor-figures-2016-christo-helps-12-million-people-to-walk-on-water
+https://www.visitbritain.org/annual-survey-visits-visitor-attractions-latest-results
+
+
+
+
+Department for Digital, Culture, Media & Sport44
+
+AltCity CDMX,British Council 2016 Photographer: Sandra Ciampone
+
+London’s theatres generated record revenues in 2016 with audiences of 14.3 million94. 
+In London, 24% of international tourists visited a theatre whilst the same figure for 
+the rest of the country was 18%. Meanwhile, UK gig and festival attendance reached 
+31 million in 2016 with 820,000 people coming to the UK specifically to watch live 
+music.95 There are more than 200 million visits to the approximate 3,000 public libraries 
+in England each year with the Library of Birmingham the most popular with over 1.6 
+million visitors in 2016/17.96 The Associated Board of the Royal Schools of Music 
+(ABRSM) is the world leading provider of music exams, providing assessments for over 
+600,000 candidates in 93 countries every year using digital platforms to communicate 
+with teachers, examiners and learners around the world. In the 2016/17 financial 
+year they welcomed over 1.5 million users to the ABRSM website and attracted over 
+150,000 subscribers across eight social media platforms.
+
+World-leading digital economy
+
+We also have a world leading digital economy; the UK is 5th in the global innovation 
+index and an ‘innovation leader’ on the 2017 Euro Innovation Scoreboard. The 
+digital sector contributed £116.5 billion in GVA in 2016, with £32.1 billion of service 
+sector exports and £14.8 billion of goods sector exports. The digital sector is growing 
+faster than the average for the UK economy with digital sector GVA growing by 5.8% 
+between 2015-16 compared to 3.5% for the whole of the UK.97
+
+The Government is delivering superfast broadband and local full fibre networks 
+to the nation. This includes supporting investment to provide superfast broadband 
+coverage to as many premises as possible beyond the 95% level achieved in December 
+2017; introducing a Universal Service Obligation so that by 2020 everyone across the 
+
+94  Society of London Theatre finds revenue of £650 million in 2016 – Society of London Box Office receipts 
+
+
+2016
+
+
+95 UK Music
+96 CIPFA
+97 DCMS sectors economic estimates 2016 for GVA
+
+https://www.gov.uk/guidance/broadband-delivery-uk
+https://www.rvo.nl/sites/default/files/2017/06/European_Innovation_Scoreboard_2017.pdf
+http://solt.co.uk/about-london-theatre/press-office/society-of-london-theatre-reports-box-office-figures-for-2016/#
+http://solt.co.uk/about-london-theatre/press-office/society-of-london-theatre-reports-box-office-figures-for-2016/#
+https://www.ukmusic.org/assets/general/WYWH_2017_-_Methodology.pdf
+http://www.cipfa.org/about-cipfa/press-office/archived-press-releases/2017-press-releases/spending-on-public-libraries-falls-by-%C2%A366m-in-a-year?crdm=0
+https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2016-gva
+
+
+
+
+Culture is Digital 45
+
+UK will have a clear, enforceable right to request high speed broadband; and supporting 
+investment to stimulate private investment in full fibre connections by 2021.
+
+The UK is a tech savvy market, quick to take up and innovate with new technology; our 
+capital’s tech firms raised a record £2.45 billion in 2017 and evidence shows that the 
+UK and London particularly remain the most attractive destination in Europe for tech 
+investors, gaining more venture capital investment in 2017 than Germany, France, Spain 
+and Ireland combined.98 As the UK prepares to leave the EU, this combined strength in 
+the digital and cultural sectors is key to the UK’s future economic prospects.
+
+Opportunities
+
+For creators and for cultural organisations, this era of digital activity, investment and 
+ambition presents opportunities for the UK to lead the way in creating new art and 
+cultural experiences with technology. Creators maximising their digital capabilities 
+will enhance any export opportunities. The speed of current technological change is 
+unprecedented and whole industries are being disrupted by digital innovation, including 
+the cultural sector. Immersive and augmented reality are changing the way in which 
+we are able to experience the world around us, offering a particular opportunity as 
+international demand is increasing.
+
+A. Digital Infrastructure for Culture
+
+The Digital Strategy set out the Government’s aspirations to build world-class 
+digital infrastructure, to ensure ‘‘that everyone, wherever they live and however they 
+connect, can make full use of digital services and benefit from participation in the digital 
+economy”99 with commitments to become a world leader in 5G and to increase 
+coverage of full-fibre. Our consultation and research have shown that the cultural 
+sector currently lacks the infrastructure and the operating and funding models needed 
+to thrive in a digital landscape. 
+
+Digitising Collections
+
+The Culture White Paper set out the ambition to make the UK one of the world’s 
+leading countries for digitised public collections and use of technology to enhance the 
+online experience of users. The paper aspired for users “to enjoy a seamless experience 
+online, and have the chance to access particular collections in depth as well as search 
+across all collections100”.
+
+The ambition is with good reason. The richness and variety of our national museum 
+collections are the envy of the world, captivating to audiences and scholars in every 
+corner of the globe. Creating digitised versions of collection items is already the core 
+work of many museums; 61% of our cultural institutions have digitised up to half of 
+their collection. Half of those with a digitised collection have made some of it available 
+online, whether these are being added to collections databases, for the creation of 
+online exhibitions, or for sharing on social media.101 As noted in the Mendoza review of 
+Museums, dynamic collections curation and management are what our museums exist 
+to do; “to protect and take care of the collections they hold, and to make them accessible 
+to the public, not just physically, but meaningfully as well.” Whether you visit the 
+Mary Rose Museum in Portsmouth or the British Museum in London, the high quality 
+
+98 PitchBook December 2017 and London and Partners
+99 The Digital Strategy, UK Government, March 2017. 
+100 The Culture White Paper, 2016, UK Government, p.39. 
+101 The Mendoza Review: an independent review of museums in England, UK Government 2017, p.64. 
+
+https://www.gov.uk/government/publications/uk-digital-strategy/uk-digital-strategy
+http://www.londonandpartners.com/media-centre/press-releases/2017/20180105-2017-record-year-for-london-and-uk-tech-investment
+https://www.gov.uk/government/publications/uk-digital-strategy/uk-digital-strategy
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport46
+
+and vast variety of our collections have the power to bring people together; support 
+learning, assist scholarly research; provide educational resources; and promote better 
+health and wellbeing102. 
+
+The Cultural Protection Fund (CPF) managed by the British Council, in partnership 
+with DCMS, supports efforts to keep cultural heritage sites and objects safe, as well 
+as the recording, conservation and restoration of cultural heritage. This has included 
+awards to digitally document heritage sites at risk in Syria, digitise a range of written 
+and photographic material held in archives in Sudan and an interactive 3D model of 
+Ksar Said Palace in Tunisia.103
+
+3D mapping of the Ksar Said palace © The Virtual Experience Company
+
+Successes
+
+Some digitised collections are attracting huge numbers of online visits from audiences, 
+both domestic and international. The Natural History Museum’s Digitised Specimens 
+and Records portal was visited almost 75,000 times in 2017, with 713 million records 
+downloaded between 1 January 2017 and 31 December 2017. They also report 
+significant international reach with 54% of views coming from outside of the UK104. The 
+British Library has now grown its digital library system to host over 120,000 e-books 
+and over 2 million e-journal articles105. 
+
+The Welsh Government awarded a grant to The National Library of Wales (NLW) to 
+develop a National Digital Library Service in partnership with other Welsh libraries, 
+launched in March 2016. The partnership provides people across Wales with free access 
+to a wide range of online content including family history resources, newspapers and 
+general reference material. The partnership also provides free online remote access to 
+e-books, e-magazines and e-audio books.
+
+There are also sites pulling together or aggregating content from across collections. 
+Google Arts and Culture partners with cultural institutions using free tools and 
+technology to draw together millions of artworks, historical sites and stories onto one 
+
+102 The Mendoza Review: an independent review of museums in England, UK Government 2017, p.5. 
+103 For more details see British Council website. 
+104 Details provided on online stakeholder discussion platform
+105 Details provided on online stakeholder discussion platform
+
+https://www.britishcouncil.org/arts/culture-development/cultural-protection-fund
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+https://www.britishcouncil.org/arts/culture-development/cultural-protection-fund/projects/digitaldocumentation
+http://data.nhm.ac.uk/
+https://cultureisdigital.dialogue-app.com/cultural-infrastructure/the-challenge-of-digital-collection-and-preservation
+
+
+
+
+Culture is Digital 47
+
+site. ArtUK holds over 200,000 artworks from over 3,000 organisations, most of which 
+are not physically accessible to the public and since its launch in February 2016, the 
+site has had more than 2.5 million unique users with over 50% from overseas, again 
+demonstrating the potential for international reach.106
+
+Online curation can unlock access to cultural experiences and audience reach otherwise 
+unimaginable and using social media to showcase digitised material can raise the profile 
+of items, exhibitions and collections. 
+
+3D Sunflowers – National Gallery 
+
+Over three days in Summer 2017 a National Gallery-led initiative saw almost 13 
+million people globally experience #sunflowers live Vincent Van Gogh’s Sunflower 
+paintings through VR and Facebook Lives107. A virtual reality exhibition brought together 
+five of Vincent’s sunflower paintings, sourced from five institutions across the world 
+with a narration by Willem van Gogh, the great-grandson of Theo van Gogh (Vincent’s 
+brother), as its unseen guide. The Manchester Plinth AR project was the first of its 
+kind in the UK, presenting art through augmented reality in public spaces. It brings 
+artefacts out of the gallery and into the city meaning they’re accessible for everybody 
+to experience and enjoy.
+
+Case Study: The People’s Collection Wales- a digital 
+heritage programme
+
+People’s Collection Wales is a bilingual, digital platform complemented by a 
+wider programme of activities, allowing users to discover, share and contribute 
+to an online collection of Welsh heritage ensuring the rich history of Wales is 
+celebrated and preserved. The programme is funded by the Welsh Government 
+and delivered by a federated partnership of three national cultural and heritage 
+bodies. Organisations, community groups and individuals are encouraged to upload 
+photographs, recordings and documents that hold stories about Wales. To date 
+over 100,000 items have been added to the collection.
+
+The programme also offers a number of training services and support for groups 
+and individuals interested in digitising Welsh Heritage and its website has a section 
+specifically tailored to provide resources for teachers. 
+
+106 Details provided on online stakeholder discussion platform
+107 7 million people visited the VR exhibition, and 6 million watched the Facebook Lives 
+
+https://nationalgallery.atavist.com/vangoghsunflowers
+https://artuk.org/
+https://cityverve.org.uk/new-platform-art-manchester-plinth-plays-host-world-tomorrow/
+https://cultureisdigital.dialogue-app.com/cultural-infrastructure/reflections-from-art-uk-on-building-and-operating-a-digital-infrastructure-for-public-art-collections-1
+
+
+
+
+Department for Digital, Culture, Media & Sport48
+
+Demonstration of ‘The People’s Collection Wales’ website © Crown Copyright: Royal 
+Commission on the Ancient and Historical Monuments of Wales
+
+Case Study: Archiving the Hull City of Culture 2017
+
+Hull was UK City of Culture 2017, and Hull University Archives have worked to 
+capture this incredible year while it was happening. No UK city had undertaken 
+the creation of a born-digital archive of this scale before; to build a truly complete 
+picture, the team had to be involved right from the start – after the event would 
+have been too late.
+
+The Archive will be a centrally collated record of activity from before, during and 
+after 2017, showing the whole life cycle of the City of Culture. An estimated 
+100,000 digital records – including photographs, films, minutes, sound recordings, 
+scripts, planning documents and contracts – will document the development 
+process, the performances, and the experience of people of Hull who engaged with 
+events. The majority of records are from The Culture Company, (who were formed 
+to deliver the year’s activities) alongside artist and participant depositors including 
+the University of Hull and the BBC.
+
+The City of Culture Archive will be crucial for its evidential and research value and 
+will be part of the collective memory of the city. Archives underpin other parts of 
+the cultural sector; as part of the legacy programme the archive will be used by 
+artists and students to inspire new creative work. It will benefit future projects too, 
+as the team are creating a toolkit that documents best practice and addresses the 
+digital challenges surrounding the archiving of large cultural events as they happen.
+
+
+
+
+Culture is Digital 49
+
+We Are Hull by Zsolt Balogh, Hull City of Culture 
+
+In creating the digital record of our cultural assets organisations, some of the best 
+examples consider how the digital asset will fit with the physical one and how this can 
+help to increase the audience’s understanding and engagement. A good demonstration 
+of this is the Smartify108 app, developed by a UK-based company, which allows users to 
+scan and identify artworks providing information about them and allowing users to build 
+their own personal gallery. Not only has the company already partnered with a number 
+of UK-based galleries including The National Gallery, The Royal Academy of Arts and the 
+Middlesbrough Institute of Modern Art, but it is spreading its reach internationally being 
+used in locations in the Netherlands, France, America and Russia to name a few. 
+
+Smartify user scanning Jean-Honoré Fragonard’s Les hazards heureux de 
+l’escarpolette (The Swing), c. 1767-1768 at The Wallace Collection, London, 2017. 
+© Smartify
+
+108  Smartify are a graduate of the ‘Innovation for Growth’ programme run by the British Library’s Business 
+and Intellectual Property Centres. 
+
+
+
+
+Department for Digital, Culture, Media & Sport50
+
+Challenges
+
+Despite the audience and scholarly appeal of some digitised collections, our 
+consultation highlighted difficulties. Projects can be expensive and require specialist 
+equipment, expertise, time and resource and are delivered with varying degrees of 
+success. Public funding to digitise collections has historically been largely responsive 
+to calls from individual organisations with little cross sector strategy and no alignment 
+to ensure that digitised cultural content across projects and collections can be easily 
+connected. Digitised collections are often difficult to discover when searching online 
+due to poor quality metadata, with search engines not revealing links to individual 
+collection items on the institutions’ websites, and audiences instead being directed to 
+poor quality images with little or no detailed curation.
+
+Differences in data standards and openness mean that it is difficult to curate across 
+collections and create new online exhibitions or content for audiences and limiting 
+the educational value of the digitised asset109. Unless images are tagged in a certain 
+way, content aggregators will not be able to gather the image when searched. This has 
+implications for modern audiences who expect digital content to be easy to navigate 
+and to be open for them to enjoy, contribute, participate and share. 
+
+A strategic approach to digitisation
+
+Existing public funding spent on digitising collections,110 could be more strategic 
+and co-ordinated. This would help improve the impact of projects with a focus on 
+preservation, curation and public access at the forefront of their design. 
+
+The National Archives have a well-developed digital strategy that embeds digital across 
+the whole organisation and also supports a wider ‘archive ecology’. Building on their 
+strong leadership and experience, the National Archives will convene a taskforce to 
+address the barriers to the strategic digitisation of collections. The group will have a 
+specific remit to devise the common standards to make our assets more interoperable 
+and discoverable. Within this work they will a consider a content strategy, addressing 
+sustainability, and the possible economic models available to fund digitisation. They 
+will consider how to develop standards which will enable collections to be used in 
+immersive tech projects. 
+
+Box 1- Case study: The National Archives – developing an 
+archive ecology
+
+As the leader for the whole of the archives sector in England, The National 
+Archives works within an “archive ecology” made up of collections spanning all 
+sizes, eras and format, including many digital archives. The National Archives has 
+a strategy that embeds digital across the whole organisation and supports their 
+ambition to be “a digital archive by instinct and design”, and they are supporting 
+the archive ecology in digital development too. 
+
+The National Archives serves as a kind of aggregator of UK collections, and 
+this deep collections knowledge is now available to researchers online all over 
+
+109  This point is underlined in the The Mendoza Review: an independent review of museums in England: “For 
+research, digitisation offers the opportunity to look at metadata in new ways, link collections from disparate 
+sources, and conduct new forms of analysis”, UK Government, p.64. 
+
+110  The report Digitisation in the UK: The case for a UK framework found in 2005, spend on digitisation of 
+collections in the UK had already hit £130 million, p.2, JISC. 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/673935/The_Mendoza_Review_an_independent_review_of_museums_in_England.pdf
+http://www.rluk.ac.uk/wp-content/uploads/2014/02/Digitisation_in_the_UK.pdf
+
+
+
+
+Culture is Digital 51
+
+the world via its Discovery system. Archives can now add their own collections 
+metadata directly into it, affording The National Archives an opportunity to focus 
+on improving data quality and building data and digital literacy across the archival 
+sector. This is also a content ecology in which open data sits easily alongside 
+commercial partnerships and licensing and where experimenting and researching 
+new ways of packaging and exploring content are possible.
+
+This vision of content aggregation is analogous to the way other sectors have 
+recognised the value of taking a collaborative, strategic approach to digital 
+infrastructure – often referred to as a digital ecosystem. The travel industry, 
+through sites like Skyscanner, allows users to search multiple competitor databases 
+to provide precise information based on when and where we wish to travel. 
+NewsNow aggregates news feeds and allows you to filter and set preferences 
+based on your hot topics, from football teams to lifestyles. Amazon now offers a 
+doorway to thousands of tiny online retailers, offering them a platform to sell to a 
+global audience. The cultural sector can learn from these kinds of user experiences 
+to break down barriers between collections of digital cultural content. 
+
+Policy commitment:
+
+10.  The National Archives will work with culture sector representatives to develop a
+new strategic approach to the digitisation and presentation of cultural objects,
+for example, looking at the common standards needed to make our nation’s
+great cultural assets more interoperable, discoverable and sustainable.
+
+Live to Digital
+
+The digital transmission of live performances to locations a long way from the theatre 
+or ‘Live to Digital111’ is a relatively recent development but has expanded in volume 
+and range over the last decade. Research suggests that audiences see Live to Digital as 
+a distinct experience with little evidence of any cannibalisation of live audiences, and 
+something that can act as a ‘halo effect’ increasing interest in live events.112 It is also 
+an expanding market, with MTM reporting in 2015 that 90% of arts organisations have 
+produced some form of live-to-digital production.113 
+
+The UK is host to significant activity in the Live to Digital arena; driving both audience 
+engagement and commercial revenue streams. Live to Digital can reach into ‘closed 
+communities’ including community centres and care homes, and through live streaming 
+platforms reach harder to reach audiences
+
+Event Cinema – the live broadcasting of cultural events (for example ballet and 
+comedy) in cinema – currently accounts for between 1% – 3% of global box office 
+receipts and has seen huge commercial successes with Billy Elliot Live and a 50th 
+anniversary episode of Doctor Who which broke records.114 The Space undertook 28 
+performance capture commissions across 2016 and 2017. This included London 1666, 
+a 120 meter long, 10 meter high replica of the City of London set ablaze on the River 
+Thames, which reached an online audience of 3.8 million. 
+
+111  We define live-to-digital arts as a live performance, event or experience, captured and distributed 
+digitally, through television, cinema, or online. The content is recorded live but does not need to be 
+distributed live 
+
+112  AEA Consulting Report From-Live to Digital, p.12 finds 66% of audiences and 77% of creators see live-
+to-digital theatre shows as a distinct experience. Consistent with this, Nesta (2014) uses  data from box 
+offices to show that NT Live broadcasts had increased audiences for regional venues .
+
+113 MTM – Exploring the market for live-to-digital arts
+114 Event Cinema Association
+
+https://www.visitlondon.com/greatfire350/watchitburn
+http://www.artscouncil.org.uk/sites/default/files/download-file/From_Live_to_Digital_OCT2016.pdf
+https://www.nesta.org.uk/sites/default/files/1404_estimating_the_impact_of_live_simulcast_on_theatre_attendance.pdf
+https://www.riversidestudios.co.uk/Exploring%20the%20market%20for%20Live%20to%20Digital%20Arts%20-%20full%20report.pdf
+https://www.eventcinemaassociation.org/event-cinema.html
+
+
+
+
+Department for Digital, Culture, Media & Sport52
+
+London 1666, David Best, London’s Burning, a festival of arts and ideas for Great Fire 
+350. Produced by Artichoke. Photo by Matthew Andrews
+
+The British Library, National Library of Scotland and the National Library of Wales have 
+partnered with 22 major libraries across the UK to form a ‘Living Knowledge Network’ 
+which amongst other activities, live-screens world class talks and debates held within an 
+individual library across its network.115 For example, Michael Palin in Conversation with 
+Joan Bakewell was streamed in 6 libraries and watched by over 170 people, whilst Women, 
+Witches and Witch Trials was screened in 11 libraries and attracted over 240 attendees. 
+
+Riverside Studios is currently in the final year of a redevelopment to create a 90,000 
+sq ft space, with the aspiration to turn itself into a national centre of excellence and 
+innovation in the Live-to-Digital arts arena. At the heart of Riverside’s vision is a 
+partnership-led model, that allows arts organisations, universities, community groups 
+and technology companies to explore new ways of making and sharing content.
+
+Challenges, however, remain. Significantly, the cost of making online content of sufficient 
+quality to satisfy audience expectations remains prohibitive to many, despite the cost of 
+equipment falling significantly, a point that was made in our stakeholder consultations. 
+
+To help develop the sector further, Arts Council England will bring together a group 
+of organisations working on live to digital projects. This will ensure that those 
+working in this area become more aware of each other’s activities and help encourage 
+collaborations to develop. The group will also help develop a shared understanding of 
+what is required for Live to Digital to flourish.
+
+B. Innovation
+
+The UK’s Industrial Strategy set out a clear ambition to be the world’s most 
+innovative economy, building on the UK’s great historic strengths in developing and 
+deploying new ideas. It includes commitments to raise total R&D investment to 2.4% 
+by 2027, increasing the rate of R&D tax credit to 12%, and investing £725 million in 
+New Industrial Strategy Fund programmes to capture the value of innovation. 
+
+115  The Living Knowledge Network is being run for a two year pilot period between 2016-18 and is funded 
+by the Arts Council England and the British Library.  
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+
+
+
+
+Culture is Digital 53
+
+Creating with new technology allows artists to push the boundaries of what’s possible 
+and create transformative experiences for audiences, for technology to inspire cultural 
+production, and for creative content to test the applications of technology.
+
+Case Studies: Cutting edge innovation and culture
+
+FuturePlay played the Edinburgh Fringe Festival both in 2016 and 2017, and 
+celebrates, explores and showcases cutting-edge creative content and ideas at 
+the intersection of art and technology. The 2017 event featured a Virtual Reality 
+Studio, a gaming and interactive Tech Zone, and an Immersive Art Gallery powered 
+by Google Tilt Brush. The 2017 event attracted 5,000 visitors across 24 days.116
+
+Google Arts and Culture and the Natural History Museum have partnered together 
+to bring the Rhomaleosaurus, a pre-historic sea dragon to life using a 360 degree 
+virtual reality experience, and gives an account of how this animal would have lived.
+
+Home in Manchester staged Paul Auster’s City of Glass featuring a VR 
+experience in the auditorium designed to immerse the audience still further in the 
+noir detective thriller.
+
+Natural History Museum’s virtual reality colossal Rhomaleosaurus
+
+Tech and content development in step
+
+A recent review by the BBC of its R&D activity highlighted the importance of the 
+relationship between media technology and content. This blended approach to content 
+and tech development within the BBC enabled the development of Piero, the sports 
+analysis software invented by the BBC, which enables sports commentators to dissect 
+and describe action by augmenting the live video with graphical overlays. Similarly, the 
+BBC’s recent interactive drama the Inspection Chamber, in which the listener plays 
+the fourth character in a radio play using technology such as Amazon’s Alexa, was a 
+creative and technical response to the opportunities presented by the emerging ability 
+to talk to machines.
+
+116  Future Play was supported by the National Lottery through Creative Scotland, and was produced by 
+Riverside Studios in conjunction with Assembly Festival
+
+http://www.bbc.co.uk/rd/projects/piero
+http://www.bbc.co.uk/mediacentre/latestnews/2017/inspection-chamber
+
+
+
+
+Department for Digital, Culture, Media & Sport54
+
+The UK’s Offer
+
+We have fantastic talent in the UK for creating with technology nurtured by our world 
+beating Higher Education Institutions such as Glasgow School of Art, University of the 
+Arts London, and Goldsmiths University. Our universities provide training in creative 
+tech, with students engaged in highly creative, applied and problem-based learning 
+involving a wide range of technologies.117 
+
+Glasgow School of Simulation and Visualisation
+
+We also have creative spaces which exist to allow creators to learn new digital skills and 
+work with new technology. For example Near Now in Nottingham has been supporting 
+artists to experiment with virtual reality in a Virtual Reality Residences programme. 
+The National Theatre has launched The Immersive Storytelling Studio to create a 
+generation of digital storytellers. Digital Catapult Centres in the North East and Tees 
+Valley, Yorkshire, Northern Ireland, Sussex and London118 are accelerating the adoption 
+of advanced digital technologies by the creative industries and Somerset House 
+Studios provides space for a community of artists working with technology. At the 
+community level, the growing number of Makerspaces in public libraries provides access, 
+skills, equipment and a network of support which helps people turn their creative ideas 
+and inspirations into small enterprises.119
+
+117  In practice this means: graphic design and architecture students learning to code so as to produce 
+designs for brands, buildings and beyond; game design and film students learning to code to develop 
+on screen and immersive narrative experiences; fashion and interaction design students using physical 
+computing to prototype new haptic interactions that respond to the body; fine art and performance 
+students using technology to develop large scale and interactive artworks and performances that explore 
+and expose the techno-social world we now inhabit.
+
+118  Digital Catapult is a technology innovation centre that aims to increase productivity and 
+competitiveness in existing businesses and enable the creation of entirely new digital products and 
+services that add value through new or disruptive business models.
+
+119  For example Hampshire Libraries has partnered with the University of Southampton to create an 
+immersive virtual reality experience in their Makerspace - ‘The Makery’. As well as giving tasters of 
+virtual reality, the kit is also available for digital prototyping, virtual architecture  fly-throughs, and even 
+for creating immersive art.
+
+https://nearnow.org.uk/stories/virtual-reality-residencies
+https://www.nationaltheatre.org.uk/immersive/studio
+https://www.digitalcatapultcentre.org.uk/our-centres/
+https://www.somersethouse.org.uk/somerset-house-studios
+https://www.somersethouse.org.uk/somerset-house-studios
+
+
+
+
+Culture is Digital 55
+
+An early example of one of the first VR sketches local artist Honey Williams (aka THE 
+HONEYEFFECT) made using Tilt Brush by Google. Residences Programme Near Now.
+
+There are a number of developing funding streams for immersive culture projects. 
+CreativeXR, a programme developed by Digital Catapult and Arts Council England, 
+provided seed funding to 20 creative and technical collaborations to develop concepts 
+and prototypes of immersive (virtual and augmented reality) content.120 The BFI’s 
+Film Fund was reformed in Autumn 2017 to remove running length and theatrical 
+requirement restrictions and to embrace interactive and immersive projects. The Arts 
+and Humanities Research Council and the Engineering and Physical Sciences Research 
+Council are funding 32 research projects around the themes of Memory, Place and 
+Performance exploring the future of immersive experiences. The projects will bring 
+creative and technology researchers and businesses together to develop concepts and 
+prototypes suitable for further funding. 
+
+State of R&D in the Cultural Sector
+
+Creative industries, including the cultural sector, invest substantially in R&D. Analysis 
+from the Enterprise Research Centre for Nesta suggests that the creative industries are 
+as likely as manufacturing firms to conduct in-house and external R&D and be more 
+likely than services firms to do so.121
+
+However, the creative industries sector faces particular barriers to R&D including: 
+fragmentation – SMEs and micro-businesses (of which there are many in the cultural 
+and creative sectors) are sometimes less well placed to bid for, and manage, large-
+scale funding awards that could propel growth and build networks of expertise; the 
+ideas rich, IP heavy nature of creative business assets which are not always recognised 
+as collateral; and cultural factors – where creative research and its application has 
+sometimes been seen as separate to hard industrial research, even though it often 
+involves many of the same technologies.
+
+120  The project is joint funded by ACE and Innovate UK, and participants include Aardman, Figment 
+Productions, Pilot Theatre, and the Orchestra of the Age of Enlightenment.
+
+121 CIC Industrial Strategy Response
+
+http://creativexr.co.uk/
+http://www.ahrc.ac.uk/newsevents/news/ahrc-to-fund-32-projects-that-will-lead-the-way-for-future-immersive-experiences/
+http://www.thecreativeindustries.co.uk/media/420381/cic-industrial-strategy-response.pdf
+
+
+
+
+Department for Digital, Culture, Media & Sport56
+
+Additional issues raised during our stakeholder engagement included R&D not being 
+something that cultural organisations are generally able to self finance and investment in 
+cultural projects tending to be awarded to time limited projects leaving little space for the 
+experimentation needed when working with new technologies. Running parallel to this 
+funding challenge is often a fear of risk taking and failure within our cultural organisations, 
+particularly within our larger, long established institutions and organisations. 
+
+Recognising the problem, in 2012-15, Arts Council England, Nesta and the Arts and 
+Humanities Research Council ran a Digital R&D Fund for the Arts, investing £7 
+million to support collaboration between arts organisations, technology providers, 
+and researchers. The fund tested the impacts of a dedicated R&D funding stream for 
+arts and culture and delivered significant positive impact for participating arts and 
+cultural organisations particularly in terms of testing approaches towards audience 
+development. Critically, an evaluation confirmed that the projects would not have 
+taken place without the Fund.
+
+Case Study: Impact of the Digital R&D Fund
+
+Riot 1831 @ Nottingham Castle is an augmented reality exhibition presenting 
+accounts of real people who witnessed or were involved in the attack on 
+Nottingham Castle during 1831. Research during the project found the AR 
+element significantly helped audiences to engage with the events; 79% felt the 
+stories helped them understand the history better and 85% agreed the interactive 
+elements helped them remember the experience. An evaluation found the project 
+made Nottingham City Museums & Galleries less risk averse, and now carry out 
+research on what organisations are doing in their exhibitions to inform their own 
+exhibitions. The project was also the catalyst for the organisation to develop a 
+digital media strategy, and at a practical level led to senior staff using technology 
+much more to present ideas.
+
+The National Holocaust Centre and Museum (NHC) worked with a technology 
+and research partner, to develop the Forever Project which aims to preserve the 
+live experience of interacting with a Holocaust survivor for future generations. The 
+funding supported software research and development that creates the illusion of 
+interacting directly in real time with a holocaust survivor (through a combination 
+of virtual reality and real-time speak recognition technologies). For NHC this 
+represented a first technological project. The project also produced a ‘how to 
+guide’ to help other arts organisations ‘immortialise’ any person containing 
+information about methods, costs and resources.
+
+Remedies
+
+A number of approaches and measures, including through the Industrial Strategy, are 
+addressing the issues restricting innovation in the sector. 
+
+Some cultural organisations are tackling the low tolerance to risk by embracing staged 
+development models, where funding is released in stages so that tech projects can 
+be assessed, and altered, as they develop. Examples include the Space’s ‘amber light’ 
+staged development process.122
+
+122  The Space undertakes an initial scoping phase designed to ensure clarity of the aim, objectives and focus 
+of any project under this approach. This ‘amber light’ process is designed to explore: what is the target 
+audience engagement and distribution plan, technical development and production, underlying rights 
+clearance, budgeting and scheduling, Key Performance Indicators, data evaluation methods, and the 
+longer term sustainability of similar work.
+
+https://www.nesta.org.uk/project/digital-rd-fund-arts
+http://www.artscouncil.org.uk/sites/default/files/download-file/Digital-RD-Fund-for-the-Arts-Evaluation-Exec-Summary.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+
+
+
+
+Culture is Digital 57
+
+The Forever Project, The National Holocaust Centre
+
+Case Study: The Space and  Yorkshire Sculpture Park’s 
+project Sculpture.com
+
+Yorkshire Sculpture Park (YSP) wanted help to enhance the on-site experiences 
+for visitors of the park and grow their online presence with potential visitors. The 
+development process gave YSP the opportunity to work closely with the Space on 
+a detailed scoping process and develop a digital project brief based on how their 
+visitors were already using platforms and technologies in the park (i.e. mobile 
+phones, photography, Instagram and physical object based interaction). 
+
+YSP are now working with a leading interactive studio (Studio Moniker) to develop 
+a 3D web application that helps visitors find their way around the park, whilst 
+interacting and engaging with key artworks. This is helping YSP take great steps 
+towards creating more innovative digital work with audience engagement at the 
+heart of its development. Sculpture.com is now in testing on site, and will have a 
+full roll out for the Easter holidays 2018.
+
+To increase innovation within the sector, Arts Council England and the Heritage Lottery 
+Fund will ensure that digital projects – including immersive cultural content – are 
+fundable through existing funding streams. They will also encourage the sector to use a 
+staged development approach to the development of innovative digital cultural content.
+
+The Government is supporting R&D in the sector by investing £39 million, from the 
+Industrial Strategy Challenge Fund, in the Arts and Humanities Research Council’s 
+Creative Industries Cluster Programme. The Programme’s objectives are to deliver 
+partnerships or clusters between universities and creative businesses across the country, 
+to address a distinct and measurable challenge for each of the clusters. The Programme 
+will leverage additional funding from the university and private sector that will take 
+the total investment to around £80m, also enabling the creation of a National Creative 
+Industries Policy and Evidence Centre.
+
+
+
+
+Department for Digital, Culture, Media & Sport58
+
+Virtually Real, Royal Academy of Arts 
+
+As part of the Industrial Strategy, this Government has also committed up to £33 
+million worth of funding through the Industrial Strategy Challenge Fund’s Audience of 
+the Future programme into pioneering immersive technologies and experiences like 
+virtual reality and augmented reality.123
+
+This investment will establish a programme of industry-led activities including public 
+demonstrators, collaborative R&D, and a new Industry Centre of Excellence, bringing 
+creatives, researchers and technologists together to create new and exciting immersive-
+content. Government encourages cultural organisations to lead the way in engaging 
+with these funding opportunities, using their unique position as the nexus between 
+creativity and technology to produce innovative new content. 
+
+Government, also through the Industrial Strategy, is investing £176 million to support 
+5G development. This money is open to cultural organisations with Watershed in 
+Bristol, a leading film culture and digital media centre in the South West, part of the 5G 
+trial. On the weekend of 17 and 18 March 2018, Watershed, Smart Internet Lab at the 
+University of Bristol and We The Curious will host the Layered Realities Weekend 5G 
+showcase launching the world’s first public 5G testbed, with Bristol audiences invited to 
+experience the potential of 5G at a series of free experimental public events
+
+New experimental spaces
+
+To provide greater opportunities for cultural organisations to experiment, the National 
+Gallery is working with data partners like Nesta to create an Innovation Lab. The lab will 
+support the gallery’s own programmes and help with its long term strategic decision 
+making, as well as providing a valuable resource for the museum sector and wider 
+cultural sector. It will focus on three areas:- Using advanced technology to enhance the 
+visitor experience; developing partnership models between arts, digital and academic 
+institutions in support of London’s creative cluster; and a digital project incubator to 
+help develop the digital capability of institutions in the museum sector.
+
+123  All Industrial Strategy Challenge Fund Wave 2 programmes are subject to a final business case when 
+further details on funding will be made available.
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+https://www.watershed.co.uk/5g
+
+
+
+
+Culture is Digital 59
+
+The Royal Opera House will set up a space for experimentation to develop new skill 
+sets and innovative content on emerging tech platforms. A new department; the 
+Audience Labs – will focus on experimenting with immersive technology to open up 
+new experiences for audiences. With opera and ballet traditionally bringing together all 
+art forms, from music to fashion, to design, creative technologists and beyond the Royal 
+Opera House is well placed to develop collaborations across the cultural and technology 
+sectors. 
+
+The Royal Shakespeare Company, BBC and Arts and Humanities Research Council, who 
+are recognised as sector leaders in creative tech projects, will help mitigate resourcing 
+issues for the sector by sharing technical assets, capacity building and innovation 
+support to help the upskilling of UK cultural organisations of all sizes. 
+
+Immersive Drawing Board, Titanic Belfast Experience 
+
+Policy commitment:
+
+11.  The National Gallery and the Royal Opera House will open up new opportunities 
+for the culture sector to experiment with new technology and cultural content:
+
+ a.  The National Gallery, working with data partners like Nesta, will create an 
+Innovation Lab so that cultural organisations, and in particular museums, 
+are able to make best use of advanced digital technologies in enhancing 
+visitor experience and creating content, and can develop best practice in 
+collaborating with the technology and academic sectors.
+
+ b.  The Royal Opera House will create an Audience Lab to work with diverse 
+talent, developing new skill sets to create innovative content using 
+emerging technologies. The Audience Lab will strive to develop cross-sector 
+collaborations to open up new experiences for audiences.
+
+12.  The Royal Shakespeare Company, the BBC and the Arts and Humanities 
+Research Council will share selected R&D prototypes and technical assets and 
+will offer related capacity building and innovation support to cultural partners 
+of all sizes across the UK.  This commitment is aimed at mitigating resource 
+issues, reducing duplication and encouraging innovation through collaboration.
+
+
+
+
+Department for Digital, Culture, Media & Sport60
+
+C. Collaboration and Partnerships
+
+As digital technology advances, the cultural sector is adapting and evolving to 
+embrace new ways of thinking, working and creating, including partnering with 
+technology companies. Cultural organisations have a strong history of collaboration 
+and successful partnership working: museums and galleries across the country share 
+and loan collections; heritage organisations come together to save properties at risk; 
+co-productions occur in theatres, and archives partner in pursuit of joint research aims. 
+
+The benefits of collaborations are multifaceted, including increased capacity, sharing 
+skills and knowledge, increasing access to collections, reaching new audiences and 
+accessing cutting edge research and new knowledge. 
+
+Case Study: BBC Civilisations – Creating Digital 
+Opportunities
+
+The BBC’s Civilisations Festival in Spring 2018 sees the BBC partnering with 
+museums, galleries and libraries of all sizes from across the UK around the BBC’s 
+series Civilisations which tells the story of human civilisation through art from 
+prehistory to the present. This nine-part series is a re-imagination of Kenneth 
+Clark’s 1960’s landmark series ‘Civilisation’ and explores themes like creation, the 
+human body and colour. 
+
+The BBC is offering organisations access to a suite of exclusive digital tools and a 
+wealth of R&D expertise to help guide them in creating innovative digital content 
+that will complement the programme. The experiences they make will be trialled 
+on BBC Taster, the BBC’s public-facing platform for experiments. Museums are also 
+being asked to contribute content for a new augmented reality (AR) app.
+
+There are increasing opportunities for the cultural and technology sectors to collaborate 
+and experiment. These partnerships are increasingly happening, from large technology 
+companies to tech start-ups. However, we want to see more, especially among mid and 
+micro sized cultural organisations.
+
+Case Study: Cutting edge partnership between culture and 
+technology
+
+The Scottish Ten is a collaboration between Historic Environment Scotland 
+and The Glasgow School of Art’s School of Simulation and Visualisation, using 
+cutting-edge digital technologies to create exceptionally accurate digital models of 
+Scotland’s five World Heritage Sites and five overseas international sites.
+
+The accuracy of the digital models means they can be used to monitor damage, 
+informing conservation and management strategies. The scan data can also be 
+used to create models or animations to enhance public access and understanding, 
+and to digitally reconstruct how monuments would have appeared at different 
+periods in time.
+
+The project positions Scotland as a world leader in documentation and 
+visualisation of the historic environment.
+
+http://www.bbc.co.uk/rd/blog/2017-11-civilisations-festival-culture-uk-arts-tools
+http://www.gsa.ac.uk/research/digital-visualisation/scottish-ten/
+
+
+
+
+Culture is Digital 61
+
+FuturePlay celebrates, explores and showcases cutting-edge creative content and 
+ideas at the intersection of art and technology, Edinburgh Fringe Festival
+
+Barriers
+
+However, our consultation raised a number of barriers to partnerships and collaboration 
+between cultural and technology businesses:
+
+•  A lack of shared language and understanding of each other’s industries;
+
+•  A lack of technical skills and knowledge which could undermine a cultural
+organisation’s standing with the tech sector;
+
+•  An imbalance of funding and skills between culture and tech organisations leading to
+an imbalance of control in the relationship and
+
+•  A lack of understanding of intellectual property and tech business models from the
+cultural organisation side.
+
+However, effective partnerships present an opportunity for both sectors. For cultural 
+organisations, these relationships can offer access to digital talent, space, equipment 
+and resources, funding, peer to peer learning opportunities and exposure to new 
+ways of working. Tech companies benefit from access to creative minds and creative 
+content, and by working on innovative creative projects can explore the limits of their 
+technologies capabilities far more than conventional consumer testing would allow. 
+Through the Digital Culture Network, Arts Council England will provide a framework for 
+cultural and tech organisations to drive partnership working.
+
+
+
+
+Department for Digital, Culture, Media & Sport62
+
+Our Approach
+
+Born out of the Culture White Paper124, the Digital Culture Project was launched in 
+April 2017 to explore how culture and technology can work together to drive audience 
+engagement, unleash the creative potential of technology and boost the capability of 
+cultural organisations. By focusing on the synergies between the culture125 and tech 
+sectors – where the UK has dual competitive advantage – this project aims to further 
+drive our cultural sector’s global status and the engagement and well being of audiences. 
+
+In developing the Digital Culture Project, we have focused on three core themes:
+
+•  Audiences: audience engagement and interaction with culture through digital
+platforms and distribution channels;
+
+•  Skills: the digital skills and capability that cultural organisations need to deliver their
+cultural offering and operations.
+
+•  Content: covering both the digitisation of existing content and collections and the
+creation of ‘born digital’ content where digital technology is used to create new art
+and cultural experiences;
+
+The Digital Culture project team was supported by five industry experts who brought 
+their knowledge and expertise to the project, providing narrative and evidence on 
+specific workstreams. 
+
+Our five secondees
+
+Will Saunders, independent consultant (ex BBC Creative Director) – leading on 
+audience access and participation 
+
+Tonya Nelson, Head of Collections and Museums, UCL – leading on skills, IP and 
+Business models
+
+Jane Finnis, CEO of Culture24 – leading on the digitisation of collections and 
+archives
+
+Lucy Sollitt, Creative Media Relationships Manager, Arts Council England – 
+leading on cultural content and technology 
+
+Prof Simeon Yates, Director of Centre for Digital Humanities and Social Science, 
+University of Liverpool, leading on evidence and research
+
+124  The Culture White Paper announced a review of culture and digital with the aim of ‘making the UK one 
+of the world’s leading countries for digitised collections and using technology to enhance the online 
+experience of users’
+
+125  For the purposes of this project, we have defined cultural organisations as those from the performing 
+arts, visual arts, heritage, museums, archives, libraries, film and making connections with the wider 
+creative industries.  
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510798/DCMS_The_Culture_White_Paper__3_.pdf
+
+
+
+
+Culture is Digital 63
+
+The project team carried out extensive stakeholder consultation, including discussions 
+with more than 150 organisations from across the cultural sector, from major national 
+institutions to local arts charities, as well as large digital companies and tech start 
+ups. Engagement was through bilateral discussions, ministerial roundtables, a horizon 
+scanning event and an online consultation platform where over 300 stakeholders gave 
+us their views, providing detailed evidence and case studies to inform our thinking.
+
+Thanks go to all those individuals and organisations who contributed to this project, 
+sharing both their time and knowledge. The valuable insights provided have helped to 
+shape the narrative and policy commitments in this document. 
+
+
+
+
+Department for Digital, 
+Culture, Media & Sport
+4th Floor, 100 Parliament Street 
+London SW1A 2BQ
+www.gov.uk/dcms
+
+February 2018
+
+
+
+

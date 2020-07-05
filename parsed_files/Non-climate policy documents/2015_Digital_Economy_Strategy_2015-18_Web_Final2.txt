@@ -1,0 +1,921 @@
+
+
+
+
+
+Digital 
+economy  
+
+strategy
+
+2015-2018
+
+
+02
+
+Executive 
+summary
+
+The internet in 1984 consisted of 1,000 computers hardwired together. Sir Tim Berners-Lee 
+first coined www five years later, and a new industrial revolution began to take hold. By 
+2020, 30 billion devices will be wirelessly connected, supporting a global digital services 
+market worth as much as the entire UK economy. And we are only at the beginning.
+
+This is also a human revolution. Around 80% of smartphone users 
+check their phone within 15 minutes of waking. For 80% of them, 
+it’s the very first thing that they do. And they do it 150 times a day.
+
+However, the internet, mobile connectivity and computing 
+capabilities are developing more quickly than businesses can 
+adapt. Roughly 90% of the data in the world was created in the 
+last two years: the digital world is perennially new.
+
+Being at the forefront of this wave of digital innovation is essential 
+for business and key to the UK’s competitiveness. 
+
+Our digital economy programme will commit £15m a year to 
+support innovative business projects and a further £15m a year 
+as core funding to support the Digital Catapult centre, the Open 
+Data Institute and Tech City UK, each of which has a role in 
+delivering the objectives of our strategy.
+
+“Around 80% of 
+smartphone users  
+
+check their phone within 
+15 minutes of waking.”
+
+
+
+
+03Digital economy strategy | 2015-2018
+
+Our Strategy
+This is a strategy to help UK businesses to innovate by using 
+digital technology. 
+
+Innovate UK will work with companies to understand how this 
+technology can help them to innovate to serve current and future 
+customers better, and how they can develop and build their 
+confidence in new digitally-enabled ways of doing business.
+
+We have supported, facilitated and co-funded innovation in the 
+digital economy since 2007, and with a specific digital programme 
+since 2009.
+
+We have five objectives:
+
+Encouraging digital innovators
+We will help digital innovators in early-stage companies to 
+articulate and develop their ideas, establish their businesses and 
+make connections to potential partners and lead customers 
+in industry and government. We will also help innovators in 
+established companies across the economy to adopt digital 
+solutions, and to learn from other sectors.
+
+Focus on the user
+We will champion digital innovation approaches that centre on 
+users’ needs, to ensure that solutions are well fitted to the markets 
+they address. These needs centre on trust, access and convenience 
+of use, so we will help businesses to inject this thinking throughout 
+their design processes.
+
+Equipping the digital innovator 
+We will equip individual innovators with technical and business 
+expertise and resources, and help them to develop new capability 
+if necessary. Of particular importance are the technical toolkits to 
+manage transactions and move data safely and smoothly, and to 
+link the physical and virtual worlds.
+
+Growing infrastructure, platforms and 
+ecosystems 
+We will work across industries to develop and consolidate 
+structural foundations for the digital economy, to encourage 
+investment and guide innovators as they enter the market. We will 
+support interoperable infrastructure and software platforms, build 
+digital ecosystems and help them to scale. 
+
+Ensuring sustainability
+We must ensure that innovations in technology are used well and 
+can succeed sustainably. We need to understand social impact 
+and the commercial, legal and regulatory context of innovation. 
+This requires far more than innovation support, so we will partner 
+with other organisations to link technical capabilities with skills, 
+trade, infrastructure and investment, all within the context of the 
+government’s Information Economy Strategy[1].
+
+Fibre to  
+the home
+
+Autonomous cars
+
+Mobile 
+banking
+
+Data.gov.uk
+
+Smart meters
+
+e-book
+
+News paywalls
+
+Last.fm, Skype, 
+Facebook, 
+Youtube, Twitter, 
+Spotify, iPlayer
+
+dotcom 
+bubble
+
+THIS STRATEGY
+
+Camera 
+phone
+
+Quantified self
+
+Cloud 
+computing
+
+MOOCs
+
+3G mobile 
+
+
+data
+
+
+4G mobile data
+
+Android 
+phones, 
+iPhone,  
+Kindle
+
+Android, iPad 
+tablets
+
+
+Y2K
+
+
+20001990 2010 2020
+
+Sonic the 
+Hedgehog
+
+Intel  
+Pentium
+
+https://
+
+Amazon, Ebay, 
+Google, mp3.
+com, PayPal, 
+salesforce.com
+
+http://www.
+
+WYSIWYG
+
+‘Digital 
+economy’
+
+Deep Blue
+
+GSM mobile 
+voice
+
+Browsers, 
+
+
+ISPs GPS
+
+
+PDAs, Smart 
+phones
+
+
+5G
+
+100mbs in 
+50%of EU
+
+30bn devices: 
+$2tn IoT 
+services
+
+UK £69bn 
+e-commerce 
+(40% export)
+
+
+04
+
+Why is  
+digital economy  
+a priority for us?
+
+The internet, computing and mobile communications have a transformative effect on 
+how all businesses succeed. The impact of digital platforms, products and services will 
+go far beyond the information and communications technology (ICT) sector.
+
+By innovating in the UK, and establishing new ways to use this 
+technology in all business sectors, we have the opportunity to 
+position UK companies to grow and to succeed on a global stage. 
+
+We can already see the physical world being overlaid with 
+intelligence – with machines sharing information about their 
+status and surroundings, and automatically adjusting to improve 
+our human experience and services. We can see an explosion of 
+data: about our surroundings, services and products on offer; 
+about the knowledge of others; and about ourselves. We can see 
+
+new capabilities to connect and exploit this data to derive new 
+knowledge and to make better decisions. We are also experiencing 
+a growing clamour for our attention, as information, social 
+contacts, media, advertising and services press in on our privacy 
+and our personal time.
+
+The change is happening so quickly that we cannot see more than 
+a few years into the future. We can anticipate, however, that most 
+of us will soon be connected to the internet everywhere we go, all 
+of the time. 
+
+“We will soon be 
+connected to the 
+
+internet everywhere  
+we go, all of the time.”
+
+
+
+
+05Digital Economy Strategy | 2015-2018
+
+The UK advantage 
+Software, IT and telecoms services together generated 4.2% of UK 
+gross value added (£59bn) in 2011 and provided 885,000 jobs. We 
+have 107,000 software businesses, and are the world’s number 
+two exporter of telecoms services (£5.4bn) and number three in 
+computer services (£7.1bn) and information services (£2bn)[1]. 
+
+The UK has world-class strengths in communications, especially 
+wireless technologies; software development, computing and data 
+analysis; cyber security; and user experience and service design.
+
+The world imports the UK’s expertise – services dominate our 
+trade balance – and the world imports our culture. We are 
+number two in the global export trade in film, television, music, 
+books, news and education. Our total creative industries exports 
+(£17.3bn) are the highest per head in the world. And even 
+though 7.8m UK adults have never used the internet (half of 
+them for reasons of disability), the UK population is the world’s 
+most advanced adopter of online retail and the digital economy. 
+Together, these capabilities give the UK an early lead in the digital 
+economy. This is an opportunity for us to take a commanding 
+position in shaping the 21st century.
+
+
+06
+
+What are the  
+challenges for the  
+digital economy?
+
+New digital businesses with great ideas and products are appearing all the time. But 
+ideas are not enough. Small businesses need concentrated support if they are to scale, 
+and we need a long-term strategy and unprecedented cross-industry collaboration to 
+establish new supply chains and business methods. 
+
+Establishing digital businesses 
+Low set-up costs and continual technical advances drive a very 
+short product cycle and a vibrant culture of start-up digital 
+businesses. But there are challenges with commercialising and 
+scaling up businesses from this fragmented base. 
+
+Low working capital
+
+Young companies have low working capital, affecting their 
+resilience and ability to build the relationships they need in order 
+to break into a complex and competitive market. 
+
+Skills shortages
+
+The forces that create a dynamic and fast-moving innovation 
+culture also create skills shortages, particularly as innovation 
+gains pace. 
+
+Hearing new ideas
+
+With more than 200 smart-home demonstrators in the UK and 
+more than 3,000 e-health applications on the European market[2], 
+how can the new ideas of a small, unknown company be heard?
+
+“New digital  
+businesses with  
+
+great ideas and products  
+are appearing all the time.”
+
+
+
+
+07Digital economy strategy | 2015-2018
+
+Intellectual property
+
+The cost and sluggishness of protecting intellectual property 
+contrast with the speed of technology change, leading small 
+companies to look for competitive advantage through agility and 
+know-how instead of through long-term strategies such as patent 
+registrations or diversification.
+
+Tribal boundaries
+
+Successful digital businesses fuse technical expertise with creative 
+flair and an understanding of their customers. However, this 
+fusion means erasing the tribal boundaries between ‘geeks’ and 
+‘luvvies’. These cultural divisions within the digital community can 
+be as hard to overcome as the gaps in understanding between 
+technologists and their clients.
+
+Funding support
+
+Support from government, investors and clients can be less agile 
+than the companies themselves, and is often designed around 
+traditional innovation models and linear product development 
+processes. The drag of this support on companies’ time and 
+resources can even outweigh the value on offer.
+
+Scaling up
+Go big or go home
+
+Digital platforms often succeed based on the size of their user 
+base. This pressure to ‘go big or go home’ tempts businesses 
+to scale up customer numbers rapidly, often before business 
+structures are properly in place. 
+
+Investor confidence
+
+With a short product cycle, rapidly evolving technology and 
+markets, and high churn of companies, the digital industry lacks a 
+coherent strategic roadmap, challenging confidence in long-term 
+investment in digital capability.
+
+Long-term strategy and the 
+need for cooperation 
+The platforms, systems and supply chains that underpin the digital 
+market require a longer term investment and innovation strategy, 
+and a broad-based cross-industry collaborative approach. 
+
+Confidence to adapt
+
+A move to digital methods can be deeply disruptive of existing 
+business methods and commercial models and lead to a 
+reluctance to innovate, even though this can lead to being 
+overtaken by those who are less cautious and are willing to move 
+more quickly. 
+
+Connected networks
+
+It is difficult to change only one part of a connected business 
+network, so commercialising digital technologies increasingly 
+requires collaboration across traditional sector boundaries.
+
+Investing in infrastructure
+
+Digital infrastructure investment requires long-term planning  
+and confidence in future revenues from a very unclear commercial 
+market, so the supply of digital connectivity tends to lag  
+behind demand.
+
+Digital inclusion
+
+This tension in infrastructure investment leads to unequal internet 
+access between affluent, urban populations and areas where the 
+investment case is weaker. This is compounded by social divisions 
+to create an excluded population of the digitally disadvantaged. 
+This is a significant emerging social challenge.
+
+
+08
+
+What are the 
+opportunities for 
+UK business?
+
+Digital technology can offer businesses huge reductions in costs; massive trading 
+volumes with low transaction costs; instant global market reach and contact 
+throughout their customers’ daily routine; and insight into customer needs and a direct 
+and personal relationship with them. 
+
+The rapidity of change makes it difficult to predict what might 
+become available more than a few years ahead. Nevertheless, our 
+dialogue with UK businesses identifies the current trends creating 
+opportunities for those with the appetite to innovate.
+
+Mobility
+We are in contact with the internet continually during our daily lives 
+through our smartphones and computing devices. These are growing 
+in their capabilities, both in data handling and in the functionality 
+with which they link us to our surroundings, and we are using them 
+to manage our lives. This creates opportunities for businesses to 
+connect to us in ways that have never before been possible.
+
+‘Internet of things’ 
+The ‘internet of things’ describes the trend for physical objects 
+to be more and more connected and linked electronically. 
+The physical world will increasingly be managed digitally. We 
+are creating smarter environments and smarter objects that 
+are becoming responsive to their context and our needs. New 
+business models, applications and services are emerging in energy 
+management, e-health delivery, traffic management and more, 
+and the added value of ‘internet of things’ services could reach as 
+much as $2tr a year, with 30 billion objects connected by 2020[3]. 
+This drives demand for components, devices, wireless connectivity, 
+middleware and decision support tools.
+
+“There are  
+opportunities for  
+
+businesses to connect  
+to us in ways that  
+
+have never been possible.”
+
+
+
+
+09Digital economy strategy | 2015-2018
+
+Enterprise services 
+The long-term trend for businesses to outsource and sub-contract 
+non-core activities has been given new impetus by internet 
+business services, now offered through the cloud. As caution 
+around data risks and the ceding of control is overcome, and 
+the benefits of cost and service availability are demonstrated, 
+traditional enterprise structures with office staff are giving way 
+to a distributed workforce and systems of delivery contracts. 
+Business-to-business online service providers are flourishing.
+
+Data 
+We, and every business that serves us, have access to more  
+data than ever before. We are just beginning to explore the 
+possibilities to mine and interlink these data streams to create 
+new knowledge and insight. The opportunities for businesses 
+to benefit are particularly striking. Data is predicted to create 
+more than $300bn of value in the next decade[4], and European 
+countries could witness annual productivity gains of €255bn in 
+the public sector alone. 
+
+Different industry sectors ride each of these waves at different 
+times, depending on the nature of their businesses and the needs 
+of their customers. The creative industries led the way in the 
+emergence of the digital economy, and online commerce has since 
+grown to rival them in importance. Ahead, we see opportunities 
+for more industries: data in health, connectivity in transport, 
+control systems in energy, online public services, and the list goes 
+on. The evolution of the digital economy is in full swing.
+
+Case study
+
+Cheshire Bespoke
+
+Cheshire Bespoke Ltd is developing smoother 
+ways for businesses and customers to carry out 
+transactions online in the clothing and fashion 
+industry, with support from Innovate UK.
+
+The bespoke tailoring and manufacturing business 
+worked with a number of partners on a successful 
+‘Fashioning metadata production tools’ project and 
+is now continuing that collaborative work with a new 
+project ‘Fashioning digital production tools’, after winning 
+funding in our ‘Frictionless commerce – transaction in a 
+digital landscape’ collaborative R&D competition. 
+
+Cheshire Bespoke is working with Tailor Made, a 
+business with extensive knowledge in body scanning 
+and made-to-measure clothing, and they hope 
+to demonstrate the potential of digital tools in 
+producing flexible and diverse clothing.
+
+The work could ease the cost and production 
+constraints holding back clothing manufacturing in 
+the UK and lead to new digital tools that will benefit 
+manufacturers, retailers and consumers.
+
+
+10
+
+Our digital 
+economy strategy
+
+Innovate UK has supported, facilitated and co-funded innovation in the digital 
+economy since 2007 and with a specific digital programme since 2009. We support 
+businesses where there is a clear market for them, and we target barriers and issues 
+that companies find difficult to solve on their own. 
+
+Our 2015-2018 innovation strategy has five objectives.
+
+Encouraging digital innovators
+
+We will aim to understand and support digital innovators 
+whatever the business circumstances that surround them, helping 
+them to develop confidence and connect to their customers.
+
+Focus on the user
+
+We will champion approaches to digital innovation that centre on 
+the needs of users, to ensure that solutions are well fitted to the 
+markets they address.
+
+Equipping the digital innovator
+
+We will equip individual innovators with the technical and business 
+expertise that they need, and drive the development of new 
+capability where it is needed.
+
+Growing infrastructure, platforms and ecosystems
+
+We will work across industries to develop and consolidate the 
+foundations of the digital economy, so that innovators can enter 
+the market with confidence.
+
+Ensuring sustainability
+
+Digital is not just technology. We will work across boundaries to 
+link technical capabilities with an understanding of social impact 
+and the commercial, legal and regulatory context of innovation.
+
+“We will work  
+across industries to  
+
+develop and consolidate  
+the foundations of the  
+
+digital economy, so that  
+innovators can enter the  
+market with confidence.”
+
+
+
+
+11Digital economy strategy | 2015-2018
+
+Encouraging digital innovators
+Innovate UK’s support strategy begins with our customers. 
+
+The potential power of the digital economy should tempt us 
+to revisit every service, every supply chain, every channel to 
+customers. But not all businesses have the knowledge and 
+confidence to innovate with this technology. We see two main 
+constituencies of digital innovators: the technical expert providing 
+technology and digital solutions, and the digital champion driving 
+change through an established business. These groups differ 
+in company scale and in agility of action; this is a major theme 
+underlying our strategy.
+
+We will:
+
+• ensure that business support, encouragement and investment 
+is available to those developing digital ideas
+
+• help early-stage digital businesses to connect to established 
+businesses and potential lead customers in industry and 
+government
+
+• help established companies find the innovators who can help 
+them develop digital solutions, including bringing digital 
+expertise to bear on Innovate UK’s activity in health and care, 
+transport, energy, built environment and creative industries 
+
+• help these digital innovators to drive change, whilst managing 
+risk to existing business flows
+
+• encourage innovators in different sectors to share knowledge, 
+develop common approaches and translate and reuse 
+experience from other industries.
+
+Case study
+
+IC tomorrow: Second Sync
+
+Our IC tomorrow programme combines project 
+funding and business support to help digital 
+innovators in early-stage companies to develop 
+ideas in collaboration with established companies 
+that want their input as they digitise.
+
+Television production company Fremantle Media set 
+an IC tomorrow ‘innovation in TV and film’ challenge 
+for businesses to come up with a second-screen app 
+to work in tandem with some of its live event shows, 
+such as X Factor.
+
+Winning company Second Sync proposed a Twitter 
+analytics dashboard to provide live reports on the 
+sort of chatter taking place on the social media site 
+during a specific show.
+
+Fremantle was so impressed with the prototype that 
+it contracted Second Sync to integrate the analytics 
+platform into the X Factor app. 
+
+Second Sync further developed its platform with 
+the help of Innovate UK funding in 2013 and quickly 
+became the ‘go-to’ provider of analytics for the 
+television industry, including for BBC, ITV and Channel 
+4. The company was recently acquired by Twitter.
+
+Visit http://ictomorrow.innovateuk.org 
+
+https://ictomorrow.innovateuk.org/
+
+
+12
+
+
+Our digital 
+economy strategy 
+continued...
+
+Focus on the user
+Good business strategies begin not with the product, or the 
+commercial model, but with the user.
+
+Understanding users and their needs is of paramount importance 
+to all business – from digital start-ups to existing businesses that 
+are digitising. Once they understand this, they can design elegant 
+solutions that provide an excellent user experience. 
+
+This is more evident when designing direct customer-facing 
+products, but remains true further upstream for those offering 
+services to other businesses. Somewhere, there is always a human.
+
+We will:
+
+• encourage digital businesses to think about their users’ needs 
+and the user experience at every step of product development
+
+• ensure that digital products are trusted, by helping businesses 
+to design their systems for resilience, privacy and consent, 
+identity management and data security
+
+• help businesses to develop products that are available when 
+needed, and that relate and adapt to the place and context 
+within which they are used
+
+• invite businesses to consider inclusive or adaptable designs, so 
+that they can create a compelling experience for the broadest 
+possible market.
+
+“Understanding  
+users and their  
+
+needs is of paramount 
+importance to all businesses.”
+
+
+
+
+13Digital economy strategy | 2015-2018
+
+Equipping the digital innovator 
+Digital innovation requires the deployment of technology into 
+business systems. To create a user experience requires products 
+and services, and to create these requires engineering and 
+business design.
+
+We will:
+
+• support tools and systems that streamline transaction flows; 
+that allow data, content, metadata, value and permissions to be 
+moved seamlessly without manual intervention; that are trusted 
+by businesses; and that protect the value of digital assets
+
+• help businesses to develop technology and services that bring 
+the benefits of the digital world into the user context of the 
+physical world
+
+• work with data and content owners on tools and systems to 
+improve the quality of existing and future data sources and 
+their suitability for secondary use, and with web and mobile 
+service designers on tools for software design that take 
+advantage of these resources
+
+• help businesses to build confidence in the commercial and user 
+value of their products.
+
+Creative industries
+
+Our digital economy strategy will draw inspiration from 
+the creative industries[5] for the foreseeable future, and 
+our strategies in the two areas are very closely linked. 
+In the creative industries, and in adjacent sectors such 
+as education, many business flows now centre on the 
+movement of digitised creative goods and ‘content’. 
+
+The creative industries have led innovation in many 
+aspects of the digital economy and, from a digital 
+innovation point of view, the issues surrounding digital 
+content mirror those surrounding data. The data-using 
+communities have much to learn from those who have 
+gone before.
+
+We will continue to deliver Innovate UK’s creative 
+industries strategy in close liaison with this digital 
+economy strategy.
+
+
+14
+
+Our digital 
+economy strategy 
+continued...
+
+Growing infrastructure,  
+platforms and ecosystems
+The digital economy is connected. Communications networks 
+move data and deliver services; the traffic is handled by software 
+and data management platforms; devices provide the final 
+bridge to the real world and the user. This intricate system is 
+joined together by tools and interfaces that connect businesses 
+into digital supply chains, facilitating data transfer, transactions, 
+payments and hand-offs of metadata and security information. 
+
+Each of these elements has the potential to create a marketplace 
+for users and suppliers. Interoperability, open standards and 
+architectures, and interfacing standards such as APIs (application 
+programming interfaces) and metadata standards all contribute 
+to market defragmentation, as do regulations to promote open 
+competition and free trade.
+
+We will:
+
+• support businesses developing interoperable infrastructure and 
+software platforms and enablers that can be used by multiple 
+client businesses, and encourage industry-wide common 
+practice to broaden the market for their suppliers and their users
+
+• support new entrants to build up digital ecosystems around 
+these platforms, and help them with tools and connections, 
+until the activity reaches a critical mass that enables them to 
+scale. This encompasses interoperable open systems ranging 
+from open data to ‘internet of things’
+
+• help communications and device businesses, and software and 
+data systems businesses, to work together with service and 
+applications businesses to support one another’s investment 
+cases and to design complete user solutions
+
+• work across Europe and worldwide to help establish common 
+practice and fluid trading systems that will support UK digital 
+innovators as they export.
+
+“We will  
+encourage 
+
+ industry-wide common  
+practice to broaden the  
+
+market for suppliers and users”
+
+
+
+
+15Digital economy strategy | 2015-2018
+
+Ensuring sustainability 
+Digital innovation draws on information and communication 
+technologies and component hardware. We support the 
+development of this capability through our enabling technologies 
+strategy[6]. But digitisation is not just about technology. It 
+streamlines and reroutes business processes and workflows, it 
+disrupts the way we manage transactions and how we think about 
+value, and it redesigns human experiences and changes the way 
+we interact with one another. 
+
+In our digital strategy, therefore, we must also draw upon social 
+and economic science, understand the role of law and regulation, 
+draw on design expertise and consider the psychology of the 
+marketplace. This requires multidisciplinary effort and often raises 
+questions for policy makers or exposes unanswered questions for 
+research. Innovate UK, in collaboration with Forum for the Future 
+and Aviva Investors, has developed the Horizons framework 
+(http://horizons.innovateuk.org) to guide thinking in these areas.
+
+We will:
+
+• work closely with the UK research councils to encourage cross-
+disciplinary academic collaboration and help connect it to 
+real-world business needs
+
+• work with government and regulators to ensure that legal, 
+regulatory and policy frameworks are supportive of digital 
+innovation and business growth, and collaborate in delivering 
+those policy initiatives that invite business innovation
+
+• work with skills agencies and universities so that appropriate 
+skills are available to both product designers and individual and 
+commercial product users, to ensure confident deployment 
+and adoption
+
+• use, and encourage others to use, the Horizons framework 
+when developing strategies and plans
+
+• work alongside other support bodies and the third sector, so 
+that our support for commercial progress can be balanced with 
+support for social progress.
+
+Delivering our programme
+
+We will use whatever tools are suitable and available to us to 
+deliver our programme. This includes the funding of R&D, but 
+just as important will be knowledge transfer activities and the 
+targeting and coordination of specific projects and campaigns. 
+We will work in close partnership with the Knowledge Transfer 
+Network and Tech City UK, and will achieve many of our 
+objectives through the work of the Digital Catapult and the 
+Open Data Institute.
+
+For specific details of our competitions for project funding, 
+networking opportunities, events and other work please 
+see our Delivery Plan, published annually, at  
+www.innovateuk.gov.uk
+
+http://horizons.innovateuk.org/
+https://www.gov.uk/government/organisations/innovate-uk
+
+
+
+
+Innovate UK is the new name for the Technology Strategy Board – the UK’s innovation agency.
+
+We know that taking a new idea to market is a challenge. We fund, support and connect innovative businesses  
+
+through a unique mix of people and programmes to accelerate sustainable economic growth.
+
+The Technology Strategy Board is an executive non-departmental public body sponsored by the Department for Business, Innovation and Skills, and is incorporated by Royal Charter in 
+
+England and Wales with company number RC000818. Registered office: North Star House, North Star Avenue, Swindon SN2 1UE.
+
+© Technology Strategy Board February 2015 T15/004    
+
+Printed on 100% recycled paper.
+
+Innovate UK
+North Star House 
+
+North Star Avenue 
+Swindon 
+SN2 1UE 
+
+Telephone: 01793 442 700 
+
+www.innovateuk.gov.uk 
+support@innovateuk.gov.uk
+
+Follow us on  
+
+References and sources
+[1] Department for Business, Innovation and Skills, Information 
+Economy Strategy,  
+www.gov.uk/government/publications/information-economy-
+strategy
+
+[2] Neelie Kroes (May 2012)
+
+[3] Gartner, Forecast: The Internet of Things, Worldwide, 2013,  
+www.gartner.com
+
+[4] McKinsey, Big data: The next frontier for innovation, 
+competition and productivity (May 2011), www.mckinsey.com
+
+[5] Innovate UK (2013), Creative Industries Strategy 2013-16,  
+www.gov.uk/government/publications
+
+[6] Innovate UK (2013), Enabling Technologies Strategy  
+2012-2015,  
+www.gov.uk/government/publications
+
+Image credits
+Front cover - Jenny Griffiths, founder and CEO of Snap Fashion,  
+a digital search business supported by Innovate UK
+
+https://www.gov.uk/government/organisations/innovate-uk
+mailto:support%40innovateuk.gov.uk%0D?subject=
+https://www.gov.uk/government/publications/information-economy-strategy
+https://www.gov.uk/government/publications/information-economy-strategy
+http://www.gartner.com/technology/home.jsp
+http://www.mckinsey.com/
+https://www.gov.uk/government/publications
+https://www.gov.uk/government/publications
+https://www.linkedin.com/company/innovateuk
+https://twitter.com/innovate_uk
+https://connect.innovateuk.org/
+https://www.facebook.com/innovateuk
+https://www.youtube.com/user/Innovateuk
+

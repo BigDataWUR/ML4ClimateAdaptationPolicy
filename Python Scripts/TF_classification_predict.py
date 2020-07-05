@@ -172,7 +172,7 @@ def create_metadata(filename,conv_dict, classifier):
     
     
 if __name__ == '__main__':
-    model_directory = '../tensorflow/logdir'
+    model_directory = os.path.join('..','tensorflow','logdir')
     start_time = time.clock()
     classifier = load_model(model_directory)
     print("Loading conv_dict")

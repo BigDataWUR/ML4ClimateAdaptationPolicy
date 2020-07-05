@@ -1,0 +1,3383 @@
+
+
+7
+
+
+Faced with these uncertainties, but also in the knowledge that our climate is changing, and is fundamental 
+to our lives and our livelihoods, the Government’s response is outlined below. There are five key steps:
+
+1.  Minimise the risk of significant climate change. This is why the UK is committed to cutting 
+its greenhouse gas emissions, and is playing a leading role at an international level, working 
+with the EU, G20/G8 and the UN Framework Convention on Climate Change to reach a global 
+agreement on reducing greenhouse gas emissions. Domestically, the Climate Change Act 2008 
+aims to encourage the transition to a low carbon economy in the UK through unilateral legally-
+binding emission reduction targets.
+
+2.  Accept that despite efforts to reduce greenhouse gas emissions, current and historic 
+emissions mean that a certain amount of warming is inevitable. Mitigation efforts will help 
+to limit the rise in temperatures and the potential scale of any impacts, however, some increases 
+are now unavoidable. The UK will therefore need to adapt to changes in climate notwithstanding 
+reductions in emissions. 
+
+3.  Better understand vulnerability to our current climate. In recent years the UK has experienced 
+high financial costs and societal and environmental impacts resulting from extreme weather 
+events, such as flooding, unusually cold and severe winters and warmer than average summers 
+including heatwaves. This has highlighted the fact that aspects of the UK economy and society 
+are already vulnerable to extreme weather events. Climate change is expected to increase the 
+frequency and severity of such events, creating a strong economic case for increasing the UK’s 
+resilience and protecting the most vulnerable.
+
+4.  Use the best science and evidence to understand the range of climate changes we 
+might face, and what effect they might have on our economy, environment and society. 
+Understanding these climate change risks is why the UK Government and Devolved Governments 
+commissioned an independent report to help the UK understand what changes could lie ahead 
+and how large an effect they could have: this is the Climate Change Risk Assessment (CCRA).
+
+5.  Assess – using a risk-based approach – what we can put in place now, and plan for in 
+the future, to increase the resilience of our economy, environment and society. Following 
+the publication of this CCRA, and building on current policies, the Government will be leading 
+the development of a National Adaptation Programme (NAP), covering England and reserved, 
+excepted and non-devolved matters, to be published in 2013. 
+
+The UK Government’s programme of work on adaptation is being co-ordinated by the Department for 
+the Environment, Food and Rural Affairs (Defra), and is defined in statute (The Climate Change Act 
+2008). The Devolved Governments are responsible for delivery of adaptation work as defined by the 
+respective devolution settlements.
+
+1.2. What is the Legislative Framework?
+The Climate Change Act 2008 makes the UK the first country in the world to have a legally-binding 
+long-term framework to cut greenhouse gas emissions and a framework for building the UK’s ability to 
+adapt to a changing climate. The strength of the Government’s response lies in this dual, ‘no regrets’ 
+approach. The Act requires:
+
+• A UK-wide climate change risk assessment (CCRA) that must take place every five years; 
+
+•  A national adaptation programme (NAP) which must be put in place and reviewed every five 
+years, setting out the Government’s objectives, proposals and policies for responding to the risks 
+identified in the CCRA; 
+
+•  Adaptation Reporting Powers (not applicable in Northern Ireland) which enable the Secretary of 
+State to direct “reporting authorities” to prepare climate change adaptation reports. 
+
+In addition, the Adaptation Sub-Committee of the Committee on Climate Change, an independent expert 
+body, was set up as required under the Climate Change Act 2008. Its role is to advise on the preparation 
+of the UK CCRA, to report to Parliament on the UK Government’s progress in the implementation of the 
+NAP and to provide advice to the Devolved Governments, as required.
+
+The Adaptation Sub-Committee has provided valuable input and advice on the UK CCRA, helping in 
+development of the methodology and in evaluating emerging results from the analysis. We are grateful 
+for their input and support throughout this process.
+
+Climate Change Risk Assessment
+
+The Climate Change Risk Assessment (CCRA) 2012 is the first assessment of its kind for the UK and 
+the first in a five year cycle. This CCRA has assessed (and where possible monetised) the main risks 
+and opportunities in the UK from climate change. This independent analysis provides an overview 
+and assessment of risks in and across sectors, and will enable comparison between different sectors. 
+It provides underpinning evidence that can be used by central Government to help inform priorities 
+for action and appropriate adaptation measures. It also highlights where more work is needed to 
+understand the scale and nature of the risks, and to help us consider what action – if any – we need 
+to take.
+
+The CCRA will be followed by the NAP, which will include appropriate economic analysis to inform 
+Government about the costs and benefits of a number of options for adaptation to climate change.
+
+National Adaptation Programme
+
+The CCRA is the first step towards the delivery of a NAP, providing a key component of the underpinning 
+evidence. 
+
+The NAP, like the CCRA, will be reviewed and updated on a five yearly basis. Building on the CCRA and 
+later economic analysis, the aim of the first NAP, which we plan to publish in 2013, will be to articulate 
+the scale and nature of the adaptation challenge, to describe the respective roles of Government, 
+private sector and others in meeting these challenges, and to set out Government’s adaptation policies 
+and actions. For Government, the principles for dealing with adaptation will be to act mainly where 
+the market is unlikely to act, to help others make good decisions on climate risks and opportunities 
+(for example from investments in cutting edge science and decision support), and to promote risk-
+
+DEF-PB13698-ClimRisk.indd   7 19/01/2012   12:19
+
+
+8
+
+
+based decision approaches (for example early action on decisions with long-term consequences, and 
+maintaining flexibility by avoiding technical lock-in). 
+
+On the first NAP, the UK Government’s intention is to work with others in a collaborative approach to 
+policy making – to co-create with relevant organisations, and seek to achieve a high-degree of consensus 
+on this programme.
+
+Adaptation Reporting Power
+
+The Adaptation Reporting Power (ARP) enables the Secretary of State to direct “reporting authorities” 
+(companies with functions of a public nature such as water and energy utilities) to prepare climate 
+change adaptation reports on how they are assessing and acting on the risks and opportunities from a 
+changing climate. The first round of the ARP has now been concluded and 91 organisations have been 
+directed to report, alongside 14 organisations reporting on a voluntary basis. A summary of the key 
+findings from the first round of the ARP will be published shortly. These reports provide us with further 
+evidence of organisational capacity in areas critical to our national infrastructure, and environment, and 
+will help, alongside the CCRA and other evidence, to inform the development of the NAP.
+
+1.3. What is the CCRA in detail?
+The CCRA brings together a wide range of evidence about climate risks including the UK Climate 
+Projections 2009 (UKCP09), stakeholder workshops, the findings from other Government reports, peer-
+reviewed literature and new analysis completed as part of the CCRA project. 
+
+This independent analysis was funded by UK Government and Devolved Governments and has been 
+delivered through a consortium of organisations led by HR Wallingford. The outputs have been extensively 
+peer reviewed by scientific and economics experts, an independent international peer review panel, and 
+have also been scrutinised by the Adaptation Sub-Committee of the Committee on Climate Change. 
+
+The methodology is novel in that it has allowed us to compare over 100 risks (prioritised from an 
+initial list of over 700) from a number of disparate sectors, based on the magnitude of the impact and 
+confidence in the evidence base. A key strength of the analysis is using a consistent method and set 
+of climate projections to look at current and future risks and opportunities. Also, the method focuses 
+attention on risks where decisions need to be made in the near future (i.e. in the next five years). 
+
+To provide a baseline that can be more easily used to assess the effectiveness of actions or policy 
+interventions, with the exception of a few specific cases, the CCRA does not build in societal change 
+in assessing future risks, either from non-climate related change (e.g. in demographics, technology, 
+economic growth), or responses to climate risks (e.g. Government policy, or private adaptation 
+investment)2. For example, the CCRA shows us that without any current or planned action there are 
+significant risks to parts of our infrastructure. However, Government and other key organisations are 
+already taking action in many areas to minimise risks: our existing policies on for example flood defence, 
+proposed policies in the Water White Paper, and plans by others, such as the energy generators and 
+water companies to protect key assets such as power stations. Many current Government policies are 
+highlighted in this report.
+
+2 See Section 2.1. for more detail and individual Sector reports.
+
+Fundamental change will require fundamental thinking – and this is the start of the process. Government 
+will need to consider the wealth of information and analysis in these and other reports, consider 
+actions and policies already in place where they have deliberately not been considered as part of 
+the CCRA analysis, test the conclusions with a range of organisations throughout the UK, and 
+work with them on understanding where the priorities are for immediate decisions and for further work 
+and research.
+
+This CCRA has mainly examined the risks of a changing climate in the UK – not to the UK from abroad. 
+Given that global climatic events already affect the UK significantly, the future international impacts 
+of climate change may disrupt the UK economy through impacts on traded goods, supply chains, 
+migration and international relations. However, there is very little analysis on the scale and likelihood of 
+such changes. As a starting point, the Foresight Report, International Dimensions of Climate Change3, 
+looked at the existing evidence and identified a large number of international risks that could affect 
+the UK, as well as some opportunities. The more recent Met Office report, Climate: Observations, 
+Projections and Impacts4, funded by DECC, also considered, at a high level, the scale of potential 
+climate threats and opportunities across a number of countries in different regions. Further work needs 
+to be done on international risks to the UK and the NAP will take the state of knowledge on impacts of 
+climate change globally into account.
+
+Government also carries out a number of other types of risk assessment. While the CCRA focuses on 
+risks from climate change and over a long time period (up to 2100), specifically providing underpinning 
+evidence to support short and long term decisions on adaptation policies and actions, other assessments 
+are directed to delivering different information to support Government decisions on specific issues. For 
+example, the National Risk Assessment (NRA) assesses the main threats and hazards to the UK over a  
+five year period, and drives contingency planning for responding to and recovering from civil emergencies; 
+and the National Security Risk Assessment (NSRA) identifies and assesses a wide range of risks to enable 
+Ministers to prioritise the most significant risks which could threaten our national security interests.
+
+3  Foresight International Dimensions of Climate Change Report: 
+http://www.bis.gov.uk/assets/bispartners/foresight/docs/international-dimensions/11-1042-international-dimensions-of-climate-change
+
+4 http://www.metoffice.gov.uk/media/pdf/t/r/UK.pdf
+
+DEF-PB13698-ClimRisk.indd   8 19/01/2012   12:19
+
+
+9
+
+
+based decision approaches (for example early action on decisions with long-term consequences, and 
+maintaining flexibility by avoiding technical lock-in). 
+
+On the first NAP, the UK Government’s intention is to work with others in a collaborative approach to 
+policy making – to co-create with relevant organisations, and seek to achieve a high-degree of consensus 
+on this programme.
+
+Adaptation Reporting Power
+
+The Adaptation Reporting Power (ARP) enables the Secretary of State to direct “reporting authorities” 
+(companies with functions of a public nature such as water and energy utilities) to prepare climate 
+change adaptation reports on how they are assessing and acting on the risks and opportunities from a 
+changing climate. The first round of the ARP has now been concluded and 91 organisations have been 
+directed to report, alongside 14 organisations reporting on a voluntary basis. A summary of the key 
+findings from the first round of the ARP will be published shortly. These reports provide us with further 
+evidence of organisational capacity in areas critical to our national infrastructure, and environment, and 
+will help, alongside the CCRA and other evidence, to inform the development of the NAP.
+
+1.3. What is the CCRA in detail?
+The CCRA brings together a wide range of evidence about climate risks including the UK Climate 
+Projections 2009 (UKCP09), stakeholder workshops, the findings from other Government reports, peer-
+reviewed literature and new analysis completed as part of the CCRA project. 
+
+This independent analysis was funded by UK Government and Devolved Governments and has been 
+delivered through a consortium of organisations led by HR Wallingford. The outputs have been extensively 
+peer reviewed by scientific and economics experts, an independent international peer review panel, and 
+have also been scrutinised by the Adaptation Sub-Committee of the Committee on Climate Change. 
+
+The methodology is novel in that it has allowed us to compare over 100 risks (prioritised from an 
+initial list of over 700) from a number of disparate sectors, based on the magnitude of the impact and 
+confidence in the evidence base. A key strength of the analysis is using a consistent method and set 
+of climate projections to look at current and future risks and opportunities. Also, the method focuses 
+attention on risks where decisions need to be made in the near future (i.e. in the next five years). 
+
+To provide a baseline that can be more easily used to assess the effectiveness of actions or policy 
+interventions, with the exception of a few specific cases, the CCRA does not build in societal change 
+in assessing future risks, either from non-climate related change (e.g. in demographics, technology, 
+economic growth), or responses to climate risks (e.g. Government policy, or private adaptation 
+investment)2. For example, the CCRA shows us that without any current or planned action there are 
+significant risks to parts of our infrastructure. However, Government and other key organisations are 
+already taking action in many areas to minimise risks: our existing policies on for example flood defence, 
+proposed policies in the Water White Paper, and plans by others, such as the energy generators and 
+water companies to protect key assets such as power stations. Many current Government policies are 
+highlighted in this report.
+
+2 See Section 2.1. for more detail and individual Sector reports.
+
+Fundamental change will require fundamental thinking – and this is the start of the process. Government 
+will need to consider the wealth of information and analysis in these and other reports, consider 
+actions and policies already in place where they have deliberately not been considered as part of 
+the CCRA analysis, test the conclusions with a range of organisations throughout the UK, and 
+work with them on understanding where the priorities are for immediate decisions and for further work 
+and research.
+
+This CCRA has mainly examined the risks of a changing climate in the UK – not to the UK from abroad. 
+Given that global climatic events already affect the UK significantly, the future international impacts 
+of climate change may disrupt the UK economy through impacts on traded goods, supply chains, 
+migration and international relations. However, there is very little analysis on the scale and likelihood of 
+such changes. As a starting point, the Foresight Report, International Dimensions of Climate Change3, 
+looked at the existing evidence and identified a large number of international risks that could affect 
+the UK, as well as some opportunities. The more recent Met Office report, Climate: Observations, 
+Projections and Impacts4, funded by DECC, also considered, at a high level, the scale of potential 
+climate threats and opportunities across a number of countries in different regions. Further work needs 
+to be done on international risks to the UK and the NAP will take the state of knowledge on impacts of 
+climate change globally into account.
+
+Government also carries out a number of other types of risk assessment. While the CCRA focuses on 
+risks from climate change and over a long time period (up to 2100), specifically providing underpinning 
+evidence to support short and long term decisions on adaptation policies and actions, other assessments 
+are directed to delivering different information to support Government decisions on specific issues. For 
+example, the National Risk Assessment (NRA) assesses the main threats and hazards to the UK over a  
+five year period, and drives contingency planning for responding to and recovering from civil emergencies; 
+and the National Security Risk Assessment (NSRA) identifies and assesses a wide range of risks to enable 
+Ministers to prioritise the most significant risks which could threaten our national security interests.
+
+3  Foresight International Dimensions of Climate Change Report: 
+http://www.bis.gov.uk/assets/bispartners/foresight/docs/international-dimensions/11-1042-international-dimensions-of-climate-change
+
+4 http://www.metoffice.gov.uk/media/pdf/t/r/UK.pdf
+
+DEF-PB13698-ClimRisk.indd   9 19/01/2012   12:19
+
+http://www.bis.gov.uk/assets/bispartners/foresight/docs/international-dimensions/11-1042-international-dimensions-of-climate-change
+http://www.metoffice.gov.uk/media/pdf/t/r/UK.pdf
+
+
+10
+
+
+2.  What is in the Climate Change Risk Assessment?
+
+ The CCRA has been an ambitious undertaking – covering analysis of key risks and opportunities across 
+all sectors of our economy at the national level. There is a large amount of material and data, but most 
+organisations will want to access and consider only parts of it that are relevant to them. 
+
+The UK Government will be working with stakeholders, in developing the NAP, to help develop an 
+understanding of risks relevant to them, using the CCRA as a starting point for discussions.
+
+The main CCRA reports include:
+
+• The ‘UK Climate Change Risk Assessment Evidence Report’
+
+• Reports for each of the eleven sectors 
+
+• Reports for Scotland, Wales and Northern Ireland
+
+Evidence for the assessment has been gathered in eleven sectors: Agriculture; Biodiversity & Ecosystem 
+Services; Built Environment; Business, Industry & Services; Energy; Floods & Coastal Erosion; Forestry; 
+Health; Marine & Fisheries; Transport; Water. The sector reports describe a wide range of potential risks 
+in each sector, followed by a more detailed analysis of selected risks that were judged to be the most 
+important.
+
+The UK Climate Change Risk Assessment Evidence Report brings together an overview of climate 
+change risks and opportunities based on the analyses described in the Sector Reports and other sources 
+of information. It is intended to provide information to policy makers on the vulnerability of the UK and 
+future risks and opportunities due to climate change. 
+
+The results of the assessment are presented in the UK Climate Change Risk Assessment Evidence Report 
+in five themes: 
+
+• Agriculture & Forestry; 
+
+• Business; 
+
+• Health & Wellbeing; 
+
+• Buildings & Infrastructure; and 
+
+• Natural Environment. 
+
+Climate change risks in each theme are presented in terms of the range of potential magnitude of the 
+risk, how magnitude varies over time and the overall confidence in the findings of the assessment. 
+
+The reports for Scotland, Wales and Northern Ireland provide an assessment of climate change 
+risks and opportunities in each country. They are based on the UK-wide sector reports but take account 
+of risks that are particular to each country, such as marine water quality in Northern Ireland, changes in 
+the timing of snow melt in Scotland and grassland productivity in Wales. 
+
+2.1. What are the Uncertainties in the analysis?
+There is strong scientific evidence that climate change will disrupt the global economy, environment 
+and society due to projected warming, sea level rise and changes in global rainfall/snowfall patterns and 
+extreme events. Scientists are confident that average UK temperatures will continue to rise, but it is less 
+clear how other climate variables will change as a result, and therefore the assessment of future climate 
+risks needs to take account of a wide range of outcomes, as well as highlighting those risks which 
+are so uncertain that it isn’t possible currently to provide any evidence on the direction or magnitude 
+of change.
+
+The CCRA considered a range of potential changes in climate, informed by the UK Climate Projections 
+2009 (UKCP09), to provide an indication of these uncertainties. This is reflected in both the magnitude 
+ranges, and how these change with time, as described in the UK CCRA Evidence Report. It is important 
+to acknowledge that changes to climate may occur outside the range considered in this analysis, and 
+that new science may change plausible ranges. The confidence ratings used in the report illustrate 
+the strength of evidence and consensus related to the direction and magnitude of different risks 
+and opportunities.
+
+Although new risks and opportunities may emerge over the next 100 years, there is considerable 
+uncertainty related to when these may occur and therefore the most effective timing of any policy 
+intervention. Continued monitoring of climate risks and opportunities, and future re-assessments of 
+the risks from climate change will provide updated evidence about the timing of important risks and 
+opportunities and the need for adaptation action. This is captured in the five year cycles of the Climate 
+Change Act 2008.
+
+The CCRA used the UK Climate Projections (UKCP09) for three time periods – 30-year periods  
+centred on the 2020s, 2050s and 2080s. These may be interpreted as ‘short-term’, ‘medium-term’ and  
+‘long-term’ respectively. For the marine environment, UKCP09 projections were only available for a 
+‘medium emissions’ scenario, and one future time period (the 2080s).
+
+Many key risks are not caused directly by the climate itself, but by changes in the biophysical impacts 
+of climate change, for example sea level rise and flooding. In addition, many potential risks arise as a 
+result of complex processes in which climate change is just one component. In a few cases the CCRA 
+has considered different rates of population growth, which influence the number of people exposed 
+to hazards like flooding and heatwaves. To minimise analytical complexity, however, with the exception 
+of these few specific cases, the CCRA does not build in societal change in assessing future risks, either 
+from non-climate related change (e.g. in demographics, technology, economic growth), or responses to 
+climate risks (e.g. Government policy, or private adaptation investment)5. For example, in the flood risk 
+sector, the assessment assumed that the Government would only continue to maintain existing flood 
+defences, and did not consider any further future flood risk management measures that may be put in 
+place. In the water sector it was only assumed that household demand for water would decline to meet 
+modest water efficiency targets. The analysis then gives us information from which to assess whether 
+specific targeted investment strategies may be able to reduce risks much further.
+
+5 Check individual Sector Reports for details of assumptions.
+
+DEF-PB13698-ClimRisk.indd   10 19/01/2012   12:19
+
+
+11
+
+2.  What is in the Climate Change Risk Assessment?
+
+ The CCRA has been an ambitious undertaking – covering analysis of key risks and opportunities across 
+all sectors of our economy at the national level. There is a large amount of material and data, but most 
+organisations will want to access and consider only parts of it that are relevant to them. 
+
+The UK Government will be working with stakeholders, in developing the NAP, to help develop an 
+understanding of risks relevant to them, using the CCRA as a starting point for discussions.
+
+The main CCRA reports include:
+
+• The ‘UK Climate Change Risk Assessment Evidence Report’
+
+• Reports for each of the eleven sectors 
+
+• Reports for Scotland, Wales and Northern Ireland
+
+Evidence for the assessment has been gathered in eleven sectors: Agriculture; Biodiversity & Ecosystem 
+Services; Built Environment; Business, Industry & Services; Energy; Floods & Coastal Erosion; Forestry; 
+Health; Marine & Fisheries; Transport; Water. The sector reports describe a wide range of potential risks 
+in each sector, followed by a more detailed analysis of selected risks that were judged to be the most 
+important.
+
+The UK Climate Change Risk Assessment Evidence Report brings together an overview of climate 
+change risks and opportunities based on the analyses described in the Sector Reports and other sources 
+of information. It is intended to provide information to policy makers on the vulnerability of the UK and 
+future risks and opportunities due to climate change. 
+
+The results of the assessment are presented in the UK Climate Change Risk Assessment Evidence Report 
+in five themes: 
+
+• Agriculture & Forestry; 
+
+• Business; 
+
+• Health & Wellbeing; 
+
+• Buildings & Infrastructure; and 
+
+• Natural Environment. 
+
+Climate change risks in each theme are presented in terms of the range of potential magnitude of the 
+risk, how magnitude varies over time and the overall confidence in the findings of the assessment. 
+
+The reports for Scotland, Wales and Northern Ireland provide an assessment of climate change 
+risks and opportunities in each country. They are based on the UK-wide sector reports but take account 
+of risks that are particular to each country, such as marine water quality in Northern Ireland, changes in 
+the timing of snow melt in Scotland and grassland productivity in Wales. 
+
+2.1. What are the Uncertainties in the analysis?
+There is strong scientific evidence that climate change will disrupt the global economy, environment 
+and society due to projected warming, sea level rise and changes in global rainfall/snowfall patterns and 
+extreme events. Scientists are confident that average UK temperatures will continue to rise, but it is less 
+clear how other climate variables will change as a result, and therefore the assessment of future climate 
+risks needs to take account of a wide range of outcomes, as well as highlighting those risks which 
+are so uncertain that it isn’t possible currently to provide any evidence on the direction or magnitude 
+of change.
+
+The CCRA considered a range of potential changes in climate, informed by the UK Climate Projections 
+2009 (UKCP09), to provide an indication of these uncertainties. This is reflected in both the magnitude 
+ranges, and how these change with time, as described in the UK CCRA Evidence Report. It is important 
+to acknowledge that changes to climate may occur outside the range considered in this analysis, and 
+that new science may change plausible ranges. The confidence ratings used in the report illustrate 
+the strength of evidence and consensus related to the direction and magnitude of different risks 
+and opportunities.
+
+Although new risks and opportunities may emerge over the next 100 years, there is considerable 
+uncertainty related to when these may occur and therefore the most effective timing of any policy 
+intervention. Continued monitoring of climate risks and opportunities, and future re-assessments of 
+the risks from climate change will provide updated evidence about the timing of important risks and 
+opportunities and the need for adaptation action. This is captured in the five year cycles of the Climate 
+Change Act 2008.
+
+The CCRA used the UK Climate Projections (UKCP09) for three time periods – 30-year periods  
+centred on the 2020s, 2050s and 2080s. These may be interpreted as ‘short-term’, ‘medium-term’ and  
+‘long-term’ respectively. For the marine environment, UKCP09 projections were only available for a 
+‘medium emissions’ scenario, and one future time period (the 2080s).
+
+Many key risks are not caused directly by the climate itself, but by changes in the biophysical impacts 
+of climate change, for example sea level rise and flooding. In addition, many potential risks arise as a 
+result of complex processes in which climate change is just one component. In a few cases the CCRA 
+has considered different rates of population growth, which influence the number of people exposed 
+to hazards like flooding and heatwaves. To minimise analytical complexity, however, with the exception 
+of these few specific cases, the CCRA does not build in societal change in assessing future risks, either 
+from non-climate related change (e.g. in demographics, technology, economic growth), or responses to 
+climate risks (e.g. Government policy, or private adaptation investment)5. For example, in the flood risk 
+sector, the assessment assumed that the Government would only continue to maintain existing flood 
+defences, and did not consider any further future flood risk management measures that may be put in 
+place. In the water sector it was only assumed that household demand for water would decline to meet 
+modest water efficiency targets. The analysis then gives us information from which to assess whether 
+specific targeted investment strategies may be able to reduce risks much further.
+
+5 Check individual Sector Reports for details of assumptions.
+
+DEF-PB13698-ClimRisk.indd   11 19/01/2012   12:19
+
+
+12
+
+The cost effectiveness of different adaptation programmes was not assessed as part of the CCRA but 
+the subsequent National Adaptation Programme will assess likely societal changes in order to judge 
+where society will adapt autonomously, and where Government can most usefully act. 
+
+The CCRA outputs should be considered as a guide to (a) the possibility of changes in risk over this 
+century, (b) the potential direction and magnitude of these changes and (c) whether risks become 
+significant in the ‘short-term’ (2020s), ‘medium-term’ (2050s) or ‘long-term’ (2080s). 
+
+2.2. What are the Strengths and Constraints of the Analysis?
+The CCRA, for the first time, uses a consistent method to analyse the magnitude and confidence of a 
+range of risks and opportunities across disparate sectors. This has never been achieved before for the 
+UK. The assessment considered risks across all sectors and involved a high degree of consultation and 
+review. Information from a wide range of sources has been used and analysis has been undertaken 
+by specialists from leading UK institutions. The assessment can therefore be considered to reflect the 
+current state of knowledge on climate risks and opportunities.
+
+The analysis did identify, however, a lack of suitable evidence in many areas. It was not possible to 
+quantify many risks and opportunities and in other cases the analysis was incomplete because of a lack 
+of suitable information. In addition, it was not possible to assess some of the more complex interactions 
+such as the overall risks to ecosystems or to analyse multiplicative effects of several risks occurring 
+together; for example successive droughts followed by floods, or multiple infrastructure failures caused 
+by severe weather events. 
+
+2.3. How are Risks Categorised?
+The CCRA classifies risks and opportunities into three broad impact classes, ‘low’, ‘medium’ and ‘high’ 
+and also identifies those risks that are highly uncertain and difficult to quantify. In addition, projected 
+ranges of possible climate outcomes are given across the three emission scenarios for each of the three 
+future time periods (2020s, 2050s, and 2080s). These risks are presented in the “summary plots” and 
+“scorecards” provided in the UK CCRA Evidence Report.
+
+2.4. Dealing with Uncertainty – Risk-based Decision Making
+The CCRA covers a range of possible future climatic conditions and different rates of population growth. 
+It does not provide forecasts of change, predict the exact timing of the emergence of specific risks and 
+opportunities, or make assumptions about the likelihood of different climate scenarios. 
+
+The CCRA provides a high level assessment of potential risks at the national scale. It provides a starting 
+point for considering climate adaptation but more targeted and local studies will be needed to support 
+many adaptation decisions on the ground. Therefore, when using the CCRA, the following approach 
+is recommended:
+
+•  Use the CCRA summary plots and scorecards as a guide to the possibility of a risk or opportunity 
+occurring (including the order of magnitude, direction of change and potential timing of when high 
+magnitude risks might occur).
+
+•  Use the supporting evidence on specific risks to illustrate possible changes in future, based on the 
+ranges presented but do not focus on central estimates only or use any of the figures as predictions. 
+
+•  Consider adaptation actions that recognise the high degree of uncertainty and test adaptation 
+actions against a wide range of future scenarios, including – for decisions where risk appetite is 
+particularly low – scenarios outside of the range presented in the CCRA.
+
+•  For any important investment decisions, complete studies at the appropriate scale (e.g. river 
+catchment), using detailed guidance provided by the relevant organisations, such as Defra for flood 
+and coastal erosion management in England and Wales, and Treasury Green Book methods. 
+
+•  For the impacts of greatest concern, and especially where there is low confidence, address gaps in 
+evidence including the establishment of monitoring and further research for both national and local 
+level adaptation.
+
+DEF-PB13698-ClimRisk.indd   12 19/01/2012   12:19
+
+
+13
+
+The cost effectiveness of different adaptation programmes was not assessed as part of the CCRA but 
+the subsequent National Adaptation Programme will assess likely societal changes in order to judge 
+where society will adapt autonomously, and where Government can most usefully act. 
+
+The CCRA outputs should be considered as a guide to (a) the possibility of changes in risk over this 
+century, (b) the potential direction and magnitude of these changes and (c) whether risks become 
+significant in the ‘short-term’ (2020s), ‘medium-term’ (2050s) or ‘long-term’ (2080s). 
+
+2.2. What are the Strengths and Constraints of the Analysis?
+The CCRA, for the first time, uses a consistent method to analyse the magnitude and confidence of a 
+range of risks and opportunities across disparate sectors. This has never been achieved before for the 
+UK. The assessment considered risks across all sectors and involved a high degree of consultation and 
+review. Information from a wide range of sources has been used and analysis has been undertaken 
+by specialists from leading UK institutions. The assessment can therefore be considered to reflect the 
+current state of knowledge on climate risks and opportunities.
+
+The analysis did identify, however, a lack of suitable evidence in many areas. It was not possible to 
+quantify many risks and opportunities and in other cases the analysis was incomplete because of a lack 
+of suitable information. In addition, it was not possible to assess some of the more complex interactions 
+such as the overall risks to ecosystems or to analyse multiplicative effects of several risks occurring 
+together; for example successive droughts followed by floods, or multiple infrastructure failures caused 
+by severe weather events. 
+
+2.3. How are Risks Categorised?
+The CCRA classifies risks and opportunities into three broad impact classes, ‘low’, ‘medium’ and ‘high’ 
+and also identifies those risks that are highly uncertain and difficult to quantify. In addition, projected 
+ranges of possible climate outcomes are given across the three emission scenarios for each of the three 
+future time periods (2020s, 2050s, and 2080s). These risks are presented in the “summary plots” and 
+“scorecards” provided in the UK CCRA Evidence Report.
+
+2.4. Dealing with Uncertainty – Risk-based Decision Making
+The CCRA covers a range of possible future climatic conditions and different rates of population growth. 
+It does not provide forecasts of change, predict the exact timing of the emergence of specific risks and 
+opportunities, or make assumptions about the likelihood of different climate scenarios. 
+
+The CCRA provides a high level assessment of potential risks at the national scale. It provides a starting 
+point for considering climate adaptation but more targeted and local studies will be needed to support 
+many adaptation decisions on the ground. Therefore, when using the CCRA, the following approach 
+is recommended:
+
+•  Use the CCRA summary plots and scorecards as a guide to the possibility of a risk or opportunity 
+occurring (including the order of magnitude, direction of change and potential timing of when high 
+magnitude risks might occur).
+
+•  Use the supporting evidence on specific risks to illustrate possible changes in future, based on the 
+ranges presented but do not focus on central estimates only or use any of the figures as predictions. 
+
+•  Consider adaptation actions that recognise the high degree of uncertainty and test adaptation 
+actions against a wide range of future scenarios, including – for decisions where risk appetite is 
+particularly low – scenarios outside of the range presented in the CCRA.
+
+•  For any important investment decisions, complete studies at the appropriate scale (e.g. river 
+catchment), using detailed guidance provided by the relevant organisations, such as Defra for flood 
+and coastal erosion management in England and Wales, and Treasury Green Book methods. 
+
+•  For the impacts of greatest concern, and especially where there is low confidence, address gaps in 
+evidence including the establishment of monitoring and further research for both national and local 
+level adaptation.
+
+DEF-PB13698-ClimRisk.indd   13 19/01/2012   12:19
+
+
+14
+
+3.  What are the main climate risks and 
+opportunities in the CCRA?
+
+3.1. Agriculture and Forestry
+Overview
+
+The Agriculture and Forestry sectors are sensitive to climatic conditions, so any changes in climate can 
+potentially have profound impacts on their productivity and economic viability. 
+
+The CCRA analysis has shown that there are implications for both these sectors from climate change, 
+which could impact on the level of productivity and quality of products, and also opportunities, which 
+both industries could potentially exploit. 
+
+The Agriculture and Forestry sectors are responsible for managing approximately 90% of UK land; 
+they make an important contribution to the UK economy and deliver a wide range of public goods 
+and services. It is important that Government works with farmers, foresters, land managers and other 
+key organisations to consider the risks highlighted in the CCRA, identify actions to manage risks to the 
+industries and consider how opportunities can be best exploited. Due to the length of time trees and 
+forests take to reach maturity, decisions in some parts of the forestry sector will have implications up 
+to, and beyond, 2050. In agriculture, a shorter crop growth time means that arable farmers and land 
+managers can be more responsive and adaptive to climate change. 
+
+In England, Defra leads on agriculture and forestry policies as well as on a range of environmental 
+policies, such as water and flooding, that impact on these industries. Most matters relating to 
+agriculture and forestry policy in Scotland, Wales and Northern Ireland are the responsibility of the 
+Devolved Governments.
+
+The Agriculture and Forestry theme considers the risks and opportunities to the productivity of these two 
+sectors while the Natural Environment theme considers the contribution they make to wider ecosystem 
+services (see section 3.5).
+
+Key Findings 
+
+The CCRA identifies that Agriculture and Forestry could be affected by both extreme weather events 
+and gradual climate change, particularly beyond 2050. 
+
+The key risks and opportunities identified at UK level are as follows:
+
+Risks Opportunities
+
+Higher summer soil moisture deficits, increasing 
+demand for irrigation to maintain crop yields and 
+quality.
+
+Increased agricultural yields resulting from 
+longer growing seasons and CO2 fertilisation, 
+where water or nutrients are not limiting factors.
+
+Increased competition for water resources in the 
+summer owing to reduced summer rainfall and 
+the need to address unsustainable abstraction.
+
+Opportunities to grow new crops as a result of 
+warmer climate and longer growing seasons.
+
+Crop losses and other impacts on high quality 
+agricultural land due to flooding and agricultural 
+land lost to coastal erosion.
+
+Increased timber yields where water is not 
+limiting to tree growth.
+
+Large areas of forests at increased risk from existing 
+and new tree diseases and insect pests, resulting 
+in reduced timber production, tree mortality and 
+declining woodland condition.
+
+Opportunity to plant a range of timber species 
+previously not considered suitable for forestry 
+in the UK.
+
+Drier conditions and any increase in the frequency 
+of drought will reduce agriculture and timber yield 
+and affect woodland condition. 
+
+Changes in forest productivity with consequences 
+for species selection if timber yields are to be 
+maintained. 
+
+More frequent wildfires due to warmer and drier 
+conditions.
+
+At a local level, flooding or coastal erosion can be a significant risk to agriculture. In England and Wales, 
+currently around 50,000 hectares are at risk of flooding frequently (i.e. at least once every three years) 
+and this is projected to increase to around 200,000 ha by the 2080s (or 1% of total agricultural land). 
+Agricultural land is also at risk from less frequent flooding (i.e. 1 in 10 year events) and this is projected 
+to increase from around 200,000 ha at present to about 400,000 ha by the 2050s and over 500,000 
+ha by the 2080s. This is equivalent to about 2% of all agricultural land currently and about 5% by the 
+2080s. In the longer term this means the farming sector may need to take a more active role in flood 
+risk management or change to more resilient forms of agriculture in high risk areas. 
+
+The projected area of agricultural land at risk of loss from coastal erosion is relatively small, representing 
+about 0.06 to 0.09%6 (6,500 to 10,000 ha) of the total area of agricultural land (about 11 million ha) 
+in England and Wales in the 2080s. However, as coastal erosion is a natural process, some of this land 
+would be lost even without climate change. 
+
+6 The range from the low emission p10 projection to the high emissions p90 projection (see Flood Sector Report for details)
+
+DEF-PB13698-ClimRisk.indd   14 19/01/2012   12:19
+
+
+15
+
+3.  What are the main climate risks and 
+opportunities in the CCRA?
+
+3.1. Agriculture and Forestry
+Overview
+
+The Agriculture and Forestry sectors are sensitive to climatic conditions, so any changes in climate can 
+potentially have profound impacts on their productivity and economic viability. 
+
+The CCRA analysis has shown that there are implications for both these sectors from climate change, 
+which could impact on the level of productivity and quality of products, and also opportunities, which 
+both industries could potentially exploit. 
+
+The Agriculture and Forestry sectors are responsible for managing approximately 90% of UK land; 
+they make an important contribution to the UK economy and deliver a wide range of public goods 
+and services. It is important that Government works with farmers, foresters, land managers and other 
+key organisations to consider the risks highlighted in the CCRA, identify actions to manage risks to the 
+industries and consider how opportunities can be best exploited. Due to the length of time trees and 
+forests take to reach maturity, decisions in some parts of the forestry sector will have implications up 
+to, and beyond, 2050. In agriculture, a shorter crop growth time means that arable farmers and land 
+managers can be more responsive and adaptive to climate change. 
+
+In England, Defra leads on agriculture and forestry policies as well as on a range of environmental 
+policies, such as water and flooding, that impact on these industries. Most matters relating to 
+agriculture and forestry policy in Scotland, Wales and Northern Ireland are the responsibility of the 
+Devolved Governments.
+
+The Agriculture and Forestry theme considers the risks and opportunities to the productivity of these two 
+sectors while the Natural Environment theme considers the contribution they make to wider ecosystem 
+services (see section 3.5).
+
+Key Findings 
+
+The CCRA identifies that Agriculture and Forestry could be affected by both extreme weather events 
+and gradual climate change, particularly beyond 2050. 
+
+The key risks and opportunities identified at UK level are as follows:
+
+Risks Opportunities
+
+Higher summer soil moisture deficits, increasing 
+demand for irrigation to maintain crop yields and 
+quality.
+
+Increased agricultural yields resulting from 
+longer growing seasons and CO2 fertilisation, 
+where water or nutrients are not limiting factors.
+
+Increased competition for water resources in the 
+summer owing to reduced summer rainfall and 
+the need to address unsustainable abstraction.
+
+Opportunities to grow new crops as a result of 
+warmer climate and longer growing seasons.
+
+Crop losses and other impacts on high quality 
+agricultural land due to flooding and agricultural 
+land lost to coastal erosion.
+
+Increased timber yields where water is not 
+limiting to tree growth.
+
+Large areas of forests at increased risk from existing 
+and new tree diseases and insect pests, resulting 
+in reduced timber production, tree mortality and 
+declining woodland condition.
+
+Opportunity to plant a range of timber species 
+previously not considered suitable for forestry 
+in the UK.
+
+Drier conditions and any increase in the frequency 
+of drought will reduce agriculture and timber yield 
+and affect woodland condition. 
+
+Changes in forest productivity with consequences 
+for species selection if timber yields are to be 
+maintained. 
+
+More frequent wildfires due to warmer and drier 
+conditions.
+
+At a local level, flooding or coastal erosion can be a significant risk to agriculture. In England and Wales, 
+currently around 50,000 hectares are at risk of flooding frequently (i.e. at least once every three years) 
+and this is projected to increase to around 200,000 ha by the 2080s (or 1% of total agricultural land). 
+Agricultural land is also at risk from less frequent flooding (i.e. 1 in 10 year events) and this is projected 
+to increase from around 200,000 ha at present to about 400,000 ha by the 2050s and over 500,000 
+ha by the 2080s. This is equivalent to about 2% of all agricultural land currently and about 5% by the 
+2080s. In the longer term this means the farming sector may need to take a more active role in flood 
+risk management or change to more resilient forms of agriculture in high risk areas. 
+
+The projected area of agricultural land at risk of loss from coastal erosion is relatively small, representing 
+about 0.06 to 0.09%6 (6,500 to 10,000 ha) of the total area of agricultural land (about 11 million ha) 
+in England and Wales in the 2080s. However, as coastal erosion is a natural process, some of this land 
+would be lost even without climate change. 
+
+6 The range from the low emission p10 projection to the high emissions p90 projection (see Flood Sector Report for details)
+
+DEF-PB13698-ClimRisk.indd   15 19/01/2012   12:19
+
+
+16
+
+In the short term, projected warmer temperatures and CO2 fertilisation may present some opportunities 
+to improve forestry and agricultural yields, to increase the geographical range of existing crops/tree 
+species and to introduce new crops and tree species, particularly in Southern England. However, these 
+opportunities may be limited by projected low water availability in the summer and increased incidence 
+of flooding. 
+
+Implications
+
+Domestic agricultural policy is heavily influenced by EU policy. The Common Agricultural Policy (CAP) 
+provides support to farmers who follow good agricultural practices, and/or offer non-market benefits 
+as well as those prepared to enter into voluntary agri-environment commitments. Regulatory proposals 
+published by the European Commission in October 2011 list ‘the sustainable management of natural 
+resources, and climate action’ as one of the three objectives for rural development7. Other policies, such 
+as the Water Framework Directive8, seek to regulate environmental impact and there are a range of EU 
+laws on animal health and welfare and food safety. 
+
+There are a number of measures available under the Rural Development Programme for England9 to 
+help farmers adapt to climate change. From 1 January 2012, the new Farming Advice Service offers 
+a one-stop-shop to farmers needing advice on a number of subjects, including adaptation to climate 
+change, which will help raise farmers’ awareness of the challenges.
+
+Agriculture and Forestry are also influenced by wider policies, for example biomass and biofuels, 
+and by international markets. If international demand for UK production were to increase to meet 
+a growing demand for these products, this could be a significant opportunity but it may also lead to 
+additional pressure on land and water resources in the UK. If international product prices rise, the UK 
+may experience greater pressure on resources as the domestic market becomes more favourably priced 
+in comparison.
+
+A key driver for the UK Agriculture sector is the need to develop its capacity to produce food sustainably. 
+In this context, climate change impacts (e.g. water availability and flooding) are just one of a range 
+of pressures on the sector. In England, the Natural Environment White Paper10 commits to carrying 
+out a project to look at the challenge of reconciling increased food production whilst enhancing 
+the environment. UK Government is working in close partnership with industry, environmental and 
+consumer organisations towards publishing project conclusions that will help shape future agriculture 
+and food policies. The Business theme (see Section 3.2), highlights the ways in which impacts on the 
+food and beverage sub sector may cascade to the Agricultural sector and vice-versa.
+
+The Natural Environment White Paper also sets the context for Forestry policy, and the Independent 
+Panel on Forestry will report to Government in 2012 with recommendations on the future direction  
+of forestry policy11. Climate change adaptation is one of several key issues the panel are considering. 
+The recently revised ‘UK Forestry Standard’12 and its Guidelines on ‘Forests and Climate Change’, give 
+a steer on practical measures to consider for adapting forests as a component of sustainable forest  
+management. Such adaptation measures, including species diversification, incorporation of climate 
+change scenarios in road and drainage system specifications and a move to alternative forest management 
+
+7 http://www.defra.gov.uk/food-farm/farm-manage/cap-reform/
+8 http://www.defra.gov.uk/environment/quality/water/legislation/water-framework-directive/
+9 http://www.defra.gov.uk/rural/rdpe/
+10 http://www.defra.gov.uk/environment/natural/whitepaper/
+11 http://www.defra.gov.uk/rural/forestry/
+12 http://www.forestry.gov.uk/ukfs
+
+systems, are the basis of the Climate Change Action Plan for the 258,000 ha Public Forest Estate in 
+England that is now being implemented by the Forestry Commission.
+
+In addition, implementing the commitments outlined in the Water White Paper13, published on the 
+8th December 2011, will impact on agriculture and forestry policies and will set the context within which 
+each Sector will need to adapt. Of particular importance for agriculture is the reform of abstraction 
+licensing which is aimed at providing clearer signals for investment to meet water needs and protect 
+water ecosystems.
+
+Through the development of the National Adaptation Programme, we will work with land owners, 
+farmers and other key organisations, to identify areas for joint action, and develop policies to support 
+sustainable Agriculture and Forestry Sectors.
+
+Devolved Governments
+
+Scotland
+
+As part of Scotland’s Climate Change Adaptation Framework, the Scottish Government has published 
+12 ‘Sector Action Plans’ including one for: Agriculture; Forests and Forestry; and Spatial Planning and 
+Land Use14. These action plans set out the key climate change issues and challenges for each sector 
+and set out work to strengthen resilience to the impacts of climate change, for example through the 
+Scotland Rural Development Programme. In March 2011 the Scottish Government published ‘Getting 
+the best from our land: a land use strategy for Scotland’15. The Land Use Strategy is a requirement of 
+the Climate Change (Scotland) Act 2009 and recognises that land-use decisions should be informed by 
+the opportunities and threats from climate change. Implementation of the Strategy will draw on the 
+outputs from the UK CCRA. 
+
+Wales
+
+Set within the Rural Development Plan for Wales, 2007-201316, the Glastir agri-environment scheme is 
+a five-year, whole farm sustainable land management scheme available to farmers and land managers. 
+It is designed to draw together the Welsh Government’s commitment to sustainable agricultural 
+development in the context of climate change and is part-funded by the EU. Expected outcomes include 
+better water management, reduced flood risk, and conserved and enhanced biodiversity.
+
+Land managers are expected to be better informed and trained on climate change impacts and 
+possibilities for adaptation thanks to knowledge transfer, advice and skills development through the 
+Farming Connect programme17.
+
+13 http://www.defra.gov.uk/environment/quality/water/legislation/whitepaper/
+14 http://www.scotland.gov.uk/AdaptationSAPs
+15 http://scotland.gov.uk/Publications/2011/03/17091927/0
+16 http://wales.gov.uk/topics/environmentcountryside/farmingandcountryside/ruraldevelopment/?lang=en
+17 http://wales.gov.uk/topics/environmentcountryside/farmingconnect/?lang=en
+
+DEF-PB13698-ClimRisk.indd   16 19/01/2012   12:19
+
+http://www.defra.gov.uk/food-farm/farm-manage/cap-reform/
+http://www.defra.gov.uk/environment/quality/water/legislation/water-framework-directive/
+http://www.defra.gov.uk/rural/rdpe/
+http://www.defra.gov.uk/environment/natural/whitepaper/
+http://www.defra.gov.uk/rural/forestry/
+http://www.forestry.gov.uk/ukfs
+
+
+17
+
+
+In the short term, projected warmer temperatures and CO2 fertilisation may present some opportunities 
+to improve forestry and agricultural yields, to increase the geographical range of existing crops/tree 
+species and to introduce new crops and tree species, particularly in Southern England. However, these 
+opportunities may be limited by projected low water availability in the summer and increased incidence 
+of flooding. 
+
+Implications
+
+Domestic agricultural policy is heavily influenced by EU policy. The Common Agricultural Policy (CAP) 
+provides support to farmers who follow good agricultural practices, and/or offer non-market benefits 
+as well as those prepared to enter into voluntary agri-environment commitments. Regulatory proposals 
+published by the European Commission in October 2011 list ‘the sustainable management of natural 
+resources, and climate action’ as one of the three objectives for rural development7. Other policies, such 
+as the Water Framework Directive8, seek to regulate environmental impact and there are a range of EU 
+laws on animal health and welfare and food safety. 
+
+There are a number of measures available under the Rural Development Programme for England9 to 
+help farmers adapt to climate change. From 1 January 2012, the new Farming Advice Service offers 
+a one-stop-shop to farmers needing advice on a number of subjects, including adaptation to climate 
+change, which will help raise farmers’ awareness of the challenges.
+
+Agriculture and Forestry are also influenced by wider policies, for example biomass and biofuels, 
+and by international markets. If international demand for UK production were to increase to meet 
+a growing demand for these products, this could be a significant opportunity but it may also lead to 
+additional pressure on land and water resources in the UK. If international product prices rise, the UK 
+may experience greater pressure on resources as the domestic market becomes more favourably priced 
+in comparison.
+
+A key driver for the UK Agriculture sector is the need to develop its capacity to produce food sustainably. 
+In this context, climate change impacts (e.g. water availability and flooding) are just one of a range 
+of pressures on the sector. In England, the Natural Environment White Paper10 commits to carrying 
+out a project to look at the challenge of reconciling increased food production whilst enhancing 
+the environment. UK Government is working in close partnership with industry, environmental and 
+consumer organisations towards publishing project conclusions that will help shape future agriculture 
+and food policies. The Business theme (see Section 3.2), highlights the ways in which impacts on the 
+food and beverage sub sector may cascade to the Agricultural sector and vice-versa.
+
+The Natural Environment White Paper also sets the context for Forestry policy, and the Independent 
+Panel on Forestry will report to Government in 2012 with recommendations on the future direction  
+of forestry policy11. Climate change adaptation is one of several key issues the panel are considering. 
+The recently revised ‘UK Forestry Standard’12 and its Guidelines on ‘Forests and Climate Change’, give 
+a steer on practical measures to consider for adapting forests as a component of sustainable forest  
+management. Such adaptation measures, including species diversification, incorporation of climate 
+change scenarios in road and drainage system specifications and a move to alternative forest management 
+
+7 http://www.defra.gov.uk/food-farm/farm-manage/cap-reform/
+8 http://www.defra.gov.uk/environment/quality/water/legislation/water-framework-directive/
+9 http://www.defra.gov.uk/rural/rdpe/
+10 http://www.defra.gov.uk/environment/natural/whitepaper/
+11 http://www.defra.gov.uk/rural/forestry/
+12 http://www.forestry.gov.uk/ukfs
+
+systems, are the basis of the Climate Change Action Plan for the 258,000 ha Public Forest Estate in 
+England that is now being implemented by the Forestry Commission.
+
+In addition, implementing the commitments outlined in the Water White Paper13, published on the 
+8th December 2011, will impact on agriculture and forestry policies and will set the context within which 
+each Sector will need to adapt. Of particular importance for agriculture is the reform of abstraction 
+licensing which is aimed at providing clearer signals for investment to meet water needs and protect 
+water ecosystems.
+
+Through the development of the National Adaptation Programme, we will work with land owners, 
+farmers and other key organisations, to identify areas for joint action, and develop policies to support 
+sustainable Agriculture and Forestry Sectors.
+
+Devolved Governments
+
+Scotland
+
+As part of Scotland’s Climate Change Adaptation Framework, the Scottish Government has published 
+12 ‘Sector Action Plans’ including one for: Agriculture; Forests and Forestry; and Spatial Planning and 
+Land Use14. These action plans set out the key climate change issues and challenges for each sector 
+and set out work to strengthen resilience to the impacts of climate change, for example through the 
+Scotland Rural Development Programme. In March 2011 the Scottish Government published ‘Getting 
+the best from our land: a land use strategy for Scotland’15. The Land Use Strategy is a requirement of 
+the Climate Change (Scotland) Act 2009 and recognises that land-use decisions should be informed by 
+the opportunities and threats from climate change. Implementation of the Strategy will draw on the 
+outputs from the UK CCRA. 
+
+Wales
+
+Set within the Rural Development Plan for Wales, 2007-201316, the Glastir agri-environment scheme is 
+a five-year, whole farm sustainable land management scheme available to farmers and land managers. 
+It is designed to draw together the Welsh Government’s commitment to sustainable agricultural 
+development in the context of climate change and is part-funded by the EU. Expected outcomes include 
+better water management, reduced flood risk, and conserved and enhanced biodiversity.
+
+Land managers are expected to be better informed and trained on climate change impacts and 
+possibilities for adaptation thanks to knowledge transfer, advice and skills development through the 
+Farming Connect programme17.
+
+13 http://www.defra.gov.uk/environment/quality/water/legislation/whitepaper/
+14 http://www.scotland.gov.uk/AdaptationSAPs
+15 http://scotland.gov.uk/Publications/2011/03/17091927/0
+16 http://wales.gov.uk/topics/environmentcountryside/farmingandcountryside/ruraldevelopment/?lang=en
+17 http://wales.gov.uk/topics/environmentcountryside/farmingconnect/?lang=en
+
+DEF-PB13698-ClimRisk.indd   17 19/01/2012   12:19
+
+http://www.defra.gov.uk/environment/quality/water/legislation/whitepaper/
+http://www.scotland.gov.uk/AdaptationSAPs
+http://scotland.gov.uk/Publications/2011/03/17091927/0
+http://wales.gov.uk/topics/environmentcountryside/farmingandcountryside/ruraldevelopment/?lang=en
+http://wales.gov.uk/topics/environmentcountryside/farmingconnect/?lang=en
+
+
+18
+
+
+‘Responding to climate change’ is one of the four strategic themes in Wales’ forestry strategy, Woodlands 
+for Wales18. This moves Wales towards more mixed and native woodland, and reduces reliance on 
+clear felling regimes. Forestry Commission Wales will develop the Glastir woodland management grant 
+scheme, develop guidance on woodland management and agricultural systems and investigate the 
+benefits of urban tree planting for shade and drainage.
+
+Northern Ireland
+
+The Northern Ireland Rural Development Plan, 2007-201319, includes delivery of Agri-environment 
+Schemes designed to maintain a high proportion of agriculture land under environmental enhancement 
+agreements. Biodiversity, water quality and climate change objectives are integral to these schemes and 
+are an important contribution to achieve sustainable land management. The NI Sustainable Development 
+Implementation Plan – ‘Focus on the Future’20, also includes agriculture related economic and social 
+actions/deliverables in addition to environmental actions/deliverables. The Rural Development Plan also 
+supports woodland creation and the sustainable management of existing forests. Forest Service will 
+promote the recently revised ‘Forestry Standard’ and its Guidelines on ‘Forests and Climate Change’, 
+which provide forest managers and owners with a range of practical measures to consider when creating 
+new forests and managing existing forests in the context of climate change.
+
+18 http://www.forestry.gov.uk/wwstrategy
+19 http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+20 http://www.sustainableni.org/sustainable-development/the-sd-strategy-2010/implementation-plan-2011-2014/index.php
+
+3.2. Business
+Overview
+
+The CCRA identifies the main climate challenges to businesses, which include: flooding and coastal 
+erosion; increased competition for water, energy and materials; and the disruption of transport networks 
+and communication links. These risks particularly affect activities which:
+
+• rely on large fixed assets (especially near main rivers or the coast)
+
+• have complex supply chains
+
+• rely substantially on natural assets.
+
+The CCRA Business Sector Report looks in detail at the risks and opportunities facing five sub-sectors 
+which meet these criteria, namely: financial services, tourism, food and beverage manufacturing, primary 
+extractives (oil, gas and mining), and chemical manufacturing. Fisheries productivity is considered in the 
+CCRA Marine Sector Report. 
+
+Responsibility for adaptation in the Business sector is shared across a number of Government Departments 
+and other bodies, including Defra (flood and coastal erosion, water resources management, biodiversity), 
+Department for Business Innovation and Skills (BIS, supporting business in mainstreaming adaptation, 
+enabling industries to respond to the future needs and opportunities presented), Department of Energy 
+and Climate Change (DECC, energy infrastructure and energy efficiency – including demand for 
+cooling); Communities and Local Government (CLG, planning, housing, urban regeneration, building 
+regulations) and Department of Health (DH, effects of heatwaves on human health). Many policy 
+areas are devolved and are the responsibility of the Devolved Governments in Wales, Scotland and 
+Northern Ireland. HM Treasury leads on financial regulation and on the impacts of climate change for 
+the mortgage and insurance industries. 
+
+The Environment Agency (EA) is responsible for implementing flood risk management policy and 
+enforcing other policies in England and Wales; similar responsibilities fall to the Scottish Environment 
+Protection Agency (SEPA) in Scotland and Department of Agriculture and Rural Development Rivers 
+Agency in Northern Ireland.
+
+Heritage bodies (Natural England and English Heritage, the Countryside Council for Wales, Scottish 
+Natural Heritage and the Northern Ireland Environment Agency) have a wide range of responsibilities in 
+relation to environmental protection and play a role in supporting the tourism industry.
+
+DEF-PB13698-ClimRisk.indd   18 19/01/2012   12:19
+
+http://www.forestry.gov.uk/wwstrategy
+http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+http://www.sustainableni.org/sustainable-development/the-sd-strategy-2010/implementation-plan-2011-2014/index.php
+
+
+19
+
+
+‘Responding to climate change’ is one of the four strategic themes in Wales’ forestry strategy, Woodlands 
+for Wales18. This moves Wales towards more mixed and native woodland, and reduces reliance on 
+clear felling regimes. Forestry Commission Wales will develop the Glastir woodland management grant 
+scheme, develop guidance on woodland management and agricultural systems and investigate the 
+benefits of urban tree planting for shade and drainage.
+
+Northern Ireland
+
+The Northern Ireland Rural Development Plan, 2007-201319, includes delivery of Agri-environment 
+Schemes designed to maintain a high proportion of agriculture land under environmental enhancement 
+agreements. Biodiversity, water quality and climate change objectives are integral to these schemes and 
+are an important contribution to achieve sustainable land management. The NI Sustainable Development 
+Implementation Plan – ‘Focus on the Future’20, also includes agriculture related economic and social 
+actions/deliverables in addition to environmental actions/deliverables. The Rural Development Plan also 
+supports woodland creation and the sustainable management of existing forests. Forest Service will 
+promote the recently revised ‘Forestry Standard’ and its Guidelines on ‘Forests and Climate Change’, 
+which provide forest managers and owners with a range of practical measures to consider when creating 
+new forests and managing existing forests in the context of climate change.
+
+18 http://www.forestry.gov.uk/wwstrategy
+19 http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+20 http://www.sustainableni.org/sustainable-development/the-sd-strategy-2010/implementation-plan-2011-2014/index.php
+
+3.2. Business
+Overview
+
+The CCRA identifies the main climate challenges to businesses, which include: flooding and coastal 
+erosion; increased competition for water, energy and materials; and the disruption of transport networks 
+and communication links. These risks particularly affect activities which:
+
+• rely on large fixed assets (especially near main rivers or the coast)
+
+• have complex supply chains
+
+• rely substantially on natural assets.
+
+The CCRA Business Sector Report looks in detail at the risks and opportunities facing five sub-sectors 
+which meet these criteria, namely: financial services, tourism, food and beverage manufacturing, primary 
+extractives (oil, gas and mining), and chemical manufacturing. Fisheries productivity is considered in the 
+CCRA Marine Sector Report. 
+
+Responsibility for adaptation in the Business sector is shared across a number of Government Departments 
+and other bodies, including Defra (flood and coastal erosion, water resources management, biodiversity), 
+Department for Business Innovation and Skills (BIS, supporting business in mainstreaming adaptation, 
+enabling industries to respond to the future needs and opportunities presented), Department of Energy 
+and Climate Change (DECC, energy infrastructure and energy efficiency – including demand for 
+cooling); Communities and Local Government (CLG, planning, housing, urban regeneration, building 
+regulations) and Department of Health (DH, effects of heatwaves on human health). Many policy 
+areas are devolved and are the responsibility of the Devolved Governments in Wales, Scotland and 
+Northern Ireland. HM Treasury leads on financial regulation and on the impacts of climate change for 
+the mortgage and insurance industries. 
+
+The Environment Agency (EA) is responsible for implementing flood risk management policy and 
+enforcing other policies in England and Wales; similar responsibilities fall to the Scottish Environment 
+Protection Agency (SEPA) in Scotland and Department of Agriculture and Rural Development Rivers 
+Agency in Northern Ireland.
+
+Heritage bodies (Natural England and English Heritage, the Countryside Council for Wales, Scottish 
+Natural Heritage and the Northern Ireland Environment Agency) have a wide range of responsibilities in 
+relation to environmental protection and play a role in supporting the tourism industry.
+
+DEF-PB13698-ClimRisk.indd   19 19/01/2012   12:19
+
+
+20
+
+Key Findings
+
+The CCRA identifies the main risks and opportunities to the Business sector as being related to flooding, 
+heating and water resources.
+
+The key risks and opportunities identified at UK level were:
+
+Risks Opportunities
+
+Possible decrease in output for UK businesses due 
+to an increase in supply chain disruption as a result 
+of extreme events.
+
+Possible increase in market opportunities such 
+as tourism and leisure industry.
+
+Risk of increase in monetary losses as a result of 
+interruption to business from flooding.
+
+Delivery of adaptive measures (products and 
+services) as part of the move to a low carbon 
+economy.
+
+Greater variability in the availability of water.
+
+Potential loss of staff hours due to high internal 
+building temperatures (assessed as being of 
+particular relevance to the health, education and 
+retail sectors, which have large workforces).
+
+The analysis carried out highlights how inter-connected the Business sector is with other sectors in the 
+CCRA. In particular:
+
+• A significant number of the top risks for business relate to the impacts of flooding.
+
+•  The availability of water for industrial and other business use is related to impacts upon, and action 
+taken by, the water supply sector.
+
+•  Disruption to transport and energy supplies, and heat-related impacts (on productivity, products and 
+machinery) will all affect the business sector.
+
+•  Risks to ecosystem resources and services from the natural environment, such as food, timber, water 
+quality and waste breakdown, will impact on, and be affected by, businesses.
+
+• Impacts on the food and beverage sub-sector will cascade to the agriculture sector and vice versa
+
+Businesses, therefore, need to be aware of these inter-connections and understand how sectoral 
+responses to climate change may lead to changes in the risks that they have to manage. 
+
+Implications
+
+Climate change does not necessarily create ‘new’ risks for the Business sector; rather it represents 
+a change to existing risks, and in some cases opportunities. For example, businesses have already 
+experienced the impacts of severe weather events on the transport infrastructure upon which they 
+heavily rely. With climate change, such events may last longer or become more frequent. Failure 
+to consider climate risk and adaptation in decision-making processes could, therefore, have severe 
+consequences for the UK economy with further impacts felt across all other sectors.
+
+The policy framework for managing the potential future risks of climate change is extremely diverse, 
+reflecting the broad range of risks that the Business sector may face. For example, policy protecting 
+assets from flood risk and coastal erosion, building regulations and planning policy will play a vital role 
+in protecting UK businesses and their supply chains from the negative impacts of climate change. There 
+are a number of pieces of legislation that aim to manage these risks.
+
+As part of the development of the NAP, the UK Government will work with business organisations 
+to identify areas for joint action. Our aim will be to improve awareness and understanding of climate 
+change impacts, so that business can plan and make decisions that build in the management of climate-
+related risks.
+
+The UK Climate Impacts Programme (UKCIP) have developed a number of tools that help business. 
+UKCIP’s Speed Business Areas Climate Assessment Tool (Speed BACLIAT), for example, is a simple 
+checklist that can be used to assess the potential impacts of climate change at an organisational level. In 
+future, the Environment Agency will carry out this advisory role for business and a wide range of other 
+sectors in England and for non-devolved matters.
+
+Given the clear links many UK businesses have to international supply chains, customers etc, the risks and 
+opportunities identified in the CCRA are of course not the only ones that need consideration (for example 
+see Foresight IDCC Report). These wider issues will also be considered in the development of the NAP. 
+
+Devolved Governments
+
+Scotland
+
+The Scottish Government has published an adaptation ‘Sector Action Plan’ for business and industry21 
+which sets out the key climate change issues and challenges and planned work to strengthen resilience 
+of businesses to the impacts of climate change. 
+
+Adaptation Scotland provides free advice and support to help business adapt to climate change. 
+Examples of guidance provided by Adaptation Scotland include ‘Adapting to Climate Change: A Guide 
+for Businesses in Scotland’22 and a series of information notes to help small businesses23. 
+
+Wales
+
+The Welsh Government business support service can provide advice and support regarding climate 
+change impacts, including via the Business Wales website.24
+
+Tourism is a prominent business sector in Wales, and one that relies heavily on the condition of the 
+environment. A recent study exploring the impacts of climate change on the Welsh visitor economy sets 
+out recommendations to help the tourist industry to adapt to climate change.
+
+Consistent with its central organising principle of sustainable development, the Welsh Government’s 
+Sustainable Tourism Framework25 highlights adapting to climate change as being of critical importance 
+to the future of sustainable tourism in Wales.
+
+21 http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/BusinessandIndustry
+22 http://www.adaptationscotland.org.uk/3/82/0/Adapting-to-Climate-Change--A-Guide-for-Businesses-in-Scotland.aspx
+23 http://www.adaptationscotland.org.uk/3/99/0/SME-Info-Notes--Helping-small-business-meet-its-climate-change-challenge.aspx
+24 http://business.wales.gov.uk
+25 http://wales.gov.uk/docs/drah/publications/Tourism/090518stframeeng.pdf
+
+DEF-PB13698-ClimRisk.indd   20 19/01/2012   12:19
+
+
+21
+
+Key Findings
+
+The CCRA identifies the main risks and opportunities to the Business sector as being related to flooding, 
+heating and water resources.
+
+The key risks and opportunities identified at UK level were:
+
+Risks Opportunities
+
+Possible decrease in output for UK businesses due 
+to an increase in supply chain disruption as a result 
+of extreme events.
+
+Possible increase in market opportunities such 
+as tourism and leisure industry.
+
+Risk of increase in monetary losses as a result of 
+interruption to business from flooding.
+
+Delivery of adaptive measures (products and 
+services) as part of the move to a low carbon 
+economy.
+
+Greater variability in the availability of water.
+
+Potential loss of staff hours due to high internal 
+building temperatures (assessed as being of 
+particular relevance to the health, education and 
+retail sectors, which have large workforces).
+
+The analysis carried out highlights how inter-connected the Business sector is with other sectors in the 
+CCRA. In particular:
+
+• A significant number of the top risks for business relate to the impacts of flooding.
+
+•  The availability of water for industrial and other business use is related to impacts upon, and action 
+taken by, the water supply sector.
+
+•  Disruption to transport and energy supplies, and heat-related impacts (on productivity, products and 
+machinery) will all affect the business sector.
+
+•  Risks to ecosystem resources and services from the natural environment, such as food, timber, water 
+quality and waste breakdown, will impact on, and be affected by, businesses.
+
+• Impacts on the food and beverage sub-sector will cascade to the agriculture sector and vice versa
+
+Businesses, therefore, need to be aware of these inter-connections and understand how sectoral 
+responses to climate change may lead to changes in the risks that they have to manage. 
+
+Implications
+
+Climate change does not necessarily create ‘new’ risks for the Business sector; rather it represents 
+a change to existing risks, and in some cases opportunities. For example, businesses have already 
+experienced the impacts of severe weather events on the transport infrastructure upon which they 
+heavily rely. With climate change, such events may last longer or become more frequent. Failure 
+to consider climate risk and adaptation in decision-making processes could, therefore, have severe 
+consequences for the UK economy with further impacts felt across all other sectors.
+
+The policy framework for managing the potential future risks of climate change is extremely diverse, 
+reflecting the broad range of risks that the Business sector may face. For example, policy protecting 
+assets from flood risk and coastal erosion, building regulations and planning policy will play a vital role 
+in protecting UK businesses and their supply chains from the negative impacts of climate change. There 
+are a number of pieces of legislation that aim to manage these risks.
+
+As part of the development of the NAP, the UK Government will work with business organisations 
+to identify areas for joint action. Our aim will be to improve awareness and understanding of climate 
+change impacts, so that business can plan and make decisions that build in the management of climate-
+related risks.
+
+The UK Climate Impacts Programme (UKCIP) have developed a number of tools that help business. 
+UKCIP’s Speed Business Areas Climate Assessment Tool (Speed BACLIAT), for example, is a simple 
+checklist that can be used to assess the potential impacts of climate change at an organisational level. In 
+future, the Environment Agency will carry out this advisory role for business and a wide range of other 
+sectors in England and for non-devolved matters.
+
+Given the clear links many UK businesses have to international supply chains, customers etc, the risks and 
+opportunities identified in the CCRA are of course not the only ones that need consideration (for example 
+see Foresight IDCC Report). These wider issues will also be considered in the development of the NAP. 
+
+Devolved Governments
+
+Scotland
+
+The Scottish Government has published an adaptation ‘Sector Action Plan’ for business and industry21 
+which sets out the key climate change issues and challenges and planned work to strengthen resilience 
+of businesses to the impacts of climate change. 
+
+Adaptation Scotland provides free advice and support to help business adapt to climate change. 
+Examples of guidance provided by Adaptation Scotland include ‘Adapting to Climate Change: A Guide 
+for Businesses in Scotland’22 and a series of information notes to help small businesses23. 
+
+Wales
+
+The Welsh Government business support service can provide advice and support regarding climate 
+change impacts, including via the Business Wales website.24
+
+Tourism is a prominent business sector in Wales, and one that relies heavily on the condition of the 
+environment. A recent study exploring the impacts of climate change on the Welsh visitor economy sets 
+out recommendations to help the tourist industry to adapt to climate change.
+
+Consistent with its central organising principle of sustainable development, the Welsh Government’s 
+Sustainable Tourism Framework25 highlights adapting to climate change as being of critical importance 
+to the future of sustainable tourism in Wales.
+
+21 http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/BusinessandIndustry
+22 http://www.adaptationscotland.org.uk/3/82/0/Adapting-to-Climate-Change--A-Guide-for-Businesses-in-Scotland.aspx
+23 http://www.adaptationscotland.org.uk/3/99/0/SME-Info-Notes--Helping-small-business-meet-its-climate-change-challenge.aspx
+24 http://business.wales.gov.uk
+25 http://wales.gov.uk/docs/drah/publications/Tourism/090518stframeeng.pdf
+
+DEF-PB13698-ClimRisk.indd   21 19/01/2012   12:19
+
+http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/BusinessandIndustry
+http://www.adaptationscotland.org.uk/3/82/0/Adapting-to-Climate-Change--A-Guide-for-Businesses-in-Scotland.aspx
+http://www.adaptationscotland.org.uk/3/99/0/SME-Info-Notes--Helping-small-business-meet-its-climate-change-challenge.aspx
+http://business.wales.gov.uk
+http://wales.gov.uk/docs/drah/publications/Tourism/090518stframeeng.pdf
+
+
+22
+
+
+3.3. Health and Wellbeing (including local resilience and social vulnerability26)
+Overview
+
+The CCRA indicates that climate change could have significant implications for the health and wellbeing 
+of the UK population. There are implications for public health, the continuity of health and social care 
+services both within the NHS and beyond, the resilience of local emergency services and the impact on 
+the most socially vulnerable. There are also some potential benefits, for example, a projected reduction 
+in winter mortality and morbidity. 
+
+Health and social care are devolved. In England, the DH leads the health and social care sector, which 
+includes the National Health Service (NHS), and associated Arm’s Length Bodies (ALBs). In Scotland, the 
+Scottish Government Health Directorate provides the central management of the NHS and oversees 
+the work of 14 NHS boards that plan and deliver health services in their area. The Welsh Government 
+is responsible for the NHS in Wales which delivers services through seven Health Boards and three NHS 
+Trusts. In Northern Ireland, the Department of Health, Social Services and Public Safety leads the health 
+and social care sector, with the delivery of an integrated system through four regional health and social 
+care organisations and 13 other associated ALBs.
+
+Policy governing the role of the emergency services and resilience to the impacts of climate change at 
+the local level is also devolved, although this is not the case for policing in Wales. At the UK level several 
+Government Departments have responsibilities including Cabinet Office, Home Office, DCLG and DH.
+
+Policy and regulation of food safety and food hygiene is devolved across the UK, but with a single body 
+– the Food Standards Agency – acting as the lead department across the UK. FSA is also responsible for 
+food labelling policy in Scotland, Wales and Northern Ireland (with Defra leading in England) and for 
+nutrition policy in Scotland and Northern Ireland (the Department for Health lead for nutrition policy in 
+England, and Welsh Government in Wales).
+
+26  Social Vulnerability is an assessment of the demographic and socioeconomic factors which increase or attenuate the impacts of hazard events on local 
+populations (Tierney et al. 2001, Heinz Centre 2002)
+
+Northern Ireland
+
+When progressing the Northern Ireland Adaptation Programme, Northern Ireland Government 
+Departments, through the Cross Departmental Working Group on Climate Change, will consider 
+appropriate actions to address climate change risks and opportunities for businesses.
+
+Climate Northern Ireland provides advice and support on the impacts of climate change within Northern 
+Ireland and the adaptation actions necessary to deal with it. Climate Northern Ireland will be publishing 
+guidance in February 2012 on how the business sector can prepare for climate change and this will 
+include information sheets particularly tailored for small and medium enterprises (SMEs).
+
+DEF-PB13698-ClimRisk.indd   22 23/01/2012   1:00
+
+
+23
+
+3.3. Health and Wellbeing (including local resilience and social vulnerability26)
+Overview
+
+The CCRA indicates that climate change could have significant implications for the health and wellbeing 
+of the UK population. There are implications for public health, the continuity of health and social care 
+services both within the NHS and beyond, the resilience of local emergency services and the impact on 
+the most socially vulnerable. There are also some potential benefits, for example, a projected reduction 
+in winter mortality and morbidity. 
+
+Health and social care are devolved. In England, the DH leads the health and social care sector, which 
+includes the National Health Service (NHS), and associated Arm’s Length Bodies (ALBs). In Scotland, the 
+Scottish Government Health Directorate provides the central management of the NHS and oversees 
+the work of 14 NHS boards that plan and deliver health services in their area. The Welsh Government 
+is responsible for the NHS in Wales which delivers services through seven Health Boards and three NHS 
+Trusts. In Northern Ireland, the Department of Health, Social Services and Public Safety leads the health 
+and social care sector, with the delivery of an integrated system through four regional health and social 
+care organisations and 13 other associated ALBs.
+
+Policy governing the role of the emergency services and resilience to the impacts of climate change at 
+the local level is also devolved, although this is not the case for policing in Wales. At the UK level several 
+Government Departments have responsibilities including Cabinet Office, Home Office, DCLG and DH.
+
+Policy and regulation of food safety and food hygiene is devolved across the UK, but with a single body 
+– the Food Standards Agency – acting as the lead department across the UK. FSA is also responsible for 
+food labelling policy in Scotland, Wales and Northern Ireland (with Defra leading in England) and for 
+nutrition policy in Scotland and Northern Ireland (the Department for Health lead for nutrition policy in 
+England, and Welsh Government in Wales).
+
+26  Social Vulnerability is an assessment of the demographic and socioeconomic factors which increase or attenuate the impacts of hazard events on local 
+populations (Tierney et al. 2001, Heinz Centre 2002)
+
+Northern Ireland
+
+When progressing the Northern Ireland Adaptation Programme, Northern Ireland Government 
+Departments, through the Cross Departmental Working Group on Climate Change, will consider 
+appropriate actions to address climate change risks and opportunities for businesses.
+
+The Northern Ireland Climate Change Impacts Partnership provides advice and support on the impacts 
+of climate change within Northern Ireland and the adaptation actions necessary to deal with it. The 
+Partnership will be publishing guidance in February 2012 on how the business sector can prepare for 
+climate change and this will include information sheets particularly tailored for small and medium 
+enterprises (SMEs).
+
+DEF-PB13698-ClimRisk.indd   23 19/01/2012   12:19
+
+
+24
+
+Key Findings
+
+The CCRA indicates that health and wellbeing will be affected by both extreme weather events and 
+long-term gradual change. The main challenges arise from higher temperatures (on land and sea), 
+changing rainfall patterns and rising sea levels.
+
+The CCRA identifies the following key risks and opportunities at the UK level:
+
+Risks Opportunities
+
+Increased summer temperatures may lead to 
+increased risk of mortality and morbidity due 
+to heat.
+
+Increased winter temperatures may lead to 
+decreased levels of mortality and morbidity due 
+to cold.
+
+Increased flooding would increase the risk of 
+deaths, injuries and people suffering from mental 
+health effects as a result of the impacts of flooding.
+
+Increased summer temperatures combined with 
+increased periods of time spent outdoors could 
+increase vitamin D levels and help to improve 
+physical and mental health of people.
+
+Increased ozone levels by the end of the century 
+could lead to an increased risk of mortality and 
+respiratory hospital admissions
+
+Increased summer temperatures combined with 
+increased periods of time spent outdoors may lead 
+to an increased risk in the number of skin cancer 
+cases and deaths.
+
+Increased temperatures and changed rainfall 
+patterns may lead to an increased health risk from 
+water, vector and food borne diseases.
+
+Increased sea temperatures may lead to increased 
+marine pathogens and harmful algae blooms with 
+a consequent negative effect on human health.
+
+Risks of summer mortality and morbidity, overheating in hospitals and other buildings, summer air 
+pollution (ozone), and the incidence of some marine and freshwater pathogens are projected to 
+become of increasing significance by the middle of the century. Flooding (both direct impacts and 
+indirect impacts, such as on mental health) is also a risk identified in the CCRA for the Health Sector. 
+An increase in skin cancer cases due to greater sun exposure may occur by the 2080s, particularly in 
+Southern England.
+
+Implications
+
+The risks identified through the CCRA reinforce the importance of a climate resilient health and social 
+care system to minimise the risks of service failure with knock-on impacts for patients, workforce, 
+the wellbeing of the UK population and the wider economy (through the cost of service provision, 
+impact on social cohesion and decline in workforce productivity and wellbeing). There would be added 
+burdens on our emergency services in responding to more frequent flooding, heatwaves and wildfires.
+
+UK Government is working with local communities to build resilience and better prepare for such 
+events, to ensure continuity of high quality health and social care provision, which in turn should reduce 
+the overall costs in the short and long term (financial, social, health, environmental) of the potential 
+risks posed by current and future climate impacts.
+
+Climate resilience is increasingly taken into account in the way that health and social care infrastructure, 
+buildings, facilities and estates are planned, commissioned and maintained. In England, the DH has 
+already considered many of the risks identified in the CCRA through its Climate Change Plan27. The 
+Department together with the Health Protection Agency will shortly update their 2008 report on 
+the Health Effects of Climate Change. England has a Heatwave Plan to manage the impacts of high 
+temperatures on human health.
+
+Within the NHS in England, the Sustainable Development Unit promotes adaptation action across 
+the NHS and is supporting various projects that seek to build adaptive capacity and identify robust 
+adaptive responses28 such as reducing the risk of summer overheating in hospitals. The NHS Carbon 
+Reduction Strategy (2009)29 suggests that NHS organisations establish a Board-approved Sustainable 
+Development Management Plan which includes several adaptation measures such as the promotion of 
+water efficiency.
+
+Most policies relating to air quality (control of ground level ozone) and marine and freshwater quality 
+are addressed at EU level with their implementation devolved across the UK. 
+
+Significant improvements have been made in recent years in an effort to reduce risks to human 
+health from consuming contaminated shellfish and from swimming in contaminated bathing waters. 
+Investment in excess of £75 million has been made by Water Utilities in the UK since 2000 on waste 
+water-treatment and infrastructure to improve shellfish water quality. Furthermore, epidemiological 
+surveillance systems are put in place across EU Member States once a pathogen has been included in 
+the European Network for Epidemiologic Surveillance and Control of Communicable Diseases (2119/98/
+EC and amendments thereafter). There is currently no statutory requirement to monitor incidence and 
+prevalence of non-cholera Vibrios and some vector-borne diseases pathogens which are sensitive to 
+environmental temperatures. 
+
+Defra will seek to influence evolving EU and international policies to take sufficient account of climate 
+change and relevant risks identified in the CCRA. 
+
+Government will look to build the evidence base as to the part climate change might play in increasing 
+the risk of UV exposure and, therefore, the incidence of skin cancer towards the 2080s. Several 
+interacting factors are at play that determine this risk, including the level of projected cloud cover 
+and how people might behave in a warmer, sunnier climate, for example, by taking the necessary 
+protections to minimise exposure to the sun by seeking shade or by applying sunscreen.
+
+27 http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_114929
+28 http://www.sdu.nhs.uk/. Projects include involvement in DE2RHECC
+29 http://www.sdu.nhs.uk/publications-resources/3/NHS-Carbon-Reduction-Strategy/
+
+DEF-PB13698-ClimRisk.indd   24 19/01/2012   12:19
+
+
+25
+
+Key Findings
+
+The CCRA indicates that health and wellbeing will be affected by both extreme weather events and 
+long-term gradual change. The main challenges arise from higher temperatures (on land and sea), 
+changing rainfall patterns and rising sea levels.
+
+The CCRA identifies the following key risks and opportunities at the UK level:
+
+Risks Opportunities
+
+Increased summer temperatures may lead to 
+increased risk of mortality and morbidity due 
+to heat.
+
+Increased winter temperatures may lead to 
+decreased levels of mortality and morbidity due 
+to cold.
+
+Increased flooding would increase the risk of 
+deaths, injuries and people suffering from mental 
+health effects as a result of the impacts of flooding.
+
+Increased summer temperatures combined with 
+increased periods of time spent outdoors could 
+increase vitamin D levels and help to improve 
+physical and mental health of people.
+
+Increased ozone levels by the end of the century 
+could lead to an increased risk of mortality and 
+respiratory hospital admissions
+
+Increased summer temperatures combined with 
+increased periods of time spent outdoors may lead 
+to an increased risk in the number of skin cancer 
+cases and deaths.
+
+Increased temperatures and changed rainfall 
+patterns may lead to an increased health risk from 
+water, vector and food borne diseases.
+
+Increased sea temperatures may lead to increased 
+marine pathogens and harmful algae blooms with 
+a consequent negative effect on human health.
+
+Risks of summer mortality and morbidity, overheating in hospitals and other buildings, summer air 
+pollution (ozone), and the incidence of some marine and freshwater pathogens are projected to 
+become of increasing significance by the middle of the century. Flooding (both direct impacts and 
+indirect impacts, such as on mental health) is also a risk identified in the CCRA for the Health Sector. 
+An increase in skin cancer cases due to greater sun exposure may occur by the 2080s, particularly in 
+Southern England.
+
+Implications
+
+The risks identified through the CCRA reinforce the importance of a climate resilient health and social 
+care system to minimise the risks of service failure with knock-on impacts for patients, workforce, 
+the wellbeing of the UK population and the wider economy (through the cost of service provision, 
+impact on social cohesion and decline in workforce productivity and wellbeing). There would be added 
+burdens on our emergency services in responding to more frequent flooding, heatwaves and wildfires.
+
+UK Government is working with local communities to build resilience and better prepare for such 
+events, to ensure continuity of high quality health and social care provision, which in turn should reduce 
+the overall costs in the short and long term (financial, social, health, environmental) of the potential 
+risks posed by current and future climate impacts.
+
+Climate resilience is increasingly taken into account in the way that health and social care infrastructure, 
+buildings, facilities and estates are planned, commissioned and maintained. In England, the DH has 
+already considered many of the risks identified in the CCRA through its Climate Change Plan27. The 
+Department together with the Health Protection Agency will shortly update their 2008 report on 
+the Health Effects of Climate Change. England has a Heatwave Plan to manage the impacts of high 
+temperatures on human health.
+
+Within the NHS in England, the Sustainable Development Unit promotes adaptation action across 
+the NHS and is supporting various projects that seek to build adaptive capacity and identify robust 
+adaptive responses28 such as reducing the risk of summer overheating in hospitals. The NHS Carbon 
+Reduction Strategy (2009)29 suggests that NHS organisations establish a Board-approved Sustainable 
+Development Management Plan which includes several adaptation measures such as the promotion of 
+water efficiency.
+
+Most policies relating to air quality (control of ground level ozone) and marine and freshwater quality 
+are addressed at EU level with their implementation devolved across the UK. 
+
+Significant improvements have been made in recent years in an effort to reduce risks to human 
+health from consuming contaminated shellfish and from swimming in contaminated bathing waters. 
+Investment in excess of £75 million has been made by Water Utilities in the UK since 2000 on waste 
+water-treatment and infrastructure to improve shellfish water quality. Furthermore, epidemiological 
+surveillance systems are put in place across EU Member States once a pathogen has been included in 
+the European Network for Epidemiologic Surveillance and Control of Communicable Diseases (2119/98/
+EC and amendments thereafter). There is currently no statutory requirement to monitor incidence and 
+prevalence of non-cholera Vibrios and some vector-borne diseases pathogens which are sensitive to 
+environmental temperatures. 
+
+Defra will seek to influence evolving EU and international policies to take sufficient account of climate 
+change and relevant risks identified in the CCRA. 
+
+Government will look to build the evidence base as to the part climate change might play in increasing 
+the risk of UV exposure and, therefore, the incidence of skin cancer towards the 2080s. Several 
+interacting factors are at play that determine this risk, including the level of projected cloud cover 
+and how people might behave in a warmer, sunnier climate, for example, by taking the necessary 
+protections to minimise exposure to the sun by seeking shade or by applying sunscreen.
+
+27 http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_114929
+28 http://www.sdu.nhs.uk/. Projects include involvement in DE2RHECC
+29 http://www.sdu.nhs.uk/publications-resources/3/NHS-Carbon-Reduction-Strategy/
+
+DEF-PB13698-ClimRisk.indd   25 19/01/2012   12:19
+
+http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_114929
+http://www.sdu.nhs.uk/
+http://www.sdu.nhs.uk/publications-resources/3/NHS-Carbon-Reduction-Strategy/
+
+
+26
+
+
+In England, the new partnership approach to funding flood and coastal resilience could potentially make 
+Government funding available to pay for a share of any worthwhile scheme over time. Cost savings 
+and local contributions will mean more communities can benefit from flood and coastal defences; thus 
+reducing the risk of flooding and consequential impacts on public health and the continuity of health 
+and social care services.
+
+Local networks of health and adaptation expertise have been established in several parts of the UK, 
+each driving initiatives that seek to address local climate-related health risks. Ongoing health reforms 
+(for example the role proposed in England for local authority health and wellbeing Boards and Directors 
+of Public Health) will present important opportunities for locally determined action informed by the 
+local assessment of climate risk, reflecting the needs of the local community and delivering solutions 
+which can deliver the greatest co-benefits. 
+
+This in turn builds on and links with the close working that already exists at the local level between the 
+health, social care and local emergency planning/resilience networks across the UK established under 
+the Civil Contingencies Act 200430 (for example local resilience forums in England and Wales and 
+Strategic Co-ordination Groups in Scotland)31.
+
+Currently the UK Government has a wide range of policies in place across this sector, some going 
+through some significant reform. As part of the development of the NAP, we will use the outputs from 
+the CCRA to support any further action needed to adapt to risks from a changing climate, promote 
+wider co-benefits linked to adaptation measures and contribute to the wider wellbeing of individuals 
+and communities. 
+
+Devolved Governments
+
+Scotland
+
+As part of Scotland’s Climate Change Adaptation Framework, the Scottish Government has published 12 
+‘Sector Action Plans’, including one on Health and Wellbeing32. This provides an overview of key issues 
+in adapting to the consequences of climate change for the health and wellbeing sector in Scotland. The 
+actions outlined provide an indication of the broad range of work planned over the coming years to 
+strengthen resilience of this sector to the impacts of climate change. 
+
+Wales
+
+The Climate Change and Health Working Group has already considered many of the risks identified 
+in the CCRA in its publication, Tackling the health effects of climate change (2009)33. The document 
+recognises that climate change is a significant and emerging threat to public health and wellbeing, and 
+identifies two ways in which climate change will have an impact on the Health Sector:
+
+• directly, as a result of, for example, rising mean temperatures, and flooding
+
+• indirectly, as a result of vector, water and food-borne diseases and air pollution.
+
+30 http://www.cabinetoffice.gov.uk/content/civil-contingencies-act
+31 http://www.cabinetoffice.gov.uk/content/local-resilience-forums
+32 http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/Health
+33 http://wales.gov.uk/topics/health/protection/environmental/publications/climate/?lang=en
+
+The document also highlights the wider health issues surrounding social welfare and inequality that 
+result from the effects of climate change and provides adaptation priorities and objectives for action.
+
+The Heatwave Plan for Wales (2010)34 provides a framework for preparing and responding to heatwaves. 
+It aims to protect health and to reduce harm from extreme heat and heatwaves, including advice for 
+relevant bodies and organisations on the protection of vulnerable people.
+
+Northern Ireland
+
+In Northern Ireland, Climate Change and Health: Impacts, Inequalities and Action was published in 2010 
+by Belfast Healthy Cities in partnership with the Climate Change and Health Group35. This guide for 
+health professionals provides an introduction into the health impacts of climate change and potential 
+directions for health sector action to address impacts on people and places.
+
+34 http://wales.gov.uk/topics/health/protection/environmental/publications/heatwave/?lang=en
+35 http://www.belfasthealthycities.com/PDFs/BHCClimateChange.pdf
+
+DEF-PB13698-ClimRisk.indd   26 19/01/2012   12:19
+
+http://www.cabinetoffice.gov.uk/content/civil-contingencies-act
+http://www.cabinetoffice.gov.uk/content/local-resilience-forums
+http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/Health
+http://wales.gov.uk/topics/health/protection/environmental/publications/climate/?lang=en
+
+
+27
+
+
+In England, the new partnership approach to funding flood and coastal resilience could potentially make 
+Government funding available to pay for a share of any worthwhile scheme over time. Cost savings 
+and local contributions will mean more communities can benefit from flood and coastal defences; thus 
+reducing the risk of flooding and consequential impacts on public health and the continuity of health 
+and social care services.
+
+Local networks of health and adaptation expertise have been established in several parts of the UK, 
+each driving initiatives that seek to address local climate-related health risks. Ongoing health reforms 
+(for example the role proposed in England for local authority health and wellbeing Boards and Directors 
+of Public Health) will present important opportunities for locally determined action informed by the 
+local assessment of climate risk, reflecting the needs of the local community and delivering solutions 
+which can deliver the greatest co-benefits. 
+
+This in turn builds on and links with the close working that already exists at the local level between the 
+health, social care and local emergency planning/resilience networks across the UK established under 
+the Civil Contingencies Act 200430 (for example local resilience forums in England and Wales and 
+Strategic Co-ordination Groups in Scotland)31.
+
+Currently the UK Government has a wide range of policies in place across this sector, some going 
+through some significant reform. As part of the development of the NAP, we will use the outputs from 
+the CCRA to support any further action needed to adapt to risks from a changing climate, promote 
+wider co-benefits linked to adaptation measures and contribute to the wider wellbeing of individuals 
+and communities. 
+
+Devolved Governments
+
+Scotland
+
+As part of Scotland’s Climate Change Adaptation Framework, the Scottish Government has published 12 
+‘Sector Action Plans’, including one on Health and Wellbeing32. This provides an overview of key issues 
+in adapting to the consequences of climate change for the health and wellbeing sector in Scotland. The 
+actions outlined provide an indication of the broad range of work planned over the coming years to 
+strengthen resilience of this sector to the impacts of climate change. 
+
+Wales
+
+The Climate Change and Health Working Group has already considered many of the risks identified 
+in the CCRA in its publication, Tackling the health effects of climate change (2009)33. The document 
+recognises that climate change is a significant and emerging threat to public health and wellbeing, and 
+identifies two ways in which climate change will have an impact on the Health Sector:
+
+• directly, as a result of, for example, rising mean temperatures, and flooding
+
+• indirectly, as a result of vector, water and food-borne diseases and air pollution.
+
+30 http://www.cabinetoffice.gov.uk/content/civil-contingencies-act
+31 http://www.cabinetoffice.gov.uk/content/local-resilience-forums
+32 http://www.scotland.gov.uk/Topics/Environment/climatechange/scotlands-action/adaptation/AdaptationFramework/SAP/Health
+33 http://wales.gov.uk/topics/health/protection/environmental/publications/climate/?lang=en
+
+The document also highlights the wider health issues surrounding social welfare and inequality that 
+result from the effects of climate change and provides adaptation priorities and objectives for action.
+
+The Heatwave Plan for Wales (2010)34 provides a framework for preparing and responding to heatwaves. 
+It aims to protect health and to reduce harm from extreme heat and heatwaves, including advice for 
+relevant bodies and organisations on the protection of vulnerable people.
+
+Northern Ireland
+
+In Northern Ireland, Climate Change and Health: Impacts, Inequalities and Action was published in 2010 
+by Belfast Healthy Cities in partnership with the Climate Change and Health Group35. This guide for 
+health professionals provides an introduction into the health impacts of climate change and potential 
+directions for health sector action to address impacts on people and places.
+
+34 http://wales.gov.uk/topics/health/protection/environmental/publications/heatwave/?lang=en
+35 http://www.belfasthealthycities.com/PDFs/BHCClimateChange.pdf
+
+DEF-PB13698-ClimRisk.indd   27 19/01/2012   12:19
+
+http://wales.gov.uk/topics/health/protection/environmental/publications/heatwave/?lang=en
+http://www.belfasthealthycities.com/PDFs/BHCClimateChange.pdf
+
+
+28
+
+
+3.4. Buildings and Infrastructure
+Overview
+
+Climate change may have significant implications for the built environment, including buildings and 
+energy, transport, water and ICT infrastructure. Infrastructure assets and buildings are in operation or 
+use for many years, which means that decisions made now about their design and construction will 
+have long-term consequences. 
+
+The UK Government and the Devolved Governments have a range of responsibilities for the built 
+environment, including policy for the planning system, building regulations and building control, water 
+and transport infrastructure and flood and coastal erosion risk management. Furthermore, new low 
+carbon infrastructure and the ‘Green Deal’ for homes and businesses will have a crucial role in aiding 
+the transition to a low carbon economy. It will be important to consider climate resilience as part of 
+this process.
+
+Infrastructure UK36 produces the UK Government’s Infrastructure Plan, providing a strong focus on the 
+UK’s long term infrastructure priorities. Responsibility for the three key infrastructure sectors in England 
+– energy, transport and water – rests with DECC, DfT and Defra respectively, although the sectors 
+range from being Government-led (e.g. Highways Agency), private (e.g. ports), to regulated (e.g. water 
+companies) and unregulated (e.g. airports).
+
+Key Findings
+
+The CCRA analysis indicates that buildings and infrastructure will be affected by both extreme weather 
+events and long-term gradual change in the climate. The challenges arise from higher temperatures 
+and changing rainfall patterns. 
+
+The CCRA sets out the following key risks and opportunities for Buildings and Infrastructure at the 
+UK level:
+
+Risks Opportunities
+
+Energy
+
+Energy Infrastructure at significant risk 
+of flooding.
+
+Reduced energy demand for heating.
+
+Higher energy demand for cooling.
+
+Heat damage/disruption to energy infrastructure.
+
+Increased water demand for energy generation.
+
+Transport
+
+Road and railways at significant risk of flooding. Shorter shipping routes and reduced 
+transportation costs due to less arctic ice.
+
+Scouring of road and rail bridges.
+
+36 See http://www.hm-treasury.gov.uk/ppp_infrastructureuk.htm for more information.
+
+Water
+
+Supply-demand deficits.
+
+Buildings
+
+Damage to property due to flooding and coastal 
+erosion.
+
+Overheating in buildings including homes, schools 
+and hospitals.
+
+Increasing impact from the Urban Heat Island effect.
+
+Buildings affected by subsidence.
+
+Flooding is identified as the most significant risk, currently and in the short term, across the UK. Water 
+availability and overheating of buildings are assessed to be increasingly significant by the middle of the 
+century, particularly in England. 
+
+Implications
+
+The CCRA reinforces the importance of increasing the climate resilience of our buildings and 
+infrastructure. This has a range of implications for the way that buildings and infrastructure are planned 
+and commissioned, designed, built and maintained, including housing, offices, schools, hospitals and 
+other public buildings, roads, railways and power stations and the part played by water infrastructure 
+in managing the supply/demand balance. Green infrastructure – the living network of green spaces, 
+water and other environmental features in both urban and rural areas – can help to reduce extremes of 
+temperature and manage water flows that affect buildings. In October 2011, the Green Infrastructure 
+Partnership37 was launched, which will provide the opportunity to demonstrate the benefits that well 
+designed high quality green infrastructure can provide.
+
+The UK Government recognises that adapting infrastructure is a priority and in May 2011 Climate 
+Resilient Infrastructure38 recommended action to achieve an infrastructure network that is resilient to 
+today’s natural hazards and prepared for the future changing climate. The Cabinet Office has published 
+guidance on building infrastructure resilience to address the immediate risks39.
+
+The results of the CCRA reinforce the need for Government, businesses, communities and the 
+infrastructure industry to continue to manage the risk of flooding and coastal erosion. 
+
+In England the Government expects to invest at least £2.1 billion on flooding and coastal erosion over 
+the next four years. The Environment Agency and the other risk management authorities expect to 
+provide improved protection to at least 145,000 households over this period. The Government also 
+helps infrastructure operators manage their flood risk – for example, through the new Flood Warnings 
+for Infrastructure service provided by the Environment Agency; and collaborative work with critical 
+infrastructure operators on the resilience of critical infrastructure to natural hazards led by the Cabinet 
+Office across the UK.
+
+37 http://www.defra.gov.uk/environment/natural/green-infrastructure/
+38 http://www.defra.gov.uk/publications/files/climate-resilient-infrastructure-full.pdf
+39 http://www.cabinetoffice.gov.uk/infrastructure-resilience
+
+DEF-PB13698-ClimRisk.indd   28 19/01/2012   12:19
+
+http://www.hm-treasury.gov.uk/ppp_infrastructureuk.htm
+
+
+29
+
+
+3.4. Buildings and Infrastructure
+Overview
+
+Climate change may have significant implications for the built environment, including buildings and 
+energy, transport, water and ICT infrastructure. Infrastructure assets and buildings are in operation or 
+use for many years, which means that decisions made now about their design and construction will 
+have long-term consequences. 
+
+The UK Government and the Devolved Governments have a range of responsibilities for the built 
+environment, including policy for the planning system, building regulations and building control, water 
+and transport infrastructure and flood and coastal erosion risk management. Furthermore, new low 
+carbon infrastructure and the ‘Green Deal’ for homes and businesses will have a crucial role in aiding 
+the transition to a low carbon economy. It will be important to consider climate resilience as part of 
+this process.
+
+Infrastructure UK36 produces the UK Government’s Infrastructure Plan, providing a strong focus on the 
+UK’s long term infrastructure priorities. Responsibility for the three key infrastructure sectors in England 
+– energy, transport and water – rests with DECC, DfT and Defra respectively, although the sectors 
+range from being Government-led (e.g. Highways Agency), private (e.g. ports), to regulated (e.g. water 
+companies) and unregulated (e.g. airports).
+
+Key Findings
+
+The CCRA analysis indicates that buildings and infrastructure will be affected by both extreme weather 
+events and long-term gradual change in the climate. The challenges arise from higher temperatures 
+and changing rainfall patterns. 
+
+The CCRA sets out the following key risks and opportunities for Buildings and Infrastructure at the 
+UK level:
+
+Risks Opportunities
+
+Energy
+
+Energy Infrastructure at significant risk 
+of flooding.
+
+Reduced energy demand for heating.
+
+Higher energy demand for cooling.
+
+Heat damage/disruption to energy infrastructure.
+
+Increased water demand for energy generation.
+
+Transport
+
+Road and railways at significant risk of flooding. Shorter shipping routes and reduced 
+transportation costs due to less arctic ice.
+
+Scouring of road and rail bridges.
+
+36 See http://www.hm-treasury.gov.uk/ppp_infrastructureuk.htm for more information.
+
+Water
+
+Supply-demand deficits.
+
+Buildings
+
+Damage to property due to flooding and coastal 
+erosion.
+
+Overheating in buildings including homes, schools 
+and hospitals.
+
+Increasing impact from the Urban Heat Island effect.
+
+Buildings affected by subsidence.
+
+Flooding is identified as the most significant risk, currently and in the short term, across the UK. Water 
+availability and overheating of buildings are assessed to be increasingly significant by the middle of the 
+century, particularly in England. 
+
+Implications
+
+The CCRA reinforces the importance of increasing the climate resilience of our buildings and 
+infrastructure. This has a range of implications for the way that buildings and infrastructure are planned 
+and commissioned, designed, built and maintained, including housing, offices, schools, hospitals and 
+other public buildings, roads, railways and power stations and the part played by water infrastructure 
+in managing the supply/demand balance. Green infrastructure – the living network of green spaces, 
+water and other environmental features in both urban and rural areas – can help to reduce extremes of 
+temperature and manage water flows that affect buildings. In October 2011, the Green Infrastructure 
+Partnership37 was launched, which will provide the opportunity to demonstrate the benefits that well 
+designed high quality green infrastructure can provide.
+
+The UK Government recognises that adapting infrastructure is a priority and in May 2011 Climate 
+Resilient Infrastructure38 recommended action to achieve an infrastructure network that is resilient to 
+today’s natural hazards and prepared for the future changing climate. The Cabinet Office has published 
+guidance on building infrastructure resilience to address the immediate risks39.
+
+The results of the CCRA reinforce the need for Government, businesses, communities and the 
+infrastructure industry to continue to manage the risk of flooding and coastal erosion. 
+
+In England the Government expects to invest at least £2.1 billion on flooding and coastal erosion over 
+the next four years. The Environment Agency and the other risk management authorities expect to 
+provide improved protection to at least 145,000 households over this period. The Government also 
+helps infrastructure operators manage their flood risk – for example, through the new Flood Warnings 
+for Infrastructure service provided by the Environment Agency; and collaborative work with critical 
+infrastructure operators on the resilience of critical infrastructure to natural hazards led by the Cabinet 
+Office across the UK.
+
+37 http://www.defra.gov.uk/environment/natural/green-infrastructure/
+38 http://www.defra.gov.uk/publications/files/climate-resilient-infrastructure-full.pdf
+39 http://www.cabinetoffice.gov.uk/infrastructure-resilience
+
+DEF-PB13698-ClimRisk.indd   29 19/01/2012   12:19
+
+http://www.defra.gov.uk/environment/natural/green-infrastructure/
+http://www.defra.gov.uk/publications/files/climate-resilient-infrastructure-full.pdf
+http://www.cabinetoffice.gov.uk/infrastructure-resilience
+
+
+30
+
+
+The Energy National Policy Statements40 ensure decisions on development consents for major energy 
+infrastructure are informed by consideration of the impacts of flood risk. They require both assessments 
+of flood risk and proposed mitigation measures to set out how the proposal will take account of the 
+impacts of climate change, using the most recently available UK Climate Projections. As a minimum, 
+this involves using projections based on the emissions scenario that the Independent Committee on 
+Climate Change suggests the world is currently most closely following, but the high emissions scenario 
+(high impact, low likelihood) is used for any safety-critical aspects of the infrastructure.
+
+The draft National Planning Policy Framework41, which DCLG consulted on from July to October 2011, 
+stated that the Government’s objective is that planning should fully support the transition to a low 
+carbon economy in a changing climate, taking full account of flood risk and coastal change. To achieve 
+this objective, the consultation draft said the planning system should aim to:
+
+• Minimise vulnerability and provide resilience to impacts arising from climate change;
+
+•  Avoid inappropriate development in areas at risk of flooding by directing development away from 
+areas at highest risk or where development is necessary, making it safe without increasing flood risk 
+elsewhere; and
+
+•  Reduce risk from coastal change by avoiding inappropriate development in vulnerable areas or 
+adding to the impacts of physical changes to the coast.
+
+Under the Localism Act 2011, planning authorities and other public bodies in England have a duty to 
+co-operate with each other in relation to planning of strategic cross boundary matters when they are 
+preparing local and marine plans. 
+
+To this end, local planning authorities should adopt proactive strategies to mitigate and adapt to climate 
+change.
+
+The Water White Paper13 includes a focus on increasing the resilience of our water supplies to future 
+pressures such as climate change. Among the reforms set out were: 
+
+•  Over the long-term, to introduce a reformed water abstraction regime, as signaled in the Natural 
+Environment White Paper; 
+
+•  With regulators, to provide clearer guidance to water companies on planning for the long-term, and 
+keeping demand down;
+
+•  To consult on the introduction of national standards and a new planning approval system for 
+sustainable drainage.
+
+New systems of marine planning are also currently being introduced across the UK. The Marine Policy 
+Statement (MPS)42 was adopted jointly by the Secretary of State, Scottish Ministers, Welsh Ministers and 
+the Department of the Environment in Northern Ireland in March 2011. The MPS provides a framework 
+for marine planning across all UK waters and ensures the sustainable use of marine resources and 
+strategic management of marine activities from renewable energy to nature conservation, fishing, 
+recreation and tourism.
+
+40 http://www.decc.gov.uk/en/content/cms/meeting_energy/consents_planning/nps_en_infra/nps_en_infra.aspx
+41 http://www.communities.gov.uk/planningandbuilding/planningsystem/planningpolicy/planningpolicyframework/
+42 http://www.defra.gov.uk/publications/2011/09/30/pb13654-marine-policy-statement/
+
+Building regulations set minimum water efficiency standards for new housing, ensure structural stability 
+and limit heat gain. The recent Housing Strategy (for England)43 emphasises the importance of ensuring 
+that both existing and new homes are sustainable now and in the future, to deliver resilient, adaptable 
+built environments, enhancing the natural environment and people’s quality of life. 
+
+With increasing temperatures and a higher incidence of summer heatwaves, the risks of overheating 
+are projected to increase for all buildings, and there is evidence that some types of buildings are already 
+vulnerable to summer overheating. CLG is reviewing the evidence in this area and the case for action.
+
+The UK Government has established the Green Construction Board to help ensure that the pursuit of 
+greener construction promotes economic growth. The Board has senior level representation from the 
+construction, property and infrastructure sectors and from Government. This builds on the work of the 
+Low Carbon Construction Innovation and Growth Team in BIS.
+
+In 2008 the Highways Agency published their Climate Change Adaptation Strategy and Framework44 in 
+which a climate change risk assessment methodology has been developed. This ensures consideration 
+of climate change in design standards and specifications, routine maintenance, operating procedures 
+and contingency planning. Through this process, increases in precipitation and temperature have been 
+highlighted as having the potential to threaten the operation of the network. As a result road surface 
+specifications have been amended to withstand higher temperatures which follow previous alterations 
+to the standards for increased drainage capacity. As these design changes are being made now, the 
+costs will become embedded, so the expectation is that there won’t be a sudden requirement for large 
+investment in adaptation measures in the future.
+
+Network Rail has previously carried out climate change risk assessments and research and has weather 
+standards and risk management policies in place. A major research project (Tomorrow’s Railway and 
+Climate Change Adaptation, TRaCCA) is assessing the risks of temperature (leading to track buckling, 
+staff exposure to heat stress, overhead line sag and overheating of line-side equipment), precipitation 
+(leading to flooding, scour and landslip), wind (leading to trees obstructing railway lines) and sea level 
+rise (leading to overtopping/damage of sea defences at coastal railways). The monitoring of rail buckling 
+is a high priority, as well as flooding and sea level rise. Through established negotiations Network Rail, 
+the Regulator (Office of Rail Regulator (ORR)) and DfT are working to agree adaptation measures which 
+will be implemented during Control Period 5 (2013/14 to 2018/19) and monitored at the highest level. 
+The Initial Industry Plan for this period has concluded that no major additional funding is required 
+during this period as the majority of assets have a relatively short life (in climate change terms), however 
+for some of the assets (in particular bridges) Network Rail has identified that £70 million of additional 
+expenditure is required during Control Period 5 to accommodate climate change.
+
+As part of the development of the National Adaptation Programme, we will work together with key 
+organisations to consider how best to respond to any risks identified in the CCRA where further action 
+is required.
+
+43 http://www.communities.gov.uk/publications/housing/housingstrategy2011
+44 http://www.highways.gov.uk/aboutus/documents/CCAF_Strategy_and_Vol_1_Rev_B_Nov.pdf
+
+DEF-PB13698-ClimRisk.indd   30 19/01/2012   12:19
+
+http://www.decc.gov.uk/en/content/cms/meeting_energy/consents_planning/nps_en_infra/nps_en_infra.aspx
+http://www.communities.gov.uk/planningandbuilding/planningsystem/planningpolicy/planningpolicyframework/
+http://www.defra.gov.uk/publications/2011/09/30/pb13654-marine-policy-statement/
+
+
+31
+
+
+The Energy National Policy Statements40 ensure decisions on development consents for major energy 
+infrastructure are informed by consideration of the impacts of flood risk. They require both assessments 
+of flood risk and proposed mitigation measures to set out how the proposal will take account of the 
+impacts of climate change, using the most recently available UK Climate Projections. As a minimum, 
+this involves using projections based on the emissions scenario that the Independent Committee on 
+Climate Change suggests the world is currently most closely following, but the high emissions scenario 
+(high impact, low likelihood) is used for any safety-critical aspects of the infrastructure.
+
+The draft National Planning Policy Framework41, which DCLG consulted on from July to October 2011, 
+stated that the Government’s objective is that planning should fully support the transition to a low 
+carbon economy in a changing climate, taking full account of flood risk and coastal change. To achieve 
+this objective, the consultation draft said the planning system should aim to:
+
+• Minimise vulnerability and provide resilience to impacts arising from climate change;
+
+•  Avoid inappropriate development in areas at risk of flooding by directing development away from 
+areas at highest risk or where development is necessary, making it safe without increasing flood risk 
+elsewhere; and
+
+•  Reduce risk from coastal change by avoiding inappropriate development in vulnerable areas or 
+adding to the impacts of physical changes to the coast.
+
+Under the Localism Act 2011, planning authorities and other public bodies in England have a duty to 
+co-operate with each other in relation to planning of strategic cross boundary matters when they are 
+preparing local and marine plans. 
+
+To this end, local planning authorities should adopt proactive strategies to mitigate and adapt to climate 
+change.
+
+The Water White Paper13 includes a focus on increasing the resilience of our water supplies to future 
+pressures such as climate change. Among the reforms set out were: 
+
+•  Over the long-term, to introduce a reformed water abstraction regime, as signaled in the Natural 
+Environment White Paper; 
+
+•  With regulators, to provide clearer guidance to water companies on planning for the long-term, and 
+keeping demand down;
+
+•  To consult on the introduction of national standards and a new planning approval system for 
+sustainable drainage.
+
+New systems of marine planning are also currently being introduced across the UK. The Marine Policy 
+Statement (MPS)42 was adopted jointly by the Secretary of State, Scottish Ministers, Welsh Ministers and 
+the Department of the Environment in Northern Ireland in March 2011. The MPS provides a framework 
+for marine planning across all UK waters and ensures the sustainable use of marine resources and 
+strategic management of marine activities from renewable energy to nature conservation, fishing, 
+recreation and tourism.
+
+40 http://www.decc.gov.uk/en/content/cms/meeting_energy/consents_planning/nps_en_infra/nps_en_infra.aspx
+41 http://www.communities.gov.uk/planningandbuilding/planningsystem/planningpolicy/planningpolicyframework/
+42 http://www.defra.gov.uk/publications/2011/09/30/pb13654-marine-policy-statement/
+
+Building regulations set minimum water efficiency standards for new housing, ensure structural stability 
+and limit heat gain. The recent Housing Strategy (for England)43 emphasises the importance of ensuring 
+that both existing and new homes are sustainable now and in the future, to deliver resilient, adaptable 
+built environments, enhancing the natural environment and people’s quality of life. 
+
+With increasing temperatures and a higher incidence of summer heatwaves, the risks of overheating 
+are projected to increase for all buildings, and there is evidence that some types of buildings are already 
+vulnerable to summer overheating. CLG is reviewing the evidence in this area and the case for action.
+
+The UK Government has established the Green Construction Board to help ensure that the pursuit of 
+greener construction promotes economic growth. The Board has senior level representation from the 
+construction, property and infrastructure sectors and from Government. This builds on the work of the 
+Low Carbon Construction Innovation and Growth Team in BIS.
+
+In 2008 the Highways Agency published their Climate Change Adaptation Strategy and Framework44 in 
+which a climate change risk assessment methodology has been developed. This ensures consideration 
+of climate change in design standards and specifications, routine maintenance, operating procedures 
+and contingency planning. Through this process, increases in precipitation and temperature have been 
+highlighted as having the potential to threaten the operation of the network. As a result road surface 
+specifications have been amended to withstand higher temperatures which follow previous alterations 
+to the standards for increased drainage capacity. As these design changes are being made now, the 
+costs will become embedded, so the expectation is that there won’t be a sudden requirement for large 
+investment in adaptation measures in the future.
+
+Network Rail has previously carried out climate change risk assessments and research and has weather 
+standards and risk management policies in place. A major research project (Tomorrow’s Railway and 
+Climate Change Adaptation, TRaCCA) is assessing the risks of temperature (leading to track buckling, 
+staff exposure to heat stress, overhead line sag and overheating of line-side equipment), precipitation 
+(leading to flooding, scour and landslip), wind (leading to trees obstructing railway lines) and sea level 
+rise (leading to overtopping/damage of sea defences at coastal railways). The monitoring of rail buckling 
+is a high priority, as well as flooding and sea level rise. Through established negotiations Network Rail, 
+the Regulator (Office of Rail Regulator (ORR)) and DfT are working to agree adaptation measures which 
+will be implemented during Control Period 5 (2013/14 to 2018/19) and monitored at the highest level. 
+The Initial Industry Plan for this period has concluded that no major additional funding is required 
+during this period as the majority of assets have a relatively short life (in climate change terms), however 
+for some of the assets (in particular bridges) Network Rail has identified that £70 million of additional 
+expenditure is required during Control Period 5 to accommodate climate change.
+
+As part of the development of the National Adaptation Programme, we will work together with key 
+organisations to consider how best to respond to any risks identified in the CCRA where further action 
+is required.
+
+43 http://www.communities.gov.uk/publications/housing/housingstrategy2011
+44 http://www.highways.gov.uk/aboutus/documents/CCAF_Strategy_and_Vol_1_Rev_B_Nov.pdf
+
+DEF-PB13698-ClimRisk.indd   31 19/01/2012   12:19
+
+http://www.communities.gov.uk/publications/housing/housingstrategy2011
+http://www.highways.gov.uk/aboutus/documents/CCAF_Strategy_and_Vol_1_Rev_B_Nov.pdf
+
+
+32
+
+
+Devolved Governments
+
+Scotland
+
+In Scotland, national planning policies are set out in the National Planning Framework and Scottish 
+Planning Policy (SPP)45. Both state that climate change adaptation measures need to be considered in 
+development planning.
+
+The Scottish Government has published adaptation ‘Sector Action Plans’ for the Built Environment, 
+Energy, Transport and Water Environment and Resource46. These Actions Plans set out the key climate 
+change issues and challenges and planned work to strengthen resilience. 
+
+A National Flood Risk Assessment has been undertaken by the Scottish Environment Protection 
+Agency (SEPA) which provides a detailed picture of flooding impacts across Scotland. The new national 
+assessment has considered main sources of flooding to identify the areas which at present are at the 
+greatest risk of flooding. The National Flood Risk Assessment has identified that in Scotland one in 20 
+homes and one in 14 businesses are at risk of flooding.
+
+SEPA has undertaken a further assessment of where the impacts of floods are likely to be greatest in 
+future. This allows responsible public bodies to target efforts in a way which will benefit communities, 
+the economy and the environment. These areas are called Potentially Vulnerable Areas. The identification 
+of a Potentially Vulnerable Area has important implications for subsequent efforts to understand and 
+address flood risk. The assessment will also enable national and local government and other organisations 
+with a responsibility for flood risk management, to develop a co-ordinated approach to tackle flooding 
+more effectively.
+
+Wales
+
+The National Strategy for Flood and Coastal Erosion Risk Management was published in November 
+201147, and the Environment Agency will report on progress annually. 
+
+Various Technical Advice Notes (TANs) aid in embedding adaptation into the built environment, 
+and provide supplementary guidance to Planning Policy Wales. With the full devolution of Building 
+Regulations from January 2012, the Welsh Government will be able to set improved standards for all 
+new buildings, for example in ventilation and water efficiency.
+
+The objectives of the Wales Transport Strategy (WTS) (2008) are delivered at a national level through 
+the National Transport Plan (NTP) (2010)48, and at a regional level through the Regional Transport Plans 
+prepared by the Regional Transport Consortia. A transport system that is adapting to the impacts of 
+climate change is a key long-term outcome of the WTS.
+
+The Strategic Policy Position Statement on Water (2011)49 sets out the Welsh Government’s position on 
+aspects of water policy in response to future pressures and challenges, including a range of measures 
+which will help address the impacts of climate change on the availability of water.
+
+45 http://www.scotland.gov.uk/Publications/2010/02/03132605/0
+46 www.scotland.gov.uk/AdaptationSAPs
+47 http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/flooding/nationalstrategy/?lang=en
+48 http://wales.gov.uk/topics/transport/publications/ntp/?lang=en
+49 http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/publications/statement2011/?lang=en
+
+Northern Ireland
+
+Completion of Northern Ireland’s preliminary flood risk assessments, water demand profiling, 
+environmental monitoring together with energy supply, consumption/performance studies have helped 
+to identify, evaluate and plan for flooding, drought, water quality and overheating. 
+
+Northern Ireland’s overarching Sustainable Development Strategy provides a robust framework for the 
+achievement of sustainable development in Northern Ireland, including the delivery of effective/resilient 
+climate change mitigation and adaption delivery mechanisms. Current planning policy minimises flood 
+risk to property by restricting development in flood plains and in areas of flood.
+
+Northern Ireland’s roads authority, Roads Service, has identified “Landslides and Subsidence” as one of 
+the more prevalent risks associated with climate change. Roads Service is actively undertaking extensive 
+research on this topic in an attempt to fully understand the failure mechanisms, mitigate the realisation 
+of failure events and compose an adequate and effective adaption programme.
+
+DEF-PB13698-ClimRisk.indd   32 19/01/2012   12:19
+
+http://www.scotland.gov.uk/Publications/2010/02/03132605/0
+http://www.scotland.gov.uk/AdaptationSAPs
+http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/flooding/nationalstrategy/?lang=en
+http://wales.gov.uk/topics/transport/publications/ntp/?lang=en
+http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/publications/statement2011/?lang=en
+
+
+33
+
+
+Devolved Governments
+
+Scotland
+
+In Scotland, national planning policies are set out in the National Planning Framework and Scottish 
+Planning Policy (SPP)45. Both state that climate change adaptation measures need to be considered in 
+development planning.
+
+The Scottish Government has published adaptation ‘Sector Action Plans’ for the Built Environment, 
+Energy, Transport and Water Environment and Resource46. These Actions Plans set out the key climate 
+change issues and challenges and planned work to strengthen resilience. 
+
+A National Flood Risk Assessment has been undertaken by the Scottish Environment Protection 
+Agency (SEPA) which provides a detailed picture of flooding impacts across Scotland. The new national 
+assessment has considered main sources of flooding to identify the areas which at present are at the 
+greatest risk of flooding. The National Flood Risk Assessment has identified that in Scotland one in 20 
+homes and one in 14 businesses are at risk of flooding.
+
+SEPA has undertaken a further assessment of where the impacts of floods are likely to be greatest in 
+future. This allows responsible public bodies to target efforts in a way which will benefit communities, 
+the economy and the environment. These areas are called Potentially Vulnerable Areas. The identification 
+of a Potentially Vulnerable Area has important implications for subsequent efforts to understand and 
+address flood risk. The assessment will also enable national and local government and other organisations 
+with a responsibility for flood risk management, to develop a co-ordinated approach to tackle flooding 
+more effectively.
+
+Wales
+
+The National Strategy for Flood and Coastal Erosion Risk Management was published in November 
+201147, and the Environment Agency will report on progress annually. 
+
+Various Technical Advice Notes (TANs) aid in embedding adaptation into the built environment, 
+and provide supplementary guidance to Planning Policy Wales. With the full devolution of Building 
+Regulations from January 2012, the Welsh Government will be able to set improved standards for all 
+new buildings, for example in ventilation and water efficiency.
+
+The objectives of the Wales Transport Strategy (WTS) (2008) are delivered at a national level through 
+the National Transport Plan (NTP) (2010)48, and at a regional level through the Regional Transport Plans 
+prepared by the Regional Transport Consortia. A transport system that is adapting to the impacts of 
+climate change is a key long-term outcome of the WTS.
+
+The Strategic Policy Position Statement on Water (2011)49 sets out the Welsh Government’s position on 
+aspects of water policy in response to future pressures and challenges, including a range of measures 
+which will help address the impacts of climate change on the availability of water.
+
+45 http://www.scotland.gov.uk/Publications/2010/02/03132605/0
+46 www.scotland.gov.uk/AdaptationSAPs
+47 http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/flooding/nationalstrategy/?lang=en
+48 http://wales.gov.uk/topics/transport/publications/ntp/?lang=en
+49 http://wales.gov.uk/topics/environmentcountryside/epq/waterflooding/publications/statement2011/?lang=en
+
+Northern Ireland
+
+Completion of Northern Ireland’s preliminary flood risk assessments, water demand profiling, 
+environmental monitoring together with energy supply, consumption/performance studies have helped 
+to identify, evaluate and plan for flooding, drought, water quality and overheating. 
+
+Northern Ireland’s overarching Sustainable Development Strategy provides a robust framework for the 
+achievement of sustainable development in Northern Ireland, including the delivery of effective/resilient 
+climate change mitigation and adaption delivery mechanisms. Current planning policy minimises flood 
+risk to property by restricting development in flood plains and in areas of flood.
+
+Northern Ireland’s roads authority, Roads Service, has identified “Landslides and Subsidence” as one of 
+the more prevalent risks associated with climate change. Roads Service is actively undertaking extensive 
+research on this topic in an attempt to fully understand the failure mechanisms, mitigate the realisation 
+of failure events and compose an adequate and effective adaption programme.
+
+DEF-PB13698-ClimRisk.indd   33 19/01/2012   12:19
+
+
+34
+
+3.5. Natural Environment
+Overview
+
+The Natural Environment theme covers a range of elements across both the physical and biological 
+world: wildlife, rivers and streams, lakes and seas, urban green space and open countryside, forests, 
+fisheries and farmland. It underpins all aspects of our lives. The ecosystem services provided by the 
+natural environment are the foundation of sustained economic growth and personal wellbeing. The 
+recent UK National Ecosystem Assessment (NEA)50 provides us with a comprehensive overview of the 
+state of the natural environment in the UK and a new way of estimating our national ecological wealth.
+
+Natural environment and biodiversity policies are devolved. In England, Defra leads overarching policy, 
+with CLG leading on planning policy, DECC on energy policy and DfT on transport policy. All these 
+policy areas impact on the Natural Environment. The Scottish Government, Welsh Government and 
+Northern Ireland Executive are responsible for natural environment and biodiversity policy in Scotland, 
+Wales and Northern Ireland, respectively.
+
+Responsibility for domestic marine and fisheries policy is devolved to the appropriate Government 
+Departments in Scotland, Wales and Northern Ireland. In England, and for negotiations on EU and 
+international policies, Defra has lead responsibility. 
+
+UK Government, Scottish Government, Welsh Government and Northern Ireland Executive have a 
+shared vision for clean, healthy, safe, productive and biologically diverse oceans and seas.
+
+The natural environment is vulnerable to both extreme weather events and incremental climate change. 
+It is also an important asset to help society mitigate impacts and to adapt to climate change: managing 
+floods, cooling urban areas and capturing and storing drinking water. CCRA analysis has considered 
+the direct and indirect impacts climate change may have on biodiversity and the consequences to 
+ecosystem services. 
+
+The natural environment is already under considerable pressure, as highlighted by the NEA. The 
+CCRA analysis indicates that a changing climate presents both risks and opportunities for the natural 
+environment.
+
+50 http://uknea.unep-wcmc.org/
+
+Key Findings 
+
+The CCRA suggests that, taken collectively, the direct and indirect impacts of climate change on 
+the natural environment could be significant by the 2050s, potentially further exacerbating existing 
+pressures on ecosystems and contributing to the further decline of some species.
+
+The key risks and opportunities identified at the UK level are:
+
+Risks Opportunities
+
+Low water levels and reduced river flows leading 
+to increased concentration of pollutants from 
+agriculture, sewage and air pollution damaging 
+freshwater habitats and other ecosystem services.
+
+Higher temperatures leading to increase 
+in some provisioning services for example, 
+agriculture and forestry (assuming that water 
+availability is not a constraint).
+
+Soil moisture deficits and erosion impacting 
+biodiversity and soil carbon and increasing risk of 
+wildfires.
+
+Increased habitat range for some generalist 
+species e.g. warm water fish or southerly 
+insects and plants.
+
+Increased prevalence of invasive non-native species, 
+pests and pathogens impacting on animal, plant 
+and human health provisioning services (such as 
+fisheries) and biodiversity.
+
+Warmer rivers, lakes and seas impacting on 
+biodiversity and the productivity and functioning 
+of aquatic and marine ecosystems.
+
+Flooding and coastal erosion impacting on key 
+coastal habitats and other ecosystem services 
+(including the extent of beaches and nature sites 
+for tourism).
+
+Loss of climate space, with species unable to track 
+climate change especially resulting from habitat 
+fragmentation (due to cumulative impact of risks 
+and policy decisions taken in other sectors).
+
+Possibility of algal blooms, ocean acidification and 
+species range shifts impacting on marine habitats, 
+species and ecosystem services.
+
+Changes in timing of seasonal events and migration 
+patterns can result in mismatches between species 
+such as predator-prey/host relationships.
+
+A number of risks and opportunities (such as increased yields, flood risk and plant disease) relate to 
+commercial farming and forestry and are discussed in the Agriculture and Forestry Section (3.1.).
+
+DEF-PB13698-ClimRisk.indd   34 19/01/2012   12:19
+
+http://uknea.unep-wcmc.org/
+
+
+35
+
+
+3.5. Natural Environment
+Overview
+
+The Natural Environment theme covers a range of elements across both the physical and biological 
+world: wildlife, rivers and streams, lakes and seas, urban green space and open countryside, forests, 
+fisheries and farmland. It underpins all aspects of our lives. The ecosystem services provided by the 
+natural environment are the foundation of sustained economic growth and personal wellbeing. The 
+recent UK National Ecosystem Assessment (NEA)50 provides us with a comprehensive overview of the 
+state of the natural environment in the UK and a new way of estimating our national ecological wealth.
+
+Natural environment and biodiversity policies are devolved. In England, Defra leads overarching policy, 
+with CLG leading on planning policy, DECC on energy policy and DfT on transport policy. All these 
+policy areas impact on the Natural Environment. The Scottish Government, Welsh Government and 
+Northern Ireland Executive are responsible for natural environment and biodiversity policy in Scotland, 
+Wales and Northern Ireland, respectively.
+
+Responsibility for domestic marine and fisheries policy is devolved to the appropriate Government 
+Departments in Scotland, Wales and Northern Ireland. In England, and for negotiations on EU and 
+international policies, Defra has lead responsibility. 
+
+UK Government, Scottish Government, Welsh Government and Northern Ireland Executive have a 
+shared vision for clean, healthy, safe, productive and biologically diverse oceans and seas.
+
+The natural environment is vulnerable to both extreme weather events and incremental climate change. 
+It is also an important asset to help society mitigate impacts and to adapt to climate change: managing 
+floods, cooling urban areas and capturing and storing drinking water. CCRA analysis has considered 
+the direct and indirect impacts climate change may have on biodiversity and the consequences to 
+ecosystem services. 
+
+The natural environment is already under considerable pressure, as highlighted by the NEA. The 
+CCRA analysis indicates that a changing climate presents both risks and opportunities for the natural 
+environment.
+
+50 http://uknea.unep-wcmc.org/
+
+Key Findings 
+
+The CCRA suggests that, taken collectively, the direct and indirect impacts of climate change on 
+the natural environment could be significant by the 2050s, potentially further exacerbating existing 
+pressures on ecosystems and contributing to the further decline of some species.
+
+The key risks and opportunities identified at the UK level are:
+
+Risks Opportunities
+
+Low water levels and reduced river flows leading 
+to increased concentration of pollutants from 
+agriculture, sewage and air pollution damaging 
+freshwater habitats and other ecosystem services.
+
+Higher temperatures leading to increase 
+in some provisioning services for example, 
+agriculture and forestry (assuming that water 
+availability is not a constraint).
+
+Soil moisture deficits and erosion impacting 
+biodiversity and soil carbon and increasing risk of 
+wildfires.
+
+Increased habitat range for some generalist 
+species e.g. warm water fish or southerly 
+insects and plants.
+
+Increased prevalence of invasive non-native species, 
+pests and pathogens impacting on animal, plant 
+and human health provisioning services (such as 
+fisheries) and biodiversity.
+
+Warmer rivers, lakes and seas impacting on 
+biodiversity and the productivity and functioning 
+of aquatic and marine ecosystems.
+
+Flooding and coastal erosion impacting on key 
+coastal habitats and other ecosystem services 
+(including the extent of beaches and nature sites 
+for tourism).
+
+Loss of climate space, with species unable to track 
+climate change especially resulting from habitat 
+fragmentation (due to cumulative impact of risks 
+and policy decisions taken in other sectors).
+
+Possibility of algal blooms, ocean acidification and 
+species range shifts impacting on marine habitats, 
+species and ecosystem services.
+
+Changes in timing of seasonal events and migration 
+patterns can result in mismatches between species 
+such as predator-prey/host relationships.
+
+A number of risks and opportunities (such as increased yields, flood risk and plant disease) relate to 
+commercial farming and forestry and are discussed in the Agriculture and Forestry Section (3.1.).
+
+DEF-PB13698-ClimRisk.indd   35 19/01/2012   12:19
+
+
+36
+
+Implications
+
+The importance of ecosystem services and biodiversity is recognised internationally. There are a number 
+of EU Directives that seek to protect and enhance our natural resources, now and in the future, including: 
+the Water Framework Directive, the Floods Directive, the Urban Waste Water and Treatment Directive, 
+the Habitats Directive (currently being reviewed by Defra), the Birds Directive, and the Marine Strategy 
+Framework Directive. Internationally, the UK played a key role in securing the historic global agreement 
+in Nagoya in 2010 to take urgent action to halt the loss of biodiversity51.
+
+In addition, a wide range of EU programmes, including the Common Agricultural Policy, Cohesion Policy 
+and Common Fisheries Policy support farmers, land managers and fishers to adopt more sustainable 
+approaches and so contribute to the ecosystem services the natural environment provides. 
+
+In June 2011 the UK Government published ‘The Natural Choice: securing the value of nature’52, the 
+first natural environment White Paper in 20 years, to meet its EU and international commitments and 
+to protect the crucial role ecosystems and biodiversity play in our wellbeing and economic prosperity. 
+The White Paper commits to reversing the historic decline of the natural environment – moving from 
+net biodiversity loss to net gain. Adaptation is a theme that runs throughout the White Paper.
+
+The White Paper also highlights the challenges of protecting and enhancing nature whilst at the same 
+time tackling pressures brought about by climate change on other resources such as water, food 
+production and land and soil erosion. Tough choices may need to be made which the outputs of the 
+CCRA will help inform.
+
+In August 2011, the UK Government published its ambitious new biodiversity strategy ‘Biodiversity 
+2020: A strategy for England’s wildlife and ecosystem services’53, setting out the strategic direction for 
+biodiversity policy for the next decade on land (including rivers and lakes) and at sea. This responds to 
+the challenges laid in the earlier report by Professor Sir John Lawton54 which concluded that England’s 
+collection of wild areas did not represent a coherent and resilient ecological network capable of 
+responding to climate change and other pressures. Delivery of the Natural Environment White Paper’s 
+vision requires action now to support integrated landscape scale approaches and as such will contribute 
+to increased resilience of the natural environment to climate change.
+
+Maritime legislation in general is also strengthening, as evidenced by the UK Marine and Coastal  
+Access Act 200955, the Marine (Scotland) Act 201056, the Northern Ireland Marine Bill57 and the 
+EU Marine Strategy Framework Directive58. Some unique challenges in the marine environment 
+include ocean acidification and low oxygen zones. The long-term implications of these changes are  
+poorly understood.
+
+51 http://www.cbd.int/cop10/
+52 http://www.archive.defra.gov.uk/environment/natural/documents/newp-white-paper-110607.pdf
+53 http://www.defra.gov.uk/publications/2011/08/19/pb13583-biodiversity-strategy-2020/
+54 http://archive.defra.gov.uk/environment/biodiversity/documents/201009space-for-nature.pdf
+55 http://www.defra.gov.uk/environment/marine/mca/
+56 http://scotland.gov.uk/Topics/marine/seamanagement/marineact
+57 http://www.doeni.gov.uk/index/protect_the_environment/water/marine_bill_.htm
+58 http://ec.europa.eu/environment/water/marine/directive_en.htm
+
+In addition, in 2002, the UK Government and the Devolved Administrations set out a vision of clean, 
+healthy, safe, productive and biologically diverse oceans and seas. Since then, the state of our seas has 
+been monitored and assessed (see Charting Progress 1 and 2 Reports)59.
+
+To specifically address climate change implications for our marine environment, the UK Marine Climate 
+Change Impacts Partnership (MCCIP), a partnership between marine scientists and sponsors from 
+the UK and Devolved Governments, their agencies and industry, aims to develop a long-term multi-
+disciplinary approach to understanding the implications of climate change in our seas. It plays a key role 
+in providing marine climate change expertise for national and international high-level reporting such as 
+Charting Progress 2 and OSPAR’s Quality Status Report. MCCIP also provides technical support to help 
+the marine industry to develop their adaptive capabilities to climate change.
+
+More recently, the Centre for Environment, Fisheries & Aquaculture Science (Cefas), through funding 
+from UK Government, has also established a new “Marine Climate Change Centre” to provide a 
+“one-stop-shop” for detailed expert advice on impacts of climate change on the marine environment.
+
+As part of the development of the NAP (2013), we will use the outputs from the CCRA to inform 
+decisions on action needed to improve the resilience of the natural environment.
+
+Devolved Governments
+
+Scotland
+
+Increasing the resilience of the natural systems on which communities depend to the impacts of climate 
+change is part of the aim of Scotland’s Climate Change Adaptation Framework60. The Framework’s 
+principles promote an ecosystem approach which recognises the interdependence between sectors 
+and a healthy environment. Amongst the 12 ‘Sector Action Plans’, those on Biodiversity and Ecosystem 
+Resilience, Water Environment and Resource, Spatial Planning and Land Use, Marine and Fisheries, 
+Agriculture, and Forests and Forestry61, provide an overview of key issues in adapting to the consequences 
+of climate change for the natural environment in Scotland. The actions outlined provide an indication 
+of the broad range of work planned over the coming years to strengthen resilience to the impacts of 
+climate change.
+
+The ‘Scottish Biodiversity Strategy’ has identified some actions to assist in adaptation to climate change, 
+and more will be described as understanding of climate change risks and impacts increases. Many 
+actions to assist in adaptation have been identified in the Scottish Natural Heritage publication Climate 
+change and natural heritage – SNH’s approach and action plan. 
+
+The Marine (Scotland) Act 2010 places responsibilities on Scottish Ministers and public authorities 
+regarding the mitigation of and adaptation to climate change including the need to set mitigation and 
+adaptation objectives in a national or regional marine plan. 
+
+‘Getting the best from our land: a land use strategy for Scotland’ recognises that land-use decisions 
+should be informed by the opportunities and threats from climate change. Implementation of the 
+Strategy will draw on the outputs from the CCRA.
+
+59 http://chartingprogress.defra.gov.uk/
+60 http://www.scotland.gov.uk/AdaptationFramework
+61 http://www.scotland.gov.uk/AdaptationSAPs
+
+DEF-PB13698-ClimRisk.indd   36 19/01/2012   12:19
+
+http://www.cbd.int/cop10/
+http://www.archive.defra.gov.uk/environment/natural/documents/newp-white-paper-110607.pdf
+http://www.defra.gov.uk/publications/2011/08/19/pb13583-biodiversity-strategy-2020/
+http://archive.defra.gov.uk/environment/biodiversity/documents/201009space-for-nature.pdf
+http://www.defra.gov.uk/environment/marine/mca/
+http://scotland.gov.uk/Topics/marine/seamanagement/marineact
+http://www.doeni.gov.uk/index/protect_the_environment/water/marine_bill_.htm
+http://ec.europa.eu/environment/water/marine/directive_en.htm
+
+
+37
+
+
+Implications
+
+The importance of ecosystem services and biodiversity is recognised internationally. There are a number 
+of EU Directives that seek to protect and enhance our natural resources, now and in the future, including: 
+the Water Framework Directive, the Floods Directive, the Urban Waste Water and Treatment Directive, 
+the Habitats Directive (currently being reviewed by Defra), the Birds Directive, and the Marine Strategy 
+Framework Directive. Internationally, the UK played a key role in securing the historic global agreement 
+in Nagoya in 2010 to take urgent action to halt the loss of biodiversity51.
+
+In addition, a wide range of EU programmes, including the Common Agricultural Policy, Cohesion Policy 
+and Common Fisheries Policy support farmers, land managers and fishers to adopt more sustainable 
+approaches and so contribute to the ecosystem services the natural environment provides. 
+
+In June 2011 the UK Government published ‘The Natural Choice: securing the value of nature’52, the 
+first natural environment White Paper in 20 years, to meet its EU and international commitments and 
+to protect the crucial role ecosystems and biodiversity play in our wellbeing and economic prosperity. 
+The White Paper commits to reversing the historic decline of the natural environment – moving from 
+net biodiversity loss to net gain. Adaptation is a theme that runs throughout the White Paper.
+
+The White Paper also highlights the challenges of protecting and enhancing nature whilst at the same 
+time tackling pressures brought about by climate change on other resources such as water, food 
+production and land and soil erosion. Tough choices may need to be made which the outputs of the 
+CCRA will help inform.
+
+In August 2011, the UK Government published its ambitious new biodiversity strategy ‘Biodiversity 
+2020: A strategy for England’s wildlife and ecosystem services’53, setting out the strategic direction for 
+biodiversity policy for the next decade on land (including rivers and lakes) and at sea. This responds to 
+the challenges laid in the earlier report by Professor Sir John Lawton54 which concluded that England’s 
+collection of wild areas did not represent a coherent and resilient ecological network capable of 
+responding to climate change and other pressures. Delivery of the Natural Environment White Paper’s 
+vision requires action now to support integrated landscape scale approaches and as such will contribute 
+to increased resilience of the natural environment to climate change.
+
+Maritime legislation in general is also strengthening, as evidenced by the UK Marine and Coastal  
+Access Act 200955, the Marine (Scotland) Act 201056, the Northern Ireland Marine Bill57 and the 
+EU Marine Strategy Framework Directive58. Some unique challenges in the marine environment 
+include ocean acidification and low oxygen zones. The long-term implications of these changes are  
+poorly understood.
+
+51 http://www.cbd.int/cop10/
+52 http://www.archive.defra.gov.uk/environment/natural/documents/newp-white-paper-110607.pdf
+53 http://www.defra.gov.uk/publications/2011/08/19/pb13583-biodiversity-strategy-2020/
+54 http://archive.defra.gov.uk/environment/biodiversity/documents/201009space-for-nature.pdf
+55 http://www.defra.gov.uk/environment/marine/mca/
+56 http://scotland.gov.uk/Topics/marine/seamanagement/marineact
+57 http://www.doeni.gov.uk/index/protect_the_environment/water/marine_bill_.htm
+58 http://ec.europa.eu/environment/water/marine/directive_en.htm
+
+In addition, in 2002, the UK Government and the Devolved Administrations set out a vision of clean, 
+healthy, safe, productive and biologically diverse oceans and seas. Since then, the state of our seas has 
+been monitored and assessed (see Charting Progress 1 and 2 Reports)59.
+
+To specifically address climate change implications for our marine environment, the UK Marine Climate 
+Change Impacts Partnership (MCCIP), a partnership between marine scientists and sponsors from 
+the UK and Devolved Governments, their agencies and industry, aims to develop a long-term multi-
+disciplinary approach to understanding the implications of climate change in our seas. It plays a key role 
+in providing marine climate change expertise for national and international high-level reporting such as 
+Charting Progress 2 and OSPAR’s Quality Status Report. MCCIP also provides technical support to help 
+the marine industry to develop their adaptive capabilities to climate change.
+
+More recently, the Centre for Environment, Fisheries & Aquaculture Science (Cefas), through funding 
+from UK Government, has also established a new “Marine Climate Change Centre” to provide a 
+“one-stop-shop” for detailed expert advice on impacts of climate change on the marine environment.
+
+As part of the development of the NAP (2013), we will use the outputs from the CCRA to inform 
+decisions on action needed to improve the resilience of the natural environment.
+
+Devolved Governments
+
+Scotland
+
+Increasing the resilience of the natural systems on which communities depend to the impacts of climate 
+change is part of the aim of Scotland’s Climate Change Adaptation Framework60. The Framework’s 
+principles promote an ecosystem approach which recognises the interdependence between sectors 
+and a healthy environment. Amongst the 12 ‘Sector Action Plans’, those on Biodiversity and Ecosystem 
+Resilience, Water Environment and Resource, Spatial Planning and Land Use, Marine and Fisheries, 
+Agriculture, and Forests and Forestry61, provide an overview of key issues in adapting to the consequences 
+of climate change for the natural environment in Scotland. The actions outlined provide an indication 
+of the broad range of work planned over the coming years to strengthen resilience to the impacts of 
+climate change.
+
+The ‘Scottish Biodiversity Strategy’ has identified some actions to assist in adaptation to climate change, 
+and more will be described as understanding of climate change risks and impacts increases. Many 
+actions to assist in adaptation have been identified in the Scottish Natural Heritage publication Climate 
+change and natural heritage – SNH’s approach and action plan. 
+
+The Marine (Scotland) Act 2010 places responsibilities on Scottish Ministers and public authorities 
+regarding the mitigation of and adaptation to climate change including the need to set mitigation and 
+adaptation objectives in a national or regional marine plan. 
+
+‘Getting the best from our land: a land use strategy for Scotland’ recognises that land-use decisions 
+should be informed by the opportunities and threats from climate change. Implementation of the 
+Strategy will draw on the outputs from the CCRA.
+
+59 http://chartingprogress.defra.gov.uk/
+60 http://www.scotland.gov.uk/AdaptationFramework
+61 http://www.scotland.gov.uk/AdaptationSAPs
+
+DEF-PB13698-ClimRisk.indd   37 19/01/2012   12:19
+
+http://chartingprogress.defra.gov.uk/
+http://www.scotland.gov.uk/AdaptationFramework
+http://www.scotland.gov.uk/AdaptationSAPs
+
+
+38
+
+
+Wales
+
+Through the Natural Environment Framework (NEF)62, Wales is developing an ecosystems approach to 
+managing the natural environment. Its guiding principle is to ensure that Wales has increasingly resilient 
+and diverse ecosystems that are managed to deliver economic, social and environmental benefits. 
+Climate change mitigation and adaptation are important elements in this new approach.
+
+Northern Ireland
+
+In Northern Ireland, the river basin management plans, published in 2009, take into account the 
+potential impacts of climate change and set out measures to address the implications for on the 
+water environment. Within the Northern Ireland Rural Development Programme 2007-201363, the 
+Countryside Management Scheme aims to maintain and enhance biodiversity on farmland whilst also 
+taking account of climate change. Climate change impacts will be considered as part of the review of 
+the Northern Ireland Biodiversity Strategy. A recent consultation on the Alien Invasive Species Strategy 
+sets out a co-ordinated policy and management framework to minimise the risk of invasive species to 
+the economy, environment and society.
+
+62 http://wales.gov.uk/topics/environmentcountryside/consmanagement/nef/sofar/narrative5/?lang=en
+63 http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+
+First, we need to consider the issues highlighted in the UK CCRA Evidence Report and work with others 
+in the UK to develop a consensus on the analysis. This is part of the process of developing the National 
+Adaptation Programme. We know that there are uncertainties on the scale and impacts of climate 
+change, but we cannot use this as an excuse for inaction: the potential consequences of the risks are 
+too great to be ignored. 
+
+Second, the Climate Change Act 2008 requires the UK Climate Change Risk Assessment to be reviewed 
+and updated every five years. A key strength of this first CCRA is its ability to consider the relative 
+urgency around disparate risks, whilst highlighting where more work needs to be done to improve our 
+understanding. In advance of the development of the next CCRA we will be developing our evidence 
+base through a programme of research and close collaborative working with sectors that have been 
+identified for priority action.
+
+Third, looking forward to the National Adaptation Programme, the UK Government will work with the 
+Devolved Governments and Local Government, to ensure that the UK is prepared to manage the risks 
+(and take advantage of the opportunities) presented by a changing climate. It is particularly important 
+for us to develop the NAP with a wide range of organisations and businesses, because:
+
+•  Adaptation is context-specific – effective adaptation depends on who is adapting, where they are, 
+their attitude to risk, and how they weigh up other factors in their decisions. The costs and benefits 
+of options vary by location and by the decision-maker, unlike reductions in greenhouse gas emissions 
+which have wider benefits regardless of where the reductions take place;
+
+•  Adaptation has no prescribed target and is not a one-off but an on-going process – there is no single 
+metric, like tonnes of carbon emitted, against which to assess decisions; 
+
+•  Uncertainty about the scale, timing and spatial nature of how the climate might change puts greater 
+weight on flexibility and keeping options open. The benefits of flexibility are harder to evaluate 
+against other, less flexible options that might provide more certain, short-term benefits. But it is 
+important that early action does not lock us into what may become inappropriate adaptation in the 
+future and active monitoring and reviewing progress will be required.
+
+4.1. What is the UK Government’s Approach to Developing the National Adaptation 
+Programme?
+The Climate Change Act 2008 places a requirement on the Secretary of State to lay a programme of 
+actions before Parliament addressing the risks identified in the CCRA. This should be done ‘as soon as 
+reasonably practicable’ after the CCRA. In practice, this means during 2013. 
+
+This will be the first NAP covering a period of five years (2013-2018). The NAP will be reviewed and a 
+new Programme developed on a five-yearly cycle, following each new CCRA. 
+
+The first NAP will be based around the five themes identified in the CCRA. In recognition of the fact that 
+many policy areas relevant to adaptation are devolved to Wales, Scotland and Northern Ireland – where 
+each Government has its own adaptation programme – the NAP will focus on England and reserved, 
+excepted, and non-devolved matters where necessary (for example responsibility for aspects of energy 
+policy and aviation policy lies with the UK Government), in collaboration with Devolved Governments. 
+
+4. What will happen next?
+
+DEF-PB13698-ClimRisk.indd   38 19/01/2012   12:19
+
+http://wales.gov.uk/topics/environmentcountryside/consmanagement/nef/sofar/narrative5/?lang=en
+http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+
+
+39
+
+
+Wales
+
+Through the Natural Environment Framework (NEF)62, Wales is developing an ecosystems approach to 
+managing the natural environment. Its guiding principle is to ensure that Wales has increasingly resilient 
+and diverse ecosystems that are managed to deliver economic, social and environmental benefits. 
+Climate change mitigation and adaptation are important elements in this new approach.
+
+Northern Ireland
+
+In Northern Ireland, the river basin management plans, published in 2009, take into account the 
+potential impacts of climate change and set out measures to address the implications for on the 
+water environment. Within the Northern Ireland Rural Development Programme 2007-201363, the 
+Countryside Management Scheme aims to maintain and enhance biodiversity on farmland whilst also 
+taking account of climate change. Climate change impacts will be considered as part of the review of 
+the Northern Ireland Biodiversity Strategy. A recent consultation on the Alien Invasive Species Strategy 
+sets out a co-ordinated policy and management framework to minimise the risk of invasive species to 
+the economy, environment and society.
+
+62 http://wales.gov.uk/topics/environmentcountryside/consmanagement/nef/sofar/narrative5/?lang=en
+63 http://www.dardni.gov.uk/index/rural-development/nirdp2007-2013.htm
+
+First, we need to consider the issues highlighted in the UK CCRA Evidence Report and work with others 
+in the UK to develop a consensus on the analysis. This is part of the process of developing the National 
+Adaptation Programme. We know that there are uncertainties on the scale and impacts of climate 
+change, but we cannot use this as an excuse for inaction: the potential consequences of the risks are 
+too great to be ignored. 
+
+Second, the Climate Change Act 2008 requires the UK Climate Change Risk Assessment to be reviewed 
+and updated every five years. A key strength of this first CCRA is its ability to consider the relative 
+urgency around disparate risks, whilst highlighting where more work needs to be done to improve our 
+understanding. In advance of the development of the next CCRA we will be developing our evidence 
+base through a programme of research and close collaborative working with sectors that have been 
+identified for priority action.
+
+Third, looking forward to the National Adaptation Programme, the UK Government will work with the 
+Devolved Governments and Local Government, to ensure that the UK is prepared to manage the risks 
+(and take advantage of the opportunities) presented by a changing climate. It is particularly important 
+for us to develop the NAP with a wide range of organisations and businesses, because:
+
+•  Adaptation is context-specific – effective adaptation depends on who is adapting, where they are, 
+their attitude to risk, and how they weigh up other factors in their decisions. The costs and benefits 
+of options vary by location and by the decision-maker, unlike reductions in greenhouse gas emissions 
+which have wider benefits regardless of where the reductions take place;
+
+•  Adaptation has no prescribed target and is not a one-off but an on-going process – there is no single 
+metric, like tonnes of carbon emitted, against which to assess decisions; 
+
+•  Uncertainty about the scale, timing and spatial nature of how the climate might change puts greater 
+weight on flexibility and keeping options open. The benefits of flexibility are harder to evaluate 
+against other, less flexible options that might provide more certain, short-term benefits. But it is 
+important that early action does not lock us into what may become inappropriate adaptation in the 
+future and active monitoring and reviewing progress will be required.
+
+4.1. What is the UK Government’s Approach to Developing the National Adaptation 
+Programme?
+The Climate Change Act 2008 places a requirement on the Secretary of State to lay a programme of 
+actions before Parliament addressing the risks identified in the CCRA. This should be done ‘as soon as 
+reasonably practicable’ after the CCRA. In practice, this means during 2013. 
+
+This will be the first NAP covering a period of five years (2013-2018). The NAP will be reviewed and a 
+new Programme developed on a five-yearly cycle, following each new CCRA. 
+
+The first NAP will be based around the five themes identified in the CCRA. In recognition of the fact that 
+many policy areas relevant to adaptation are devolved to Wales, Scotland and Northern Ireland – where 
+each Government has its own adaptation programme – the NAP will focus on England and reserved, 
+excepted, and non-devolved matters where necessary (for example responsibility for aspects of energy 
+policy and aviation policy lies with the UK Government), in collaboration with Devolved Governments. 
+
+4. What will happen next?
+
+DEF-PB13698-ClimRisk.indd   39 19/01/2012   12:19
+
+
+40
+
+The UK economy relies heavily on imports and exports and, therefore, there is high dependency on 
+activities overseas, such as transport and communication and the integrity of supply chains. The World 
+Economic Forum’s Global Risk Report64 considered climate change as the most important environmental 
+risk and, more importantly, showed how it is inter-related with global food and water security, macro-
+economic and geopolitical risks. The recent Foresight study on the International Dimensions of Climate 
+Change provides an overview of the international climate change risks and how these may affect 
+the UK, and the Met Office Report, ‘Climate: Observations, Projections and Impacts’ provides, at a 
+high level, the scale of potential climate threats and opportunities across a number of countries in 
+different regions.
+
+A considerable amount of further work needs to be done on international risks, and the NAP will take 
+the global impacts of climate change into account.
+
+4.2. Content of the National Adaptation Programme
+The CCRA identifies a number of risks where decisions are considered ‘urgent’ i.e. decisions have to be 
+taken by the 2020s. It is therefore the UK Government’s intention that, given the 5-year cyclical nature 
+of the adaptation process, these urgent areas will provide the focus for the first National Adaptation 
+Programme.65
+
+The UK Government’s intention is that the Programme will articulate well developed policy proposals, 
+but also signal areas for future development and consideration. The CCRA has identified a number 
+of key evidence gaps and we will work with Research Councils to develop a programme of work to 
+address the most significant issues. 
+
+Although Government will work with partners to set the national framework for adaptation, our 
+response to a changing climate will require action across society – in organisations across sectors, as 
+well as at the more local level, for example by local government, businesses and civil society. 
+
+Working with stakeholders it is therefore the UK Government’s intention to work with others in a 
+collaborative approach to policy making – to co-create with relevant organisations, and seek to achieve 
+a high degree of consensus on this programme. Beginning this process, alongside the publication of the 
+CCRA, the UK Government is publishing a ‘call for views’ seeking stakeholders’ input on areas where 
+urgent action is required.
+
+64 World Economic Forum. 2011. Global Risks 2011. 6th edition. http://riskreport.weforum.org/
+65  As highlighted in the Assessment, a number of the risks examined are potentially very significant but our current level of knowledge means that there 
+
+are also large uncertainties. This is particularly the case for complex systems such as ecosystems and business networks. Future research will improve 
+the evidence base but it is likely that early action will be needed to deal with both current risks and future risks.
+
+4.3. Next Steps by Devolved Governments
+The type, magnitude and urgency of climate change risks vary across the UK. As much policy relevant 
+to adaptation is devolved, the Devolved Governments are developing their own adaptation strategies.
+
+Scottish Government
+
+The Climate Change (Scotland) Act 2009 puts in place parallel arrangements to those set out in the 
+UK Climate Change Act. Specifically, the Scottish Act requires a Scottish Adaptation Programme to be 
+developed to address the risks identified in the CCRA for Scotland.
+
+This will be the first Scottish Adaptation Programme covering a period of five years (2013-2018) and a 
+new Programme will be developed every five years, following each new CCRA. 
+
+Scotland’s Climate Change Adaptation Framework and the accompanying 12 Sector Action Plans66 are 
+a non-statutory forerunner to the Scottish Adaptation Programme. 
+
+Welsh Government
+
+The Climate Change Strategy for Wales, published in 2010, sets out the Welsh Government’s approach 
+for managing the impacts of climate change. The Adaptation Framework confirmed in the Strategy 
+presents a national, co-ordinated approach to ensure that Wales is well-placed to adapt to a changing 
+climate in a sustainable way. It has three objectives: 
+
+• to build the evidence base; 
+
+• to embed preparing for a changing climate into decision-making; 
+
+• to share information and good practice. 
+
+The Adaptation Delivery Plan sits alongside the Climate Change Strategy for Wales and sets out the 
+specific measures being implemented to deliver the Adaptation Framework.
+
+The CCRA provides Wales with an analysis of the key risks and opportunities that climate change 
+presents for Wales, and paves the way for prioritised discussion and action in such areas as infrastructure 
+planning, health planning, eco-system management, economic renewal and community resilience.
+
+Under the Climate Change Act 2008, Welsh Ministers have a duty to report on their objectives, action 
+and priorities in relation to greenhouse gas emissions and the impact of climate change in Wales. The 
+Welsh Government will consider the findings of the CCRA in the first progress report on its Climate 
+Change Strategy, scheduled for March 2012, to fulfil Welsh Ministers’ obligations under the Act.
+
+The CCRA will also be used to inform revisions of the Adaptation Delivery Plan, and in developing 
+Sectoral Adaptation Plans for the Natural Environment, Infrastructure, Business and Tourism, 
+Communities, and Health.
+
+66 See www.scotland.gov.uk/AdaptationFramework
+
+DEF-PB13698-ClimRisk.indd   40 19/01/2012   12:19
+
+http://riskreport.weforum.org/
+
+
+41
+
+
+The UK economy relies heavily on imports and exports and, therefore, there is high dependency on 
+activities overseas, such as transport and communication and the integrity of supply chains. The World 
+Economic Forum’s Global Risk Report64 considered climate change as the most important environmental 
+risk and, more importantly, showed how it is inter-related with global food and water security, macro-
+economic and geopolitical risks. The recent Foresight study on the International Dimensions of Climate 
+Change provides an overview of the international climate change risks and how these may affect 
+the UK, and the Met Office Report, ‘Climate: Observations, Projections and Impacts’ provides, at a 
+high level, the scale of potential climate threats and opportunities across a number of countries in 
+different regions.
+
+A considerable amount of further work needs to be done on international risks, and the NAP will take 
+the global impacts of climate change into account.
+
+4.2. Content of the National Adaptation Programme
+The CCRA identifies a number of risks where decisions are considered ‘urgent’ i.e. decisions have to be 
+taken by the 2020s. It is therefore the UK Government’s intention that, given the 5-year cyclical nature 
+of the adaptation process, these urgent areas will provide the focus for the first National Adaptation 
+Programme.65
+
+The UK Government’s intention is that the Programme will articulate well developed policy proposals, 
+but also signal areas for future development and consideration. The CCRA has identified a number 
+of key evidence gaps and we will work with Research Councils to develop a programme of work to 
+address the most significant issues. 
+
+Although Government will work with partners to set the national framework for adaptation, our 
+response to a changing climate will require action across society – in organisations across sectors, as 
+well as at the more local level, for example by local government, businesses and civil society. 
+
+Working with stakeholders it is therefore the UK Government’s intention to work with others in a 
+collaborative approach to policy making – to co-create with relevant organisations, and seek to achieve 
+a high degree of consensus on this programme. Beginning this process, alongside the publication of the 
+CCRA, the UK Government is publishing a ‘call for views’ seeking stakeholders’ input on areas where 
+urgent action is required.
+
+64 World Economic Forum. 2011. Global Risks 2011. 6th edition. http://riskreport.weforum.org/
+65  As highlighted in the Assessment, a number of the risks examined are potentially very significant but our current level of knowledge means that there 
+
+are also large uncertainties. This is particularly the case for complex systems such as ecosystems and business networks. Future research will improve 
+the evidence base but it is likely that early action will be needed to deal with both current risks and future risks.
+
+4.3. Next Steps by Devolved Governments
+The type, magnitude and urgency of climate change risks vary across the UK. As much policy relevant 
+to adaptation is devolved, the Devolved Governments are developing their own adaptation strategies.
+
+Scottish Government
+
+The Climate Change (Scotland) Act 2009 puts in place parallel arrangements to those set out in the 
+UK Climate Change Act. Specifically, the Scottish Act requires a Scottish Adaptation Programme to be 
+developed to address the risks identified in the CCRA for Scotland.
+
+This will be the first Scottish Adaptation Programme covering a period of five years (2013-2018) and a 
+new Programme will be developed every five years, following each new CCRA. 
+
+Scotland’s Climate Change Adaptation Framework and the accompanying 12 Sector Action Plans66 are 
+a non-statutory forerunner to the Scottish Adaptation Programme. 
+
+Welsh Government
+
+The Climate Change Strategy for Wales, published in 2010, sets out the Welsh Government’s approach 
+for managing the impacts of climate change. The Adaptation Framework confirmed in the Strategy 
+presents a national, co-ordinated approach to ensure that Wales is well-placed to adapt to a changing 
+climate in a sustainable way. It has three objectives: 
+
+• to build the evidence base; 
+
+• to embed preparing for a changing climate into decision-making; 
+
+• to share information and good practice. 
+
+The Adaptation Delivery Plan sits alongside the Climate Change Strategy for Wales and sets out the 
+specific measures being implemented to deliver the Adaptation Framework.
+
+The CCRA provides Wales with an analysis of the key risks and opportunities that climate change 
+presents for Wales, and paves the way for prioritised discussion and action in such areas as infrastructure 
+planning, health planning, eco-system management, economic renewal and community resilience.
+
+Under the Climate Change Act 2008, Welsh Ministers have a duty to report on their objectives, action 
+and priorities in relation to greenhouse gas emissions and the impact of climate change in Wales. The 
+Welsh Government will consider the findings of the CCRA in the first progress report on its Climate 
+Change Strategy, scheduled for March 2012, to fulfil Welsh Ministers’ obligations under the Act.
+
+The CCRA will also be used to inform revisions of the Adaptation Delivery Plan, and in developing 
+Sectoral Adaptation Plans for the Natural Environment, Infrastructure, Business and Tourism, 
+Communities, and Health.
+
+66 See www.scotland.gov.uk/AdaptationFramework
+
+DEF-PB13698-ClimRisk.indd   41 19/01/2012   12:19
+
+http://www.scotland.gov.uk/AdaptationFramework
+
+
+42
+
+
+Northern Ireland Executive
+
+The Northern Ireland Executive is responsible for adaptation to climate change in all transferred policy 
+areas under the Northern Ireland Act 1998 and has given a commitment in its Sustainable Development 
+Implementation Plan to produce a cross-Departmental Climate Change Adaptation Programme.
+
+The UK Climate Change Act 2008 requires Northern Ireland Departments to prepare an adaptation 
+programme to address the climate change risks to Northern Ireland and to review them no later than 
+every five years. Reports on the adaptation programme and subsequent progress are required to be 
+made to the Northern Ireland Assembly. 
+
+A Cross-Departmental Working Group on Climate Change (CDWG CC) has been established by the 
+Northern Ireland Executive to support work on climate change. An Adaptation Sub Group has also been 
+convened with responsibility to:
+
+•  Support the preparation of an assessment of the risks to the United Kingdom of the current and 
+predicted impact of climate change;
+
+•  Support the preparation of an adaptation economic assessment on the key climate change risks to 
+the United Kingdom;
+
+•  Evaluate the climate change risks and opportunities for Northern Ireland and prepare and deliver a 
+cross-departmental adaptation programme on climate change; 
+
+•  Review cross-departmental action on adaptation on an annual basis and report to the CDWG CC on 
+progress; and
+
+• Make recommendations and/or decisions on wider climate change adaptation issues as appropriate.
+
+4.4. Conclusions
+The CCRA analysis commissioned by, and delivered to, the UK Government marks a significant step 
+forward in developing our understanding of the potential future impacts of a changing climate – and it 
+also increases understanding of vulnerability to our current weather. 
+
+The CCRA will form the core of the evidence base when considering what the national response should 
+be to the projected changes in our climate. We should be in no doubt that whilst these changes are 
+uncertain, many are also potentially significant. Many are irreversible and cannot be ignored. The CCRA 
+is not the last word on analysing climate risk – it is the start of a process. 
+
+In many areas Government and other expert organisations will need to consider specific issues and risks, 
+and undertake additional analysis if necessary, before decisions can be made. In other areas, it may be 
+that Government and others are already considering projected climate change in policies and decisions. 
+In some areas of less pressing risks, however, the appropriate response may be to wait, and consider any 
+action only once the underlying climate changes are more certain or their potential impacts more clear.
+
+This risk-based approach, and planning properly for the long term for a range of futures, is a big 
+challenge. Tackling that challenge successfully will allow us to protect and enhance our economy, 
+society and environment both now and for future generations.
+
+DEF-PB13698-ClimRisk.indd   42 19/01/2012   12:19
+
+
+43
+
+Northern Ireland Executive
+
+The Northern Ireland Executive is responsible for adaptation to climate change in all transferred policy 
+areas under the Northern Ireland Act 1998 and has given a commitment in its Sustainable Development 
+Implementation Plan to produce a cross-Departmental Climate Change Adaptation Programme.
+
+The UK Climate Change Act 2008 requires Northern Ireland Departments to prepare an adaptation 
+programme to address the climate change risks to Northern Ireland and to review them no later than 
+every five years. Reports on the adaptation programme and subsequent progress are required to be 
+made to the Northern Ireland Assembly. 
+
+A Cross-Departmental Working Group on Climate Change (CDWG CC) has been established by the 
+Northern Ireland Executive to support work on climate change. An Adaptation Sub Group has also been 
+convened with responsibility to:
+
+•  Support the preparation of an assessment of the risks to the United Kingdom of the current and 
+predicted impact of climate change;
+
+•  Support the preparation of an adaptation economic assessment on the key climate change risks to 
+the United Kingdom;
+
+•  Evaluate the climate change risks and opportunities for Northern Ireland and prepare and deliver a 
+cross-departmental adaptation programme on climate change; 
+
+•  Review cross-departmental action on adaptation on an annual basis and report to the CDWG CC on 
+progress; and
+
+• Make recommendations and/or decisions on wider climate change adaptation issues as appropriate.
+
+4.4. Conclusions
+The CCRA analysis commissioned by, and delivered to, the UK Government marks a significant step 
+forward in developing our understanding of the potential future impacts of a changing climate – and it 
+also increases understanding of vulnerability to our current weather. 
+
+The CCRA will form the core of the evidence base when considering what the national response should 
+be to the projected changes in our climate. We should be in no doubt that whilst these changes are 
+uncertain, many are also potentially significant. Many are irreversible and cannot be ignored. The CCRA 
+is not the last word on analysing climate risk – it is the start of a process. 
+
+In many areas Government and other expert organisations will need to consider specific issues and risks, 
+and undertake additional analysis if necessary, before decisions can be made. In other areas, it may be 
+that Government and others are already considering projected climate change in policies and decisions. 
+In some areas of less pressing risks, however, the appropriate response may be to wait, and consider any 
+action only once the underlying climate changes are more certain or their potential impacts more clear.
+
+This risk-based approach, and planning properly for the long term for a range of futures, is a big 
+challenge. Tackling that challenge successfully will allow us to protect and enhance our economy, 
+society and environment both now and for future generations.
+
+DEF-PB13698-ClimRisk.indd   43 19/01/2012   12:19
+
+
+
+
+Published by TSO (The Stationery Office) and available from:
+
+Online 
+www.tsoshop.co.uk
+
+Mail, Telephone, Fax & E-mail
+
+
+TSO
+
+PO Box 29, Norwich NR3 1GN  
+Telephone orders/general enquiries: 0870 600 5522 
+Order through the Parliamentary Hotline Lo-Call 0845 7 023474 
+Fax orders: 0870 600 5533 
+Email: customer.services@tso.co.uk 
+Textphone: 0870 240 3701
+
+The Parliamentary Bookshop
+12 Bridge Street, Parliament Square, 
+London SW1A 2JX 
+Telephone orders/general enquiries: 020 7219 3890 
+Fax orders: 020 7219 3866 
+Email: bookshop@parliament.uk 
+Internet: http://www.bookshop.parliament.uk
+
+TSO@Blackwell and other accredited agents
+
+Customers can also order publications from: 
+TSO Ireland
+16 Arthur Street, Belfast BT1 4GD
+Telephone orders/general enquiries: 028 9023 8451
+Fax orders: 028 9023 5401 9 780108 511257
+
+ISBN 978-0-10-851125-7
+
+DEF-PB13698-ClimRisk.indd   44 19/01/2012   12:19
+
+http://www.tsoshop.co.uk
+mailto:customer.services@tso.co.uk
+mailto:bookshop@parliament.uk
+http://www.bookshop.parliament.uk
+

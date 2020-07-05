@@ -1,0 +1,2926 @@
+
+
+
+
+Female Offender Strategy
+
+
+
+
+Female Offender Strategy 
+
+
+               
+
+June 2018 
+
+Cm 9642 
+
+
+  
+
+Female Offender Strategy 
+Presented to Parliament  
+by the Lord Chancellor and Secretary of State for Justice  
+by Command of Her Majesty 
+
+
+ 
+
+June 2018 
+
+
+                 
+
+
+Cm 9642 
+
+
+ 
+
+
+© Crown copyright 2018 
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where 
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-
+licence/version/3 
+
+Where we have identified any third party copyright information you will need to obtain permission 
+from the copyright holders concerned. 
+
+This publication is available at https://www.gov.uk/government/publications 
+
+Any enquiries regarding this publication should be sent to us at the following email address: 
+cjwst@Justice.gov.uk 
+
+
+ 
+
+ISBN 978-1-5286-0562-5 
+
+CCS0618901868 06/18 
+
+Printed on paper containing 75% recycled fibre content minimum 
+
+Printed in the UK by the APS Group on behalf of the Controller of Her Majesty’s Stationery Office 
+
+
+    
+
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3/
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3/
+https://www.gov.uk/government/publications
+mailto:cjwst@Justice.gov.uk
+
+
+
+
+Female Offender Strategy 
+
+Contents 
+
+Foreword 3 
+
+Introduction 5 
+
+Chapter One: Early Intervention 11 
+
+Chapter Two: Community Solutions 17 
+
+Chapter Three: Better Custody 26 
+
+Chapter Four: Framework for Implementation 35 
+
+Conclusion 43 
+
+Annex A: Lord Farmer Review Terms of Reference 45 
+
+
+    1 
+
+
+Female Offender Strategy 
+
+
+  2 
+
+
+Female Offender Strategy 
+
+Foreword 
+
+As a Government, we are committed to doing all we can to protect and support the most 
+vulnerable in our society. Nowhere is that more imperative than in the criminal justice 
+system, where many vulnerable people find themselves in crisis either as victims, 
+offenders or both.  
+
+People make choices and behave in ways which cause hurt and harm to others and wider 
+damage to our society. It is right that we punish those behaviours and expect individuals 
+to take responsibility for their actions. However, that is only part of the story. Offenders are 
+part of our society and we must take steps to understand and address the underlying 
+causes of offending, if we are to improve the lives of victims and support offenders to turn 
+their own lives around. 
+
+The evidence shows us that vulnerability is not just a consequence of crime.  It can also 
+drive offending behaviour and prevent people from breaking out of a cycle of reoffending.   
+
+This is particularly stark when we look at female offenders. We know that there is a higher 
+prevalence of need amongst female offenders, such as mental health problems, and 
+self-harm. Many experience chaotic lifestyles which are often the product of a life of abuse 
+and trauma; almost 60% of female offenders have experienced domestic abuse.  
+
+I am convinced that if we take the right approach to female offenders – one that 
+addresses vulnerability, follows the evidence about what works in supporting them to turn 
+their lives around, and treats them as individuals of value – it could have substantial 
+benefits for victims, families, and wider society, as well as for female offenders 
+themselves. 
+
+This strategy sets out the Government’s commitment to a new programme of work for 
+female offenders, driven by three priorities: earlier intervention, an emphasis on 
+community-based solutions, and an aim to make custody as effective and decent as 
+possible for those women who do have to be there. It also sets out our framework for 
+taking this forward: it is only through effective partnerships, at national and local level, that 
+progress can really happen. In particular, I know that the role of third sector partners, such 
+as women’s centres, working with local statutory bodies, will be key to taking this forward. 
+
+Underpinning this approach are some significant truths. 70.7% of adult women and 62.9% 
+of adult men released from custody between April to June 2016 following a short custodial 
+sentence of less than 12 months reoffended within a year. There is persuasive evidence 
+that short custodial sentences are less effective in reducing reoffending than community 
+orders. Short sentences generate churn which is a major driver of instability in our prisons 
+and they do not provide sufficient time for rehabilitative activity. The impact on women, 
+many of whom are sentenced for non-violent, low level but persistent offences, often for 
+short periods of time, is particularly significant. The prevalence of anxiety and self-harm 
+incidents is greater than for male prisoners. As more female offenders are primary carers 
+than their male counterparts, these sentences lead to a disproportionate impact on 
+children and families and a failure to halt the intergenerational cycle of offending.  
+
+
+3 
+
+Female Offender Strategy 
+
+Today there are 3,850 women in our prisons. I want to see this fall, with fewer women in 
+prison for short sentences. The way forward is through shifting our focus from custody to 
+the community.   
+
+This strategy outlines the immediate measures we are taking to achieve this, including 
+cross-Government investment and plans to test new residential options for diverting 
+women entering and re-entering custody on short custodial sentences.  
+
+We are setting out our commitment and direction of travel for female offenders. We 
+acknowledge that making a meaningful change will be a substantial and ongoing task. 
+We are committed to undertaking this journey in partnership across Government, by 
+supporting locally-led approaches and building upon the evidence base about what works. 
+
+
+   
+
+
+Rt. Hon David Gauke MP  
+Secretary of State for Justice  
+
+
+4 
+
+Female Offender Strategy 
+
+Introduction 
+
+A strategy for female offenders 
+
+1. To reduce crime and make a difference to victims, we need to consider the 
+underlying causes of offending and reoffending, and take an evidence-based 
+approach to rehabilitating offenders.  
+
+2. We know that many offenders are amongst the most vulnerable people in society and 
+that these vulnerabilities can often contribute to their offending behaviours or how 
+they engage and respond to interventions.1,2 Female offenders can be amongst the 
+most vulnerable of all, in both the prevalence and complexity of their needs. Many 
+experience chaotic lifestyles involving substance misuse, mental health problems, 
+homelessness, and offending behaviour – these are often the product of a life of 
+abuse and trauma.3 
+
+3. Although the proportion of women in the criminal justice system (CJS) is small – 
+approximately 5% of the prison population and 15% of offenders in the community– 
+the positive impact of addressing their needs is significant. 4   
+
+4. On average female offenders commit less serious offences than male offenders and 
+often pose a low or medium risk of serious harm to the public.5,6 Yet the reoffending 
+rate among women is 22.9% for the April to June 2016 cohort, often committing non-
+violent, low-level but persistent offences, such as shop theft.7,8 Furthermore, chaotic 
+lives and complex needs often mean female offenders have repeated needs for 
+services and a disrupted family life. Female offenders cost the Government 
+approximately £1.7bn in 2015/16, including estimated police costs of c.£1bn.9 This 
+excludes wider social costs, such as the cost of intergenerational offending. 
+
+5. It is clear, therefore, that tackling and reducing the cycle of offending amongst women 
+could have significant benefits to victims, families, and Government, as well as to 
+female offenders themselves. 
+
+6. Outcomes for women in custody can be worse than for men: for example, the rate of 
+self-harm is nearly five times as high in women’s prisons.10 This disparity is highly 
+troubling and it is right to seek to create equal opportunity for men and women in the 
+CJS to rehabilitate themselves. Baroness Corston’s seminal report, A review of 
+women with particular vulnerabilities in the Criminal Justice System (2007), 
+highlighted that the factors that can lead men and women to commit crime, and to 
+reoffend, can vary significantly, as can the way men and women respond to 
+interventions.11 Our own evidence review suggests that ensuring interventions are 
+tailored appropriately to the particular needs of women can be more effective than 
+applying a generic approach to men and women alike.12 
+
+7. There is a clear opportunity to take an entirely different approach to this cohort – one 
+that addresses vulnerability, acknowledges the role of gender, treats female 
+offenders as individuals with the potential to make a positive contribution to wider 
+society, and ultimately breaks the cycle of reoffending with all the benefits that brings 
+for families and society as a whole. 
+
+
+5 
+
+Female Offender Strategy 
+
+The Case for Change: 
+
+Criminalising vulnerable individuals has broader negative social impacts  
+8. Coming into contact with the criminal justice system, and in particular custody, can 
+
+undermine the ability of women to address the issues that have caused their 
+offending. In particular, many have difficulty maintaining employment and 
+accommodation whilst in the CJS. This can contribute to these women entering crisis, 
+or failing to come out of it, ultimately requiring greater support from services and 
+leading to reoffending. Furthermore, the criminalisation or incarceration of parents 
+has a significant impact on families and children.13 The incarceration of women may 
+also have a disproportionate impact on intergenerational offending as they are more 
+likely to be living with their children prior to custody.14 
+
+Short custodial sentences do not deliver the best results for female offenders 
+9. Custody is intended as a last resort, to protect the public and to punish and 
+
+rehabilitate offenders. Over three quarters of women sentenced to custody receive 
+sentences of fewer than 12 months.15 56.1% of adult women released from custody 
+between April and June 2016 reoffended within a year, with 70.7% of women 
+reoffending following a short custodial sentence (<12m).16 There is persuasive 
+evidence that short custodial sentences of less than 12 months are less effective in 
+reducing reoffending than community penalties.17  –Custody results in significant 
+disruptions to family life. We also know that custody can be particularly damaging for 
+women, whose rates of self-harm are nearly five times higher than those of men.18 
+Women are also twice as likely to report suffering from anxiety and depression and 
+more likely to report symptoms indicative of psychosis.19 
+
+Good community management works 
+10. Many female offenders could be more successfully supported in the community, 
+
+where reoffending outcomes are better.20 Community orders also offer the 
+opportunity to support female offenders to engage in employment, and secure stable 
+accommodation. They can be used effectively to address other underlying causes of 
+offending, such as substance misuse problems. The third sector network of women’s 
+services, such as women’s centres, play an important role in supporting us to meet 
+women’s needs, minimise disruption to families and more effectively maintain female 
+offenders within their community as productive citizens, at less cost to Government 
+and greater benefit to themselves and society. 
+
+Our vision and strategic priorities: 
+
+Fewer women coming into the criminal justice system  
+11. We want to see fewer women offending in the first place. Intervening earlier to 
+
+address the needs of vulnerable women could prevent offending for some, and 
+interrupt the cycle of reoffending for others. We want to see more support for 
+vulnerable women in the community and more measures to divert women from 
+coming into contact with the CJS, where appropriate.  
+
+
+6 
+
+Female Offender Strategy 
+
+Fewer women in custody (especially on short-term sentences) and a greater 
+proportion of women managed in the community successfully 
+12. We want to reduce the female prison population, with fewer offenders sent to custody 
+
+for short periods. We will therefore shift our emphasis from custody to the community, 
+and as part of this we will not be building the five new Community Prisons for 
+Women.21 Instead, we want to ensure that the public and judiciary have confidence in 
+non-custodial sentences - such as effective community orders - which directly tackle 
+the causes of reoffending, including alcohol or drug abuse. We will be looking at what 
+more we can do to emphasise that short custodial sentences should be viewed as a 
+last resort.  
+
+Better conditions for those in custody  
+13. We want to see a custodial environment that continues to protect the public, but 
+
+which also enables rehabilitation and delivers better outcomes for female offenders. 
+This includes improving family ties. We want to drastically reduce the rates of self-
+harm and self-inflicted deaths. We want women to be supported on release to 
+transition back into the community by securing stable accommodation and education 
+and/or employment; along with the necessary support to manage and overcome 
+other needs, such as mental health problems and substance misuse. This will help 
+more women to step out of the cycle of reoffending and become productive citizens.  
+
+A Framework for Implementation: 
+
+14. Our strategic priorities must be underpinned by a clear framework for all partners 
+within and outside the CJS to deliver real progress. We want to support an approach 
+that is: 
+
+Locally-led 
+15. We want local areas across England and Wales to feel empowered to design 
+
+approaches tailored for the specific needs of their populations and local 
+circumstances. We will continue to support them with evidence of what works. We 
+believe that the development of Whole System Approaches (WSA) that offer holistic 
+support through joined-up local service provision are key to delivering better 
+outcomes. 
+
+Partnership-focused 
+16. We want to ensure a joined-up approach across Government at a national level and 
+
+between services at a local level, including the third sector, to deliver a holistic 
+response to women. We will set a clear structure to help partners work together 
+effectively to address the drivers of offending and the needs of female offenders. 
+
+Evidence-based 
+17. Working with local areas and providers, we will continue to develop the evidence 
+
+base to better understand what works. Interventions will be tested for sustainability, 
+scalability, and to ensure the best use of the available funding.  
+
+
+7 
+
+Female Offender Strategy 
+
+Our Commitment: 
+
+18. This strategy marks the launch of a new programme of work to improve our collective 
+approach to female offenders and make society safer by tackling the underlying 
+causes of offending and reoffending.  
+
+19. Our commitments today are a first step on which we will build going forward. We 
+commit today to: 
+
+• Invest £5 million of cross-Government funding over two years in community 
+provision for women. As part of this, today we are launching an initial £3.5m 
+grant competition for 2018/19 and 2019/20, which includes £2 million of funding 
+explicitly for female offenders who have experienced domestic abuse. We 
+recognise that the availability and sustainability of these services, such as 
+women’s centres, is essential for ensuring that we can deliver the vision we have 
+outlined. An additional £1.5m will be invested to support the development of 
+community-based provision for female offenders, such as residential support. 
+
+• Work with local and national partners to develop a pilot for ‘residential 
+women’s centres’ in at least five sites across England and Wales. This 
+supports our vision to see fewer women in custody by developing more options 
+for supporting women in the community. We know that many women, particularly 
+on short custodial sentences, can be better supported in the community on robust 
+and effective community sentences. We consider that the availability of intensive 
+residential support options, both at the point of sentencing and on release, is key 
+for achieving the changes we want to see. The pilot will enable us to test models 
+which provide safe accommodation and holistic support for women in the 
+community so that they can address the underlying causes of their offending.  
+
+• We are committed to reducing the number of women serving short 
+custodial sentences. If we can successfully divert women from crime so as to 
+close one or more prisons, we want to see at least part of the revenue used to 
+further the aims of this strategy, subject to the wider context at that time. 
+
+20. To support implementation, we are publishing alongside this strategy: 
+
+• Guidance for the police on working with vulnerable women, developed in 
+partnership with the National Police Chiefs Council (NPCC). If we are to 
+intervene successfully at an earlier stage, the police must be able to assess and 
+identify the most appropriate outcome for these women and refer them to sources 
+of support. Across England and Wales there are promising local examples of 
+where models are in place to triage vulnerable women and support them in to Out 
+of Court Disposals (OOCDs) where appropriate. 
+
+• Guidance on the development of whole systems approaches, which sets out 
+the emerging evidence base for a holistic, multi-agency approach to addressing 
+the needs of female offenders. 
+
+
+8 
+
+Female Offender Strategy 
+
+21. We want to improve outcomes for women at all stages in the CJS. With that in mind, 
+we have: 
+
+• Asked Lord Farmer to continue his work on the importance of family ties in 
+improving outcomes for offenders, by undertaking a further piece of work to 
+review his recommendations through the lens of the needs of female 
+offenders. We expect this to report by the end of the year. We know that there is 
+an impact on families and children when a woman is involved in the CJS and that 
+children of imprisoned mothers may be particularly affected by a custodial 
+sentence. This review will enable us to understand what specific measures we 
+can take to strengthen family ties, especially with their children, whilst serving 
+sentences in the community, in custody and after they are released.  
+
+• Begun the process to replace Prison Service Order (PSO) 4800 with a 
+Women’s Policy Framework. We will aim to publish a final version by the end of 
+Autumn 2018. This will expand the focus from working with women in prison to 
+guidance for working with women throughout the CJS. 
+
+22. Finally, we know that we will only make progress in tackling the often complex needs 
+of female offenders by adopting a partnership approach at both a national and local 
+level. Therefore, we will: 
+
+• Work across Government and with other national and local partners to 
+develop a National Concordat on Female Offenders. This will set out how local 
+partners and services should be working together in partnership to identify and 
+respond to the often multiple and complex needs of women as they journey 
+through the CJS. We aim to publish this by the end of 2018.   
+
+Scope: 
+
+23. The geographical scope of this strategy covers England and Wales. The UK devolved 
+administrations have their own approaches towards the healthcare of offenders 
+where responsibility is devolved. Some of the policy areas covered by this strategy 
+such as health and social care therefore only cover England. Any mention of areas 
+relating to the work of Her Majesty’s Prisons and Probation Service (HMPPS) and the 
+MoJ apply to England and Wales. We, the Ministry of Justice, work with the devolved 
+administrations to ensure a coordinated approach to the care and management of 
+prisoners in all areas of the UK. The population referenced in this strategy includes all 
+adult female offenders in England and Wales. 
+
+The Welsh Context 
+24. The Welsh Government shares the broad ambitions set out in this strategy, including 
+
+fewer women in prison, earlier and more appropriate intervention, diversion, strong 
+partnership working, and rehabilitative support that enables women to turn their lives 
+around and stop offending. 
+
+25. However, Wales has its own legislative and policy landscape in areas such as health, 
+social care, substance misuse, housing and accommodation, education and skills 
+and violence against women, domestic abuse and sexual violence.  Further, Wales 
+does not have a women’s prison.  As a consequence, it needs a distinct approach to 
+Welsh women both within, and at risk of entering the Criminal Justice System.  
+
+
+9 
+
+Female Offender Strategy 
+
+26. Her Majesty’s Prison and Probation Service Wales (HMPPS), part of the Ministry of 
+Justice, and the Welsh Government are working in partnership to develop a joint 
+“blueprint” for Wales, for the delivery of appropriate provision for Welsh women in, 
+and at risk of entering the Criminal Justice System.  This will take account of both the 
+devolved (Welsh Government) and non-devolved (Ministry of Justice) landscape. The 
+blueprint will set out a shared ambition to establish and embed a Whole System 
+Approach within Wales, from prevention and early intervention through to 
+resettlement and reintegration.  It will also address the question of alternatives to 
+custody for Welsh women, as well as a distinct approach to supporting offenders, 
+their families, and women at risk of offending. 
+
+27. The blueprint, and ongoing partnership working, will ensure that the diverse and 
+complex needs of female offenders in Wales will be met in the best ways possible. 
+
+
+10 
+
+Female Offender Strategy 
+
+Chapter One: Early Intervention 
+
+Chapter Summary:  
+
+28. A significant proportion of women who come into contact with the criminal justice 
+system (CJS) commit offences that are low-level.22 In some cases, their offending 
+could have been prevented by addressing their vulnerabilities at an earlier stage. 
+Many experience chaotic lifestyles involving substance misuse, mental health 
+problems, homelessness and offending behaviour – as the Violence Against Women 
+and Girls (VAWG) Strategy has acknowledged, these are often the product of 
+histories of abuse and trauma.23 Often these offenders will have repeated demands 
+on services and go on to reoffend. Contact with the CJS can often cause these 
+women to go into crisis or prevent them from coming out of it. Conviction can mean a 
+loss of accommodation and employment, disruption to families and children and the 
+beginning of a cycle of intergenerational offending.  
+
+29. There are clear benefits to intervening earlier to reduce the number of women coming 
+into contact with the CJS. For victims, prevention and reduced reoffending would lead 
+to a reduction in crime; for wider society, there would be less cost and less pressure 
+on services; for offenders and their families, they might avoid a crisis experience and 
+instead begin a path towards more stable living. 
+
+We will reduce the number of women coming into contact with the CJS by: 
+Intervening earlier to address vulnerabilities that can lead to offending, by: 
+
+• Funding community provision and domestic abuse services for women 
+
+Diverting offenders from the CJS, where it is appropriate to do so, and addressing their 
+needs to prevent reoffending, by: 
+
+• Optimising Liaison & Diversion schemes  
+
+• Supporting the Police to work with vulnerable women  
+
+• Improving use of Out of Court Disposals 
+
+• Working with non-police prosecutors 
+
+• Promoting Retail-Based Diversion 
+
+
+ 
+
+The Challenge 
+
+30. We know that in many cases vulnerabilities can be a contributing factor in female 
+offending, whether substance misuse issues, experience of abuse, relationship 
+issues, housing issues, employment or financial issues.  
+
+31. We recognise the major part that domestic abuse can play in female offending. This 
+abuse can take different forms, including coercive and controlling behaviour. Being a 
+victim of domestic abuse is a predictor of violent reoffending among women.  Almost 
+
+
+11 
+
+Female Offender Strategy 
+
+60% of female offenders supervised in the community or in custody, who have an 
+assessment, have experienced domestic abuse.24,25 
+
+32. The Prison Reform Trust report, “There’s a reason we’re in trouble,” examined 
+domestic abuse as a driver to women’s offending.26 It found that the response of 
+criminal justice agencies to female offenders affected by domestic abuse can be key 
+to breaking the cycle of victimisation and offending, and that identification of domestic 
+abuse at the earliest opportunity is critical. The Government’s VAWG Strategy 
+acknowledges that the cost of domestic abuse to health, housing and social services, 
+criminal justice and civil legal services is estimated at £3.9 billion.27 Supporting these 
+women at an early stage, either before they commit an offence or when the offence is 
+very low level, can prevent them from (re-)entering the CJS. 
+
+33. Prosecutions against women are far more likely to be for low-level non-violent 
+offences than those against men.28 Shop theft is one of the most common offences 
+for which women and men are given a custodial sentence, and the most common 
+offence for which women are given a Penalty Notice for Disorder, community 
+sentence or suspended sentence.29 In 2017, shoplifting accounted for 43% of adult 
+females sentenced for indictable/triable either-way offences. Women are also over-
+represented in prosecutions for TV licence evasion and child truancy. For TV 
+licensing, about 70% of prosecutions are against women.30 In some cases, it may be 
+more appropriate to divert these women from prosecution and address the causes of 
+their offending. 
+
+34. Contact with the CJS can also have very negative outcomes for the families, 
+particularly children of offenders. International evidence has found that children with 
+incarcerated parents are at increased risk of antisocial and offending behaviour.31 
+Given that a higher proportion of imprisoned mothers are living with their dependent 
+children prior to imprisonment than imprisoned fathers (~60% vs. ~45%), the 
+imprisonment of mothers has a greater impact on the living arrangements of 
+dependent children than the imprisonment of fathers.32 
+
+35. These risks are compounded by patchy provision of gender-informed community 
+services to support them, particularly those run by the third sector such as women’s 
+centres, which we know can be effective at reducing reoffending. Even where 
+services do exist, the level of provision does not always match local demand, such as 
+in London, which accounts for the highest volume of female offenders by area in 
+England and Wales. 
+
+Intervening earlier to address the vulnerabilities that can lead to offending 
+
+The role of local areas, third sector and other Government Departments 
+36. We want local areas, whose service structures vary, to take a joined-up, multi-agency 
+
+approach to addressing the barriers that prevent women with multiple and complex 
+needs from accessing services effectively. To be effective, these approaches should 
+bring together agencies such as the Police & Crime Commissioners (PCC), heath 
+services, criminal justice agencies and third sector providers. To deliver this, we want 
+to see sufficient, gender-informed provision in local areas to meet the needs of 
+female offenders.  
+
+
+12 
+
+Female Offender Strategy 
+
+37. Services commissioned by PCCs, the third sector network of women’s centres and 
+women-specific services provide valuable early support to vulnerable women, many 
+of whom have complex needs, before they reach crisis point. Given the women these 
+services work with, we would like to see local agencies and commissioners working 
+with us and investing in women’s centres and other women-specific services. We 
+recognise the critical role that have played in supporting the sustainability of women’s 
+community services such as women’s centres. We want to ensure that our approach 
+instils  
+
+38. Many other services, such as health or education, may encounter at-risk women 
+before they enter the CJS. We want services to identify and engage these women to 
+address issues that could be factors in their offending.  
+
+39. We are grateful for the role which charitable trusts and foundations have played in 
+supporting women’s community services, often providing a critical lifeline for third 
+sector providers. We are keen to work with these organisations and to ensure local 
+services can continue to build on their expertise, experience and support.  
+
+Funding community provision and domestic abuse services for women 
+40. As part of our shift in emphasis from custody to the community, we are launching a 
+
+grant competition alongside this strategy which will award £3.5m of funding between 
+2018-2020 (£2m in 2018/19 and £1.5m 2019/20) for community provision for female 
+offenders or those at risk of offending. Funding will be provided to develop provision 
+for women with an experience of domestic abuse, to maintain and develop 
+community services for women, and to support local areas to develop and embed 
+Whole System Approaches (WSA) for female offenders (see chapter four for further 
+detail on WSA). 
+
+41. Given the overrepresentation of Black, Asian, and minority ethnic (BAME) women in 
+the CJS, we want to see funding used to address the needs of this cohort, as well as 
+those of other cohorts of women with protected characteristics who find it difficult to 
+access services.33 Applications to the grant competition will be required to show how 
+they will increase engagement with such cohorts, and support them. 
+
+42. We will invest an additional £1.5 million capital funding to support the development of 
+community-based provision for female offenders. 
+
+43. The Government consultation on domestic abuse, Transforming the Response to 
+Domestic Abuse closed on 31 May 2018. £20 million in funding was announced by 
+the Prime Minister in the Spring Budget 2017 to tackle domestic abuse, of which £2 
+million has been dedicated to female offenders. The consultation sought views on 
+how we can work better with female offenders and vulnerable women at risk of 
+offending identify their domestic abuse earlier. We are considering the responses to 
+the consultation to determine how best the remaining funding can support victims and 
+at-risk families. The Ministry of Housing, Communities and Local Government 
+(MHCLG) will also announce further significant funding for domestic abuse services, 
+including refuges, as early as possible this financial year. This will include launching a 
+new fund which will be open to all local areas across England to bid for a share. 
+
+
+13 
+
+Female Offender Strategy 
+
+Diverting offenders from the CJS, where it is appropriate to do so, and 
+addressing their needs to prevent reoffending 
+
+Optimising Liaison and Diversion 
+44. NHS-commissioned Liaison and Diversion (L&D) services are on the frontline of the 
+
+effort to divert women from the CJS. They place clinical staff at police stations and 
+courts across England to provide assessments and referrals to treatment and 
+support. Offenders may be diverted away from the CJS altogether, away from 
+charge, or to a community sentence with a treatment requirement. Health is devolved 
+in Wales and they have developed a similar but separate Criminal Justice Liaison and 
+Diversion service. L&D started in April 2014 and is being rolled out across England. 
+Coverage is currently at 82% of the population of England, with full coverage to be 
+delivered by March 2020. Wales are developing similar plans. 
+
+45. These services will be most effective when they can respond to women in a gender-
+informed way, as many women struggle to disclose details about their circumstances. 
+They often fear the negative consequences of any admissions of mental health 
+problems or substance misuse issues, particularly if they have dependents or are in 
+an abusive relationship. NHS England are currently enhancing ‘women’s pathways’ 
+across all L&D services, with a women’s lead appointed in each service to lead this 
+work. These pathways are being co-designed with women with lived experience of 
+the CJS. Services will allow women coming into police custody to choose the gender 
+of their practitioner, offer gender-sensitive tools for screening and provide effective 
+onward referrals to gender-informed services. Consideration will also be given to 
+addressing the barriers that particular groups, such as sex workers and foreign 
+national women, face in accessing services. MoJ will continue to work with the 
+Department for Health and Social Care and NHS England to support roll-out and 
+ensure that these services are best placed to meet the needs of women.   
+
+Supporting the Police to work with vulnerable women 
+46. The earlier a woman’s vulnerabilities are identified, the more can be done to 
+
+intervene in the cycle of offending.34 Contact with the police is an opportunity to offer 
+a single needs assessment that identifies and addresses the full complexity of an 
+individual’s circumstances, including protected characteristics.  
+
+47. We are launching alongside this strategy comprehensive guidance on working with 
+vulnerable women which we have developed in partnership with the National Police 
+Chiefs’ Council (NPCC). This includes needs assessments for women who come into 
+contact with the police, whether or not they are arrested. This may enable police to 
+divert women from the CJS altogether, or support courts to give women a community 
+order rather than a short custodial sentence by supplying them with a fuller picture of 
+the woman’s circumstances. The MoJ, Home Office, NPCC and Association for 
+Police and Crime Commissioners (APCC) have jointly committed to advocating and 
+driving forward use of the guidance across police forces in England and Wales.  
+
+48. Additionally, the College of Policing have developed a vulnerability and risk training 
+programme, which equips staff to work in a trauma-informed way. This has been 
+delivered to 9,500 police officers and staff, and the course has recently become 
+available for local delivery under licence from the College. 
+
+
+14 
+
+Female Offender Strategy 
+
+Improving Out of Court Disposals 
+49. Once women come into contact with the police, an Out of Court Disposal (OOCD) 
+
+can be administered to deal proportionately with low level offending without recourse 
+to the courts. Whilst this could be an effective tool for maintaining women in the 
+community, under the current system, too many disposals are simply warnings not to 
+reoffend and fail to address underlying causes of the offending behaviour through 
+attaching conditions. This is not sufficient if we are to provide the holistic support that 
+will effectively divert women from the CJS in the long-term. 
+
+50. To explore the potential of this mechanism, we piloted an OOCD framework in three 
+police forces (West Yorkshire, Staffordshire and Leicestershire) in 2014-15 that 
+emphasised reforming offenders. 44% of all conditional cautions attached conditions 
+that were rehabilitative.35 Some of these pilot areas also referred female offenders to 
+women’s centres to address their offending behaviour alongside their OOCD.  
+
+51. More broadly, many police areas are working to develop quality diversion options for 
+women. We will look to support the replication of this approach through our support of 
+police leadership by the NPCC, who published a Charging and Out of Court 
+Disposals Strategy in January 2018. 
+
+Police Assessment and Out of Court Disposal Case Study 
+Checkpoint, a deferred prosecution scheme in Durham, saw positive outcomes working 
+with female offenders out of court. Using a multi-agency approach, Checkpoint supports 
+those eligible with a ‘navigator’ who conducts an in-depth needs assessment based on 
+their risk of reoffending, sets the conditions and manages the woman throughout a four 
+month period. The offender must agree and engage with the contract or risk prosecution 
+for the offence. Over 90% of those who participated completed the scheme successfully 
+and did not receive a criminal record. 
+
+The example below sets out one female offender’s journey (referred to below as CM). 
+
+Arrested for shoplifting, police identified that CM had been exploited in many ways to 
+commit the offence. Well known to police, she was categorised as a vulnerable offender, 
+with a history of being a victim of crimes such as domestic abuse, violence and damage, 
+and arson. A risk assessment was undertaken which looked at her accommodation, 
+finances, health, family and relationships. Navigators identified issues with domestic 
+abuse, methadone and alcohol addiction, and mental health.  
+
+CM agreed to, and engaged with, the pathway conditions: to attend a drug reduction 
+programme and alcoholic anonymous group, schedule a GP appointment to address 
+depression and anxiety issues, accept a referral to Harbour (a charity that works with 
+individuals affected by abuse) and make right with the victim through a face to face 
+apology. 
+
+In the four-month period, navigators worked to provide a support system and build a 
+relationship of trust. The interventions improved her drug and alcohol dependencies, and 
+helped the client distance herself from her abusive partner. Without Checkpoint, CM 
+would have been processed in the CJS, potentially continuing the offending cycle and 
+neglecting to address the underlying cause of the offending behaviour. CM has not 
+offended since the conclusion of her pathway. 
+
+
+15 
+
+Female Offender Strategy 
+
+Working with non-police prosecutors 
+52. The 2015 Perry Review into TV licence evasion recommended that the BBC and 
+
+Government should explore ways to investigate and consider the gender disparity in 
+TV licence prosecutions.36 We have been working closely with the Department for 
+Digital, Culture, Media and Sport (DCMS) and the BBC on their work to consider this 
+issue. In response to a key recommendation to the review around flexibility of 
+payment, legislation was introduced on 9 March 2018 which allows TV Licensing to 
+test a new payment plan. The Simple Payment Plan is for those who find it most 
+difficult to pay the licence fee and the plan offers flexibility if payments are missed. 
+The BBC have also conducted research into the reasons for the gender disparity and 
+published their findings in December. We will continue to monitor their response 
+
+Promoting Retail-based Diversion 
+53. Given the prevalence of shop theft offences amongst women, retail-based diversion 
+
+schemes offer an important opportunity to divert women from prosecution and 
+address the needs that lead to their offending. A ‘women’s retail triage’ pilot in Bury is 
+diverting women caught shoplifting to their local women’s centre or women’s service 
+rather than to the CJS. We will be looking to gather further data from this pilot, and to 
+promote its approach in other areas. 
+
+Bury Retail Diversion Scheme Case Study 
+April was referred to the Women of Worth centre via the Bury retail diversion scheme, in 
+place of prosecution. A mother of one and a mature Student, April had a history of an 
+eating disorder, and suffered with chronic pain, panic attacks and low self-esteem. She 
+was identified as having both mental and physical health needs, and also issues relating 
+to time management and offending. 
+
+As part of the support April received at the women’s centre, April had five 1-2-1 sessions 
+in which she explored how her mental health was affecting her behaviour, and the triggers 
+for her offending, and learnt how to modify her negative actions. She was also supported 
+to develop techniques to help manage panic attacks, to address her eating disorder, and 
+to improve her time management. As a result, April had better self-awareness, including 
+understanding why she offended. She gained more self-control, was able to manage her 
+panic attacks and had higher self-esteem. April re-engaged with appropriate services and 
+successfully completed her college course & qualification. 
+
+
+16 
+
+Female Offender Strategy 
+
+Chapter Two: Community Solutions 
+
+Chapter Summary 
+
+54. Custody is intended as a last resort, for the protection of the public and the 
+punishment and rehabilitation of the offender. However, short sentences offer limited 
+public protection, and fail to offer time for meaningful rehabilitative activity. In some 
+cases, short sentences can aggravate vulnerabilities and raise the risk of reoffending. 
+Going into custody often causes huge disruption to the lives of offenders and their 
+families, causing crises in employment, housing and contact with dependents. 
+
+55. This issue disproportionately affects women: 77% of women sentenced to custody in 
+2017 were given sentences of under 12 months, compared with 62% of men.37 
+Furthermore, there is a considerable population of women sentenced to custody for 
+non-violent low-level but persistent offences, who have only a low or medium public 
+protection risk. In 2017, almost half (47%) of women sentenced to a short custodial 
+sentence had committed shop theft.38 The majority (94%) of women in custody 
+serving a short sentence of under 12 months are a low or medium public protection 
+risk.39 
+
+56. By contrast, good community management of offenders can in many cases be far 
+more effective and produce better reoffending outcomes.40 Community orders also 
+support offenders to engage in employment and secure stable accommodation, both 
+of which are factors in reducing reoffending. Disruption to families is significantly less 
+and women can be more effectively maintained within their community as productive 
+citizens at less cost to Government and greater benefit to themselves and society. 
+
+57. We would like to see fewer female offenders sent to custody for short periods. We will 
+be looking at what more we can do to emphasise that short custodial sentences 
+should be viewed as a last resort. We want to ensure that the public and judiciary 
+have confidence in non-custodial sentences - such as effective community orders – 
+which directly tackle the causes of reoffending, including alcohol or drug abuse and 
+factors that influence how women engage and respond to interventions, such as 
+mental health. We will aim to reduce female prison places and provide more options 
+in the community for women that address the causes of offending and support more 
+effective rehabilitation. 
+
+58. To address the prevalence of short custodial sentences, we are putting in place a 
+number of measures to foster an environment that encourages the use of community 
+sentences instead of custodial ones where appropriate. 
+
+
+17 
+
+Female Offender Strategy 
+
+We will support a greater proportion of women to serve their sentence in the 
+community successfully and reduce the numbers serving short custodial 
+sentences by: 
+Ensuring that courts have better and more comprehensive information about female 
+offenders to inform sentencing decisions by: 
+
+• Engaging with courts 
+
+• Improving Pre-Sentence Reports 
+
+Developing more options for managing women in the community by: 
+
+• Piloting Residential Women’s Centres  
+
+• Improving Accommodation Provision 
+
+• Increasing use of Community Sentence Treatment Requirements 
+
+• Piloting Electronic Monitoring, including new technologies such as location monitoring 
+
+Providing more support for those offenders managed in the community by: 
+
+• Developing a more gender-informed probation service 
+
+
+ 
+
+The Challenge 
+
+59. Given the low and medium risk profile of the majority of female prisoners serving 
+short sentences, it may be more appropriate, in many cases, to manage them in the 
+community rather than in custody.41 However, we know most women sentenced to 
+immediate custody are given short custodial sentences, with over half sentenced to 
+three months or less.42 On 31 March 2018, 15% of women in prison were held on 
+remand.43 This can be due to a lack of available appropriate accommodation for 
+them, rather than because their risk profile or offence type necessitates it. For 
+example, almost 9 in 10 women held on remand are low or medium risk of serious 
+harm.44 
+
+60. There has been a fall in the use of community orders for women and men.45 This may 
+be correlated with an observed increase in Suspended Sentence Orders, which put 
+women at risk of recall to custody if they breach. However, recently published 
+evidence also demonstrates that, among similar offenders, court orders (which 
+includes Suspended Sentence Orders) can reduce reoffending compared to short 
+custodial sentences.46 
+
+61. Community orders with treatment requirements attached are in some cases a better 
+option for offenders who might otherwise serve a custodial sentence. For dependent 
+drug and alcohol users and offenders with mental health problems these orders can 
+address the vulnerabilities which are a factor in their offending or how they engage 
+and respond to interventions. The proportion of offenders with such vulnerabilities is 
+substantial, but in 2017, fewer than 1% of all offenders starting a court order had a 
+Mental Health Treatment Requirement, 4% had an Alcohol Treatment Requirement, 
+7% had a Drug Treatment Requirement and fewer than 1% received a residential 
+requirement.47  
+
+
+18 
+
+Female Offender Strategy 
+
+62. Sentencing is a matter for the courts, and the severity of sentencing decisions should 
+not be impacted by the consideration of the gender of the offender, but should 
+instead take into account their particular circumstances. Yet HMI Probation’s 2016 
+thematic review of community provision for women who offend found that pre-
+sentence reports did not differentiate the needs of women from those of men.48 
+
+63. Community provision of the services that would support women are inconsistent, 
+particularly around homelessness, which is both a factor in offending behaviour and a 
+significant need for those on release from custody. Controlling for other factors, 
+prisoners who were rough sleeping or in temporary accommodation prior to custody 
+had higher odds of being reconvicted within one year of release.49 Homelessness is a 
+significant problem for the female prisoner population: from April to December 2017, 
+39% of women allocated to Community Rehabilitation Companies (CRCs) and the 
+National Probation Service (NPS) were released into unsettled accommodation, with 
+18% released homeless.50,  
+
+64. For those who are being managed in the community under supervision post-release, 
+lack of access to supportive community services can contribute to recall to custody. 
+In an internal review of recall case files, lack of safe accommodation and substance 
+misuse were found to be driving the two most common reasons for recall to prison: 
+failure to keep in touch and non-compliance.  
+
+65. HMI Probation’s 2016 thematic inspection identified a lack of focus on outcomes for 
+women both strategically and operationally.51 Across probation services, including 
+Community Rehabilitation Companies (CRCs) and the National Probation Service 
+(NPS), they found an inconsistent approach to recognising and addressing the 
+gender-specific needs of women who have offended. The review also found fewer 
+than one in four responsible officers had received training and guidance in relation to 
+female-specific case management, and the national offer on this today is very limited.  
+
+Ensuring that courts have better and more comprehensive information about 
+female offenders to inform sentencing decisions 
+
+66. Courts need to have comprehensive information to impose sentences that will 
+effectively punish and rehabilitate offenders. Pre-sentence reports (PSRs) that 
+capture the complexity of an offender’s circumstances and demonstrate how 
+offenders can be supported to comply with a community order, can support courts to 
+keep offenders in the community rather than send them to custody.   
+
+67. We want all PSRs, whether on the day oral reports or written reports, to include 
+details of an offender’s circumstances, such as any dependents, and mental health or 
+domestic abuse issues. They should also set out locally available gender-informed 
+community sentencing options, so that courts are appraised of the full range of 
+options for sentencing an offender and options to divert women from custody.  
+
+Engaging with courts 
+68. Sentencing is a matter for the courts, and any shift in emphasis from custody to 
+
+community sentences must be led by the judiciary. The MoJ will work with judges to 
+develop our understanding of what more might be done to ensure that the particular 
+risks and needs of female offenders are addressed effectively in the court, and to 
+
+
+19 
+
+Female Offender Strategy 
+
+ensure that courts receive all necessary information to inform the sentencing process. 
+Building on previous work with Crown Court judges, we will interview district judges 
+and magistrates in the Magistrates’ Court, where the majority of female offenders are 
+sentenced, to better understand how we can further support them when sentencing 
+women.  
+
+Improving Pre-Sentence Reports 
+69. As part of work already underway to improve the quality of information the court 
+
+receives when sentencing, we have delivered nationally the Effective Proposal Tool 
+which captures the range of interventions available, including those designed 
+specifically for women, to provide staff developing PSRs with the sentence options for 
+which an offender is suitable and eligible. The tool contains comprehensive 
+information on the local provision of community sentencing and treatment options, 
+which will support courts to understand what community interventions are available. It 
+will also assist in identifying good practice in community interventions for women and 
+gaps in local services. 
+
+70. Many women find disclosing details about their circumstances to criminal justice 
+system (CJS) staff very difficult. They often fear the negative consequences of any 
+admissions of mental health or substance misuse problems, particularly if they have 
+dependents or are in an abusive relationship. Assessment of women’s needs for 
+PSRs must take account of the difficulties they face and support women to disclose. 
+Working with Liaison & Diversion (L&D) services, we will ensure that, where consent 
+is given, relevant information from these assessments is shared with relevant criminal 
+justice partners so that information can be used to inform decisions on charging and 
+sentencing.  
+
+71. To improve our own assessment processes, we have developed a new PSR 
+interview checklist (built upon the Republic of Ireland gender-informed tool and the 
+NPS North East divisional pilot) for probation court staff, which aims to ensure that 
+the right questions are asked so that good assessments are made. The checklist will 
+be rolled out nationally from Summer 2018 starting with pilots in the NPS North West 
+division and South East and East divisions. Alongside this, a report template and a 
+training package for all PSR writers will ensure that we have a workforce that can 
+assess and respond to the specific needs of female offenders. Given the negative 
+impacts on families of imprisoned mothers and the heightened risk of 
+intergenerational offending, we have also supported the roll out of the, ‘Safeguarding 
+Children When Sentencing Mothers’ training material developed by Dr Shona 
+Minson. This training raises awareness of the diverse implications of maternal 
+imprisonment for children. 
+
+Developing more options for managing women in the community 
+
+72. Supporting women in the community enables them to maintain their ties with their 
+families and supports them to stay in employment and stable housing. This helps 
+reduce both reoffending and demand on services.    
+
+73. To ensure fewer women go into custody, we must improve the range and robustness 
+of the options for managing women in the community successfully. This will give 
+
+
+20 
+
+Female Offender Strategy 
+
+courts greater flexibility to respond to the specific factors that can contribute to their 
+offending behaviour.  
+
+Piloting Residential Women’s Centres 
+74. We know that many women at risk of, or having served, short custodial sentences, 
+
+have particularly complex needs and prolific offending histories compared to women 
+supervised in the community.52,53 Without support, many of those given a community 
+order or under supervision on release will breach and be recalled to custody. Stable 
+accommodation is a critical need for this cohort to reduce this risk and support them 
+to gain employment or training, but this is often not available to them. From April to 
+December 2017, 39% of women allocated to CRCs and the NPS were released into 
+unsettled accommodation (35% of men).54 We want to provide more residential 
+support options in the community that offer the accommodation and holistic support 
+that will allow these women to successfully complete community orders as a 
+diversion from custody and prevent them from being recalled to custody. This should 
+help reduce their reoffending in the long term and could be linked to existing women’s 
+community service provision such as women’s centres.  
+
+75. Although there are some promising small-scale models already in place for female 
+offenders which are centred upon residential-based support such as Willowdene 
+Farm, Anawim, Threshold Housing First and Scotland’s 218 Centre, we need to 
+understand better the effectiveness of these types of models.  
+
+76. We are committing to work with partners to develop a ‘residential women’s centres’ 
+pilot in at least five sites across England and Wales. The aim of the pilot will be to 
+develop a robust evidence base about what could be effective, sustainable and 
+scalable models for improving outcomes for female offenders and reducing the 
+numbers and frequency of women entering and re-entering custody on short 
+custodial sentences. 
+
+77. We want the residential women’s centre models we test to offer an intensive 
+residential support package in the community for women at risk of, or having served, 
+short custodial sentences, supporting them to address the underlying causes of their 
+offending behaviour. We want them to identify, encourage and coordinate service 
+users to access services that will address their offending behaviour, such as 
+substance misuse, and allow them to establish a positive lifestyle in the community. 
+
+78. We will take a consultative approach for designing and delivering the pilot sites, 
+engaging with potential providers, partners, including CRCs, and investors, both 
+nationally and locally, to ensure that the models taken forward are sustainable, 
+credible and appropriate for the local context of each site. Shortly after the publication 
+of this strategy, we will commence a process of engagement to develop the detail on 
+how the pilots could be designed and delivered. 
+
+Improving Accommodation Provision 
+79. There are a number of other accommodation options for women in the community 
+
+who are on supervision after release, being managed in the community or at risk of 
+offending. We will be working with our providers and other Government departments 
+to ensure these options are responsive to the specific needs of female offenders, and 
+
+
+21 
+
+Female Offender Strategy 
+
+are offering them the best chance to rehabilitate themselves and remain in the 
+community. 
+
+80. The Bail Accommodation Support Service (BASS) is one such Government contract 
+that provides accommodation to those on bail, released on Home Detention Curfew 
+(HDC) and, in a very few cases, when released at the end of a custodial sentence. 
+BASS allows more of those who are eligible to be bailed or released on HDC, 
+reducing loss of liberty and its negative impacts on family life, employment and 
+housing. A new BASS contract commenced on 18 June 2018. The service 
+specification has been expanded to provide access to prisoners released on licence 
+without accommodation, including women, when demand from Bail and HDC is lower 
+than current volumes. The service has around 17% of its property designated for 
+female offenders and can respond to additional demand. 
+
+81. We want to provide a closer integration of BASS with established women’s centres. 
+A model for this is currently being piloted in Greater Manchester where women 
+placed in BASS properties will benefit from high-quality holistic support provided by 
+the Women’s Support Alliance. The pilot, which started in March 2018, is due to last 
+for 12 months with consideration for potential expansion across further sites within 
+Greater Manchester and other national locations. 
+
+82. Approved Premises (AP) are another valuable resource to support female offenders 
+on release. APs are available to provide enhanced levels of protection to the public 
+and reduce the likelihood of further offending of high-risk offenders (e.g. serious 
+violent and/or sexual offenders) released on licence. We are conducting a review into 
+the AP capacity for women to ensure there is provision for women where it is needed. 
+We are seeking to identify suitable AP provision for women in London and Wales, 
+where we have recognised that need is pressing.  
+
+Increasing use of Community Sentence Treatment Requirements 
+83. There are three Community Sentence Treatment Requirements (CSTRs) currently 
+
+available to the courts – Mental Health Treatment Requirements, Drug Rehabilitation 
+Requirements and Alcohol Treatment Requirements – but their use is low.55 This is 
+despite the high prevalence of mental health, drug and alcohol issues amongst the 
+female offender cohort. Of those with an assessment, 22% of women supervised 
+under a court order have a mental health issue, 29% an alcohol misuse issue and 
+32% a substance misuse issue.56 
+
+84. For some of these women, a CSTR may produce better outcomes than a custodial 
+sentence. Recently published MoJ research suggests that sentences including 
+mental health treatment, where mental health issues are identified, are associated 
+with significant reductions in reoffending compared with similar cases without such 
+treatment.57 The reoffending rate was around 3.5 percentage points lower over a 
+one-year follow up period. MoJ and Public Health England (PHE) linked data showed 
+that among those who committed an offence in the two years prior to engaging with 
+community-based substance misuse treatment, there was a 33% reduction in the 
+number of offences committed in the following two years, and 44% did not go on to 
+reoffend in the subsequent two years. This was especially striking for those engaging 
+in alcohol treatment only, with 59% of these not reoffending in the two years after 
+treatment, while for opiate treatment this figure was 31%.58 
+
+
+22 
+
+Female Offender Strategy 
+
+85. The MoJ is working with the Department of Health and Social Care (DHSC), NHS 
+England and PHE on a protocol to increase the use of CSTRs in England. This is 
+currently being tested across five sites, one of which began as a women-only site 
+operating out of a women’s centre in Northampton. We will use the findings from the 
+evaluation of this programme later in 2018 to explore the potential for further national 
+roll-out, and to inform further work on gender-informed approaches for community 
+sentences with treatment requirements. 
+
+Community Sentence Treatment Requirement Case Study 
+Julie is a woman in her late 20’s with long standing substance misuse and mental health 
+problems and a history of abuse. She has recently been sentenced in one of the 
+Community Sentence Treatment Requirement Protocol areas to two of the three 
+Treatment Requirements – a Mental Health Treatment Requirements and a Drug 
+Rehabilitation Requirement. 
+
+Julie was taken into care before she was 10 years old due to parental neglect, and 
+physical and sexual abuse. On leaving care, Julie quickly lost her accommodation and 
+came into contact with the CJS for possession of class A drugs. Julie’s offending 
+continued, and she served two custodial sentences and a number of community orders. In 
+her mid-twenties, Julie had a child who was taken into care. Julie found this very difficult 
+to cope with, and was diagnosed with emotionally unstable personality disorder, as well as 
+suffering a series of self-harm incidents and suicide attempts. 
+
+Shortly after, she was arrested and charged with possession of a small quantity of a 
+controlled drug along with shop theft. At court, Julie was assessed as being eligible for a 
+Mental Health Treatment Requirement, although she was at high risk of receiving a 
+custodial sentence. Julie pleaded guilty and was recommended for a 6-month Mental 
+Health Treatment Requirement and a Drug Rehabilitation Requirement. Julie also 
+received 10 Rehabilitative Activity Requirement days to support her accessing finance 
+services, housing and other support. 
+
+The Community Order was sequenced so that her drug issues were addressed first. She 
+successfully completed this part of the order and was then able to engage with the mental 
+health treatment. Julie received weekly treatment, focusing on her experiences of trauma, 
+and how this contributed to her offending behaviour. She was supported to understand 
+her earlier diagnosis and develop coping strategies to intervene in the distressing 
+emotions that caused her to abuse substances and offend. Julie successfully completed 
+the order, and is currently being supported by her local women’s centre to complete a 
+course at college. 
+
+Piloting Electronic Monitoring, including new technologies such as location 
+monitoring  
+86. Electronic Monitoring (EM) has the potential to provide greater support for women in 
+
+the community. Evidence suggests that electronic monitoring is most likely to improve 
+outcomes when used in conjunction with interventions that contain rehabilitative 
+components.59 Whilst EM is already an option for the courts, and is mostly used to 
+monitor curfews, we believe where used more creatively it could further support 
+offenders’ rehabilitation and, where appropriate, divert women away from custody, 
+including remand. There are a number of pilots looking at the use of different EM 
+
+
+23 
+
+Female Offender Strategy 
+
+technologies.  We will take learning on how appropriate or effective these can be for 
+female offenders, including as an alternative to custody 
+
+87. In particular, location monitoring using GPS tags could provide new and innovative 
+ways to manage women in future. The MoJ recently piloted the use of GPS and an 
+evaluation, due to be published this summer, will inform how location monitoring can 
+be used to manage defendants and offenders in the community more effectively, both 
+before and after conviction. The Mayor’s Office for Police (MOPAC) is leading the 
+way on these measures, and we are working with them to test the use of mandatory 
+GPS tagging for prolific offenders through the Gripping the Offender (GtO) pilot. This 
+is the first time mandatory use has been piloted.  
+
+88. We are also piloting the use of alcohol monitoring tags to evaluate whether a 
+continuous period of sobriety has any effect on rehabilitation and reducing the risk of 
+reoffending. As problematic drinking is a risk factor more strongly associated with 
+reoffending for women than for men, there is clear scope for interventions that 
+address alcohol misuse to be particularly suitable and beneficial for this cohort.60 The 
+findings from these pilots will be available from the end of 2018 onwards. We will 
+continue to work closely with the Home Office and the Department of Health and 
+Social Care (DHSC) in exploring and delivering suitable criminal justice options to 
+reduce harmful drinking and reoffending as part of the Government’s new alcohol 
+strategy. 
+
+Providing more support for those offenders managed in the community 
+
+89. Provision of adequate services in the community and a gender-informed probation 
+service are vital to supporting women to stay in the community either instead of 
+custody or after release. 
+
+Developing a more gender-informed probation service 
+90. We will continue to consider improvements we can make to the probation services 
+
+and the support they provide to female offenders, including building stronger links 
+with the third sector women’s centres. A central part of this will be work to improve 
+the delivery of Through the Gate (TTG) services. We are discussing with CRCs how 
+they can do more to help offenders overcome barriers to resettlement, including 
+developing a tiered approach to services based on need. Given that many female 
+offenders in custody have complex needs, this new approach should particularly 
+benefit female offenders.  
+
+91. Building on HMI Probation’s findings that service provision for women was better in 
+areas where there was dedicated leadership for women’s offending, NPS will appoint 
+(for an initial one-year pilot) a dedicated senior probation officer into this role in each 
+NPS region.61 This person will be a dedicated women’s champion, responsible for 
+monitoring and driving up performance, supporting training, problem-solving service 
+issues and implementing gender-informed practices. They will be in post from 
+September 2018. All CRCs have an identified women’s strategic lead and we will 
+encourage them to focus on similar issues. 
+
+92. We will build upon the work that we have already commenced in providing gender-
+informed guidance to probation practitioners. In addition to last year’s publication of 
+Working with Women Offenders, a guidance document outlining how probation 
+
+
+24 
+
+Female Offender Strategy 
+
+practitioners working with women in the CJS can deliver services to them in a way 
+that captures and reflects best practice, we are reviewing the overarching operational 
+instruction covering the management of women offenders. We will also look to 
+collaborate with our custodial workforce on gender- and trauma-informed training, 
+so that we can create a CJS-wide approach to female offenders that acknowledges 
+their vulnerabilities and addresses their needs. 
+
+93. To professionalise the probation workforce further, we intend to create a professional 
+register thereby enhancing assessment and offender management of female 
+offenders.  
+
+94. We will provide one training package, which replaces existing and out of date 
+material, for prison staff and NPS staff. We want to ensure all staff across the 
+probation system have access to the most up-to-date training, that is why we will offer 
+this training to CRCs also. The training will be aimed at assessing and managing 
+women with a range of complex needs, which will equip staff to work effectively with 
+women in a trauma informed way thereby maximising their compliance with their 
+Community Orders and licences and reducing the risk of reoffending. 
+
+95. We want to support offenders to complete the requirements imposed on them to 
+reduce unnecessary recall. To do this, we will equip our probation staff with better 
+information so they can make more informed decisions about the common causes of 
+recall. For example, childcare issues are often a barrier to complying with 
+requirements; we will be updating instructions to probation staff on Offender 
+Childcare so they can support female offenders to complete the requirements 
+imposed upon them where childcare issues were previously a barrier. 
+
+96. We are aware that there are unique challenges for Black, Asian, and minority ethnic 
+(BAME) and foreign national female offenders in the CJS, both in custody and the 
+community. This is why we will be looking closely at what further action can be taken 
+to identify and address needs specific to these groups. We will be working closely 
+with voluntary sector and other organisations who work with BAME and foreign 
+national female offenders to improve their capacity to share best practice and form 
+networks through facilitated events and more structured communication of policy 
+developments. Her Majesty’s Prison and Probation Service (HMPPS) is already 
+committed to working with BAME oriented organisations on implementing the Lammy 
+Review’s recommendation 31 to overcome barriers to subcontracting between CRCs 
+and BAME communities to help share good practice. We will provide more culturally-
+informed training for staff in offender management and rehabilitation. This will 
+increase staff awareness of the impacts of culture, faith and sustaining family 
+relationships for women in the criminal justice system. 
+
+
+25 
+
+Female Offender Strategy 
+
+Chapter Three: Better Custody 
+
+Chapter Summary 
+
+97. Although we want to reduce the female prison population, we recognise that diverting 
+women who might otherwise be serving short custodial sentences to the community 
+will not necessarily equate to significant reductions in the female prison population in 
+the short term. Whilst a substantial proportion of women that go to prison serve short-
+term sentences, women on longer sentences make up the majority of the prison 
+population at any given time.62 Moreover, there will remain some women who, for 
+reasons of public protection or due to the severity of their offending, must be in 
+custody for a period of time. Whilst our aim is to reduce female prison places, we 
+acknowledge that this will be a long-term project. 
+
+98. Almost all of the women sentenced to custody will one day be released into the 
+community. Reforming and rehabilitating these offenders must be a priority if we are 
+to reduce crime, reduce reoffending and protect victims. Yet outcomes for female 
+offenders in custody are poor and can be worse than for men. Women suffer higher 
+rates of self-harm and a greater proportion of women in prison have experienced 
+domestic abuse and have mental health problems than men.  On release a smaller 
+proportion have settled accommodation to support their transition back into the 
+community.63, 64 The impact on children and families of the incarceration or 
+criminalisation of parents is also significant. Having a convicted parent is a risk factor 
+for offending – and some studies have found that this risk appears to be greater when 
+the parent is imprisoned.65 Given the higher proportion of women whose dependent 
+children live with them prior to imprisonment, incarceration of women may have a 
+disproportionate impact on intergenerational reoffending.66 There is some evidence 
+that while gender-neutral interventions have sometimes been effective, it is likely that 
+gender-informed approaches will be more successful.67 If we are to achieve equal 
+outcomes for women, we should adopt a gender-informed approach and an adapted 
+environment, that meets their gender-specific needs. 
+
+99. We will create a custodial environment that enables rehabilitation and delivers better 
+outcomes, and which supports women on release to break the cycle of reoffending 
+and successfully reintegrate themselves into society. 
+
+We will deliver better custody by: 
+Adapting the custodial environment to meet the needs of female offenders by: 
+
+• Focusing on better links with children and families 
+
+• Improving Safety 
+
+• Becoming Trauma-Informed 
+
+• Improving Health & Wellbeing 
+
+Offering comprehensive rehabilitative support by: 
+
+• Empowering the Prison Workforce 
+
+• Developing Education & Employment 
+
+
+26 
+
+Female Offender Strategy 
+
+The Challenge: 
+
+100. Our evidence shows that women do not respond well to the custodial environment. 
+We know that women are more than twice as likely to report needing help for mental 
+health problems than male prisoners (49% compared with 18% of male prisoners). 
+They are twice as likely as male prisoners to suffer from anxiety and depression (49% 
+compared with 23%) and more likely to report symptoms indicative of psychosis (25% 
+compared with 15%).68 
+
+101. The purpose of prisons is both to protect the public and support offenders to reform 
+so that they do not reoffend. Women – like all other prisoners – should expect to be 
+safe throughout their time in custody. This is especially true for those at risk of suicide 
+and self-harm, yet the incidence of these issues amongst the female offender 
+population remains too high. Though the rate of self-inflicted deaths in women’s 
+prisons reduced to one in the 12 months to March 2018, down from 10 in the 
+previous 12 months, that is still one too many.69 The rate of self-harm among women 
+was 2,093 per 1,000 in 2017, nearly 5 times higher than the rate for men, of 445 per 
+1,000.70 
+
+102. Several studies have found that having a parent with a criminal conviction is a strong 
+risk factor for offending.71 Some studies have found that this risk factor appears to be 
+stronger when the parent is imprisoned as opposed to just having a conviction. 
+Research also suggests that children may be more affected by parental imprisonment 
+if parents are imprisoned more frequently or for longer periods of time, and if parents 
+are held in more punitive conditions. 
+
+103. The 2017 Lord Farmer Review found, in spite of this evidence, that “there is an 
+unacceptable inconsistency of respect for the role families can play in boosting 
+rehabilitation and assisting in resettlement across the prison estate”.72 Whilst the 
+focus of Lord Farmer’s Review is the role of family in preventing reoffending and 
+intergenerational crime for male prisoners, its findings have great saliency for female 
+offenders and their families. Findings from MoJ’s post custody resettlement surveys 
+found that far more female prisoners report living with their children before going into 
+custody than male prisoners; around 60% of women compared with about 45% of 
+men in prison who have children.73  
+
+104. Over half of women (56.1%) released from custody between April to June 2016, 
+reoffend within a year.74 A contributing factor may be the poor outcomes on release 
+for female offenders around housing and employment. From April to December 2017, 
+39% of women allocated to Community Rehabilitation Companies (CRCs) and the 
+National Probation Service (NPS) were released into unsettled accommodation, with 
+18% released homeless.75 Just under two thirds of women released from prison in 
+2010/11 were claiming out-of-work benefits one month after release.76 
+
+Adapting the custodial environment to meet the needs of female offenders 
+
+105. The wider prison reform agenda has produced a comprehensive programme of work 
+to improve conditions in custody across the prison estate, much of which will benefit 
+female offenders. However, this cohort also requires interventions that respond to 
+their particular needs, in order to secure the same outcomes for them as those in the 
+male estate.  
+
+
+27 
+
+Female Offender Strategy 
+
+106. The necessity for tailored approaches is even more acute for those with protected 
+characteristics, such as Black, Asian and minority ethnic (BAME) women, or women 
+with experience of trauma.77 Given the overrepresentation of BAME women in the 
+criminal justice system (CJS) and the proportion of female offenders with experience 
+of domestic abuse, our workforce, environment and interventions must become more 
+alive to their experiences and responsive to their individual needs. 
+
+Focusing on better links with children and families 
+107. Last year the MoJ launched the report from the 2017 Lord Farmer Review on the 
+
+importance of strengthening male prisoners' family ties to prevent reoffending and 
+reduce intergenerational crime. We have asked Lord Farmer to undertake a further 
+piece of work to review his recommendations through the lens of the needs of female 
+offenders, given that many women in prison are primary carers of their children. The 
+original Review focused exclusively on men serving custodial sentences.  However, 
+this new work will look more widely at how to strengthen family ties, especially with 
+their children, for women serving sentences in the community and after they have 
+been released, as well as for those women in custody. Lord Farmer will publish the 
+findings of this by the end of 2018. 
+
+108. The 2017 Lord Farmer Review recommended that ‘Virtual visits… should be available 
+for the small percentage of families or individual family members who cannot visit 
+frequently or at all’.78 We are currently looking at Internet Based Video Systems 
+(platforms similar to Skype) across both the men’s and women’s estates, allowing for 
+family contact individuals would otherwise be unable to have.  
+
+109. From January 2018, a centralised visits booking system was rolled out across the 
+Women’s Estate with the aim of providing a better and more consistent service for 
+families and women. We are also enabling better communication between families, 
+and facilitating family days alongside courses and programmes to promote family 
+engagement and parenting. 
+
+110. In responding to the 2017 Lord Farmer Review, we have introduced a requirement for 
+all Prison Governors from April 2018 to produce local strategies, which will set out 
+how they will support prisoners to improve the level of engagement with their friends 
+and families. We will publish a new Family Policy Framework in Autumn of 2018, 
+providing support to Governors for meeting new requirements and standardising the 
+quality of services provided across all prisons, helping to strengthen relationships 
+between prisoners, their family and friends. Her Majesty’s Inspector of Prisons 
+(HMIP) has also appointed a lead inspector for Children and Families and included 
+this within its schedule of prison expectations. 
+
+111. For female offenders who are mothers to very young children and need to be in 
+custody, it is often in the interest of the child to have them with them during the 
+important period of bonding. Mother and Baby Units (MBUs) enable women to stay 
+with their babies and young children up until the age of 18 months and provide 
+parenting support. The best interests and safety of children on the unit are the 
+primary consideration. To ensure that the existing provision responds to need and 
+offers the best support to women and their children, we will be reviewing the 
+operation of MBUs and our management of complex cases.  
+
+
+28 
+
+Female Offender Strategy 
+
+Improving Safety 
+112. Every death in custody is a tragedy, and we will do our utmost to prevent them and 
+
+keep prisoners safe. 2016 saw a particularly high number of self-inflicted deaths, and 
+we have commenced a review to understand why this happened and how we might 
+prevent it in future. The Independent Advisory Panel (IAP) on Deaths in Custody 
+undertook a rapid information gathering exercise on how best to prevent suicide and 
+self-harm and keep women safe in custody. This review has submitted evidence and 
+recommendations to Ministers, which we are implementing alongside this strategy.79 
+The Prison and Probation Ombudsman (PPO) also issued a bulletin of 
+recommendations which drew on a review of several of its investigations between 
+2013 and 2016, most of which echoed those of the IAP. We are focusing on mental 
+health and drugs misuse service provision and the importance of the exchange of 
+information about risk and care planning. We continue to address their 
+recommendations, in partnership with Departments across Whitehall and 
+representatives from both the academic and voluntary sectors.  
+
+113. Alongside the recommendations of the PPO review, we are implementing several 
+other initiatives in the custodial estate to better protect and support offenders. The 
+“Challenge, Support and Intervention Plan” (CSIP) has been rolled out across all 
+prisons as a new management tool to help staff establish clear principles for risk 
+management and risk reduction. CSIP emphasises the importance of supporting and 
+developing change in individuals and ensures individualised support plans around the 
+offender’s particular circumstances. We are working to ensure that CSIP is 
+implemented in a responsive way for women in custody by conducting a literature 
+review on how such interventions can be most effective for women. 
+
+114. Recognising that there are specific safety needs in the Women’s Estate, a dedicated 
+Group Safety Lead has been appointed. They will help Governors to address the 
+particular challenges to safety in their establishments, identifying effective practice 
+that is bespoke to women and sharing it across the Women’s Estate.  
+
+115. We are improving prison staff training so that staff are better supported to manage 
+vulnerable women in custody. We have introduced female specific training around the 
+Assessment, Care in Custody and Teamwork (ACCT) case management system to 
+ensure that staff better understand the behaviour and needs of vulnerable women. 
+We have rolled-out a revised and improved Introduction to suicide and self-harm 
+prevention training for all prison staff, which over 7000 staff had completed in full by 
+March 2018.  
+
+116. Improvements to safety in custody must also take into account the complex needs of 
+the most high-risk women. The Centralised Case Supervision System (CCSS) has 
+been in place since September 2015 to enable a needs-led approach to the 
+supervision of such women, whilst also making women’s prisons safer for other 
+prisoners and staff. Women assessed as ‘Restricted Status’ are automatically 
+referred to the CCSS and those who present with complex needs are referred by 
+individual establishments. Each case is then assessed by the Case Referral and 
+Review Board (CRRB), which brings together staff responsible for operational issues, 
+mental health case work, psychology and high security. The Board works 
+collaboratively to provide support to prisons managing women with complex needs 
+and may offer alternatives to current arrangements and suggest different routes for 
+progression, if that seems appropriate. The aim of the additional support is to ensure 
+
+
+29 
+
+Female Offender Strategy 
+
+that establishments are doing all that is possible to stabilise the individual and 
+develop an appropriate and timely re-integration plan.  
+
+Creating a trauma-informed environment to tackle self-harm case study 
+Prisons and prison staff need to understand the impact of histories of trauma in their 
+population. One such case of where this has worked well is at HMP Styal, where a 
+woman, Sally, is currently serving a four year or more sentence. Sally had a history of 
+childhood sexual abuse, but did not disclose this until she worked with staff at HMP Styal. 
+Whilst in custody, Sally was highly distressed and displayed very high levels of self-harm. 
+Staff at Styal engaged with Sally to give her more control over her own wellbeing. Sally 
+was supported to cook a meal for her family when they visited her in prison. She also 
+experienced high levels of anxiety when locked in her cell on the wing at lunch times, so 
+Sally was supported to spend lunch times on the house block of her choice, which she 
+was eventually moved into. Sally’s self-harm incidents have reduced in number from 
+almost 70 to fewer than 10 in six months.  
+
+Becoming Trauma-Informed 
+117. We are committed to developing a trauma-informed approach to working with 
+
+women, given that a high proportion of them will have experienced some degree of 
+trauma during their lives and its links with offending behaviour. We are grateful to the 
+generosity of Lady Edwina Grosvenor and her charity, One Small Thing, which 
+champions trauma-informed practice with criminalised women.  This work has been 
+done in partnership with Dr Stephanie Covington, an American clinician and author, 
+who specialises in the development and implementation of gender-responsive and 
+trauma-informed services. 
+
+118. One Small Thing delivers Becoming Trauma-Informed (BTI) training, which provides 
+a greater understanding of the behaviours that often occur from a history of trauma, 
+allowing for the development of new skills for staff when responding to these 
+behaviours. The aim of the training is to reduce conflict and make the workplace safer 
+for staff. 
+
+119. The charity has run free training events on trauma-informed practice since 
+September 2015 for those working in prisons and women’s community service 
+providers. This has included a series of training workshops, some led by Dr 
+Stephanie Covington, and delivered to staff across the women’s custodial estate as 
+well as a train the trainer course in June 2017 that included National Probation 
+Service (NPS) colleagues. Training now covers all senior management teams in the 
+women’s custodial estate, with prisons continuing to embed this approach and train 
+staff across all grades. 
+
+120. Healing Trauma is the next important phase, where women prisoners are being 
+trained to conduct peer led training themselves. The Healing Trauma course consists 
+of six sessions which help women to cope with trauma. This peer led training has 
+been established over the majority of the female estate. The leading establishment is 
+HMP Send with other establishments following on. 
+
+
+30 
+
+Female Offender Strategy 
+
+Becoming Trauma Informed case study, HMP Send  
+HMP Send has worked alongside the charity One Small Thing to train all operational and 
+non-operational staff in Becoming Trauma Informed (BTI). HMP Send also offer the 
+Healing Trauma intervention. Before the Healing trauma intervention started in 2017 there 
+was no single gender-informed intervention that helped enable the women to manage the 
+impact of past trauma. This would often result in the women attempting to manage their 
+trauma by acting out violence upon themselves or upon others as a way to disassociate or 
+‘manage’ their trauma. HMP Send was the first setting in the female estate to run this 
+successful programme, and has now been followed in the rest of the Women’s Estate.  
+
+Since running the intervention at HMP Send, the prison has been able to assist 64 women 
+and has an ever growing waiting list of 43 women.  This has been achieved by word of 
+mouth and promotion by the women who have completed the course and found it 
+beneficial to them.  
+
+How BTI has supported one of the prisoners at HMP Send: 
+Miss X is a foreign national female offender who is currently serving a custodial sentence 
+of more than four years. She has no previous convictions recorded from her time in the 
+UK and she informed HMP Send that she has no previous convictions from abroad. 
+
+At the time of the intervention, Miss X informed staff that she did not know why she had 
+been placed on the intervention and was not willing to take part as she felt she had 
+suffered no trauma in her life. Staff spoke briefly with her about her journey through the 
+legal system into custody and how that alone was a traumatic experience. Subsequently 
+Miss X agreed to attend the sessions but stated that she would not actively participate.  
+
+By the end of session two, Miss X was very emotional and she spoke openly about the 
+domestic abuse she had suffered, resulting in her engagement with crime. Miss X’s 
+offender supervisor has stated that she believes the Healing Trauma intervention has 
+positively supported the offender and reduced her risk in terms of future relationships.  
+Staff believe that it has encouraged Miss X to recognise the trauma that she has been 
+through in her life and enabled her to identify ways of coping with this. 
+
+Miss X has now been relocated on the resettlement unit  at HMP Send and has actively 
+sought support from staff regarding her deportation. Before her transfer to HMP Send, 
+Miss X had been placed on Assessment, Care in Custody and Teamwork (ACCT) 
+monitoring for support at difficult times. Since completing the Healing Trauma intervention 
+Miss X has displayed no behaviour that would lead staff to believe that she is a risk of 
+harm to herself or others.  
+
+Improving Health & Wellbeing  
+121. Recommendations from self-inflicted death in custody reviews show unmet mental 
+
+health, drug and alcohol treatment needs in prison which increase the vulnerability of 
+women in custody. We are working with NHS England and Public Health England to 
+set out clear standards which prison health services should meet. We are joining up 
+services in order to tackle the comorbidity of mental health and substance misuse 
+issues. We are also undertaking a review of the interventions that are available 
+across the Women’s Estate, to ensure we are delivering the most effective treatment 
+options for this cohort, and responding to the full spectrum of their needs. 
+
+
+31 
+
+Female Offender Strategy 
+
+122. Many women find the process of being transported from prison to court for a short 
+hearing highly stressful. We are working with Her Majesty’s Prison and Probation 
+Service (HMPPS), Her Majesty’s Courts and Tribunals Service (HMCTS), and the 
+Judiciary to support the use of video links more often and more reliably across the 
+female estate. These will reduce the requirement for defendants to travel for short 
+hearings and offer greater flexibility and efficiency. 
+
+123. The women offender personality disorder pathway is an integrated network of 
+services for women offenders managed by the NPS (in custody and the community) 
+with a diagnosis of ‘personality disorder.’ The pathway’s aim is to improve public 
+protection and mental wellbeing, and address women’s offending behaviour. 
+Interventions are psychologically-informed, gender-informed and trauma-informed. 
+We have been working with NHS England to promote the delivery of this pathway, 
+and services have increased threefold since 2013. We will work with our health 
+partners to replicate these holistic care models across prison healthcare in the 
+Women’s Estate. 
+
+Options – A Personality Disorder Intervention Service Case Study, HMP Downview 
+‘Options’ service is embedded into the Offender Disorder Pathway and has been 
+operational in HMP Downview since it re-opened 2016. Previously the service was 
+operational in HMP Holloway for over a decade.  
+
+Options is a treatment service, offering modified Dialectical Behaviour Therapy (DBT) to 
+female offenders who meet criteria for Borderline and/or Antisocial Personality Disorder. 
+Options also provides staff training, as part of the Workforce Development initiative. To 
+date, Options has trained over 150 members of staff at HMP Downview, including prison 
+and probation officers. 
+
+Options also offers fortnightly formulation sessions. There are collaborative 
+psychologically-informed meetings between multi-disciplinary staff whereby complex 
+needs of women are considered and recommendations for management and treatment 
+are shared and outlined. 
+
+The service also offers a consultation role to all staff working at HMP Downview who 
+require advice and support in the management and understanding of the women. 
+
+Testimonials from women at HMP Downview on the Options Programme: 
+“I completed the Advanced DBT Options programme earlier this year. It has made a great 
+impact on my thinking patterns and mindfulness is now central to my daily life. I’m an over 
+tariff IPP [Imprisonment for Public Protection] and as, I believe, a direct result from the tool 
+box that DBT and Options has provided me with, I will shortly have a parole hearing for 
+release.” 
+
+“I have gone on to become an Options Peer Mentor. A big part of this, is that a team of us 
+are writing an offender-led DBT manual for offenders who do the programme so that they 
+will be able to relate. As a peer mentor I also assist with the training on the Options 
+programme of Prison officers, telling them both how it helped me and how it helps to 
+enable them to have a greater insight from a prisoner’s perspective.” 
+
+
+32 
+
+Female Offender Strategy 
+
+Offering comprehensive rehabilitative support 
+
+124. If we are to rehabilitate female offenders successfully and reduce reoffending, our 
+prison workforce must understand the factors that drive women’s offending 
+behaviour, and the greater likelihood that gender-informed interventions will be 
+effective.80  
+
+125. We must also give female offenders the best possible support whilst they are in 
+prison so they can successfully transition back into the community after release. As 
+noted in the MoJ’s Education and Employment Strategy, prison can serve as an 
+impetus to help set offenders on a path to a better life.  
+
+126. People leaving prison who find employment are between 6 and 9 percentage points 
+less likely to reoffend than those who do not, even when a range of other factors are 
+considered.81 As well as reducing reoffending, moving ex-offenders off benefits and 
+into work reduces the financial burden on taxpayers and the welfare state.82 
+
+Empowering the Prison Workforce 
+127. Currently, all women's prisons are required to comply with gender-informed standards 
+
+for working with women prisoners, which are set out in Prison Service Order (PSO) 
+4800. We intend to replace PSO 4800 with a Women’s Policy Framework that will 
+incorporate guidance on best practice for working with female offenders. This will be 
+applicable not only for prison officers but for workforce across the CJS and beyond. 
+We are currently developing this Framework in consultation with other Government 
+departments and external stakeholders and aim to publish a final version by Autumn 
+2018. 
+
+128. The Women’s Estate leadership team in HMPPS is also creating an ethical practice 
+reference group which provides a forum for senior leaders in prisons to resolve 
+practice issues, and ensure practice guidelines for the Women’s Estate are 
+consistent, addressing current issues. 
+
+129. We have designed a new Offender Management in Custody Model tailored for the 
+needs of women, which considers complexity alongside risk, and introduces key 
+worker time to provide more focused support to individual offenders. 
+
+130. We will further support governor freedom to recruit prison officers to the Women’s 
+Estate based on criteria which reflect the particular values and skills needed for a 
+gender-informed approach. This may be distinct from the majority need and 
+recruitment approach pursued for the male estate. Given the overrepresentation of 
+BAME women in prison, it is vital that we provide a workforce that is not only 
+conscious of the impact of protected characteristics on the experience of female 
+offenders, but that is representative of the women they work with.83 The Lammy 
+Review made two recommendations in relation to the prison workforce, citing the 
+need for BAME recruitment and leadership targets.84 The Government accepted both 
+these recommendations. It has set an objective for 14% of all recruits (across 
+HMPPS) being BAME by 2020, and to increase the diversity of the senior leader 
+cadre by December 2020.  
+
+
+33 
+
+Female Offender Strategy 
+
+Developing Education & Employment 
+131. As highlighted in The Education and Employment Strategy, published on 25 May 
+
+2018, work can provide a foundation for a different kind of life.85. The strategy 
+outlined our plans to reform prison education in order to give governors more 
+oversight and control of their education provision. This means that governors in the 
+Women’s Estate will be able to decide an education curriculum that meets the 
+specific needs of the women prisoners, determine how it is organised and delivered, 
+and choose who delivers it.  New contract arrangements will enable governors to 
+buy-in a range of specialised services, such as peer support and coaching, to meet 
+their prison’s population’s needs. The Halfords Employment Academy at Drake Hall 
+is just one example, amongst a number, of a governor having built highly effective 
+partnerships to deliver vocational training alongside employers. 
+
+132. In addition, the New Futures Network is being developed to help create partnerships 
+between employers, and has empowered governors to improve employment 
+opportunities for prisoners on release. The network will place regional employment 
+experts into regional prison groups to provide advice to governors and will also 
+encourage more businesses to work with prisons. The New Futures Network will 
+begin work before the end of 2018. We will ensure that this takes into account the 
+specific needs of women. 
+
+133. We are currently undertaking a review of the current rules surrounding release on 
+temporary licence (ROTL). ROTL is a vital part of rehabilitation and the goal is to 
+improve access to all types of temporary release, where safe to do so including 
+seeing more work undertaken whilst in custody, leading to employment upon release.  
+
+134. Before any modifications are made to aspects of temporary release, we will carefully 
+consider the impact of any proposed changes on female offenders. We will also 
+explore any opportunities for taking a gender-informed approach, in light of 
+consultation responses. 
+
+
+34 
+
+Female Offender Strategy 
+
+Chapter Four: Framework for Implementation 
+
+Chapter Summary 
+
+135. The vision proposed in this strategy requires an approach that is tailored and holistic, 
+emphasising early identification, intervention and diversion (where appropriate).  
+
+136. Many services - including those in the criminal justice system (CJS), other statutory 
+agencies such as Police & Crime Commissioners (PCCs), and the third sector - are 
+involved in addressing the complex needs of the female offender cohort. Measurable 
+change for this group will only be achieved through a high degree of cooperation, 
+coordination and committed partnership working.  
+
+137. We are committed to providing strong leadership required to maximise the benefit of 
+the many existing cross-Government initiatives that can support female offenders. 
+We want to give local areas a ‘mandate’ to prioritise them, and to drive forward the 
+aims and actions of this strategy. We want local areas to feel empowered to address 
+the needs of female offenders in a way that meets local needs and circumstances. 
+Given the constrained financial environment in which the Government is currently 
+operating, all solutions should be rigorously tested to make the best use of the 
+funding available. 
+
+138. We have developed a framework for the implementation of this strategy, to set out 
+clearly what can be expected of the MoJ, the Government and the services working 
+with women in the CJS. We will also put in place the necessary oversight and 
+governance arrangements support the implementation of the strategy. This includes 
+reforming the Advisory Board on Female Offenders, continuing to liaise with the 
+Criminal Justice Inspectorates and working with other government departments 
+through our cross-government Female Offender Leadership Board (see Conclusion).  
+
+Locally-led 
+139. We want local areas across England and Wales to feel empowered to design 
+
+approaches tailored for the specific needs of their populations and local 
+circumstances. We will continue to support them with evidence of what works. We 
+believe that the development of a Whole System Approach (WSA) that offers holistic 
+support through joined-up local service provision is key to delivering better outcomes. 
+We will do this by: 
+
+• Continuing support for Whole System Approaches   
+
+• Exploring Devolution  
+
+Partnership-focused 
+140. We want to ensure a joined-up approach across Government at a national level and 
+
+between services at a local level, including the third sector, to deliver a holistic 
+response to women. We will set a clear structure to help partners work together 
+
+
+35 
+
+Female Offender Strategy 
+
+effectively to address the drivers of offending and the needs of female offenders. We 
+will do this by: 
+
+• Developing a National Concordat on Female Offenders 
+
+• Strengthening cross-Government working  
+
+Evidence-based 
+141. Working with local areas and providers, we will continue to develop the evidence 
+
+base to understand better what works. Interventions will be tested for sustainability, 
+scalability and to ensure the best use of the available funding. We will do this by: 
+
+• Sharing and supporting further data & evidence 
+
+The Framework: 
+
+Locally-led 
+142. We want to see a higher proportion of female offenders and at-risk women being 
+
+supported in the community. To achieve this, local communities must be equipped to 
+respond to the needs of these women. We want local areas across England and 
+Wales to feel empowered to design approaches tailored for the specific needs of their 
+populations and local circumstances. 
+
+Continuing support for Whole System Approaches 
+143. All local areas should have a plan to address the particular circumstances of female 
+
+offenders. We want to see the spread of multi-agency, WSA models, which bring 
+together local agencies (criminal justice, statutory and voluntary) to take a joined-up, 
+gender-informed approach to providing the holistic, targeted support that female 
+offenders need, with shared investment and outcomes.  
+
+144. We know a WSA approach has the potential to work. The Government has invested 
+£1m seed funding since 2016 in a number of local areas developing WSA 
+approaches, and early evidence from these sites shows promising success. Women’s 
+centres are often central to WSAs and can be effective at reducing reoffending: a 
+2015 Justice Data Lab analysis found a reduction in the one year proven reoffending 
+rate of between 1 and 9 percentage points for female offenders who received support 
+provided by 32 women’s centres throughout England compared with a matched 
+group of similar offenders.86 
+
+145. The WSA model will vary according to local needs and services but key elements 
+include: early needs assessment at first contact with the police, a women-centred, 
+problem-solving approach at court, and wraparound, gender-informed support 
+alongside community orders and on release from prison. 
+
+146. WSA models are appropriate for both at-risk women and female offenders. Where 
+women do come into contact with the CJS, a WSA should divert women away from it, 
+where appropriate. Providing joined up support to a woman from her first contact with 
+police, should result in fewer women serving short custodial sentences or breaching 
+community orders, and reoffending. This could have important social benefits 
+
+
+36 
+
+Female Offender Strategy 
+
+including a reduction in long-term or crisis-point demands on services such as health 
+and housing, more women accessing support for domestic abuse, and a reduction in 
+the number of children taken into care or on the risk register.   
+
+147. There are a number of areas including Greater Manchester, Wales, Surrey, Sussex, 
+West Mercia, Lancashire and Cumbria, Norfolk and Exeter already operating WSAs. 
+We will work with them to build an evidence base to support this approach and share 
+best practice, supporting the wider rollout of this model.  
+
+Manchester WSA Case Study 
+Greater Manchester (GM) WSA has been fully operational since January 2015. The WSA 
+includes police triage, a problem-solving court, and support alongside community orders 
+and on release from prison, with women’s centres established in all boroughs in GM to 
+provide women-only ‘one-stop shop’ support for women. 2015-16 MOJ funding was used 
+to address the barriers to engagement for some women (e.g. Black, Asian and minority 
+ethnic (BAME) women and young adults). 
+
+Whilst we cannot conclude that the WSA has had a direct impact, there has been a 
+promising reduction in the number of adult women prosecuted and in the number 
+sentenced to custodial sentences in GM since 2014. 
+
+Emerging evidence from the GM WSA shows: 
+
+• A 40% reduction in the number of adult women sentenced to immediate custody since 
+2014, compared with a 3% reduction for England and Wales.87  
+
+• A 45% reduction in the number of adult women arrested since 2014/15, compared with 
+an 18% reduction for England and Wales.88 
+
+• 91% of those assessed in GM to end March 2017 have multiple needs.89 By end 
+March 2017, 605 women had completed more than one Outcome Star assessment (of 
+issues such as mental health, substance misuse and accommodation). On average, a 
+positive change of 1.5 was seen against every assessed issue (on a scale of 1-10). 
+
+• Proven re-offending was calculated at 17% for a small cohort of women referred to the 
+centres 
+
+Exeter CoLab ‘Resilient Women, Resilient System’ Initiative Case Study 
+In Devon, a 2017 study revealed a fragmented offer for women with complex needs, 
+particularly for those on the justice pathway. Participating stakeholders offered a snapshot 
+of the challenges and strengths of the current pathway, along with their aspirations for an 
+improved offer. Respondents felt that clear leadership, committed to improving outcomes 
+for women on the justice pathway, was key to creating a WSA that would support this. 
+
+CoLab Exeter is a multi-agency hub hosting 28 organisations aligned around 4 key 
+strategic themes; Health & Wellbeing, Reducing Reoffending, Homelessness and 
+Recovery from Mental Ill-health and Substance Misuse. The CoLab/MoJ WSA ‘Resilient 
+Women, Resilient System’ Initiative aimed to improve the offer for women within or at risk 
+of entering the Justice Pathway, using a model that invested in both the system and the 
+woman herself. Key to this was utilising a ‘resilience’ based model that built on already 
+existing assets for both. 
+
+
+37 
+
+Female Offender Strategy 
+
+The project developed two key work streams. The first works directly with women through 
+dedicated drop-in sessions offering a range of support opportunities in a women-only 
+environment, along with a women’s forum and specific structured workshops delivering a 
+range of topics that they identified as being key to recovery. The second has been the 
+creation of a System Stewardship Group made up of senior representatives of all aspects 
+of the justice pathway including Police, Public Health, CRC, Office of the Police and Crime 
+Commissioner (OPCC) and local authority housing. They have worked with the evidence 
+base that the project has developed to influence local and regional policy including the 
+Devon Reducing Reoffending Strategy, Exeter Reducing Homelessness Strategy and the 
+Devon Complex Lives Strategy and Commissioning Framework, which includes Domestic 
+and Sexual Violence and Abuse and Substance Misuse, all of which now have a trauma-
+informed approach to their implementation. 
+
+From September 2017 to March 2018 they worked with 75 individual women attending the 
+multi-agency ‘Resilient Women Open Sessions’ on a regular basis, with an additional 297 
+individual visits from women to the building for information, advice or support.  50% of 
+referrals to the service came from the Community Rehabilitation Company (CRC), with the 
+majority serving community orders, whilst those referred by the National Probation Service 
+(NPS) were referred for post-release support. Self-referrals increased steadily, by March 
+2018 making up 33% of numbers attending. 78% had experienced trauma as a result of 
+domestic and sexual violence and abuse. 32% of those attending were aged 50 and 
+above. 48% of those who were mothers had their children in care. The top three needs 
+women presented with upon engagement were substance misuse, mental health, and 
+access to education and training. 
+
+Session topics include developing skills for financial resilience, creative writing, skills for 
+employability, and healthy relationships. The women have recently been involved in the 
+co-design of an upskilling ‘pattern changing’ programme that will be developed for future 
+use in a range of justice settings. 
+
+Exploring devolution 
+148. Locally-led approaches are more likely be effective if local areas have the tools to 
+
+influence partners and change. We are keen to devolve power and responsibility from 
+central Government to local areas so that they have the levers they need to deliver a 
+WSA in their communities. We have signed Memorandum of Understanding (MOU) 
+agreements with London and Greater Manchester, which commit us to working 
+towards greater devolution of powers. Both agreements have identified female 
+offenders as a cohort where areas are keen to make progress, and we are working to 
+develop options.  
+
+149. We will also work with other areas to identify and take forward options for increasing 
+freedoms and working in partnership to address the needs of female offenders. This 
+will involve working with Police and Crime Commissioners (PCCs) to understand how 
+and whether additional powers and responsibilities may help them drive improved 
+outcomes in this area.  
+
+
+38 
+
+Female Offender Strategy 
+
+Partnership-focused 
+
+150. There will be a joined-up approach across Government at a national level, and 
+between agencies and services at a local level, to deliver a holistic response. At a 
+national level we will work across Government to secure recognition of the specific 
+needs of female offenders within wider initiatives. We will also set out what can be 
+expected of services at a local level to deliver a joined-up approach. 
+
+Developing a National Concordat on Female Offenders 
+151. We will work across Government and with other national partners to develop and 
+
+agree a National Concordat on Female Offenders. We want the Concordat to act as a 
+joint statement of intent, agreement and understanding about how public services 
+should be working together in local partnerships to identify and respond to the often 
+multiple and complex needs of women as they journey through the CJS. 
+
+152. Through the concordat, we want to establish a clear framework of best practice 
+principles and guidance, that local organisations and partnerships can use to 
+commission services. We hope that this document will better support them to develop 
+high quality services, as well as reflect the evidence for attaining better outcomes for 
+this group of women. 
+
+153. Our ambition is for local organisations and partnerships voluntarily to adopt the 
+concordat once published, and outline how they will work together. They will then 
+implement the principles of the concordat into their service planning and delivery 
+where possible. We will continue to consult with the relevant Government 
+departments and national and local partners to develop and agree the concordat by 
+the end of 2018.  
+
+Strengthening cross-Government working  
+154. Government is increasingly recognising that the needs of individuals cannot be 
+
+addressed in isolation by different Government departments, but that they require a 
+partnership approach that straddles traditional boundaries. A number of cross-
+Government groups are addressing the complex needs of vulnerable people. This 
+includes the Whitehall Vulnerable Persons Directors Group, the Cross-Departmental 
+Complex Needs Group and the Reducing Reoffending Group. We will work through 
+each of these to ensure improved outcomes for female offenders and women at risk 
+of offending, including exploring the scope for cross-departmental budgets to address 
+the needs of specific cohorts, such as those with complex needs. 
+
+155. The new Reducing Reoffending group, chaired by the Chancellor of the Duchy of 
+Lancaster, will work across Government to tackle some of the main causes of 
+reoffending, including employment, health and accommodation. The objectives of the 
+group will include identifying opportunities to join up existing policies to address key 
+drivers of reoffending, and to build up the cross-Government evidence on activities 
+related to reoffending and the interventions likely to be most effective. As well as 
+MoJ, the group will also be attended by Home Office, Cabinet Office, Treasury, 
+Department for Work and Pensions (DWP), Ministry of Housing, Communities and 
+Local Government (MHCLG), Department for Education (DfE), and DHSC. 
+
+
+39 
+
+Female Offender Strategy 
+
+156. MHCLG is carrying out a comprehensive review of the funding and commissioning of 
+domestic abuse services across England. The review will be informed by an audit 
+being run by Ipsos MORI. This will give us a picture of provision across England, 
+enabling Government to assess the impact that services are having and to identify 
+any gaps in provision. MHCLG will draw on outcomes from the review to inform its 
+approach to improving services for victims with complex needs. We will liaise with 
+MHCLG to ensure that the specific needs of female offenders and at-risk women are 
+considered in this process. 
+
+157. We will work collaboratively and capitalise on existing Government initiatives, such as 
+the set of Principles on gender and trauma informed care for mental health services 
+for women currently being developed by the Department of Health and Social Care 
+(DHSC) led Women’s Mental Health Taskforce. 
+
+158. The Government consultation on domestic abuse Transforming the Response to 
+Domestic Abuse closed on 31 May 2018. We consulted on range of non-legislative 
+and legislative measures to tackle domestic abuse. The consultation also sought 
+views on how we can work better to identify vulnerable women at risk of offending 
+and address issues relating to domestic abuse earlier. The consultation will help 
+inform the work that we take forward. We will work closely on the response to this 
+consultation to ensure we capture and address the needs of female offenders.  
+
+159. The Violence Against Women and Girls (VAWG) Strategy 2016 underpins many of 
+the recommendations of the Female Offenders strategy, given the links between 
+domestic abuse and offending, and the prevalence of vulnerabilities amongst the 
+female offender cohort.90 A cross-Whitehall working group has been established 
+to draw in the expertise of the sector, ensuring a real difference is made to vulnerable 
+and marginalised women. The current VAWG Strategy Action Plan is being driven 
+forward through the Home Secretary chaired VAWG Inter-Ministerial Group, which 
+will also consider new proposals to tackle domestic abuse within this framework. 
+
+160. The Government consulted on a new funding model for supported housing earlier in 
+2018. A response is expected in the summer.  
+
+161. The Government has also passed the Homelessness Reduction Act 2017, which 
+came into force in April 2018, to reform England’s homelessness legislation, ensuring 
+that more people get the help they need earlier to prevent them from initially 
+becoming homeless. It places duties on local authorities to intervene at earlier stages 
+to prevent homelessness in their areas and requires local authorities to provide new 
+homelessness services to all those affected, not just those who are protected under 
+existing legislation. The Act also introduces a duty to refer which requires public 
+authorities in England specified in regulations to notify a local authority of service 
+users, including offenders, they think may be homeless or at risk of homelessness. 
+This will mean prisons and probation providers will have a duty to refer and prevent 
+homelessness amongst their population from October 2018. 
+
+162. The Government has committed to halving rough sleeping by 2022 and ending it 
+altogether by 2027. To achieve this ambition, we will be publishing a cross-
+Government rough sleeping strategy in July 2018. Delivery of the strategy will be 
+driven through the cross-Government Rough Sleeping & Homelessness Reduction 
+Taskforce.  Approximately one third of people sleeping rough in London in 2016/17 
+had experience of serving time in prison and we know that significant work is needed 
+to better support those leaving prison into accommodation.91 The rough sleeping 
+
+
+40 
+
+Female Offender Strategy 
+
+strategy will take action to support particularly vulnerable groups, including female 
+rough sleepers, many of which have an offending history and multiple and complex 
+needs.  
+
+163. Following the announcement of a new Rough Sleeping Initiative, MHCLG has 
+recently allocated £30 million to 83 areas to boost the immediate support available to 
+people living on the streets and help them into accommodation. This Initiative will 
+implement measures that will have a rapid impact this year. Councils across England 
+with the highest numbers of rough sleepers will receive a share of this funding to 
+significantly increase the support they are able to offer people now, and also those at 
+risk this coming winter. Funding will be used to provide an additional 1,750 bed 
+spaces for rough sleepers and an additional 531 dedicated homelessness workers. 
+The funding will also help improve the co-ordination of services available to those in 
+need and at risk.  
+
+164. Together with the Welsh Government, we are investigating how the Housing First 
+pilots currently underway in both England and in Wales could help to ensure that 
+offenders with complex needs, including female offenders, can secure suitable 
+accommodation. The MHCLG funded pilots in England are being delivered by the 
+Liverpool City Region, West Midlands, and Greater Manchester Combined Authority 
+Regions, and will be subject to rigorous external evaluation to determine the 
+effectiveness of this internationally proven approach in an English context. We are 
+working closely with the three pilot regions to ensure that the particular needs of 
+those with a history of offending are met. 
+
+165. DWP’s roll-out of Universal Credit delivers advance payments to ex-prisoners of up to 
+their first full month’s entitlement, alleviating urgent financial need. This can be paid 
+back over a period of up to 12 months. All Universal Credit claimants are exempt 
+from the waiting days currently served under Jobseekers Allowance. To 
+accommodate the complex circumstances of many female offenders, it is possible to 
+make alternative payment arrangements, either payment of housing costs direct to 
+landlords, splitting payments between partners, or making payments more frequent 
+than monthly. Critically, prisoners serving short sentences of 12 months or less, 
+which includes anytime spent on remand, are able to retain the housing element of 
+their Universal Credit claim for up to 6 months (if their total absence does not exceed 
+6 months) under new temporary absence rules. This will prevent them being 
+homeless on release. For those prisoners in receipt of legacy benefits, they can 
+receive help with their housing costs for 13 weeks as long as their sentence is not 
+expected to exceed that length. For prisoners on remand, housing benefit support 
+can continue for up to 52 weeks. 
+
+166. At present, DWP Prison Work Coaches provide employment support to prisoners 
+during their sentence and support to make their claim to benefits prior to their 
+release. This includes support in gathering all the details and documentation needed 
+to make their Universal Credit claim and booking an appointment at the local 
+jobcentre on the day of release, so they can complete their claim and access financial 
+support immediately through advance payments. Recent changes to Universal Credit 
+means all claimants, including prison leavers, can apply for an advance payment of 
+up to 100% of their expected monthly entitlement from day one of their claim. This 
+work sits within the context of a wider national partnership agreement between MoJ 
+and DWP,  which sets out clear roles and responsibilities for the various bodies 
+involved in getting more prisoners into employment in the future across England and 
+Wales. 
+
+
+41 
+
+Female Offender Strategy 
+
+Evidence-based 
+
+167. We will build the evidence base on what works, testing interventions for sustainability, 
+scalability and to ensure the best use of the available funding. We will share best 
+practice widely, supporting collaborative training practices and building professional 
+networks. 
+
+Sharing and supporting further data and evidence 
+
+168. We are committed to working with local areas to build a strong data and evidence 
+base, and are establishing a cross-Government analytical working group on female 
+offenders to share learning and collaborate. 
+
+169. We have already taken steps to give local areas the information that they need to 
+create a gender-informed approach towards the women in their area by including a 
+Court Outcomes by Police Force Area data tool in our annual Criminal Justice 
+Statistics publication.92 We will also develop a data toolkit alongside the Concordat 
+that will enable local areas to interrogate this court data and other key local data on 
+their cohort.  Our aim is to enable local areas to better understand the needs of the 
+women in their area and tailor their work accordingly.  It will also allow them to track 
+the success and outcomes of their work. 
+
+170. We will make use of existing WSA models to build the evidence base for multi-
+agency approaches, inform our understanding of what works, and achieve value for 
+money and good practice. We will look for opportunities to bring interested areas 
+together to discuss the practicalities and benefits of developing a WSA. It is 
+particularly important that smaller organisations supporting BAME women and 
+women with other protected characteristics can benefit from the learning of larger 
+organisations and each other, and we will prioritise their engagement. We will also 
+look to engage with BAME women with lived experience of the CJS to inform our 
+policy development in this area. The Troubled Families Programme, which provides 
+high-quality, holistic support for at-risk families and is funded by MHCLG, will share 
+the findings of its evaluation and best practice to facilitate similar work in other local 
+areas. We will look to integrate this learning into WSA resources. 
+
+171. The Government is funding Clinks, a third sector coalition organisation, to develop 
+and facilitate networks of support in specialist areas, providing meetings, targeted 
+communication, and support. These will have a particular focus on women and 
+families and BAME offenders. They will also look to improve outcomes for, and 
+support people, with protected characteristics. 
+
+172. We are subject to the Public Sector Equality Duty (Equality Act 2010) which has a 
+proactive focus on eliminating discrimination, advancing equality and fostering good 
+relations. All our work with women should be underpinned by Equality Analysis to 
+ensure we create inclusive systems, structures and ways of working that benefit 
+women of all backgrounds, consistent with our responsibilities under the Equality Act 
+2010. We know that women from BAME communities are disproportionately 
+represented in custody, and those who are Foreign Nationals may experience 
+particular challenges. In implementing the strategy both nationally and locally, it will 
+be important to consider how to tailor our work to ensure that women from all 
+backgrounds stand to benefit. Monitoring of protected characteristics other than 
+gender will allow us to measure progress. 
+
+
+42 
+
+Female Offender Strategy 
+
+Conclusion 
+
+173. To deliver meaningful change for female offenders, their families, victims and wider 
+society, we must ensure that we are accountable for the priorities set out in this 
+strategy. We will commit to publishing an annual update on the progress of the work 
+of the strategy. To support this, the right governance processes need to be in place to 
+oversee the delivery of the commitments made in this strategy. We will put in place a 
+reformed Advisory Board on Female Offenders, continue to work through the cross-
+government Female Offender Leadership Board, and liaise with the Criminal Justice 
+Inspectorates.  
+
+174. The Advisory Board on Female Offenders, which brings together key stakeholders, 
+criminal justice agencies and officials from relevant Government Departments, has 
+provided expert advice and challenge to Government on the issue of female 
+offending since 2013. Its work has been invaluable in developing this strategy.  As we 
+move into the next stage of implementation, we want to increase the effectiveness of 
+this body even further by: 
+
+• Giving the Board responsibility for monitoring and advising on the delivery of 
+commitments in this strategy 
+
+• Ensuring that we have relevant expert representation by regularly refreshing 
+stakeholder membership through an application process 
+
+• Securing attendance from Ministers from other relevant Government Departments 
+to attend the Board, making sure that female offending remains a priority across 
+Government 
+
+• Linking the work of the Board with that of other cross-Government groups that 
+impact on female offenders 
+
+175. Delivering this strategy will not be without its challenges. The MoJ is operating in an 
+environment of financial constraint, and in this context, we are clear that the 
+measures we have put in place to deliver this strategy must be evidence-based and 
+evaluated to test their suitability for further rollout, as well as  scalable and 
+sustainable. 
+
+176. Furthermore, as we have acknowledged throughout the strategy, the criminal justice 
+system (CJS) is often ‘downstream’ of a wide range of statutory and third sector 
+services that female offenders have come into contact with. Even whilst women are 
+within the CJS, working effectively to rehabilitate this cohort requires cooperation 
+from many other Government departments and agencies. It is imperative that we 
+engage in partnership working across Government to address female offending as a 
+shared priority. The cost of female offending affects all of us – and the benefits of 
+implementing our vision will benefit all of us.  
+
+177. If we achieve our vision of seeing fewer women in the CJS, fewer women in custody 
+and more women being successfully managed in the community, we will have 
+contributed significantly to creating a justice system that is better for everyone. 
+
+178. In the development of our strategic priorities, we have drawn on existing work from 
+across Government from which the female offender cohort may benefit. We will work 
+
+
+43 
+
+Female Offender Strategy 
+
+to ensure that this strategy will continue to inform their work going forward, and that 
+the particular needs of female offenders are recognised and addressed within their 
+agendas.  
+
+179. Finally, we would like to thank everyone who has worked on and contributed to this 
+strategy document. This includes the staff and women we met at HMP East Sutton 
+Park, HMP Styal and HMP Downview, who provided such candid feedback. Your 
+cooperation and support has been invaluable so far, and will continue to be so going 
+forward if we are to achieve the ambition set out here. It is only by working in 
+partnership across organisational and institutional boundaries to secure the best 
+outcomes, that we will be able to deliver the kind of justice system that will benefit 
+society as a whole. 
+
+
+44 
+
+Female Offender Strategy 
+
+Annex A: Lord Farmer Review Terms of Reference 
+
+Building on the original Farmer Review: The importance of strengthening prisoners' family 
+ties to prevent reoffending and reduce intergenerational crime, which focused on men in 
+prison, a further independent review will be commissioned from Lord Farmer to investigate 
+how supporting female offenders to engage with their families can lower recidivism, aid 
+rehabilitation and assist in addressing the issues of addressing intergenerational crime. 
+
+The follow-on Review will aim to learn about: 
+
+1. What works to help female offenders, their families and especially their children, to 
+maintain and even improve family ties, where appropriate, while serving a custodial or 
+community sentence, or post-release. 
+
+2. The challenges of mothering and fulfilling this primary carer role either whilst at a 
+distance from their children or in the community. 
+
+3. What works to help those prisoners who do not have any family connections, either 
+because they have been through the care system, their children have been taken into 
+the care system, or the nature of their offending precludes contact with their families. 
+
+4. How this can be translated into policy and commissioning for change. 
+
+Expert group 
+
+• Nicola Drinkwater, Head of Female Offending, Clinks 
+
+• Tina Parker Head of Women’s Services, Pact  
+
+• Kate Paradine CEO, Women in Prison 
+
+• Jenny Earle, Programme Director, Prison Reform Trust  
+
+• Director, Women’s Custodial Estate, HMPPS 
+
+• Deputy Director, Vulnerable Offender Policy, Ministry of Justice 
+
+• Gabrielle Lee, Governor Low Newton 
+
+• Carlene Dixon, Governor HMP Send  
+
+• Julia Mulligan, Police and Crime Commissioner, North Yorkshire 
+
+• Val Castell, Adult Court Committee, Magistrates Association 
+
+• One or more women with lived experience of life inside prison and the difficulties of 
+fulfilling primary care responsibilities while serving a custodial sentence. 
+
+
+  45 
+
+Female Offender Strategy 
+
+1 The higher prevalence amongst offenders of issues with drugs, alcohol and mental health is well 
+documented. In a 2005/06 MOJ survey, 46% of female prisoners reported having attempted 
+suicide – more than twice the rate of male prisoners (21%). This is higher than in the general 
+population, amongst whom around 6% have. In the same MoJ survey, 64% of prisoners reported 
+using Class A drugs in the four weeks before custody compared to 13% of the general 
+population, and 49% of prisoners were assessed as being at risk of suffering from anxiety and/or 
+depression, compared to 16% of the general population. In the Adult Psychiatric Morbidity 
+Survey of prisoners (1998), 90% of prisoners had one or more of the five psychiatric disorders 
+studied (psychosis, neurosis, personality disorder, hazardous drink and drug dependence). 
+MOJ (2013). Gender differences in substance misuse and mental health amongst prisoners 
+Available at: https://www.gov.uk/government/publications/gender-differences-in-substance-
+misuse-and-mental-health-amongst-prisoners--2 
+
+2 Substance misuse has been linked to increased likelihood of reoffending. According to a MoJ 
+survey of adult prisoners sentenced in 2005 and 2006, 62% of prisoners who reported using 
+drugs in the four weeks before custody reoffended in the year after released compared to 30% 
+of those who reported never using drugs. 62% of those who reported drinking alcohol every day 
+in the four weeks before custody were reconvicted, compared with 49% of those who did not 
+report this. Addressing mental health issues should also help offenders better address other 
+needs more directly associated with offending, such as engaging in drug treatment or 
+maintaining stable accommodation. 
+MOJ (2013). Gender differences in substance misuse and mental health amongst prisoners 
+Available at: https://www.gov.uk/government/publications/gender-differences-in-substance-
+misuse-and-mental-health-amongst-prisoners--2 
+
+3 The human cost of VAWG is high. Experiences of abuse have serious psychological, emotional 
+and physical consequences and may contribute to multiple disadvantage, or a chaotic lifestyle 
+involving substance misuse, homelessness, offending behaviour, gang involvement, prostitution 
+or mental health problems. That 41% of the prison population have witnessed or experienced 
+domestic abuse is illustrative of the wider social harms these crimes cause”. (HM Government 
+(2016). Ending Violence Against Women and Girls Strategy 2016-2020, p.8.) Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/522166/VAWG_Strategy_FINAL_PUBLICATION_MASTER_vRB.PDF 
+
+4 MOJ (2018). Offender Management Statistics quarterly: October to December 2017. Available 
+at: https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-
+to-december-2017 
+
+5 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+6 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+7 MOJ (2018). Proven reoffending statistics: April 2016 to June 2016. Available at: 
+https://www.gov.uk/government/statistics/proven-reoffending-statistics-april-2016-to-june-2016 
+
+8 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+9 Government estimates of total costs to government in 2015/16 associated with female offenders 
+[from police through to end of sentence], drawing on a combination of different data sources and 
+assumptions. These are high level estimates, using a number of published and unpublished 
+data, and there is major uncertainty in several cost estimates included. 
+
+10 MOJ (2018). Safety in custody quarterly: update to December 2017. Available at: 
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017 
+
+
+46  
+
+Endnotes 
+
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/proven-reoffending-statistics-april-2016-to-june-2016
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+
+
+
+
+Female Offender Strategy 
+
+11 Baroness Corston (2007). A Report by Baroness Jean Corston of a Review of Women with 
+Particular Vulnerabilities in the Criminal Justice System. Available at: 
+http://www.justice.gov.uk/publications/docs/corston-report-march-2007.pdf 
+
+12 MoJ conducted a Rapid Evidence Assessment (REA) 2015 to explore the evidence on the 
+effectiveness of interventions for adult women convicted of crime. Relative to the gender-neutral 
+initiatives, more of the gender-informed programmes reviewed led to reductions in recidivism. 
+MOJ (2015). Effective interventions for Women offenders: A Rapid Evidence Assessment. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/448859/effective-interventions-for-women-offenders.pdf 
+
+13 Murray and Farrington (2008) The effects of parental imprisonment on children. In Tonry (Ed), 
+Crime and justice: A review of research (Vol 3, pp 133-206). University of Chicago Press. 
+
+14 MOJ (2014). Prisoners’ childhood and family backgrounds. Available at: 
+https://www.gov.uk/government/publications/prisoners-childhood-and-family-backgrounds 
+
+15 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+16 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+17 MOJ (2018). Do offender characteristics affect the impact of short custodial sentences and court 
+orders on reoffending? Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf 
+
+18 MOJ (2018). Safety in custody quarterly: update to December 2017. Available at: 
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017 
+
+19 MOJ (2013). Gender differences in substance misuse and mental health amongst prisoners 
+Available at: https://www.gov.uk/government/publications/gender-differences-in-substance-
+misuse-and-mental-health-amongst-prisoners--2 
+
+20 MOJ (2018). Do offender characteristics affect the impact of short custodial sentences and court 
+orders on reoffending? Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf 
+
+21 MOJ (2016). Prison Safety and Reform. Available at: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/565014/cm-9350-
+prison-safety-and-reform-_web_.pdf 
+
+22 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+23 HM Government (2016). Ending Violence Against Women and Girls Strategy 2016-2020, p.8. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/522166/VAWG_Strategy_FINAL_PUBLICATION_MASTER_vRB.PDF) 
+
+24 MOJ (2015). Achieving Better Outcomes for Women Offenders. Available at: 
+https://www.gov.uk/government/publications/achieving-better-outcomes-for-women-offenders 
+
+25 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategytitle tbc (supporting data 
+tables) 
+
+26 Prison Reform Trust (2017). “There’s a reason we’re in trouble”: Domestic abuse as a driver to 
+women’s offending. Available at: http://www.prisonreformtrust.org.uk/Portals/0/Documents/ 
+Domestic_abuse_report_final_lo.pdf 
+
+27 Walby, S. (2009). The Cost of Domestic Violence Up-date 2009, Lancaster University 
+
+
+47   
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/448859/effective-interventions-for-women-offenders.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/448859/effective-interventions-for-women-offenders.pdf
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+http://www.prisonreformtrust.org.uk/Portals/0/Documents/Domestic_abuse_report_final_lo.pdf
+http://www.prisonreformtrust.org.uk/Portals/0/Documents/Domestic_abuse_report_final_lo.pdf
+
+
+
+
+Female Offender Strategy 
+
+28 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+29 Ibid. 
+30 Ibid. 
+31 Murray, Farrington, & Sekol (2012) Children’s Antisocial Behavior, Mental Health, Drug Use and 
+
+Educational Performance After Incarceration: A Systematic Review and Meta-Analysis. 
+Psychological Bulletin 2012. Vol 138. No.2, 175-210 
+
+32 MOJ (2014). Prisoners’ childhood and family backgrounds. 
+https://www.gov.uk/government/publications/prisoners-childhood-and-family-backgrounds 
+
+33 MOJ (2016). Black, Asian and Minority Ethnic disproportionality in the Criminal Justice System in 
+England and Wales. Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/639261/bame-disproportionality-in-the-cjs.pdf 
+
+34 The Prison Reform Trust’s report ‘Fair Cop? Improving Outcomes for women at the point of 
+arrest’, noted in the importance and effectiveness of early assessment at point of contact with 
+the police. Available at: 
+http://www.prisonreformtrust.org.uk/Portals/0/Documents/Women/Fair%20Cop.pdf 
+
+35 MOJ (2018). Adult Out of Court Disposal Pilot Evaluation – Final Report.  
+36 DCMS (2015). The TV Licence Fee and Enforcement Review. Available at: 
+
+https://www.gov.uk/government/consultations/tv-licence-enforcement-review-a-consultation 
+37 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+38 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+39 Of those who had an assessment at 30 September 2017. MOJ (2018). Supporting data tables: 
+Female offender strategy. Available at: https://www.gov.uk/government/publications/female-
+offender-strategy 
+
+40 MOJ (2018). Do offender characteristics affect the impact of short custodial sentences and court 
+orders on reoffending? Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf 
+
+41 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+42 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+43 MOJ (2018). Offender Management Statistics quarterly: October to December 2017. Available 
+at: https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-
+to-december-2017 
+
+44 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+45 MOJ (2018). Offender Management Statistics quarterly: October to December 2017. Available 
+at: https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-
+to-december-2017 
+
+46 MOJ (2018). Do offender characteristics affect the impact of short custodial sentences and court 
+orders on reoffending? Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf 
+
+47 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+
+48   
+
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/publications/prisoners-childhood-and-family-backgrounds
+https://www.gov.uk/government/consultations/tv-licence-enforcement-review-a-consultation
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+
+
+
+
+Female Offender Strategy 
+
+48 HMI Probation (2016). A thematic inspection of the provision and quality of services in the 
+community for women who offend. Available at: 
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-
+thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-
+offend.pdf  
+
+49 MOJ (2013). The factors associated with proven re-offending following release from prison: 
+findings from Waves 1 to 3 of SPCR. Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/ 
+system/uploads/attachment_data/file/491119/re-offending-release-waves-1-3-spcr-findings.pdf 
+
+50 This includes bail hostel (short stay), friends/family (transient), homeless (other, rough sleeping 
+and squat), transient/short term accommodation and missing data. MOJ (2018). Supporting data 
+tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy   
+
+51 HMI Probation (2016). A thematic inspection of the provision and quality of services in the 
+community for women who offend. Available at: 
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-
+thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-
+offend.pdf 
+
+52 For example, 62% of women in prison serving a sentence of fewer than 12 months have an 
+accommodation need and 77% an employment need, compared with 33% and 45% respectively 
+of women serving a court order in the community. 
+MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+53 Almost two thirds (64%) of women sentenced to immediate custody in 2017 had 11 or more 
+previous convictions; 35% of those sentenced to suspended sentences; and 30% of those 
+sentenced to community orders. 
+MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+54 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+55 Of all offenders (male and female) starting court orders in 2017: 7% had a Drug Treatment 
+Requirement attached to the order, 4% had an Alcohol Treatment Requirement, and fewer than 
+1% had a Mental Health Treatment Requirement attached to the order. 
+MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+56 Ibid. 
+57 MOJ (2018). Do offender characteristics affect the impact of short custodial sentences and court 
+
+orders on reoffending? Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/ 
+attachment_data/file/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-
+sentences.pdf  
+
+58 MOJ and PHE (2017). The impact of community-based drug and alcohol treatment on 
+reoffending. Available 
+at:https://assets.publishing.service.gov.uk/government/uploads/system/uploads/ 
+attachment_data/file/674858/PHE-MoJ-experimental-MoJ-publication-version.pdf 
+
+59 Graham & McIvor (2015). Scottish and international review of the uses of Electronic Monitoring. 
+Available at: http://www.sccjr.ac.uk/wp-content/uploads/2015/08/Scottish-and-International-
+Review-of-the-Uses-of-Electronic-Monitoring-Graham-and-McIvor-2015.pdf 
+
+60 MOJ (2015). Achieving Better Outcomes for Women Offenders. Available at: 
+https://www.gov.uk/government/publications/achieving-better-outcomes-for-women-offenders 
+
+
+49   
+
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-offend.pdf
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-offend.pdf
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-offend.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491119/re-offending-release-waves-1-3-spcr-findings.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491119/re-offending-release-waves-1-3-spcr-findings.pdf
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/706597/do-offender-characteristics-affect-the-impact-of-short-custodial-sentences.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/674858/PHE-MoJ-experimental-MoJ-publication-version.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/674858/PHE-MoJ-experimental-MoJ-publication-version.pdf
+http://www.sccjr.ac.uk/wp-content/uploads/2015/08/Scottish-and-International-Review-of-the-Uses-of-Electronic-Monitoring-Graham-and-McIvor-2015.pdf
+http://www.sccjr.ac.uk/wp-content/uploads/2015/08/Scottish-and-International-Review-of-the-Uses-of-Electronic-Monitoring-Graham-and-McIvor-2015.pdf
+
+
+
+
+Female Offender Strategy 
+
+61 HMI Probation (2016). A thematic inspection of the provision and quality of services in the 
+community for women who offend. Available at: 
+https://www.justiceinspectorates.gov.uk/hmiprobation/wp-content/uploads/sites/5/2016/09/A-
+thematic-inspection-of-the-provision-and-quality-of-services-in-the-community-for-women-who-
+offend.pdf 
+
+62 At 31 March 2018, 15% of women in prison were on remand and 13% were on sentences of 
+fewer than 12 months, with 7% in prison for recall. Women on sentences of between 12 months 
+– 4 years made up 26% of the prison population, and a further 28% were those on sentences of 
+4 years or more, with 9% on life or IPP sentences. 
+MOJ (2018). Offender Management Statistics quarterly: October to December 2017. Available 
+at: https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-
+to-december-2017 
+
+63 MOJ (2018). Safety in custody quarterly: update to December 2017. Available at: 
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017 
+
+64 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+65 Murray and Farrington (2008) The effects of parental imprisonment on children. In Tonry (Ed), 
+Crime and justice: A review of research (Vol 3, pp 133-206). University of Chicago Press. 
+
+66 MOJ (2014). Prisoners’ childhood and family backgrounds. Available at: 
+https://www.gov.uk/government/publications/prisoners-childhood-and-family-backgrounds 
+
+67 MOJ (2015). Effective interventions for Women offenders: A Rapid Evidence Assessment. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/448859/effective-interventions-for-women-offenders.pdf 
+
+68 MOJ (2013). Gender differences in substance misuse and mental health amongst prisoners 
+Available at: https://www.gov.uk/government/publications/gender-differences-in-substance-
+misuse-and-mental-health-amongst-prisoners--2 
+
+69 MOJ (2018). Safety in custody quarterly: update to December 2017. Available at: 
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017 
+
+70 Ibid. 
+71 Murray and Farrington (2008) The effects of parental imprisonment on children. In Tonry (Ed), 
+
+Crime and justice: A review of research (Vol 3, pp 133-206). University of Chicago Press. 
+72 Lord Farmer (2017). The Importance of Strengthening Prisoners' Family Ties to Prevent 
+
+Reoffending and Reduce Intergenerational Crime, p. 4. Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/642244/farmer-review-report.pdf 
+
+73 Niven and Stewart (2005) Resettlement outcomes on release from prison. Home Office Findings 
+248. London: Home Office. Referenced in in MOJ (2014). Prisoners’ childhood and family 
+backgrounds.  
+
+74 MOJ (2018). Supporting data tables: Female offender strategy. Available at: 
+https://www.gov.uk/government/publications/female-offender-strategy 
+
+75 Ibid. 
+76 MOJ (2014). Statistics on women and the Criminal Justice System 2013. Available at: 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/380090/women-cjs-2013.pdf 
+
+77 Protected characteristics are the nine groups protected under the Equality Act 2010. They are: 
+age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, 
+race, religion or belief, sex, and sexual orientation. 
+
+78 Lord Farmer (2017). The Importance of Strengthening Prisoners' Family Ties to Prevent 
+Reoffending and Reduce Intergenerational Crime, p. 15. Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/642244/farmer-review-report.pdf 
+
+
+50   
+
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-to-december-2017
+https://www.gov.uk/government/publications/prisoners-childhood-and-family-backgrounds
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/448859/effective-interventions-for-women-offenders.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/448859/effective-interventions-for-women-offenders.pdf
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/publications/gender-differences-in-substance-misuse-and-mental-health-amongst-prisoners--2
+https://www.gov.uk/government/statistics/safety-in-custody-quarterly-update-to-december-2017
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/380090/women-cjs-2013.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/380090/women-cjs-2013.pdf
+
+
+
+
+Female Offender Strategy 
+
+79 IAP (2017). Preventing the Deaths of Women in Prison – initial results of a rapid information 
+gathering exercise by the Independent Advisory Panel on Deaths in Custody. Available at: 
+http://iapdeathsincustody.independent.gov.uk/wp-content/uploads/2017/04/IAP-rapid-evidence-
+collection-v0.2.pdf 
+
+80 MOJ (2015). Effective interventions for Women offenders: A Rapid Evidence Assessment. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/448859/effective-interventions-for-women-offenders.pdf 
+
+81 MOJ (2013). Analysis of the impact of employment on reoffending following release from 
+custody, using Propensity Score Matching. Available at:   
+
+82 MOJ (2018). Education and Employment Strategy 2018. Available at: 
+https://www.gov.uk/government/publications/education-and-employment-strategy-2018 
+
+83 MOJ (2018). Offender Management Statistics quarterly: October to December 2017. Available 
+at: https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-october-
+to-december-2017 
+
+84 Lammy (2017). Lammy Review: Final report. Available at: 
+https://www.gov.uk/government/publications/lammy-review-final-report 
+
+85 MOJ (2018). Education and Employment Strategy 2018. Available at: 
+https://www.gov.uk/government/publications/education-and-employment-strategy-2018 
+
+86 MOJ (2015). Justice Data Lab Re‐offending Analysis: Women’s Centres throughout England. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/427388/womens-centres-report.pdf 
+
+87 MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+88 Home Office (2017). Police powers and procedures England and Wales year ending 31 March 
+2017 second edition. Available at: https://www.gov.uk/government/statistics/police-powers-and-
+procedures-england-and-wales-year-ending-31-march-2017 
+
+89 Greater Manchester (unpublished). Management information collected by Greater Manchester 
+and shared with the MOJ. 
+
+90 HM Government (2016). Ending Violence Against Women and Girls Strategy 2016-2020, p.8. 
+Available at: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fil
+e/522166/VAWG_Strategy_FINAL_PUBLICATION_MASTER_vRB.PDF 
+
+91 Greater London Authority (2017). CHAIN Annual Report Greater London April 2016 to March 
+2017. Available at: https://data.london.gov.uk/dataset/chain-reports?resource=db4d244e-ab51-
+44e1-96dd-c8befa65a62a   
+
+92 This police force area breakdown is based on where the offence was dealt with rather than 
+where the offence was committed. 
+MOJ (2018). Criminal Justice System statistics quarterly: December 2017. Available at: 
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-
+2017 
+
+
+51  
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/427388/womens-centres-report.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/427388/womens-centres-report.pdf
+https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2017
+https://www.gov.uk/government/statistics/police-powers-and-procedures-england-and-wales-year-ending-31-march-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2017
+
+
+                        
+
+
+CCS0618901868 
+
+978-1-5286-0562-5 
+
+
+ 
+
+	Contents
+	Foreword
+	Introduction
+	A strategy for female offenders
+	The Case for Change:
+	Our vision and strategic priorities:
+	A Framework for Implementation:
+	Our Commitment:
+	Scope:
+
+	Chapter One: Early Intervention
+	Chapter Summary: 
+	The Challenge
+	Intervening earlier to address the vulnerabilities that can lead to offending
+	Diverting offenders from the CJS, where it is appropriate to do so, and addressing their needs to prevent reoffending
+
+	Chapter Two: Community Solutions
+	Chapter Summary
+	The Challenge
+	Ensuring that courts have better and more comprehensive information about female offenders to inform sentencing decisions
+	Developing more options for managing women in the community
+	Providing more support for those offenders managed in the community
+
+	Chapter Three: Better Custody
+	Chapter Summary
+	The Challenge:
+	Adapting the custodial environment to meet the needs of female offenders
+	Offering comprehensive rehabilitative support
+
+	Chapter Four: Framework for Implementation
+	Chapter Summary
+	The Framework:
+	Partnership-focused
+	Evidence-based
+	Sharing and supporting further data and evidence
+
+	Conclusion
+	Annex A: Lord Farmer Review Terms of Reference
+	Expert group
+
+
+
+

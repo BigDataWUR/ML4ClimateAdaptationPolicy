@@ -1,0 +1,3317 @@
+
+
+
+
+Action Plan for anti-money laundering and counter-terrorist finance
+
+
+ 
+
+Action Plan for anti-money laundering 
+and counter-terrorist finance 
+
+
+ 
+
+April 2016 
+
+
+               
+
+Action Plan for anti-money laundering and 
+counter-terrorist finance 
+
+
+           
+
+April 2016 
+
+
+            
+
+© Crown copyright 2016 
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except 
+where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-
+government-licence/version/3 or write to the Information Policy Team, The National 
+Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk. 
+
+Where we have identified any third party copyright information you will need to obtain 
+permission from the copyright holders concerned. 
+
+This publication is available at www.gov.uk/government/publications 
+
+Any enquiries regarding this publication should be sent to us at 
+Action_Plan@homeoffice.gsi.gov.uk 
+
+ISBN 978-1-78655-126-9 
+
+Printed on paper containing 75% recycled fibre content minimum. 
+
+
+   
+
+
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+mailto:psi@nationalarchives.gsi.gov.uk
+http://www.gov.uk/government/publications
+mailto:Action_Plan@homeoffice.gsi.gov.uk
+
+
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Contents 
+
+Ministerial Foreword ............................................................................................................3 
+
+Summary of Actions.............................................................................................................5 
+
+Chapter 1 Introduction.................................................................................................7 
+
+Chapter 2 Actions......................................................................................................12 
+
+Chapter 3 Implementing the Action Plan...................................................................30 
+
+Annex A  Consultation on legislative proposals .......................................................34 
+
+Annex B  Findings from the Call for Information on the Suspicious Activity 
+Reports (SARs) Regime ...........................................................................38 
+
+Annex C  Call for information – AML Supervisory Regime.......................................44 
+
+
+    1 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+
+     2 
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Ministerial Foreword 
+
+This Action Plan represents the most significant change to our anti-money laundering and 
+terrorist finance regime in over a decade. It sends a clear message: that we will not stand 
+for money laundering or the funding of terrorism through UK institutions. We are 
+determined to protect the security and prosperity of our citizens, and the integrity of our 
+world-leading financial system, and will vigorously pursue those who abuse it for illicit 
+means. 
+
+This Action Plan is principally concerned with three priorities. First, we need a more robust 
+law enforcement response to the threats we face. That means creating aggressive new 
+legal powers and building new capabilities in our law enforcement agencies to enable the 
+relentless disruption of criminals and terrorists. This is in addition to the cross-agency 
+taskforce recently announced by the Prime Minister to investigate any evidence of illegality 
+that may be found in the ‘Mossack Fonseca’ papers.  
+
+Second, to reform the supervisory regime and ensure that those few companies who 
+facilitate or enable money laundering are brought to task. The Government wants to 
+ensure a risk-based approach to tackling money laundering and terrorist finance. We 
+expect the banks and other firms subject to the Money Laundering Regulations to take a 
+proportionate approach, focusing their efforts on the highest risks, without troubling low 
+risk clients with unnecessary red-tape. We will continue to maintain our strong regulatory 
+regime to ensure that our financial services industry is the best regulated in the world. 
+
+Third, to increase our international reach to tackle money laundering and terrorist financing 
+threats by working with international groups, such as the G20 and Financial Action Task 
+Force, to take action overseas.  
+
+Underpinning these three priorities, and central to the success of the Action Plan, is a new 
+way of working with the private sector. We need radically more information to be shared 
+between law enforcement agencies, supervisors, and the private sector; and we need to 
+take joint action to disrupt criminals and terrorists. The pilot Joint Money Laundering 
+Intelligence Taskforce (JMLIT), which has brought together law enforcement agencies and 
+ten banks under the leadership of the National Crime Agency (NCA) to share information 
+on money laundering and terrorist financing, has demonstrated the opportunities offered 
+by this type of approach.  
+
+The Prime Minister’s Anti-Corruption Summit next month will galvanise the international 
+response and address issues including corporate secrecy, government transparency, the 
+enforcement of international anti-corruption laws, and the strengthening of international 
+institutions. 
+
+
+ 3 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+This Government has done more than any other to tackle money laundering and terrorist 
+financing. More assets have been recovered from criminals than ever before, with a record 
+£199m recovered in 2014/15, and hundreds of millions more frozen and put beyond the 
+reach of criminals. This Government is committed to pursuing further significant reforms, 
+following this Action Plan and the Prime Minister’s Anti-Corruption Summit. 
+
+
+   
+
+John Hayes Harriett Baldwin 
+
+Minister for Security Economic Secretary to the Treasury 
+
+
+ 4 
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Summary of Actions 
+
+ Action Lead Completed by 
+
+A stronger partnership with the private sector 
+
+1 Reform the Suspicious Activity Reports 
+(SARs) regime, making the necessary 
+legislative, operational and technical 
+changes to deliver the proposals detailed in 
+this Action Plan.  
+
+Home Office / 
+National Crime 
+Agency (NCA) 
+
+Oct 2018 
+
+2 Move Joint Money Laundering Intelligence 
+Taskforce (JMLIT) to a permanent footing. 
+
+NCA July 2016 
+
+3 Create a register of banks’ particular 
+business specialisms and make it available 
+to JMLIT to ensure that relevant expertise is 
+brought into JMLIT work on money 
+laundering and terrorist financing typologies. 
+
+British Bankers’ 
+Association 
+
+End 2016 
+
+4 Explore legislation to achieve better 
+information sharing between law 
+enforcement agencies and the private 
+sector, and between private sector entities. 
+
+Home Office Oct 2017 
+
+5 Deliver Prevent campaigns to raise 
+awareness amongst professionals in the 
+regulated sector of money laundering risks 
+and the actions needed to mitigate them. 
+
+Home Office, 
+HM Treasury 
+(HMT) 
+
+Ongoing 
+
+6 Public-private partnership to run a Prevent 
+campaign to educate consumers and 
+businesses as to the risks of becoming 
+involved in money laundering. 
+
+British Bankers’ 
+Association, Home 
+Office, HMT 
+
+End 2017 
+
+Enhancing the law enforcement response 
+
+7 Deliver improvements in intelligence 
+collection capability. 
+
+NCA Jan 2017 
+
+8 Ensure an effective multi-agency 
+investigation response, drawing on private 
+sector expertise, to target the most complex 
+high-end money laundering cases.  
+
+NCA Oct 2016 
+
+9 Create a programme to upskill intelligence, 
+analytical, investigative and legal staff to 
+take on complex money laundering cases. 
+
+NCA June 2017 
+
+10 Establish a more sustainable funding model 
+for Regional Asset Recovery Teams to 
+ensure their robust response to money 
+laundering linked to serious and organised 
+crime, including through asset confiscation 
+and denial. 
+
+Home Office Oct 2016 
+
+
+ 5 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ Action Lead Completed by 
+
+11 Explore new powers to tackle money 
+laundering. 
+
+Home Office Oct 2016 
+
+12 Reduce vulnerabilities and close loopholes 
+that can be exploited by terrorists. 
+
+Home Office Oct 2017 
+
+Improving the effectiveness of the supervisory regime 
+
+13 Complete the review of the supervisory 
+regime taking into account relevant 
+evidence submitted to the Cutting Red Tape 
+Review, and announce reforms. 
+
+HMT Autumn 2016 
+
+Increasing our international reach 
+
+14 Create new NCA International Liaison 
+Officer posts in important jurisdictions. 
+
+NCA Mar 2017 
+
+15 Develop a new approach for cross-border 
+information sharing between private sector 
+and Government entities. 
+
+HMT, Home Office ongoing 
+
+16 Submit a new approach for international law 
+enforcement and prosecutor co-operation on 
+international corruption cases. 
+
+NCA Mar 2017 
+
+17 Deliver training to, and share expertise with, 
+key overseas partners to help them build 
+their capacity and capability to investigate 
+and combat the financing of terrorism. 
+
+NTFIU Ongoing 
+
+18 Continue to support Counter-ISIL Finance 
+Group efforts to degrade Daesh finances 
+and work to support activity to combat 
+terrorist finance. 
+
+FCO Ongoing 
+
+19 Support UK charities operating in difficult 
+environments overseas to mitigate the risk 
+of their funds being abused for terrorist 
+purposes. 
+
+Charity 
+Commission 
+
+Ongoing 
+
+
+  6 
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+1. Introduction 
+
+The threat 
+
+1.1 This Action Plan tackles money laundering in all its forms, but it is particularly 
+focussed on money laundering as a critical enabler of serious and organised crime, 
+grand corruption, and terrorism. The November 2015 National Security Strategy 
+(NSS) and Strategic Defence and Security Review (SDSR) identified terrorism and 
+serious and organised crime as Tier One and Tier Two national security threats.1 
+Terrorism poses a direct and immediate threat to our domestic security and 
+overseas interests. Serious and organised crime costs the UK at least £24 billion 
+annually, causes loss of life and deprives people of their security and prosperity.2  
+
+1.2 Money laundering and terrorist financing undermine the integrity of our financial 
+institutions and markets, enable criminals to hide, store and benefit from the 
+proceeds of their crime, and enable terrorist groups to function, recruit and commit 
+terrorist acts. Money laundering into and through the UK financial system is also 
+related to grand corruption overseas – the bribery and theft of public funds. 
+
+1.3 The UK remains the largest centre for cross-border banking, accounting for 17% of 
+the total global value of international bank lending and 41% of global foreign 
+exchange trading. The size of the UK's financial and professional services sector, 
+our open economy, and the attractiveness of the London property market to 
+overseas investors makes the UK unusually exposed to international money 
+laundering risks. Substantial sums from crimes committed overseas are laundered 
+through the UK.3 There is no definitive measure of the scale of money laundering, 
+but the best available international estimate of amounts laundered globally would be 
+equivalent to some 2.7% of global GDP or US$1.6 trillion in 2009.4  
+
+1.4 Most businesses want to comply with the law and those subject to the regime can 
+play a significant part in tackling money laundering and terrorist financing. 
+Government has a duty to help them comply and is aware that the current regime 
+does not work as well as it could and that more could be done to help businesses 
+comply and better focus resources on serious crime. A more effective response to 
+the threat, so that resources can be better targeted at areas of real risk, for example 
+by removing duplication or conflicting compliance advice, will help lift unnecessary 
+bureaucratic burdens that do not contribute to the fight against crime and help 
+resource be used better elsewhere. The Government is committed to reducing the 
+regulatory burden on business, which can distract or make it harder for companies 
+to focus on real risks and will also ensure that any additional burdens placed on 
+businesses and individuals are targeted, proportionate and justified by evidence of 
+significant need. 
+
+                                            
+1  ‘National Security Strategy and Strategic Defence and Security Review’, HM Government, November 
+
+2015. 
+2  ‘Understanding organised crime: estimating the scale and social and economic costs’, Home Office, 
+
+October 2013. 
+3  ‘National Strategic Assessment of Serious and Organised Crime 2015’, NCA, June 2015. 
+4  ‘Estimated illicit financial flows resulting from drugs trafficking and other transnational organised crime’, 
+
+UNODC, October 2011. 
+
+
+ 7 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+The UK’s Strategic Approach 
+
+1.5 The Government's strategic response to money laundering is founded upon a 
+risk-based approach. The 2013 Serious and Organised Crime Strategy aims to 
+substantially reduce the level of serious and organised crime affecting the UK and 
+its interests. It is based upon the UK's successful counter-terrorism framework, 
+which has four main elements: prosecuting and disrupting serious and organised 
+crime (Pursue); preventing people from engaging in serious and organised crime 
+(Prevent); increasing protection against serious and organised crime (Protect), and 
+reducing the impact of serious and organised crime where it takes place (Prepare).5 
+
+1.6 Countering terrorist financing is important in protecting national security and forms a 
+key part of the UK's counter-terrorism strategy, CONTEST,6 the aim being to 
+reduce the terrorist threat to the UK and its interests overseas by depriving terroris
+and violent extremists of the financial resources and systems required for terrori
+related activity. 
+
+
+ts sm-
+
+                                           
+
+1.7 The SDSR set out the Government's intention to introduce new measures to make 
+the UK a more hostile place for those seeking to move, hide or use the proceeds of 
+crime or corruption or to evade ‘sanctions’. In order to achieve that aim, the SDSR 
+committed the Government to enhancing its cooperation with the private sector, 
+building on the work of the JMLIT, and publishing this Action Plan.  
+
+1.8 Central to the approach taken in this Action Plan is the recognition of the need to 
+establish a much more effective public-private partnership to tackle illicit finances 
+than has existed until now. Only by bringing together the efforts of law enforcement 
+agencies, supervisors and regulators, and the private sector; and by making sure 
+that law enforcement agencies and supervisors have the right 'pursue' powers and 
+capabilities, can the threat from money laundering and terrorist financing be 
+addressed successfully. This Action Plan will deliver the Government's strategic aim 
+to make the UK a more hostile place for those seeking to move, hide or use the 
+proceeds of crime or corruption through a focus on four priority areas: 
+
+ A stronger partnership with the private sector  
+
+o Law enforcement agencies, supervisors and the private sector working in 
+partnership to target resources at the highest money laundering and 
+terrorist financing risks.  
+
+o New means of information sharing to strengthen the application of the 
+risk-based approach and mitigate vulnerabilities. 
+
+o A collaborative approach to preventing individuals becoming involved in 
+money laundering. 
+
+ Enhancing the law enforcement response 
+
+o New capabilities and new legal powers to build the intelligence picture, 
+disrupt money launderers and terrorists, recover criminal proceeds, and 
+protect the integrity of the UK's financial system. For example, the 
+Government has established a Task Force, led jointly by the NCA and 
+
+
+ 
+
+5  ‘Serious and Organised Crime Strategy’, HM Government, October 2013 
+6  CONTEST: The United Kingdom’s Strategy for Countering Terrorism’, HM Government, July 2011 
+
+
+8 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+HMRC, to investigate all forms of illegality stemming from the data related 
+to Mossack Fonseca, the law firm based in Panama. 
+
+ Improving the effectiveness of the supervisory regime 
+
+o Investigate the effectiveness of the current supervisory regime, and 
+consider radical options for improvement to ensure that a risk-based 
+approach is fully embedded, beginning with the understanding of specific 
+risks, and the spotting of criminal activity, rather than a focus on tick-box 
+compliance. 
+
+ Increasing our international reach 
+
+o Increase the international reach of law enforcement agencies and 
+international information sharing to tackle money laundering and terrorist 
+financing threats. The international leadership being shown by the UK 
+through the Prime Minister's Anti-Corruption Summit will lead to greater 
+disruption of money laundering and terrorist financing activities, the 
+prosecution of those responsible and increased recovery of the proceeds 
+of crime, and a greater protection of the UK financial system. The Summit 
+will galvanise the international response and address issues including 
+corporate secrecy, government transparency, the enforcement of 
+international anti-corruption laws, and the strengthening of international 
+institutions. 
+
+1.9 A successful anti-money laundering and counter-terrorist finance regime will result 
+in the relentless disruption of money laundering and terrorist finance activities, the 
+prosecution of those responsible and the recovery of the proceeds of crime. 
+A successful regime will dissuade those seeking to undertake money laundering 
+and terrorist finance activities from doing so. It will help the regulated sector better 
+protect itself through targeted support from its supervisors, and it will help deliver 
+a stronger international effort to tackle upstream money laundering and terrorist 
+finance threats. 
+
+1.10 The success of this Action Plan depends on the efforts of law enforcement and 
+prosecutorial agencies, government departments, supervisors, and the private 
+sector. It requires a collective understanding of the risks, and a willingness to 
+collaborate and target resources and activities as the threat changes and develops 
+in what must be a shared endeavour. It also requires international co-operation from 
+key jurisdictions, particularly other global and regional financial centres and 
+international organisations, such as the European Union, Europol, Interpol and 
+FATF. 
+
+1.11 Most businesses want to comply with the law and those subject to the anti-money 
+laundering regime can play a significant part in tackling money laundering and 
+terrorist financing. A more effective response to the threat, so that resources can be 
+targeted at areas of real risk, will help lift bureaucratic burdens that do not 
+contribute to the fight against crime. 
+
+What we have done so far 
+
+1.12 The UK was a founder member of the Financial Action Task Force (FATF), the 
+inter-governmental body established in 1989, that sets global standards and 
+
+
+ 9 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+promotes effective legal, regulatory and operational measures to combat money 
+laundering and the financing of terrorist activities.  
+
+1.13 Since 2010 we have taken important steps to strengthen our response. In 2011, 
+the CONTEST counter terrorism strategy was refreshed. In 2013, the Government 
+founded the NCA to lead, co-ordinate and support the national response to serious 
+and organised crime, including money laundering. At the same time, it published a 
+new Serious and Organised Crime Strategy that made attacking criminal finances 
+central to our efforts to tackle serious and organised crime. Since then, more assets 
+have been recovered from criminals than ever before, with a record £199m 
+recovered in 2014/15, and hundreds of millions more frozen and put beyond the 
+reach of criminals.  
+
+1.14 In 2014, the Serious and Organised Crime Financial Sector Forum was set up to 
+facilitate practical collaboration between government, law enforcement, the 
+regulators and the financial sector. A new International Corruption Unit in the NCA 
+was formed, to become a UK centre of excellence for dealing with overseas bribery 
+and corruption, and the Cabinet Office launched a review of the wider law 
+enforcement response to bribery and corruption. The Serious Crime Act 2015 
+strengthened asset recovery powers, and brought in a new offence of participating 
+in the activities of an organised crime group.  
+
+1.15 The FATF requires countries to assess and take action against their understanding 
+and assessment of their national risks, through a National Risk Assessment, and to 
+then take a risk-based approach, meaning the legal, regulatory and operational 
+measures that are commensurate with these risks.  
+
+National Risk Assessment of Money Laundering and Terrorist 
+Financing 
+
+1.16 In October 2015, the Government published the National Risk Assessment for 
+Money Laundering and Terrorist Financing (NRA).7 It provides a candid and robust 
+assessment to better understand the UK's money laundering and terrorist finance 
+risks, and to inform the efficient allocation of resources to the highest risks and 
+where there will be the greatest impact.  
+
+1.17 The most significant money laundering threats are: 
+
+ High-end money laundering of criminal funds into or through the UK, 
+particularly linked to grand corruption and major fraud. 
+
+ The role of professionals in the financial, legal and accountancy and related 
+service sectors such as Trust and Company Service Providers (TCSPs) to 
+enable the laundering of the proceeds of UK and overseas crime into, through 
+and out of the UK. 
+
+ The role of 'international controllers' in facilitating the laundering of proceeds of 
+crime from the UK, or from overseas and into the UK, linked to money service 
+businesses (MSBs). 
+
+                                            
+7  ‘National Risk Assessment of Money Laundering and Terrorist Financing’, HM Government, October 
+
+2015 
+
+
+10 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ The proceeds of crime from major crimes including organised immigration 
+crime and modern slavery. 
+
+1.18 The most significant terrorist financing threats are: 
+
+ The raising of terrorist funds through the exploitation of vulnerabilities in the 
+financial sector and the movement of funds for the financing of terrorism 
+through MSBs and cash couriering. 
+
+ The abuse of the charitable sector, both for raising and moving funds 
+specifically for terrorist purposes. 
+
+1.19 The NRA identified six areas in which action is needed to strengthen the anti-money 
+laundering and counter-terrorist finance regimes. These areas are listed below.  
+
+ Reform the suspicious activity reports regime, and upgrade the capabilities of 
+the UK Financial Intelligence Unit  
+
+ Transform information sharing between law enforcement agencies, the private 
+sector and supervisors, building on the progress already made through the 
+JMLIT 
+
+ Fill intelligence gaps, particularly those associated with high end money 
+laundering through the financial and professional services sectors  
+
+ Enhance our law enforcement response to tackle the most serious threats 
+
+ Address the inconsistencies in the supervisory regime that have been identified  
+
+ Work with supervisors to improve individuals' and firms' knowledge of money 
+laundering and terrorist financing risks in key parts of the regulated sector to 
+help them avoid being exploited by criminals and terrorists  
+
+1.20 This Action Plan and the 4th Anti-Money Laundering Directive, due to be 
+transposed by June 2017, will increase the UK's emphasis on this risk-based 
+approach.8 The Directive will require private sector firms to reinforce this approach 
+across all aspects of their anti-money laundering and counter-terrorist finance 
+regimes. The consultation on its transposition will launch this year.  
+
+1.21 This Action Plan contains a range of measures which the Government is committed 
+to implementing, and a series of proposals on which the Government is seeking the 
+views of stakeholders. Questions on the legislative proposals, and details of how to 
+provide comment on them, can be found at Annex A. The Call for Information 
+regarding proposals for changes to the supervisory regime and how to provide 
+comment can be found at Annex C.  
+
+1.22 The Government will monitor the implementation of this Action Plan. An update to 
+the National Risk Assessment will be conducted in 2017. 
+
+
+ 
+
+                                            
+8  Directive of the Parliament and of the Council on the prevention of the use of the financial system for the 
+
+purpose of money laundering and terrorist financing, 2015/849 
+
+
+
+ 11 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+2. Actions 
+
+2(a): A stronger partnership with the private sector 
+
+The Government wants to find new ways for the public and private sectors to work 
+in partnership in order to increase radically the effectiveness of our collective 
+response to money laundering and terrorist financing, and strip away unnecessary 
+bureaucratic burdens in the process. The private sector collectively spends billions 
+of pounds a year on financial crime compliance, but it is not always an effective 
+first-line of defence against those seeking to engage in money laundering and 
+terrorist finance, despite these efforts. Reform of the Suspicious Activity Reports 
+(SARs) regime, and building on the success of the Joint Money Laundering 
+Intelligence Taskforce (JMLIT) pilot will be central to founding a new and more 
+collaborative public-private partnership.  
+
+2.1 The private sector forms the first line of defence against money laundering and 
+terrorist financing. The British Bankers’ Association (BBA) estimates that its 
+members are collectively spending at least £5 billion annually on core financial 
+crime compliance, including enhanced systems and controls and recruitment of 
+staff. Other parts of the private sector spend additional sums. Despite this very 
+significant investment, money laundering and terrorist financing still occurs. Too 
+much resource at present is focused on dealing with regulatory compliance, and too 
+little is focused on tackling financial crime risk. The public and private sectors need 
+to work together to ensure that existing resources are used to greatest effect. The 
+Government is committed to considering potentially radical reforms to the way the 
+public and private sectors work together for a more effective regime against money 
+laundering and terrorist financing, including in the way the system of business 
+supervision works (see section 2c below). 
+
+2.2 Effective exchange of knowledge within the private sector, and between the public 
+and private sectors, is necessary to increase our collective knowledge of threats 
+and vulnerabilities. Developing a common understanding of the highest priority risks 
+will provide the basis for a more focused and efficient use of public and private 
+resources that will have the greatest effect on money laundering and terrorist 
+financing threats. To deliver this, law enforcement agencies need information from 
+the private sector to inform their intelligence, while the private and supervisory 
+sectors need information from each other and from law enforcement agencies to 
+assist them in managing the risks and vulnerabilities that they face as the threat 
+changes and develops.  
+
+The Suspicious Activity Reports regime 
+
+2.3 The SARs regime is central to the UK’s anti-money laundering and counter-terrorist 
+financing structures. The Proceeds of Crime Act 2002 (POCA) requires persons in 
+the regulated sector to report to the NCA where there are reasonable grounds to 
+know or suspect that another person is engaged in money laundering. The 
+Terrorism Act 2000 imposes a duty of disclosure upon persons in the regulated 
+sector and also upon any person who in the course of a trade, profession or 
+business or in the course of their employment believes or suspects that someone 
+has committed any of the principal terrorist financing offences in the Act. If a SAR is 
+
+
+12 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+submitted and consent is gained, the reporter gains a statutory defence from a 
+money laundering or terrorist financing prosecution.  
+
+2.4 SARs have the potential to be a critical intelligence resource, and provide important 
+opportunities for law enforcement agencies to intervene to disrupt money 
+laundering and terrorist financing, and build investigations against those involved. 
+Last year, over 350,000 SARs were filed with the UK Financial Intelligence Unit 
+(UKFIU) in the NCA, which operates the SARs regime.9 In recent years, however, 
+both law enforcement agencies and the private sector have expressed increasing 
+concerns about the effectiveness of the SARs regime.  
+
+
+ 
+
+2.5 The Home Office launched a review of the SARs regime in February 2015. 
+Following a call for evidence from the ‘regulated sector’,10 supervisors, law 
+enforcement agencies and non-governmental organisations, a number of areas 
+were identified where action was needed to improve the regime. A summary of the 
+responses, and the key themes, can be found at Annex B. Many of the proposals in 
+this Plan address these responses and reflect subsequent engagement with the 
+reporting sector and others. 
+
+2.6 The Home Office review of the SARs regime found that the most effective way for 
+the UK to improve its response to the threat from money laundering and terrorist 
+finance is through stronger partnership working between the public and private 
+sectors, and through jointly identifying and tackling those entities – individuals, 
+companies, and others – that pose the highest risk. At present, too much resource 
+in both the public and private sectors is devoted to dealing reactively with relatively 
+low risk transactions. Radical changes to the way that the SARs regime operates 
+will be required to make this operate effectively and the Government will take action 
+to address the concerns of legitimate businesses in these reforms for example by 
+helping business to focus reports on areas of concern rather than taking a box 
+ticking approach. Key changes that the Government proposes to make to the SARs 
+regime are outlined below. The JMLIT and new legal powers for law enforcement 
+agencies, detailed in the next section, will also be integral to the reformed SARs 
+regime.  
+
+                                            
+9  ‘Suspicious Activity Reports (SARs) Annual Report 2014’, NCA, December 2014. 
+10  The ‘regulated sector’ means those firms that are subject to the Money Laundering Regulations 2007, 
+
+such as firms in the financial, legal, accountancy and gambling sectors. 
+
+
+
+ 13 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Re-focus the regime on the highest risk entities 
+
+2.7 The SARs regime will be reformed to focus the public and private sector effort on 
+tackling those entities, such as individuals and organisations, that pose the highest 
+money laundering and the financing of terrorism risks, rather than targeting 
+transactions. The volume and speed of financial transactions in the 21st century 
+makes a transaction-focused regime less effective. Instead, public and private 
+resources will be directed at the highest risks. Reporters will still need to provide 
+reports where they have suspicion, but the Government will enable the reporting 
+sector to work with the NCA and other law enforcement agencies to provide more 
+effective SARs where there are strong suspicions of criminal activity, through new 
+information sharing legal gateways, improved official guidance, and a permanent 
+and strengthened JMLIT.  
+
+Remove the current consent regime 
+
+2.8 The consent regime is inefficient and we will consider whether it should be 
+removed.11 We envisage that it could be replaced with an intelligence-led approach, 
+supported by information sharing through the JMLIT (see below). The statutory 
+money laundering defence provided by the current consent regime would also be 
+removed, although the POCA would be amended to ensure that reporters who fulfill 
+their legal and regulatory obligations would not be criminalised. The Government 
+would create powers to enable reporters to be granted immunity for taking specified 
+courses of action (e.g. maintaining a customer relationship when to terminate it 
+would alert the subject to the existence of a law enforcement investigation). The 
+Government would also legislate to provide a power for the NCA to oblige reporters 
+to provide further information on a SAR where there is a need to do so. 
+
+Upgrade the UK Financial Intelligence Unit’s capabilities 
+
+2.9 The NCA will oversee the upgrade to the UK Financial Intelligence Unit’s (UKFIU) 
+capabilities, including the development of a replacement for the SARs IT system, 
+which is nearing the end of its working life. This would provide a modern IT system 
+both for reporters to submit reports, and which will automatically check SARs 
+against law enforcement data and other information to assess whether a SAR 
+should be prioritised for further investigation or other action by law enforcement 
+agencies, supervisors, or the reporter. The Government considers that those who 
+will benefit from the new IT system should share the costs for developing it. 
+
+Develop better analysis of SARs 
+
+2.10 As part of the upgrade of the capabilities of the UKFIU, the NCA will develop 
+capabilities to enable a better analysis of the SARs submitted, to identify the 
+typologies of money laundering and the financing of terrorism, and provide 
+assessments of these to the private sector, to allow them to both identify those 
+responsible and work with law enforcement agencies to tackle them, and to take 
+measures to protect themselves. 
+
+                                            
+11  Under the Proceeds of Crime Act (POCA), individual persons and businesses in the regulated sector are 
+
+required to report the suspicious transactions or activity that they become aware of. A reporter can avail 
+themselves of a defence against committing a money-laundering offence if they seek the consent of the 
+FIU, under section 335 of POCA, to conduct a transaction or activity about which they have suspicions. 
+
+
+14 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Data sharing to develop more effective SARs 
+
+2.11 The Government would consider legislation to permit the reporting sector to share 
+information, under legal safe harbour, on money laundering and terrorist finance 
+risks. The Government will work with the reporting sector to address issues about 
+confidentiality and protection, and learn from the experiences of law enforcement 
+agencies and banks in using the powers provided in section 314 of the USA 
+PATRIOT Act in this regard. This will enable firms to better understand the risks 
+they face and to submit higher quality SARs as a result.  
+
+Action 1: 
+
+Reform the SARs regime, making the necessary legislative, operational and 
+technical changes to deliver the proposals detailed in this Action Plan. (Pursue, 
+Protect) 
+
+Lead: Home Office and NCA 
+
+Joint Money Laundering Intelligence Taskforce (JMLIT) 
+
+2.12 The Government has already taken steps to build better cooperation between the 
+public and private sectors on illicit finances. The JMLIT was established under the 
+Serious and Organised Crime Financial Sector Forum, chaired by the Home Office, 
+the British Bankers’ Association (BBA) and the NCA. The JMLIT is led by the NCA 
+and includes representatives from the financial sector, City of London Police, 
+Financial Conduct Authority (FCA), HMRC and the Home Office.  
+
+2.13 The JMLIT was established as a pilot in February 2015 to provide an environment 
+in which the financial sector and law enforcement agencies could exchange and 
+analyse information and intelligence to detect, prevent and disrupt money 
+laundering and wider economic crime threats against the UK. The pilot has 
+demonstrated the clear benefits of partnership working between law enforcement 
+agencies and the financial sector. Strategically, the JMLIT has increased the UK’s 
+public and private sectors’ resilience to economic crime and this must continue as 
+the threat changes and develops.  
+
+2.14 From an operational perspective, it has enhanced collective anti-money laundering 
+detection capability and generated increased prevention and disruption 
+opportunities relating to money laundering in the UK through the sharing of tactical 
+intelligence using the legal framework set out in the Crime and Courts Act 2013. 
+As of February 2016, the JMLIT pilot has directly contributed to law enforcement 
+operations, including eleven arrests and restraint of £558,144 of criminal funds. 
+Over 1,700 bank accounts linked to suspected criminal activity have been identified, 
+261 have been closed, and 517 are subject to heightened monitoring by the banks. 
+Twelve alerts have been issued to the financial sector to raise awareness of threats. 
+
+
+  15 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+
+ 
+
+2.15 The Terrorist Finance Experts Group within the JMLIT supports the exchange and 
+analysis of terrorist finance information and intelligence and thematic pieces of work 
+related to terrorist finance and methodologies. The group is chaired by the Home 
+Office and the BBA, and includes the National Terrorist Financial Investigation Unit 
+and representatives of the financial sector. The overall purpose of the Group is to 
+build a greater common understanding of terrorist financing risks and to foster a 
+closer working relationship between the private and public sector to counter the 
+financing of terrorism affecting the UK and its interests.  
+
+2.16 With the JMLIT approaching the end of its pilot, the Government will build on the 
+experience gained to put the taskforce on a permanent footing and make it an 
+integral part of the UK’s anti-money laundering and counter-terrorist financing 
+regime. The Government, in partnership with private sector members of JMLIT, will 
+seek to increase its scale and capabilities, in order to tackle economic crime threats 
+including money laundering linked to corruption, trade-based finance, high-priority 
+crimes and terrorist finance. An expansion of JMLIT will require all participants to 
+build up its analytical capability and devote greater resources to its work. Its 
+membership should be expanded to include more banks and other financial 
+services firms.  
+
+Action 2: 
+
+Move JMLIT to a permanent footing, increase its analytical capability and expand its 
+membership to include more banks and other financial services firms. Consider 
+how the taskforce approach could be developed in other reporting sectors. (Protect 
+and Pursue) 
+
+Lead: NCA, supported by Home Office and British Bankers’ Association. 
+
+2.17 Many banks will not have the resources to provide a permanent member of staff to 
+JMLIT. It will be important for firms with specialist knowledge and expertise to be 
+able to contribute to JMLIT to work on, for example, money laundering typologies, 
+that touch upon their areas of expertise. To that end, a register of financial sector 
+firms’ specialisms should be made available to JMLIT to ensure that all relevant 
+information and expertise is available to it. 
+
+
+16 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Action 3: 
+
+Create a register of banks’ particular business specialisms and make it available to 
+JMLIT to ensure that relevant expertise is brought into JMLIT work on money 
+laundering and terrorist financing typologies. 
+
+Lead: British Bankers’ Association. 
+
+2.18 Criminals often launder the proceeds of their crimes across multiple private sector 
+firms. Whilst the Data Protection Act permits the sharing of information between 
+firms in certain circumstances, the limited nature of those permitted circumstances, 
+in combination with case law, data protection rules, and the risk of legal challenge in 
+the civil courts militates against firms sharing information to prevent and detect 
+money laundering and terrorist financing. The JMLIT pilot has demonstrated that 
+existing legal information sharing gateways are insufficient for sharing data directly 
+between private sector organisations. There is a need for legal ‘safe harbour’ 
+provisions to allow data and intelligence to be shared lawfully between financial 
+institutions in order to prevent and detect money laundering and terrorist financing. 
+The Government intends to consider legislating to create the necessary legal 
+information sharing gateways. 
+
+Action 4: 
+
+Explore legislation to achieve better information sharing between law enforcement 
+agencies and the private sector, and between private sector entities through the 
+introduction of ‘safe harbour’ information sharing powers.  
+
+This will facilitate the development of a coherent public-private sector response to 
+financial crime in all its forms. (Pursue, Protect) 
+
+Lead: Home Office 
+
+2.19 The Home Office has worked with supervisors, firms and law enforcement agencies 
+to run public communications campaigns in 2014 and 2015 targeting solicitors and 
+accountants to raise awareness of the money laundering risks they face. The 
+campaigns have aimed to prevent professionals getting drawn into money 
+laundering, as they have skills that are particularly attractive to criminals seeking to 
+launder their funds. The campaigns have been welcomed by private sector 
+representatives.  
+
+2.20 The first campaign led to a 20% increase in suspicious activity reports from the 
+sector. The second campaign is still running at the time of publication. Its impact will 
+be fully evaluated on completion. These campaigns have proven the importance of 
+the Prevent strand in tackling money laundering. There will continue to be a need 
+for Government, supervisors, law enforcement agencies and the sectors 
+themselves to work together in the future to prevent professionals wittingly or 
+unwittingly facilitating money laundering and terrorist financing. 
+
+
+
+ 17 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Action 5: 
+
+Public-private partnerships to run sector-specific Prevent campaigns to raise 
+awareness amongst professionals in the regulated sector of money laundering risks 
+and the actions needed to mitigate them. (Prevent). 
+
+Lead: Home Office, HM Treasury, supervisors and law enforcement agencies 
+
+Action 6: 
+
+Public-private partnership to run a Prevent campaign to educate consumers and 
+businesses as to the risks of becoming involved in money laundering. 
+
+Lead: British Bankers’ Association, supported by Home Office and HMT. 
+
+2(b): Enhancing the law enforcement response 
+
+The law enforcement response will be strengthened to disrupt the highest-priority 
+threats to the UK and pursue those seeking to engage in money laundering and 
+terrorist finance. Intelligence collection capabilities will be targeted to build a better 
+intelligence picture and resources will be marshalled to the most complex, high-end 
+money laundering investigations. As an example, the cross-agency taskforce, 
+recently announced by the Prime Minister, will investigate the data from Mossack 
+Fonseca, the Panamanian law firm, and any forms of illegality that it is found. 
+Powers will be strengthened to protect the integrity of the UK financial system. 
+
+2.21 The speed and complexity of the global financial system, the links between money 
+laundering, terrorist finance and a wide range of predicate crimes, often committed 
+overseas, presents difficulties for law enforcement agencies seeking to tackle illicit 
+finances. To be effective, UK law enforcement agencies need to have the right 
+capabilities in place to enable them to build a strong intelligence picture and to 
+intervene to disrupt the threat, supported by appropriate legal powers. 
+
+Building the intelligence picture 
+
+2.22 The NRA identified significant intelligence gaps, in particular in relation to ‘high-end’ 
+money laundering. The intelligence picture in other areas – such as high value 
+dealers, gambling and new payment methods – was mixed. The NCA, as the lead 
+on the national response to economic crime, including money laundering, has a 
+programme of work to build a better intelligence picture, supported by other law 
+enforcement agencies and the intelligence community. They will work with their 
+partners to increase their knowledge of high-end money laundering techniques and 
+instruments so that the NCA can identify, develop and action an increased number 
+of opportunities for disruption and regular reassessment of the threat. They will also 
+continue to monitor emerging threats and to inform the propositions for the 
+regulatory approach. The private sector holds much of the data needed to develop 
+the intelligence picture, and will play an enhanced role both through the 
+strengthened JMLIT and by producing better quality reports through a reformed 
+SARs regime. 
+
+
+18 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+2.23 HM Treasury launched a Call for Information in 2014 on the benefits and risks 
+associated with digital currencies. Respondents to the Call for Information identified 
+that digital currencies and associated technology have the potential to deliver real 
+benefits for businesses and consumers. Responses also highlighted that some 
+features of digital currencies could provide opportunities for illicit use. HM Treasury 
+notes this potential risk, while acknowledging that evidence from across 
+government, law enforcement and academia suggests that there is currently a low 
+level of illicit activity in digital currency networks.  
+
+2.24 We intend to bring digital currency exchange firms into anti-money laundering 
+regulation, as it is at the point where users “cash in” and “cash out” of digital 
+currency networks that money laundering and terrorist finance risk is highest. This 
+is consistent with a risk-based approach, and we note that extending the perimeter 
+of anti-money laundering regulations beyond digital currency exchange firms (e.g. 
+to wallet providers) would not deliver any benefits in terms of mitigating money 
+laundering and terrorist finance risk, and would place significant burdens on firms in 
+this innovative and embryonic sector.  
+
+Action 7: 
+
+Deliver improvements in intelligence collection capability including through:  
+
+ greater and better use of sensitive intelligence 
+
+ greater exploitation of SARs 
+
+ enhanced intelligence exchanges with the financial and legal sectors, including 
+through JMLIT; and  
+
+ closer co-operation with domestic and international partners.  
+
+Produce a new set of intelligence collection requirements on high end money 
+laundering, to assist with intelligence collection. Regularly re-assess the threat, 
+particularly that posed by high-end money laundering. (Pursue) 
+
+Lead: NCA 
+
+Investigative capabilities 
+
+2.25 The NRA found that the law enforcement response to money laundering has been 
+weak for an extended period of time. The NCA was launched in 2013 to lead, 
+coordinate and support UK law enforcement agencies’ response to serious and 
+organised crime including money laundering, bribery and corruption.12 Other law 
+enforcement agencies, in particular Serious Fraud Office (SFO) and HMRC have 
+expert officers and access to a wide range of legal powers. Law enforcement 
+agencies will pool their resources in order to take on the high-end money laundering 
+cases that pose the greatest risk to the UK.  
+
+2.26 High-end money laundering is complex, and can involve the misuse of the 
+accountancy service providers and legal professionals such as TCSPs to provide 
+legitimacy and access to other regulated sectors without detection. Proceeds can 
+
+                                            
+12  The Cabinet Office is taking forward a review of the enforcement response to bribery and corruption. It 
+
+includes full consideration of the powers, capabilities and structures involved in the response to bribery 
+and corruption. Once concluded it will report to the Inter-Ministerial Group on Anti-Corruption. 
+
+
+
+ 19 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+be held in bank accounts, real estate and other investments. Ownership is 
+disguised behind multiple corporate structures, often registered overseas. To 
+respond adequately to this threat, it is necessary for UK law enforcement agencies 
+to review their existing financial investigation capabilities and to develop the expert 
+intelligence, analytical, investigative and legal skills needed, while drawing on the 
+specialist knowledge available in the private sector. 
+
+Action 8: 
+
+Ensure an effective multi-agency investigation response, drawing on private sector 
+expertise, to target the most complex high-end money laundering cases. (Pursue)  
+
+Lead: NCA, supported by CPS, SFO, HMRC 
+
+
+ 
+
+Action 9:  
+
+Create a programme to upskill intelligence, analytical, investigative and legal staff to 
+take on complex money laundering cases. (Pursue) 
+
+Lead: NCA, supported by HMRC, SFO, CPS, National Police Chiefs’ Council 
+
+
+ 
+
+2.27 The regional policing tier is critical if the UK is to provide an effective pursue 
+response to money laundering. Whilst national agencies will be expected to take on 
+the most serious threats, there will remain a significant number of money laundering 
+cases for which specialist capabilities will be required.  
+
+2.28 The Strategic Policing Requirement is the Home Secretary’s statement of the 
+national threats and the national policing capabilities which are required to counter 
+them. Police and crime commissioners (PCCs) are required to have regard to the 
+SPR when issuing their police and crime plans, and Chief Constables must have 
+regard to both the police and crime plan and the SPR when exercising their 
+functions. It helps PCCs plan for threats that span local force boundaries. Serious 
+and organised crime is one of the six national threats in the 2015 SPR.13 
+
+2.29 Regional Asset Recovery Teams (RARTs) sit within Regional Organised Crime 
+Units (ROCUs) and develop financial intelligence in aid of the investigation and 
+disruption of criminal entities. They also utilise financial investigation to conduct 
+money laundering investigations, disrupt subjects and recover assets using the 
+powers provided in the Proceeds of Crime Act. Their core financial intelligence and 
+investigation capabilities must be maintained and developed to fulfil this purpose, as 
+well as to respond to requirements set through the national tasking and coordination 
+arrangements.  
+
+2.30 Most funding for the ROCUs comes from the PCCs of the forces in each region. 
+The Home Office provides additional funding for ROCUs (£25 million in 2015/16). 
+The 2015 Conservative Party Manifesto included a commitment to allow police 
+forces to retain a greater percentage of the value of assets they seize from 
+criminals. Under the Asset Recovery Incentivisation Scheme (ARIS) half of all 
+recovered assets are returned to operational partners.  
+
+                                            
+13  ‘The Strategic Policing Requirement’, Home Office, March 2015. 
+
+
+20 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Action 10: 
+
+Establish a more sustainable funding model for Regional Asset Recovery Teams to 
+ensure their robust response to money laundering linked to serious and organised 
+crime, including through asset confiscation and denial. (Pursue) 
+
+Lead: Home Office 
+
+New powers 
+
+2.31 The POCA contains comprehensive money laundering offences, and provides law 
+enforcement agencies with specialised financial investigation powers and a suite of 
+asset recovery measures. But it does not go far enough in providing law 
+enforcement agencies with the powers they need to deal with money laundering for 
+which the predicate offence was committed overseas. Nor does it offer the 
+administrative powers that other countries, notably the U.S, use effectively to 
+disrupt money launderers. There are some important gaps in the asset recovery 
+provisions which have made it more difficult than it should be for law enforcement 
+agencies to forfeit the proceeds of crime held in bank accounts. Finally, the financial 
+investigation powers in POCA, whilst powerful, could be made more flexible and 
+effective. 
+
+2.32 The experience of UK law enforcement agencies in investigating the proceeds of 
+international corruption suspected to have entered the UK in recent years has 
+demonstrated POCA’s limits. In cases in which offences were conducted abroad, 
+UK law enforcement agencies are forced to rely on the cooperation of the country in 
+which the offence took place if they are to conduct a money laundering investigation 
+with a realistic chance of successfully securing a conviction. But in many cases the 
+country in which the offences took place lacks either the will, the capability, or the 
+human rights record that would allow effective cooperation to take place. This can 
+result in assets suspected of being the proceeds of crime overseas remaining in the 
+UK out of the reach of our law enforcement authorities.  
+
+2.33 The Government will explore options for new legal powers. Unexplained Wealth 
+Orders (UWOs) are already used in some countries, such as Ireland and Australia, 
+to tackle this problem. A UWO, when served on the defendant, requires him or her 
+to explain to the court the origin of his or her assets. This can provide critical 
+information on which law enforcement agencies can build their case. The 
+Government will also explore whether a new forfeiture power should be created to 
+enable the forfeiture of any assets for which a satisfactory explanation cannot be 
+given to the court. Some countries have criminalised illicit enrichment, making it a 
+criminal offence to possess assets which cannot be accounted for by way of lawful 
+income. It is a requirement under the UN Convention Against Corruption (UNCAC) 
+for states to consider introducing an illicit enrichment offence and the Government 
+intends to explore whether such an offence will be effective in the UK, and whether 
+it will be compatible with our legal system.14 
+
+2.34 The UK’s large financial sector makes it vulnerable to money laundering risks from 
+overseas. It is not possible to seek traditional criminal justice outcomes – 
+prosecutions and convictions in the UK courts – against money laundering threats 
+across the globe. The UK may be able to learn from the approach taken in the U.S., 
+which has a similarly large and internationally-focussed financial sector. Section 
+
+                                            
+14  See Article 20 of the UN Convention Against Corruption. 
+
+
+
+ 21 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+311 of the USA PATRIOT Act enables U.S. regulators to designate entities of 
+‘primary money laundering concern’. Once a designation is made, banks and other 
+firms are required to take special regulatory precautions in dealing with the entity in 
+question. These designations help U.S. firms protect themselves against the riskiest 
+customers, and can have a very powerful disruptive effect against the entity in 
+question, often, in effect, freezing them out of the international financial system. The 
+Government intends to explore what the UK could learn from the U.S. approach, 
+and to consider how a similar approach could be applied in the UK.  
+
+2.35 POCA offers a variety of different tools for asset recovery. In practice, however, law 
+enforcement agencies lack a flexible and effective tool to forfeit suspected proceeds 
+of crime held in bank accounts. POCA enables highly effective action to be taken 
+against criminal cash. No similar power applies to money held in bank accounts. 
+POCA civil recovery powers enable prosecutors to recover any form of property, but 
+civil recovery proceedings are complex and the specialist resources in UK law 
+enforcement agencies are rightly focussed on the highest value cases. Therefore, 
+the Government intends to explore whether new powers are needed to enable the 
+quick and effective forfeiture of money held in bank accounts in cases where there 
+is no criminal conviction against the account holder (because, for example, the 
+account was opened under a false identity) and there is suspicion that the funds are 
+the proceeds of crime.  
+
+2.36 The Government will also explore whether, following an initial hearing at a 
+magistrates’ court, the new power could be used administratively, with forfeitures 
+authorised by senior law enforcement officers where the value held in the account is 
+below a certain limit (for example, £100,000) and the case is uncontested. This new 
+power will form an important part of the changes to the Suspicious Activity Reports 
+regime described earlier in this document.  
+
+2.37 The Government will also explore whether the same power could also apply to 
+other forms of readily moveable property that may be the proceeds of crime (e.g. 
+jewellery and precious metals). 
+
+Action 11: 
+
+ Explore new powers to tackle money laundering, including: 
+
+ New powers to impose an obligation on an individual or entity to explain the 
+source of their wealth in support of an investigation;  
+
+ a new forfeiture power or criminal offence for those who cannot provide a 
+satisfactory explanation; 
+
+ new administrative powers to designate entities of money laundering concern 
+and require the regulated sector to take special measures when dealing with 
+them;  
+
+ updated POCA financial investigation powers to make them more flexible and 
+effective; and 
+
+ new powers to more easily seize criminal funds held in bank accounts, 
+(‘suspended accounts’) through civil forfeiture. (Pursue) 
+
+Lead: Home Office 
+
+
+22 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+2.38 Compliance with sanctions is key to ensuring those sanctions regimes have the 
+desired effect as a foreign policy and national security tool. The Government 
+intends to legislate to increase the maximum legal penalty for breaches of financial 
+sanctions prohibitions from 2 years imprisonment to 7 years, thus making it a 
+‘serious crime’. Deferred prosecution agreements, serious crime prevention orders 
+and monetary penalties will also be introduced for breaches of financial sanctions 
+prohibitions, to ensure that there is an effective and proportionate enforcement 
+toolkit across all financial sanctions regimes in the UK. HM Treasury is also 
+establishing an Office of Financial Sanctions Implementation to improve awareness 
+of sanctions by the private sector and enhance cooperation with the law 
+enforcement community. Properly targeted and robustly enforced sanctions are a 
+vital foreign policy tool which we increasingly rely on to deliver important national 
+security objectives. It underlines the Government’s commitment to introduce new 
+measures to make the UK a more hostile place for those seeking to move, hide or 
+use the proceeds of crime and corruption or to evade sanctions. 
+
+2.39 The law enforcement response to terrorist financing is led by NTFIU within the 
+Metropolitan police, supported by regional police counter terrorism units (CTUs). 
+With terrorist finance there is a greater focus on the raising and movement of 
+smaller scale funds since terrorist attacks or travel for terrorist purposes can be 
+funded relatively cheaply. The Government will focus on reducing vulnerabilities 
+and closing loopholes that can be exploited by terrorists to raise and move funds, 
+including through new legislation where necessary. This includes vulnerabilities that 
+enable funds to be raised through fraud or other criminal activity for terrorist 
+purposes. The Government will also ensure that operational partners have and are 
+able to use an appropriate and effective suite of tools to counter-terrorist finance 
+and will look to maximise the use of these tools. 
+
+Action 12: 
+
+Reduce vulnerabilities and close loopholes that can be exploited by terrorists to 
+raise and move funds and ensure that operational partners have, and are able to 
+use, an appropriate and effective suite of tools to counter-terrorist finance. (Pursue, 
+Protect) 
+
+Lead: HO supported by HMT, FCO, NTFIU, HMRC 
+
+2(c): Improving the effectiveness of the supervisory regime 
+
+It is the Government’s duty to help those businesses who wish to comply with the 
+law to do so. As the Government is aware that the current supervisory regime is not 
+working as well as it could, and that more could be done to help businesses comply 
+and better focus resources on serious crime.   The Government   is fully committed 
+to considering evidence submitted to date – for example that submitted to the 
+Cutting Red tape Review – and investigating further the effectiveness of the current 
+supervisory regime in detail, and considering radical options for improvement.  The 
+structure, remit and powers of the supervisors to incentivise compliance will be 
+considered as will the strengths and weaknesses of professional body supervision.   
+The Government wants to ensure that a risk-based approach is fully embedded, 
+beginning with the understanding of specific risks, and spotting criminal activity.  
+Tick-box compliance that risks imposing needless bureaucracy on compliant 
+businesses while making the regime less effective helps no one combat crime and 
+needs to be avoided . An effective approach should focus resources on the areas of 
+
+
+
+ 23 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+highest risk while taking a proportionate approach to those presenting low risk.  
+The Government values the views of all interested parties and is issuing a Call for 
+Information as Annex C to this Action Plan. This sets out some potentially radical 
+reforms aimed at improving the effectiveness of the supervisory regime and 
+addressing the concerns of businesses and Non-Government Organisations who 
+have identified areas of concern in the way it currently operates, including to the 
+Cutting Red Tape Review. 
+
+2.40 The UK’s supervisory regime is unique in respect of the number and diversity of 
+bodies that supervise businesses for AML/CTF purposes. These include statutory 
+regulators and professional bodies and the number of Treasury-approved 
+supervisors has grown over the years. While there are advantages in sector 
+specialisms, the NRA found that there were inconsistencies in the supervisory 
+regime, including in understanding and applying the risk-based approach to 
+supervision, in the provision of guidance and in providing a credible deterrent. A key 
+element of the risk-based approach is the identification and assessment of risks by 
+supervisors and businesses. To aid a more consistent approach, the Government 
+could work with supervisors to develop a common risk assessment methodology 
+(suitably tailored for individual sectors) that allows risks to be identified and 
+assessed in a comparable way. The Government is also aware of concerns about 
+aspects of the supervisory regime that appear to businesses in the regulated sector 
+to be unclear, unnecessarily cumbersome, conflicting or confusing. This also has 
+the potential to contribute to a less effective regime. 
+
+2.41 The Government believes that the large number of professional body supervisors in 
+some sectors and the inconsistencies in their approach is a particular concern. 
+While the majority of professionals in the regulated sector are not complicit in 
+money laundering, those who are non-compliant or negligent have the potential to 
+cause significant harm. They may, deliberately or unwittingly, assist criminals by 
+facilitating them in hiding the source of wealth, the wealth itself and to giving that 
+wealth a veneer of legitimacy, which is an integral aspect of money laundering. An 
+awareness raising Prevent communications campaign, designed to deter potential 
+involvement in organised crime, specifically fraud and money laundering, will 
+continue this year, delivered by the Home Office in partnership with the NCA, 
+HMRC, HMT and professional trade bodies and regulators.  
+
+2.42 The Government launched a review of the impact on business of the current 
+AML/CTF regime as part of the Cutting Red Tape Review programme in August 
+2015. The Review has specifically sought evidence on the role of supervisors in the 
+regime and is examining the potential to improve compliance and efficiency, by 
+identifying aspects of the supervisory regime that appear to be unclear, inefficient or 
+unnecessarily cumbersome. The clear aim of this Review is to identify scope for 
+better regulation that makes the regime more effective while reducing those 
+regulatory burdens that do not effectively contribute to tackling money laundering or 
+terrorist financing. 
+
+2.43 Charities have an important role in delivering aid overseas and Money Service 
+Businesses, including Hawala systems, remain important in delivering remittances 
+to some of the poorest countries, which is why it is important to ensure that both 
+sectors are properly supervised to prevent them being used for the financing of 
+terrorism. Any changes will need to be considered carefully to avoid unintended 
+effects on these important sectors. 
+
+
+24 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+2.44 Work is underway to identify what additional powers and tools could be used to 
+increase oversight and supervision of the MSB sector and improve compliance with 
+Regulations, including the use of targeted action to address non-compliant MSBs 
+and tackle criminal exploitation of MSBs. 
+
+2.45 The Charities (Protection and Social Investment) Bill contains provisions which will 
+assist the Charity Commission’s work to prevent and disrupt abuse of the charitable 
+sector for terrorist purposes. Provisions of the Bill include an expansion of offences 
+which automatically disqualify an individual from being a charity trustee – these 
+include specified terrorism and money laundering offences, a general power to 
+disqualify individuals from acting as trustees and an amendment to existing law to 
+enable the Commission to consider past conduct, in another charity, against a 
+trustee.  
+
+2.46 The UK has an anti-money laundering and counter-terrorist financing regime that 
+makes the UK a hostile environment for illicit finance. The regime relating to 
+Politically Exposed Person (PEPs) will be both robust and proportionate, with 
+resources focused on higher-risk individuals in line with international best practice. 
+
+2.47 Considerations of how to improve the supervisory regime, will be informed by the 
+findings of the Cutting Red Tape Review and the Government will engage closely 
+with supervisors, regulated entities, law enforcement and NGOs to fully understand 
+their views and present a range of options for change. In developing these options, 
+the Government will consider: 
+
+ How to ensure supervisors and their supervised populations are supported to 
+adopt a truly risk-based approach – focusing on those with a high risk of 
+criminality and negligent practice, which drives money laundering and terrorist 
+financing, with a more proportionate approach to those with lower risks. 
+
+ How the FCA, as the supervisor for the financial sector, ensures compliance 
+while taking a proportionate approach to money laundering and terrorist 
+financing risks. 
+
+ Whether the number of supervisors impacts on the effectiveness of supervision. 
+
+ Whether the advantages associated with professional body supervision, 
+including in-depth knowledge of the risks and latest developments in their 
+sectors, outweigh the disadvantages of having supervisory and industry 
+advocacy roles combined. 
+
+ Whether all supervisors have and use appropriate incentives and powers, such 
+as fines, disqualification, education, ability to impose changes to business 
+models and prosecution to take effective, proportionate and dissuasive action 
+against non-compliance. 
+
+ Whether businesses get the right amount of appropriate guidance from 
+supervisors. Is it consistent, clear, effective and up to date? What should the 
+Government’s role in producing or approving guidance be? 
+
+ Whether the regime keeps up with digital innovations and allows technology to 
+offer effective ways of meeting requirements. 
+
+ Whether information and intelligence can be more effectively shared between 
+supervisors, the businesses they supervise and law enforcement 
+
+
+
+ 25 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+2.48 A Call for Information to inform the Government’s review of the supervisory regime 
+is included at Annex C. Your views are welcomed and responses will be accepted 
+for a period of six weeks from the publication of this document. The Government will 
+respond to the findings of the Cutting Red Tape review, joining this work up where 
+relevant with the review of the supervisory regime, with clear plans for reform in the 
+Autumn. 
+
+Action 13: 
+
+Complete the review of the supervisory regime, taking into account relevant 
+evidence submitted to the Cutting Red Tape review and announce reforms. (Prevent 
+and Protect) 
+
+Lead: HMT 
+
+2(d): Increasing our international reach 
+
+Money laundering and terrorist finance are global threats. The UK, as an open 
+economy and a major global financial centre, is particularly exposed to risks from 
+overseas. The Prime Minister’s Anti-Corruption Summit in May 2016 will address 
+issues including corporate secrecy, Government transparency, the enforcement of 
+international anti-corruption laws, and the strengthening of international 
+institutions. Appropriate customer due diligence measures contribute to the 
+safeguarding of the UK’s financial system and national security. The Government 
+will enhance efforts to protect the UK from those who engage in money laundering 
+and terrorist finance. To pursue those who do so, the UK will continue to work 
+through international groups, such as the G20 and the Financial Action Task Force 
+(FATF), and with like-minded international partners to take action on an 
+international basis, and to achieve greater cooperation with important jurisdictions 
+overseas.  
+
+2.49 Investor visa regimes around the world, including the UK’s, have been criticised as 
+representing a quick money laundering route for corrupt foreign individuals. The 
+Government has taken a number of measures designed to reduce the UK scheme’s 
+vulnerabilities to abuse. Specifically, in November 2014, the Government took 
+powers to refuse applications where (1) there are reasonable ground to believe the 
+applicant is not in control of the funds; (2) the funds were obtained unlawfully (or by 
+conduct which would be unlawful in UK); and, (3) the character, conduct and 
+associations of a third party providing the funds mean granting is not conducive to 
+public good. In addition, in April 2015, the Government made a further change to 
+require that Tier 1 (Investor) applicants must have opened a UK account with an 
+FCA regulated bank for the purposes of making their qualified investment. This 
+measure ensures that prospective applicants will have been subjected to UK due 
+diligence and anti-money laundering checks before being able to gain a visa 
+through the route. The Government will continue to keep the route under review. 
+
+2.50 In July 2015, the Prime Minister announced that the UK Government will consider 
+measures to enhance the provision of beneficial ownership information for foreign 
+companies investing in the UK. The Prime Minister identified two areas where this 
+information would be useful – the purchase of land or property, and public 
+procurement. As a first step, the Government issued a discussion paper on 
+beneficial ownership transparency assessing options for requiring foreign 
+companies to provide their beneficial ownership information when either purchasing 
+
+
+26 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+property or bidding for public contracts. This was closed on the 4th of April and 
+responses are currently being analysed.  
+
+2.51 At last December’s Joint Ministerial Council, Overseas Territory leaders agreed to 
+hold company beneficial ownership information in central registers or similarly 
+effective systems. Furthermore, they agreed to develop a timely, safe and secure 
+information exchange process for law enforcement purposes. The Prime Minister 
+informed the House of Commons on 11 April that arrangements had been finalised 
+so, for the first time, UK law enforcement will be able to see exactly who owns and 
+controls companies incorporated in the Overseas Territories and the Crown 
+Dependencies.  
+
+2.52 The UK will increase its law enforcement cooperation and policy dialogue with 
+jurisdictions of importance for money laundering and terrorist finance. The UK will 
+look to tackle international corruption, where the sums of money siphoned off by 
+corrupt politically exposed persons, businesses and criminals, through bribery and 
+theft of public funds, can be significant. The NCA, as the lead law enforcement 
+agency on economic crime including money laundering and international corruption, 
+will create new International Liaison Officer posts in important jurisdictions to 
+support this work. Other UK law enforcement agencies also have overseas 
+networks, and the NCA will work with them to ensure a coherent approach. The 
+NCA officers will also support work to develop capacity in other countries, and 
+identify potential new threats to the UK. We will also expand our policy dialogue 
+with important jurisdictions to ensure joined-up and comprehensive approaches 
+are taken. 
+
+Action 14: 
+
+Create new NCA International Liaison Officer posts in important jurisdictions. 
+Review UK law enforcement agencies’ overseas networks and ensure a coherent 
+approach. (Pursue)  
+
+Lead: NCA, supported by HMRC and other law enforcement agencies 
+
+2.53 A lack of consistency in the legal and regulatory frameworks that govern information 
+sharing creates vulnerabilities for private sector firms. The sharing of information 
+and intelligence about suspected money laundering within these firms and with UK 
+law enforcement agencies is hampered by domestic data protection rules, and in 
+turn creates obstacles to law enforcement investigations. The UK will work with 
+international groups, such as the G20 and the Financial Action Task Force (FATF) 
+to promote better and more effective international information sharing on money 
+launderers between Governments, law enforcement agencies and financial 
+intelligence units, and private sector firms.  
+
+
+
+ 27 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Action 15: 
+
+Develop a new approach for cross-border information sharing between both private 
+sector firms and Government entities (Pursue, Protect)  
+
+Lead: HMT, Home Office 
+
+2.54 Recent high profile international corruption cases have demonstrated that criminal 
+funds were used to obtain real estate in the UK. In preparation for the May 2016 
+Anti-Corruption Summit, the NCA and Serious Fraud Office are leading work to 
+establish more effective international mechanisms for investigators and prosecutors 
+from multiple jurisdictions to work together on serious money laundering cases that 
+span international boundaries. 
+
+Action 16: 
+
+In preparation for the Anti-Corruption Summit, submit a new approach for 
+international law enforcement and prosecutor co-operation on international 
+corruption cases. (Pursue, Prepare) 
+
+Lead: NCA, SFO, CPS, Home Office, Cabinet Office 
+
+2.55 For terrorist finance, this co-operation will take the form of working with key partners 
+to improve their capacity and capability. The UK will continue to deliver training to, 
+and share expertise with, key overseas partners to help investigate and combat the 
+financing of terrorism. The UK is a member of the Counter ISIL Finance Group and 
+works within the group to ensure closer and more effective working with 
+international partners to degrade Daesh finances. The UK will continue to support 
+the Group’s efforts. We will also work to support activity to combat terrorist finance 
+alongside other EU member states and alongside action at the UN and 
+domestically.  
+
+2.56 The EU Commission published a new Terrorist Finance Action Plan on 2 February. 
+The UK welcomes the Commission Action Plan and will continue to engage at EU 
+level to help prevent and disrupt terrorist financing in a way that complements the 
+UK’s domestic counter-terrorist finance regime. In particular, the UK welcomes 
+plans for accelerated and effective implementation of United Nations’ freezing 
+orders; consideration of appropriate measures regarding high denomination notes; 
+and the call for Member States to undertake national risk assessments. The UK is 
+ready and willing to share its experiences in undertaking its recent NRA with other 
+EU Member States. 
+
+Action 17: 
+
+Deliver training to, and share expertise with, key overseas partners to help them 
+build their capacity and capability to investigate and combat the financing of 
+terrorism. (Pursue) 
+
+Lead: NTFIU supported by Home Office and FCO 
+
+
+ 28 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Action 18: 
+
+Continue to support Counter-ISIL Finance Group efforts to degrade Daesh finances 
+and work to support activity to combat terrorist finance alongside other EU member 
+states and alongside action at the UN and domestically. 
+
+Lead: FCO (Daesh Task Force), supported by MoD, Home Office, HMT 
+
+
+ 
+
+2.57 A large number of UK based charities work in difficult environments overseas in 
+support of humanitarian goals, often having to work in areas where terrorists 
+operate. We must support legitimate charities that operate in these environments to 
+reduce the risk of charitable funds being looted by or diverted to terrorist 
+organisations, or otherwise abused for terrorist purposes. 
+
+Action 19: 
+
+Support UK charities operating in difficult environments overseas to mitigate the 
+risk their funds being abused for terrorist purposes 
+
+Lead: Charity Commission, supported by Department for International Development, 
+Foreign and Commonwealth Office, Home Office 
+
+
+   29 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+3. Implementing the Action Plan 
+
+3.1 A successful anti-money laundering and counter-terrorist finance regime means: 
+
+ Reduced vulnerability of the regulated sector to money laundering and terrorist 
+finance. 
+
+ Relentless disruption of money laundering and terrorist finance, the prosecution 
+of those responsible and the forfeiture of their criminal assets. 
+
+ Fewer people engaged in money laundering and terrorist finance. 
+
+ Targeted support through the supervisory regime to financial institutions and 
+other businesses so that they can continue to act as an effective first-line 
+defence.  
+
+ Better international collaboration to disrupt global crime threats. 
+
+3.2 This Action Plan will deliver the Government’s objective, set out in the SDSR, to 
+make the UK a more hostile place for those seeking to move, hide or use the 
+proceeds of crime or corruption. The four priority areas are: 
+
+ A stronger partnership with the private sector 
+
+o Law enforcement agencies, supervisors and the private sector working in 
+partnership to target resources at the highest money laundering and 
+terrorist financing risks.  
+
+o News means of information sharing to strengthen the application of the 
+risk-based approach in practice and mitigate vulnerabilities. 
+
+o A collaborative approach to preventing individuals becoming involved in 
+money laundering. 
+
+ Enhancing the law enforcement response 
+
+o New capabilities and new legal powers to build the intelligence picture, 
+disrupt money launderers and terrorists, recover criminal proceeds, and 
+protect the integrity of the UK’s financial system.  
+
+ Improving the effectiveness of the supervisory regime 
+
+o Investigate the effectiveness of the current supervisory regime, and 
+consider radical options for improvement to ensure that a risk-based 
+approach is fully embedded, beginning with the understanding of specific 
+risks, and the spotting criminal activity, rather than a focus on tick-box 
+compliance 
+
+ Increasing our international reach 
+
+
+30 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+o Work with international partners to tackle money laundering and terrorist 
+financing threats upstream, and develop multilateral approaches in 
+preparation for the Prime Minister’s Anti-Corruption Summit in May 2016. 
+
+3.3 Quantitative and qualitative metrics to assess the impact of these actions will be 
+developed, covering the Pursue, Prevent and Protect outcomes, including: 
+prosecution, asset recovery and disruption assessment statistics; changes in 
+criminals’ behaviour as a result of public and private sector disruptions; changes in 
+the behaviour of professionals in the regulated sector as a result of Prevent 
+information campaigns; and changes to public and private sector understanding of 
+the threat. The NCA will regularly re-assess the threat, including through the 
+production of a baseline assessment on high end money laundering by the summer 
+of 2016, and through regular updates thereafter, including the National Strategic 
+Assessment on Serious Organised Crime. 
+
+3.4 The effectiveness of the Action Plan in meeting its money laundering objectives will 
+be overseen by the joint Ministerial Home Office and HMT chaired Criminal 
+Finances Board, with input from the Financial Sector Forum, chaired by the Home 
+Office, British Bankers’ Association and the NCA. The Criminal Finances Board will 
+also oversee preparations for the FATF Mutual Evaluation Review (FATF MER) in 
+2018. Preparation for the FATF MER will include a second National Risk 
+Assessment of Money Laundering and Terrorist Financing.  
+
+3.5 Deliver of the terrorist financing elements of the Action Plan will be monitored 
+through the Ministerial Terrorist Finance Board. 
+
+Grid of actions 
+
+ Action Lead Completed by 
+
+A stronger partnership with the private sector 
+
+1 Reform the SARs regime, making the 
+necessary legislative, operational and 
+technical changes to deliver the proposals 
+detailed in this Action Plan.  
+
+Home Office / NCA Oct 2018 
+
+2 Move JMLIT to a permanent footing. NCA July 2016 
+
+3 Create a register of banks’ particular 
+business specialisms and make it available 
+to JMLIT to ensure that relevant expertise 
+is brought into JMLIT work on money 
+laundering and terrorist financing 
+typologies. 
+
+British Bankers’ 
+Association 
+
+End 2016 
+
+4 Explore legislation to achieve better 
+information sharing between law 
+enforcement agencies and the private 
+sector, and between private sector entities. 
+
+Home Office Oct 2017 
+
+5 Deliver Prevent campaigns to raise 
+awareness amongst professionals in the 
+regulated sector of money laundering risks 
+and the actions needed to mitigate them. 
+
+Home Office, HM 
+Treasury 
+
+Ongoing 
+
+
+
+ 31 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ Action Lead Completed by 
+
+6 Public-private partnership to run a Prevent 
+campaign to educate consumers and 
+businesses as to the risks of becoming 
+involved in money laundering. 
+
+British Bankers’ 
+Association, Home 
+Office, HMT 
+
+End 2017 
+
+Enhancing the law enforcement response 
+
+7 Deliver improvements in intelligence 
+collection capability. 
+
+NCA Jan 2017 
+
+8 Ensure an effective multi-agency 
+investigation response, drawing on private 
+sector expertise, to target the most 
+complex high-end money laundering 
+cases.  
+
+NCA Oct 2016 
+
+9 Create a programme to upskill intelligence, 
+analytical, investigative and legal staff to 
+take on complex money laundering cases. 
+
+NCA June 2017 
+
+10 Establish a more sustainable funding 
+model for Regional Asset Recovery Teams 
+to ensure their robust response to money 
+laundering linked to serious and organised 
+crime, including through asset confiscation 
+and denial. 
+
+Home Office Oct 2016 
+
+11 Explore new powers to tackle money 
+laundering. 
+
+Home Office Oct 2016 
+
+12 Reduce vulnerabilities and close loopholes 
+that can be exploited by terrorists. 
+
+Home Office Oct 2017 
+
+Improving the effectiveness of the supervisory regime 
+
+13 Complete the review of the supervisory 
+regime, taking into account relevant 
+evidence submitted to the Cutting Red 
+Tape Review, and announce reforms. 
+
+HMT Autumn 2016 
+
+Increasing our international reach 
+
+14 Create new NCA International Liaison 
+Officer posts in important jurisdictions. 
+
+NCA Mar 2017 
+
+15 Develop a new approach for cross-border 
+information sharing between private sector 
+and Government entities. 
+
+HMT, Home Office ongoing 
+
+16 Submit a new approach for international 
+law enforcement and prosecutor 
+co-operation on international corruption 
+cases. 
+
+NCA Mar 2017 
+
+
+32 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ Action Lead Completed by 
+
+17 Deliver training to, and share expertise 
+with, key overseas partners to help them 
+build their capacity and capability to 
+investigate and combat the financing of 
+terrorism. 
+
+NTFIU Ongoing 
+
+18 Continue to support Counter-ISIL Finance 
+Group efforts to degrade Daesh finances 
+and work to support activity to combat 
+terrorist finance. 
+
+FCO Ongoing 
+
+19 Support UK charities operating in difficult 
+environments overseas to mitigate the risk 
+of their funds being abused for terrorist 
+purposes. 
+
+Charity Commission Ongoing 
+
+
+  33 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Annex A: Consultation on legislative 
+proposals 
+
+The Action Plan contains a number of proposals on which the Government wishes to 
+consult, as they will involve potential changes to legislation. These are: 
+
+ Removal of the SARs consent regime 
+
+ New powers for law enforcement agencies to require reporters to take actions in 
+relation to their customers, and to request further information on SARs 
+
+ Data sharing between private sector organisations to tackle money laundering and 
+terrorist financing 
+
+ The creation of a new power to require individuals to declare their sources of wealth 
+
+ The creation of a linked power to seek forfeiture of assets if they fail to declare their 
+sources of wealth 
+
+ The creation of an illicit enrichment offence 
+
+ A power to designate an entity as being of money laundering concern 
+
+ Development of a new power to allow money held in bank accounts to be swiftly 
+seized and forfeited 
+
+ Changes to the civil recovery powers to allow administrative seizure up to £100,000. 
+
+Section 2(a): Public-private partnership 
+
+1. The Government is seeking views on the change in focus of the SARs regime from 
+one on transactions to one on the entities responsible for money laundering and 
+terrorist financing. 
+
+ What benefits are there for the reporting sector in moving the focus of the SARs 
+regime from transactions to entities for tackling money laundering and the 
+financing of terrorism?  
+
+ What would be the effect on costs to business in making that shift? 
+
+2. To support that change, the Government is considering removing the current 
+consent regime. 
+
+ What are the risks in removing the consent regime, and how could these be 
+overcome?  
+
+ If the current SARs consent regime is replaced, removing the statutory defence 
+for SARs reporters, what legal protections should be available for reporters who 
+unwittingly come into the possession of criminal property? 
+
+
+34 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ What would be the costs to your business of this change? 
+
+3. Should a reformed SARs regime include powers for law enforcement agencies to 
+direct reporters to take certain actions, including maintaining a customer 
+relationship, and provide legal cover for the reporter to do so? 
+
+4. The Government is proposing to provide legislative cover to support better data 
+sharing within the private sector. 
+
+ What legislation and guidance needs to be in place to allow effective sharing of 
+information between private sector firms in order to prevent and detect financial 
+crime?  
+
+ What benefits would you see from having the ability to develop SARs in 
+partnership / report jointly with other private sector entities? 
+
+ What can we learn from the U.S. experience of data sharing between private 
+sector entities under the s314 of the USA PATRIOT Act? 
+
+5. Under the EU 4th Anti-Money Laundering Directive (4AMLD), Financial Intelligence 
+Units are required to have a power to request further information in relation to a 
+SAR. How should such information be gathered, and should it be regarded as part 
+of the overall SAR?  
+
+6. The Government wants to support the financial sector in dealing with suspected 
+proceeds of crime held in suspended bank accounts.  
+
+ What new powers are required to allow the criminal funds held in UK bank 
+accounts to be forfeited more easily?  
+
+ What safeguards should be put in place around any new powers in order to 
+protect innocent account holders? 
+
+ In uncontested cases, should administrative forfeiture be permitted, in the same 
+way that POCA already enables the administrative forfeiture of cash? 
+
+Section 2(b): Enhanced law enforcement response 
+
+7. What do you see as the benefits of introducing a power to require individuals to 
+explain the sources of their wealth? 
+
+8. Would you see a benefit in a linked forfeiture power where the explanation is not 
+satisfactory or no explanation is provided? 
+
+9. What benefit would you see in an illicit enrichment offence, targeting those who 
+use their public position to enrich themselves? What are the potential impacts on 
+business? 
+
+10. The Government is considering the introduction of a power to enable the 
+Government to designate entities of primary money laundering concern. 
+
+ What benefit would such a power provide? 
+
+ What would be the impact of such a power on firms in the regulated sector?  
+
+
+
+ 35 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ What legal recourse should be available for designated entities who wish to 
+challenge their designation? 
+
+ What can the UK learn from the U.S. experience of using section 311 of the 
+USA PATRIOT Act? 
+
+ What would be the costs to your business? 
+
+11. What benefit would you see in the provision of a power, similar to the provisions for 
+cash seizure, to allow seizure and forfeiture of other forms of readily moveable 
+property such as high value jewellery or precious metals?  
+
+12. What benefit would you see in enabling the administrative forfeiture of the proceeds 
+of crime in uncontested cases, following an initial hearing at a magistrates’ court? 
+Should a limit be set on the value of property that could be administratively forfeited, 
+and what should that limit be? 
+
+13. If we amend the investigative powers within POCA so they can be sought earlier in 
+the investigative process, and make applications and administration more flexible, 
+what would be the impact on your business? 
+
+14. In addition to the proposals in this Action Plan, are there additional powers that UK 
+law enforcement agencies should have to tackle money laundering? 
+
+Responses  
+
+The Home Office welcomes your views in response to the questions posed in this Annex.  
+
+The Government would be keen to hear examples of how the proposed changes may help 
+or hinder the AML/CTF regime in the UK in practice. This will help ensure evidence-based 
+policy decisions in these areas. 
+
+Electronic responses are preferred and should be sent to: 
+Action_Plan@homeoffice.gsi.gov.uk.  
+
+Questions or enquiries specifically relating to this consultation should also be sent to the 
+above email address. Please include the words CONSULTATION VIEWS or 
+CONSULTATION ENQUIRY (as appropriate) in your email title. If you do not wish your 
+views to be published alongside the Government response to this consultation, please 
+clearly specify this in your email.  
+
+Hard copy responses may be submitted to: 
+
+Action Plan questions on tackling money laundering & terrorist financing 
+Home Office 
+6th Floor Peel Building 
+2 Marsham Street 
+London 
+SW1P 4DF 
+
+
+36 
+
+
+mailto:Action_Plan@homeoffice.gsi.gov.uk
+
+
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Confidentiality and Disclosure policy 
+
+Information provided in response to this consultation, including personal information, might 
+be published or disclosed in accordance with the access to information regimes. These are 
+primarily the Freedom of Information Act 2000 (FOIA) and the Data Protection Act (DPA). 
+If you want the information that you provide to be treated as confidential, please be aware 
+that, under the FOIA, there is a statutory Code of Practice with which public authorities 
+must comply with and which deals, amongst other things, with obligations of confidence.  
+
+In view of this it would be helpful if you could explain to the Home Office why you regard 
+the information you have provided as confidential. If Government receives a request for 
+disclosure of the information, the Home Office will take full account of your explanation, but 
+it cannot give an assurance that confidentiality will be maintained in all circumstances. 
+
+An automatic confidentiality disclaimer generated by your IT system will not, of itself, be 
+regarded as binding on the Department. Your personal data will be processed in 
+accordance with the DPA, and in the majority of circumstances, this will mean that your 
+personal data will not be disclosed. 
+
+Timetable 
+
+The closing date for responses to be submitted is 2 June 2016.  
+
+
+   37 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Annex B: Findings from the Call for 
+Information on the Suspicious Activity 
+Reports (SARs) Regime 
+
+Introduction 
+
+In the UK Anti-Corruption Plan, published on 18 December 2014, the Coalition 
+Government committed to carrying out a review of the SARs regime to develop ways of 
+better identifying money laundering and terrorist financing, and to prevent the dissipation 
+of the proceeds of corruption.  
+
+SARs play an important role in the ability of the UK to identify money laundering and the 
+financing of terrorism. Part 7 of the Proceeds of Crime Act 2002 requires a person to 
+report to the NCA where there are reasonable grounds to know or suspect that another 
+person is engaged in money laundering. Although this requirement to submit SARs applies 
+to any individual, those businesses in the "regulated sector" such as banks, money service 
+businesses, accountants and lawyers are obliged to report. 
+
+The Home Office ran a Call for Information on the operation of the SARs regime between 
+25 February and 25 March 2015. We received more than 60 responses from a wide range 
+of stakeholders, including law enforcement agencies, the financial sector, and the legal 
+and accountancy sectors. 
+
+The responses contained a wide range of views on the SARs regime. There were a large 
+number of specific points that were made for each of the sections that were set out in the 
+Call for Information, together with a number of general points about the operation of the 
+regime. A summary of the points is set out below.  
+
+The Government is grateful for all of the contributions made by respondents throughout 
+the Call for Information process. This document summarises the submissions received in 
+response to the Call for Information questions.  
+
+Key themes  
+
+A number of key themes emerged from the Call for Information:  
+
+ Definition of Purpose: The current regime fulfils the role of the UK reporting and 
+intelligence gathering mechanism for suspected money laundering and terrorist 
+financing activity. Many respondents believe that the regime is ineffective, and want to 
+see it used in a more active manner, that will lead to clear operational outcomes, such 
+as arrests and asset recovery. The reporting sector sees the review as an opportunity 
+to develop a more effective regime.  
+
+ Active information sharing: The review has highlighted the need for a better 
+information sharing model to support greater collaboration between law enforcement 
+agencies, regulators and the private sector. Most respondents want to share relevant 
+information to assist in tackling money laundering. The reporting sector is concerned 
+that existing legislation does not explicitly support the sharing of information within and 
+
+
+38 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+between members of the reporting sector, and that more definite legal arrangements 
+are required. The Joint Money Laundering Intelligence Taskforce has made some 
+significant steps in building trust between law enforcement agencies and the financial 
+sector, but to do this on a longer term basis, some respondents wanted explicit legal 
+cover. 
+
+ Improve the quality of SARs / reduce the volume: The reporting sector has 
+concerns regarding the phrasing of the requirement to report suspicious transactions, 
+as set out in POCA. This concern, and the penalties for failure to report, drive a 
+significant level of defensive reporting, where reports are made more because of 
+concerns regarding a failure to comply with POCA than because of genuine suspicion. 
+This places a burden on the regime, and detracts from a focus on serious and 
+organised crime. The Government is committed to taking action to recognise and 
+address this concern.  
+
+ Clarify the “tipping off” offence: There are concerns relating to the “tipping off’ 
+offence in POCA. Reporters are concerned that any sharing of information, even to 
+assist in preventing or detecting crime, could be an offence. The poor quality and large 
+number of SARs places the regime under strain. The poor quality is often as a result 
+of the lack of knowledge on the part of the reporter, and the use of an all crimes 
+approach, with no de minimus, obliges reporters to raise SARs that are of little value.  
+
+ Upgrade the capabilities of the UK Financial Intelligence Unit (UKFIU): All sectors 
+viewed the technical infrastructure and the resources of UKFIU that support the 
+regime as inadequate. The reporting sector felt that the IT system did not allow them 
+to report as effectively as it could, and that the UKFIU was short of the capabilities 
+necessary to utilise the information provided in the SARs.  
+
+ Consent regime: The consent regime is seen by many in the reporting sector as 
+problematic. They say it causes delays, and difficulties with customers, and some also 
+view it as incompatible with their business. Law enforcement agencies believe that 
+there has to be a mechanism that allows transactions that involve the transfer of 
+criminal assets to be investigated and prevented.  
+
+Specific points  
+
+The Call for information sought the views of respondents on the following areas: 
+
+1. Context for each respondent. 
+
+2. How can money laundering and the financing of terrorism be better identified?  
+
+3. How can information sharing between and within sectors be improved to prevent 
+crime and protect the regulated sector and the wider financial system? 
+
+4. How can SARs reporting be made more efficient? 
+
+5. How can the consent regime be improved? 
+
+6. What can we learn from international best practice? 
+
+
+
+ 39 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Summaries of responses received are outlined below:  
+
+Context for each respondent 
+
+ Most respondents felt that they had a good understanding of SARs and how they 
+should be raised. Staff training was seen as vital, and is carried out by many 
+respondents. However, respondents working for smaller organisations felt they had 
+difficulties with training, as they did not know what to look for. The role of regulators 
+and supervisors in assisting with training was welcomed, although others mentioned 
+concerns, particularly outside the financial sector, with the quality of oversight, and the 
+number of regulators in particular sectors. 
+
+How can money laundering and the financing of terrorism be better identified 
+
+ Purpose of the SARs regime: There is concern over what the regime is for, and what 
+it is seeking to achieve, coupled with a wider concern over the lack of information on 
+the effectiveness of the regime, and what the regulated sector needs to provide to 
+assist law enforcement agencies.  
+
+ Information sharing on risks and threats: A lack of guidance on what to look for or 
+to focus on leads to large numbers of SARs being raised on a guesswork basis. One 
+respondent argued that it is unreasonable for governments to expect the regulated 
+sector to know more about money laundering than law enforcement agencies do, and 
+that information held by such agencies needed to be shared. The focus on an “all 
+crimes” regime is leading to high levels of defensive SARs. Many respondents wanted 
+strengthening of the definition of “suspicion”, to allow better judgements to be made. 
+Suggested solutions included better information sharing on trends and typologies 
+including new forms of transactions such as online banking and virtual currencies. 
+
+ Due diligence: Respondents said that financial institutions should conduct proper 
+due diligence not only on the source of wealth but on the source of funds. Some 
+respondents were unclear which of these (or both) should be done.  
+
+ Regulatory oversight of non-banking sector: The banking sector is subject to 
+considerable regulation, and is responsible for most SARs. Criminals may have 
+recognised this, and will use other avenues where there is less reporting. Improved 
+oversight, and rationalisation of supervisors in some of the non-bank sectors is 
+required to address this. 
+
+ Difficulty of use: Some respondents felt that the regime itself is difficult to use because 
+the nature of their business model does not allow them to use the SARs regime 
+effectively. This particularly applies where the transactions are many and rapid. 
+
+ Duplication of reporting: Respondents were often unclear where they should report 
+different crime types to, or felt that they needed to provide duplicate reports, such as 
+one to Action Fraud and a SAR. Clarification of the need for reporting, and to whom, 
+would be useful for some, particularly where both fraud and money laundering were 
+involved. This could include bulk reporting of fraud to the NFIB. 
+
+ UKFIU capabilities: The level of resources applied to work on submitted SARs and to 
+investigate money laundering is seen by most respondents as too low. Respondents 
+recommended an increase in staffing, improved IT, and work to reduce the volume of 
+SARs, and thought that capabilities (particularly analysis skills) needed to be improved 
+to support this work.  
+
+
+40 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+ Willingness to restrain: Concerns were raised over the difficulty in obtaining restraint 
+orders, particularly in cases where relatively small sums are involved. 
+
+Improving information sharing between and within sectors to prevent crime and 
+protect the regulated sector and the wider financial system 
+
+ Legislation to permit sharing of data: Many respondents are willing to share more 
+information than they do now, but see the current legislation as restricting their ability 
+to do so between sectors and within sectors. Some of this relates to the Crime and 
+Courts Act section 7 gateway, which enables data sharing with the NCA, and some to 
+wider issues of data protection. Suggested solutions include a statutory protection for 
+those sharing information in this area, and a definition of when it is acceptable to refer 
+to the fact of a SAR being raised. The USA PATRIOT Act provisions on data sharing 
+are seen as worth exploring.  
+
+ Effective information sharing structures: The Joint Money Laundering Intelligence 
+Taskforce (JMLIT), which is run as a pilot by the NCA and some banks, was 
+supported as a means of testing information sharing on a collaborative cross-sector 
+basis. Some non-bank contributors asked for an equivalent structure. Respondents 
+felt that the JMLIT is a good starting point, but needs development before it could be a 
+long-term solution. 
+
+ Cross-Government data sharing: Respondents said that Government and other 
+public bodies have data that would be useful to enrich the information provided 
+through SARs. These datasets should be available to the NCA to improve the 
+effectiveness of the regime. 
+
+ Tipping off offence: Some respondents argued that the tipping off offence at section 
+333A of POCA is drawn too widely, and has a detrimental effect on sharing 
+information for the purpose of identifying or preventing crime. In the age of fast 
+transactions, a customer cannot avoid noticing that their transaction has been held up, 
+and can draw their own conclusions. Suggestions included restricting it to a deliberate 
+action to inform the subject of a SAR for the purpose of assisting them, or scrapping 
+the provision altogether and relying on alternatives such as aiding and abetting. 
+Respondents also want a form of words, agreed with the NCA, to use with customers 
+who question the delay of their transactions. 
+
+ Outputs to the reporting sector: Some private sector respondents would like access 
+to SARs data. However, others felt that they did not want access themselves, and that 
+access should remain limited, perhaps only to supervisors or regulators. Most wanted 
+access to trend and threat data, and some to information on those convicted (or 
+strongly suspected) of money laundering. They would like information on matters 
+already under investigation by law enforcement, and not be required to raise additional 
+SARs on those.  
+
+ Collaborative working: Respondents see a future regime operating on a much more 
+collaborative basis. Some talked about creating a CIFAS-style anti-money laundering 
+(AML) information sharing exchange, which would provide reporters with details of 
+trends etc. A number wanted to see a regime that used trusted or security cleared 
+staff (such as MLROs) far more, to share information between and within sectors. 
+
+
+
+ 41 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+How can SARs reporting be made more efficient? 
+
+ Prioritisation of SARs: Some respondents would like information that help them to 
+identify criminality more effectively, and to use this as the basis for a tiered approach 
+to reporting, whereby SARs are graded according to the degree of suspicion relating 
+to the transaction, and where the reporter provides a significant level of input where 
+they firmly believe the transaction is criminal.  
+
+ De minimus value for SARs: A number of respondents felt that there should be a 
+realistic de minimus value for SARs, to allow reporters to focus on the higher value 
+transactions, and to reduce the number of SARs raised.  
+
+ New technical architecture: The current IT infrastructure is seen as having 
+significant problems, and to be unable to support the workload. A number of proposals 
+have been put forward for functionality that any new system should have, all of which 
+would need to use structured data that allows effective interrogation and analysis. 
+More use of standardised formats, alongside priority indicators, was seen as useful. 
+Any solution would need a significant analytical capability, along with the resources to 
+use that effectively. Bulk or linked reporting of SARs would allow the reporting sector 
+to develop a better report package for law enforcement agencies, containing more 
+information relating to the transaction. Non-bank respondents felt that any new 
+technical solution needs industry-specific templates. This would help with training and 
+the provision of relevant information. 
+
+ Bulk information sharing: alongside priority indicators, the reporting sector could be 
+asked to provide bulk data for specific areas, which law enforcement agencies could 
+mine for further information. 
+
+How can the consent regime be improved? 
+
+ Consent regime: Some respondents would like the consent regime to be replaced by 
+a restructured SARs regime, based on tiered reporting. The transactions where a bank 
+has evidence of criminality would be subject to review by the NCA prior to action being 
+taken. The reporter would not commit an offence if the transaction proceeded during 
+the review period. The consent regime is supported by law enforcement agencies. 
+Some sectors feel that a consent regime that is focused on bank transactions does not 
+work for the more immediate transactions that they deal with. 
+
+ Focus on accounts rather than transactions: Some suggest that it would be better 
+for consent requests to operate on the whole account, rather than on each transaction. 
+They believe this would be better as it would freeze the whole account in one go, 
+rather than require SARs for individual transactions. 
+
+ Review the moratorium period: There are diverse views on whether the length of 
+the moratorium period is right. Businesses generally view it as too long, or of having 
+the effect of causing any transaction subject to it to fall through. Law enforcement 
+agencies believe that the time to obtain information to make a decision on further 
+action, particularly where the request is from overseas, is not long enough, and should 
+be extendable through a court order. 
+
+ Start process before customer instruction: Some respondents think if the reporter 
+could start the consent process before the customer gives instructions, this would 
+speed up the process, and reduce the impact on the customer. 
+
+
+42 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+What can we learn from international best practice? 
+
+ U.S: Some respondents argue that provisions similar to those in the PATRIOT Act on 
+information sharing would be very useful, and would provide legal cover for the 
+regulated sector to share information. 
+
+ Spain: The Spanish FIU is seen as working closely with the reporting sector, and 
+provides effective feedback, and useful information on typologies. This is caveated 
+with a recognition that the volume of SARs in Spain is much smaller than that in 
+the UK. 
+
+ International information sharing: Respondents see a number of challenges to 
+sharing information internationally, due to the different data protection laws in other 
+jurisdictions. This is a problem for global institutions, who may not be able to share 
+information on customers across different parts of the group. It is also a problem for 
+law enforcement agencies, who do not receive intelligence disseminations.  
+
+ Impact of the 4th Anti-Money Laundering Directive (4AMLD): Respondents 
+thought that the impact of 4AMLD could be significant, if it drives up the number of 
+SARs being reported, requires additional work from the UKFIU, and prevents 
+information sharing between or within sectors.  
+
+
+   43 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Annex C: Call for information – 
+AML Supervisory Regime 
+
+Background 
+
+The government’s aim for the Anti-Money Laundering (AML) and Counter Financing of 
+Terrorism (CFT) regime is to make the UK financial system a hostile environment for illicit 
+finances, while minimising the burden on legitimate businesses and reducing the overall 
+burden of regulation.  
+
+The UK’s financial sector is one of the most sophisticated and open in the world. This 
+brings huge advantages in terms of encouraging investment, entrepreneurship, and 
+financial innovation – but it also makes it a target for criminals seeking to launder and 
+move their ill-gotten gains around the world. It is essential, therefore, that those 
+businesses most likely to be targeted by such criminals are properly regulated and that the 
+bodies in place to supervise them are effective and proportionate. The UK has an 
+anti-money laundering and counter-terrorist financing regime that makes the UK a hostile 
+environment for illicit finance. The regime relating to Politically Exposed Person (PEPs) will 
+be both robust and proportionate, with resources focused on higher-risk individuals in line 
+with international best practice. 
+
+The Financial Action Task Force (FATF) sets out high-level principles for the organisation 
+of national AML/CFT regimes and demands that jurisdictions should ensure effective 
+supervision of regulated entities on a risk-sensitive basis by supervisors that have 
+adequate powers to ensure compliance. The government is committed to upholding these 
+principles and to showing that the UK has an effective AML/CFT regime during its Mutual 
+Evaluation which will be conducted by FATF in 2017/18.  
+
+In preparation for the Mutual Evaluation and the transposition of the European Union’s 
+Fourth Money Laundering Directive, the government published the National Risk 
+Assessment (NRA) of ML/TF risks in October 2015. This found that, while the UK’s 
+response to money laundering and terrorist financing risks is well developed, more could 
+be done to strengthen the AML and CFT regime. Of interest to this call for information is 
+the finding that: 
+
+“The effectiveness of the supervisory regime in the UK is inconsistent. Some 
+supervisors are highly effective in certain areas, but there is room for improvement 
+across the board, including in understanding and applying a risk-based approach to 
+supervision and in providing a credible deterrent. The large number of professional 
+body supervisors in some sectors risks inconsistencies of approach. Data is not yet 
+shared between supervisors freely or frequently enough, which exposes some 
+supervised sectors where there are overlaps in supervision.”15  
+
+Currently, the Treasury has responsibility for appointing and removing the supervisors 
+through the Money Laundering Regulations. The Treasury engages with the supervisors, 
+law enforcement and the regulated populations though fora such as the Money Laundering 
+Advisory Committee, the Anti-Money Laundering Supervisors’ Forum and the Financial 
+Sector Forum as well as monitoring their activities through an annual Supervisor’s Report. 
+
+                                            
+15  National Risk Assessment, p. 5 
+
+
+44 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+However, there is no formal and systematic mechanism for assessing performance and 
+driving changes. 
+
+The government has committed to dealing with the issues raised in the NRA and seeks 
+views from supervisors, regulated businesses, NGOs and the public on how best to 
+address them. It is important that in considering how to improve the regime we do not 
+create needless burdens on business and the government launched a review of the impact 
+on business of the current AML/CFT regime as part of the Cutting Red Tape programme in 
+August 2015. Evidence gathered through that review will be fully considered when looking 
+at how to improve the regime.  
+
+Scope 
+
+The scope of this call for information is the AML/CFT supervisory regime, focusing on the 
+system of appointing supervisors, the powers of supervisors to incentivise compliance, 
+adoption of the risk-based approach and how they interact with supervised businesses.  
+
+The Home Office is conducting a review of the structure of the Suspicious Activity Reports 
+(SARs) regime which is an important element of the AML/CFT regime, so this will be out of 
+scope of this call for information.  
+
+Purpose 
+
+The purpose of this call for information is to enable the government to examine options to 
+improve the supervisory regime and address inconsistencies, ensuring that the UK’s 
+regime is effective, proportionate and meets the standards set down by FATF. 
+
+Once the government has a fuller picture of the benefits and risks, it will be able to take an 
+informed decision on what changes are needed. 
+
+Identification of risks 
+
+The first step in taking a risk-based approach to combatting money laundering and terrorist 
+financing is to have a robust methodology for identifying and assessing risks. Supervisors 
+have developed their own risk assessment methodologies largely independently and these 
+are not always directly comparable. Where a number of supervisors cover similar types of 
+business, having a methodology that is significantly different may give rise to 
+inconsistencies, for example potentially leading to two supervisors viewing the same 
+business type as having materially different risks. 
+
+The NRA found that some supervisors had difficulties explaining how their risk assessment 
+translates into specific monitoring activities. This does not mean that supervisors are not 
+taking a risk based approach or that their risk assessments do not inform their monitoring 
+decisions, but it does suggest that the communication of monitoring decisions needs to 
+be improved.  
+
+Once risks have been identified and assessed, supervisors should allocate resources 
+accordingly and focus on areas of highest risk. However, this does not mean that other 
+areas should be neglected and it is important that ongoing monitoring enables supervisors 
+to detect new risks or changes to existing risks that necessitate a reallocation of 
+resources.  
+
+The NRA found that there is a risk of the priority attached to AML/CFT supervision by 
+supervisors varying over time as it is prioritised against assessments of compliance in 
+other areas, although there is no evidence that individual supervisors are not sufficiently 
+prioritising AML/CFT efforts.  
+
+
+
+ 45 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+1. Should the government address the issue of non-comparable risk assessment 
+methodologies and if so, how? Should it work with supervisors to develop a single 
+methodology, with appropriate sector-specific modifications? 
+
+2. How should the government best support supervisors – and supervisors support 
+each other – to link their risk-assessments to monitoring activities and to properly 
+articulate how they do so? 
+
+3. Should the government monitor the identification and assessment of risks by the 
+supervisors on an ongoing basis? Should the supervisors monitor each other’s 
+identification and assessment of risks? How might this work? 
+
+4. Should smaller supervisors be encouraged to pool AML/CFT resources into a joint 
+risk function and would this lead to efficiencies? If so, how should they be 
+encouraged? 
+
+5. How should the ability of the supervisors and law enforcement agencies to share 
+information on risks be improved? 
+
+Supervisors Accountability 
+
+To have confidence in the supervisory regime it is important that government is able to 
+hold supervisors to account and ensure that they are carrying out their duties in an 
+effective and proportionate manner. The variety of supervisory models means that 
+government does not have the same influence over each supervisor. While statutory 
+bodies (such as the FCA) are answerable to parliament, professional bodies which are 
+granted authority to supervise by the Treasury are ultimately answerable to their members.  
+
+While the Treasury has instigated an annual report on the activities of the supervisors, not 
+all supervisors submit returns, and the mechanism for assessing their performance in 
+detail, identifying weaknesses and ensuring that action is taken could be strengthened. 
+While most supervisors attend the AML/CFT Supervisors’ Forum (AMLSF) and meet in the 
+smaller affinity groups (accountancy, public sector and legal), these fora provide a means 
+of information exchange and discussion rather than challenge, support and accountability. 
+Some supervisors are also members of the Money Laundering Advisory Committee 
+(MLAC) along with representatives from industry, law enforcement and government 
+departments, this provides another forum for discussion and advises the government on its 
+approach to preventing money laundering. 
+
+It has been suggested that a clear and transparent method for ‘supervising the 
+supervisors’ is needed, not only to create a well understood mechanism for holding them 
+to account, but also to give supervisors support and clarity on what is expected of them. 
+The government is interested in views on whether such a mechanism is required and, if 
+so, what it might look like. 
+
+6. To promote discussions between the supervisors, should attendance at the AMLSF 
+and submission of an annual return to the Treasury be made compulsory for 
+supervisors? How could the government ensure that this happened? 
+
+7. Could the Money Laundering Advisory Committee (MLAC) have a greater role in 
+driving improvements in the supervisory regime?  
+
+8. Should the government instigate a formal mechanism for assessing the 
+effectiveness of all the supervisors AML/CFT activities, with the power to compel 
+action to address shortcomings? If so, should this be carried out by the Treasury 
+
+
+46 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+directly, through another body such as the National Audit Office, or through creating 
+a new body, perhaps along the same lines as the Legal Services Board which 
+oversees legal services supervisors or the Financial Reporting Council which 
+promotes high quality corporate governance and reporting? Are there other ways of 
+ensuring effectiveness that should be considered? 
+
+9. Would an overarching body be able to add value by maintaining a more strategic 
+view of the entire AML/CFT landscape and identifying cross-cutting issues which 
+individual supervisors might struggle to identify? Should such a body have the 
+authority to guide and compel the activities of the supervisors, up to and including 
+the power to revoke approval for bodies to be supervisors? 
+
+Penalties and Enforcement 
+
+Supervisors should use appropriate enforcement procedures when AML/CFT breaches 
+have been identified. Under the Money Laundering Regulations and the Fourth Anti-Money 
+Laundering Directive (4AMLD), penalties should be “effective, proportionate and 
+dissuasive”. Furthermore, article 59 of 4AMLD sets out minimum requirements for 
+measures that should be available in cases of serious, repeated or systematic breaches. 
+
+There is no common approach across all supervisors to using enforcement tools to 
+incentivise AML/CFT compliance. Typically, if a supervised business cannot provide 
+evidence that it is applying AML/CFT controls to a satisfactory standard, a supervisor will 
+schedule a follow-up visit to ask for evidence of improvement, leading to a referral to an 
+investigation department if no credible evidence is forthcoming. There is scope for 
+supervisors to take differing approaches in enforcing AML/CFT compliance, and for 
+supervisors to take differing views on whether education or sanctions are the most 
+appropriate remedy in a given situation.  
+
+There is also no common approach to use of sanctions or in setting the level of penalties 
+applicable and this could give rise to inconsistencies. While some supervisors are not 
+limited in the fines that they can impose, others set limits as low as £2500. It should be 
+noted that having different upper limits for fines may not necessarily lead to an inconsistent 
+approach to enforcement, provided that any penalty levied is proportionate to the breach 
+that is being sanctioned. The supervised population ranges from sole traders to 
+multi-national corporations, so an effective regime should not seek consistency in the 
+absolute level of penalties but the approach should be proportionate – that is, there should 
+be consistency in the way that supervisors decide on penalties and consistency in their 
+effect. To this end, article 60(4) of 4AMLD sets out a non-exhaustive list of circumstances 
+that should be taken into account when deciding on the type and level of administrative 
+sanctions to apply.  
+
+Some supervisors have indicated that they can “fast track” disciplinary matters once a 
+member has been convicted of an offence. However, the speed of the procedure varies 
+from a matter of weeks to 6 months after conviction, potentially allowing a convicted 
+criminal to practice for up to 6 months even after conviction. Public sector supervisors 
+(such as HMRC) can also be constrained in “naming and shaming” those subject to 
+conviction, which could reduce their ability to incentivise compliance, although it should be 
+noted that article 60 of 4AMLD imposes, in certain circumstances, a duty to publish 
+decisions where a penalty is imposed. Furthermore, many of the supervisors currently 
+share information on members that have been disciplined for AML/CFT related breaches 
+with the aim of ensuring continuity should they seek to move to a new supervisor within the 
+same sector. 
+
+
+
+ 47 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+There are variations in how the discipline/enforcement committees of supervisors are 
+constituted. Whilst some supervisors have disciplinary procedures that are operationally 
+independent of the supervisor, others have no lay members, external oversight or recourse 
+to an independent disciplinary tribunal. Supervisors’ disciplinary procedures should have 
+sufficient independence to instil public confidence and there should be an adequate 
+appeals system in place. 
+
+Finally, different supervisors have different powers to investigate their supervised 
+populations. The Money Laundering Regulations allow FCA staff and officers of HMRC the 
+power to require information from and attendance of relevant and connected persons, 
+including the power to require the relevant person to attend before an officer at a specified 
+time and place and answer questions. The Money Laundering Regulations also give 
+powers to HMRC and FCA to enter premises with or without a warrant, and this does not 
+directly apply to the other supervisors.  
+
+Furthermore, HMRC have authority to instigate proceedings for breaches of the 
+Regulations that are prosecuted by the Crown Prosecution Service, whereas the other 
+public sector supervisors (the FCA and the Gambling Commission) do not. The Gambling 
+Commission does however have powers to take regulatory action under the Gambling Act 
+for breaches in AML/CFT compliance, including suspension or revocation of a licence. 
+Professional bodies, on the other hand, lack such direct powers to compel.  
+
+10. Should the government seek to harmonise approaches to penalties and powers? 
+For example, should supervisors have access to a certain minimum range of 
+penalties and powers and what should these be? Should there be a common 
+approach for deciding on penalties and calculating fines based on variables such as 
+turnover that are scalable to the size of the business? 
+
+11. Should the government seek to establish a single standard for supervisors 
+disciplinary and appeals functions? 
+
+12. Does the inability of some supervisors to directly compel attendance of relevant 
+persons to answer questions or to enter premises reduce their ability to effectively 
+supervise, or is liaison with law enforcement agencies an appropriate mechanism? 
+If so, how could the government address this? 
+
+Ensuring high standards in supervised populations 
+
+Supervisors have a range of criteria that supervised businesses must meet. These can 
+include adherence to codes of conduct, undergoing a fit and proper person test or 
+requirements to obtain qualifications and training in order to be accepted for the purposes 
+of supervision. Supervisors may also require their population to carry out continuing 
+professional development in order to retain accreditation. The requirements will vary 
+depending on the supervisor, and there may, in some cases, be no requirement to meet 
+professional standards in order to become supervised.  
+
+There are also barriers to supervisors informing themselves of the background of their 
+supervised populations, making it difficult to effectively manage entry into the sector. Most 
+supervisors do not have access to police databases and therefore do not know, other than 
+through declarations, if a person has a criminal conviction. Not all supervisors have 
+powers to carry out a fit and proper test of the supervised population. Supervisors may 
+also lack appropriate powers to deregister those who are no longer deemed fit and proper. 
+In some sectors, individuals or businesses deregistered by one supervisor may continue to 
+practice by simply registering with an alternate supervisor. The government will consider 
+the extension of fit and proper tests and the ability of supervisors to de-register 
+
+
+48 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+businesses/individuals as part of its forthcoming consultation on the transposition of the 
+Fourth Money Laundering Directive and submissions to that consultation are encouraged. 
+
+While most supervisors require the supervised population to complete a comprehensive 
+annual return containing information on the firm, principals, shareholders and 
+management; not all supervisors can compel the supervised population to do so. 
+Therefore they may not have access to up-to-date information, making it difficult to carry 
+out a risk assessment of the activity carried out by a supervised business. 
+
+Supervisors also work with their regulated populations in a number of ways to drive up 
+standards, including through the use of more collaborative methods such as; industry 
+workshops, bulletins, continuous professional development etc. 
+
+13. Should all supervisors have powers to compel supervised businesses to submit 
+comprehensive and up-to-date information to aid risk assessment?  
+
+14. Is there a need for supervisors themselves to undergo training and/or continuous 
+professional development? Is so, what form might this take and should it be 
+government-recognised? 
+
+15. Is there a need for relevant persons in the supervised populations across all sectors 
+to undergo training and/or continuous professional development to aid their 
+understanding of AML/CFT issues? 
+
+The role of professional bodies in AML/CFT supervision 
+
+The Treasury follows best practice on better regulation by allowing professional body 
+supervision for AML/CFT. The NRA found that there is a risk that conflicts of interest could 
+compromise professional body supervision as these bodies represent and are funded by 
+the firms they supervise. A report published in February 2013 into the economic and legal 
+effectiveness of AML/CFT policy raised concerns around the role of trade bodies in 
+supervision. The study,16 published by Utrecht University, noted that “a high number of 
+sanctions imposed by the professional association could lead to the impression that the 
+professionals do not maintain a high quality standard.”  
+
+The evidence gathered through the consultation undertaken as part of the NRA process 
+did not indicate that this potential conflict of interest is undermining supervision, but the 
+perception of risk remains very real. In Sir David Clementi’s report17 of 2004, he quotes 
+from the Council for Licensed Conveyancers: “It is difficult to understand how one body 
+can effectively both regulate a profession and also represent and lobby for its interests 
+without prejudice to either its regulatory or representative functions.” The report argues 
+that issues such as changes in practice should be examined, not against the wishes of the 
+membership, but against the test of public interest and, even where a body does place the 
+public interest ahead of that of its members, there remains an issue of perception.  
+
+The Clementi report led to the establishment of the Legal Services Board and the 
+separation of lobbying and supervisory functions for lawyers in England and Wales. This 
+separation mitigates the risk of conflict of interest, as recognised by the NRA. Furthermore, 
+it may make it easier for law enforcement to share information with supervisors if the 
+
+                                            
+16  Project ECOLEF report - 
+
+http://www2.econ.uu.nl/users/unger/ecolef_files/Final%20ECOLEF%20report%20(digital%20version).pdf 
+17  http://webarchive.nationalarchives.gov.uk/+/http://www.legal-services-
+
+review.org.uk/content/report/index.htm 
+
+
+
+ 49 
+
+
+http://www2.econ.uu.nl/users/unger/ecolef_files/Final%20ECOLEF%20report%20(digital%20version).pdf
+http://webarchive.nationalarchives.gov.uk/+/http:/www.legal-services-review.org.uk/content/report/index.htm
+http://webarchive.nationalarchives.gov.uk/+/http:/www.legal-services-review.org.uk/content/report/index.htm
+
+
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+supervisory arm is distinct from the representative arm and is established with appropriate 
+safeguards and firewalls to give confidence that sensitive information would be protected.  
+
+16. What safeguards should be put in place to ensure that there is sufficient separation 
+between the advocacy and AML/CFT supervisory functions in professional bodies? 
+To what extent are appropriate safeguards already in place? 
+
+17. Should the government mandate the separation of representative and AML/CFT 
+supervisory roles? What impacts might this have on the professional bodies 
+themselves? 
+
+18. How does the UK approach to professional body supervision compare to other 
+countries’ regimes?  
+
+Guidance 
+
+The international AML/CFT standards set by the Financial Action Task Force (FATF) 
+require supervisors to provide their supervised population with a clear understanding of 
+their AML/CFT obligations and ML/TF risks. This can include the production of AML/CFT 
+guidance. Currently, supervisors and other stakeholders produce guidance which provides 
+assistance for firms in their sector on the practical application of the Money Laundering 
+Regulations. The Treasury does not currently issue guidance on the interpretation of the 
+Money Laundering Regulations but instead may approve the guidance produced by 
+supervisors and industry bodies. Treasury approved guidance means that a court must 
+consider whether the person followed the guidance when deciding whether they failed to 
+comply with the Regulations (or the POCA or the Terrorism Act 2000). 
+
+Evidence submitted to the Cutting Red Tape Review suggests that the large number of 
+supervisors has resulted in a great deal of Treasury approved guidance. The current 
+process for obtaining Treasury approval for each piece of guidance is criticised by 
+respondents as inefficient and taking too long. Further, submissions to the review suggest 
+that much of the guidance itself is too long, challenging to understand and is jargon-laden. 
+Respondents complained that there is insufficient clarity around the difference between 
+minimum legal requirements and best practice. The status of the FCA Financial Crime 
+Guide is specifically mentioned as being unclear and inconsistent with the guidance 
+produced by the Joint Money Laundering Steering Group (JMLSG), a finance, trade and 
+banking industry consortium. 
+
+This results in firms having to familiarise themselves with multiple sets of guidance which, 
+it is felt, often does not provide enough specific or practical advice on how to comply, 
+leading to businesses being unsure of what is expected of them, or going beyond 
+expected levels of compliance in order to minimise risk of being found non-compliant. 
+
+The government may consider, in cooperation with industry and supervisors, taking a more 
+active role in the production of guidance that explains the legal framework of the UK’s 
+AML/CFT regime. Guidance on how to apply this legal framework to the particular sector, 
+along with examples of best practice, would then be produced by appropriate industry and 
+supervisory bodies and may not require Treasury approval. This could result in a 
+consolidation in the amount of AML/CFT guidance produced and provide greater clarity to 
+supervisors and to business. 
+
+19. How could inconsistencies between the JMLSG guidance and the FCA’s Financial 
+Crime Guide best be resolved? Should the two be merged? Or should one be 
+discontinued and if so, which one and why? 
+
+
+50 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+20. What alternative system for approving guidance should be considered and what 
+should the government’s role be? Is it important to maintain the principle of 
+providing legal safe harbour to businesses that follow the guidance? 
+
+21. Should the government produce a single piece of guidance to help regulated 
+businesses understand the intent and meaning of the Money Laundering 
+Regulations, leaving the supervisors and industry bodies to issue specific guidance 
+on how different sectors can comply? If so, would this industry guidance need to be 
+Treasury approved? Should it be made clear that the supervised population is to 
+follow the industry guidance? 
+
+Transparency 
+
+A transparent AML/CFT regime is more likely to maintain public confidence in the UK’s 
+approach to tackling money laundering and terrorist financing. The publication of National 
+Risk Assessment had the clear objective of enabling a better understanding of the UK’s 
+money laundering and terrorist financing risks, informing the efficient allocation of 
+resources and mitigating money laundering and terrorist financing risks.  
+
+Taking an open approach to improving the understanding of money laundering and 
+terrorist financing risks should assist the government, supervisors and the private sector in 
+targeting their resources at the areas of highest risk. In a drive towards greater 
+transparency in AML/CFT supervision, the Treasury has developed a voluntary reporting 
+process for supervisors which is now in its fifth year. The Annual Supervision Report plays 
+a key role in encouraging good practice and improving the transparency and accountability 
+of supervision and enforcement in the UK. It should also be noted that 4AMLD further 
+encourages transparency and article 60 requires the publication of details of enforcement 
+action in certain circumstances. 
+
+A transparent approach means that all – government, supervisors, and the private sector –
+can be held to account for their contribution in the fight to protect the UK from the scourge 
+of money laundering and terrorist financing. With this in mind, concerns that a candid 
+approach which sets out the risks and vulnerabilities would serve as a roadmap to 
+criminals should be balanced against the argument that openly identifying weaknesses 
+provides a strong impetus for change. This argument holds that it is only through 
+identifying and sharing understanding of weaknesses that these can be addressed, in 
+order to ensure that the UK’s AML/CFT regime is robust, proportionate and responsive to 
+emerging threats.  
+
+22. Should supervisors be required to publish details of their enforcement actions and 
+enforcement strategy, perhaps as part of the Treasury’s annual report on 
+supervisors, or in their own reports? What are the benefits and risks in doing so? 
+
+23. Should the government publish more of the detail gathered by the annual 
+supervisor’s report process? For example, sharing good practice or weaknesses 
+across all supervisors? 
+
+24. Should supervisors be required to undertake thematic reviews of particular activities 
+or sections of their supervised populations, as the FCA currently does? If so, how 
+often should such reviews be undertaken? 
+
+
+
+ 51 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Information sharing 
+
+A key component of an effective AML/CFT regime is the effective sharing of information 
+between supervisors and law enforcement agencies, and among supervisors. The NRA 
+notes that supervisors collectively need to share more information with each other in order 
+to properly mitigate the risks. For a supervisor to act effectively it must have information-
+sharing gateways and appropriate mechanisms that allow it and law enforcement to share 
+information to counter money laundering and terrorist financing. The ability to share skills, 
+knowledge and experiences can also add to the overall effectiveness of supervision.  
+
+Following of review of the Money Laundering Regulations in 2012, the Treasury amended 
+the Regulations to provide a legal gateway to allow supervisors to disclose information to 
+other UK supervisors relevant to their functions. This enables supervisors to inform each 
+other of firms or individuals they have de-registered or have particular concerns about, in 
+order to help prevent regulatory arbitrage and non-compliant firms from evading proper 
+controls.  
+
+The Financial Crime Information Network (FIN-NET) is an organisation that operates under 
+the umbrella of the FCA and allows the sharing of information between law enforcement 
+and regulators on specific individuals and entities. Membership of FIN-NET requires 
+certain pre-requisites, appended to this document. While some AML/CFT supervisors are 
+full members of FIN-NET, the majority are not.  
+
+Another inconsistency with regard to the sharing of information is that regulation 25 of the 
+Money Laundering Regulations requires HMRC to keep registers for certain sectors that it 
+supervises, including High Value Dealers (HVDs), Money Service Businesses (MSBs) and 
+Trust or Company Service Providers (TCSPs). The FCA also keeps a list of authorised 
+firms on its register which is easily searchable but there is no such obligation on legal and 
+accountancy service providers to keep registers for TCSPs and the FCA is not obliged to 
+keep a register for MSBs or TCSPs that it supervises. The Regulations allow for HMRC to 
+publish these registers, but they currently do not do so.  
+
+25. What is the best way to facilitate intelligence sharing among supervisors and 
+between supervisors and law enforcement? What safeguards should be imposed? 
+
+26. As one means of facilitating better sharing of intelligence among supervisors and 
+between supervisors and law enforcement, could the government mandate that all 
+supervisors should fulfil the conditions for, and become members of, a mechanism 
+such as FIN-NET? Are there other suitable mechanisms, such as the Shared 
+Intelligence System (also hosted by the FCA)? 
+
+27. Should the government require all supervisors to maintain registers of supervised 
+businesses? If so, should these registers cover all registered businesses or just 
+certain sectors? Should such registers be public? What are the likely costs and 
+benefits of doing so? 
+
+Ensuring the effectiveness of the FCA 
+
+The UK is a global financial centre, and is home to some of the most successful 
+international financial services firms in the world as well as being the largest centre for 
+cross-border bank lending. Because of the size and complexity of the sector it is exposed 
+to criminals who seek to use it to move and disguise the proceeds of crime and funds of 
+terrorism. As the conduct supervisor for credit and many financial institutions, the Financial 
+Conduct Authority (FCA) plays a key role in protecting the financial sector from ML/TF 
+
+
+52 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+threats and the government is particularly motivated to ensure that the FCA is able to 
+effectively mitigate the risks presented.  
+
+Egregious cases of banks allowing themselves to be used for ML/TF purposes may have 
+effects beyond simply damaging the reputation of the UK financial sector and facilitating 
+the predicate offence(s). In such a situation, enforcement action against the offending 
+bank by a regulator or law enforcement agency could potentially lead to fines or revocation 
+of licences which lead to the failure of the bank. This could, depending on the size of the 
+bank, have systemic implications. This makes it all the more important that the FCA is able 
+to effectively monitor banks and ensure that their systems prevent such breaches 
+occurring.  
+
+The FCA seeks to apply a risk-based approach to its supervision of banks and other 
+financial institutions. In 2014 it adapted its approach to AML/CFT supervision to try to 
+target its resource more effectively and focuses on firms that present the highest money 
+laundering risks, irrespective of their size. This includes carrying out deep dive 
+assessments of major retail and investment banks as part of the Systematic Anti-Money 
+Laundering Programme (SAMLP), regular inspections of smaller firms that are assesses 
+as higher risk, thematic reviews and event-driven work, for example when a high risk of 
+financial crime is identified. The FCA also publishes a Financial Crime Guide which gives 
+specific guidance on anti-money laundering and countering the financing of terrorism, 
+including examples of good practice. 
+
+Submissions to the Cutting Red Tape review show there is a perception that the FCA’s 
+supervision can focus on procedural requirements which are thought not be the most 
+effective way of detecting and preventing money laundering and terrorist financing. This 
+narrative contends that ‘tick-box’ approach by the FCA prevents banks from adopting truly 
+effective approaches and leads them to ‘over-compliance’ – that is, demanding information 
+from customers or imposing procedures that would not be required under a truly 
+risk-based approach and are not demanded by regulations – as well as withdrawing from 
+certain services or classes of customer in order to avoid the risk of regulatory sanctions. 
+However, it should be noted that in order to assess the AML/CFT regime of an institution, 
+there will be a need to do a certain amount of checking of procedures and policies which 
+may, erroneously, be seen as ‘box-ticking’.  
+
+It has been suggested that the FCA’s approach to supervising the financial sector for 
+AML/CFT compliance leads to smaller firms not receiving the scrutiny that might be 
+warranted under a truly risk-based approach, due to the FCA’s focus on the largest firms. 
+
+28. How can credit and financial institutions best be encouraged to take a proportionate 
+approach to their relationships with customers and avoid creating burdensome 
+requirements not strictly required by the regulations? 
+
+29. Does failure of AML/CFT compliance pose a credible systemic financial stability 
+risk? If so, does this mean that the FCA should devote more resource to the largest 
+banks which have the greatest potential to have systemic effects?  
+
+30. How should the FCA address the perception from evidence submitted to the Cutting 
+Red Tape Review that it is overly focused on process and ensure that its AML/CFT 
+supervision is focused proportionately on firms which pose the greatest risk? 
+
+
+
+ 53 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+The number of supervisors 
+
+The UK’s supervisory regime is unique in respect of the number and diversity of bodies 
+that supervise businesses for AML/CFT purposes. These range from statutory regulators 
+to professional bodies and the system has grown up organically over the years. There are 
+currently 27 bodies appointed by Treasury as AML/CFT supervisors. This may provide 
+advantages, allowing supervisors to leverage their specialist knowledge of their sectors in 
+order to more effectively manage the risk of financial crime. However, there can be an 
+overlap in the sectors covered by supervisors. 
+
+A number of the inconsistencies outlined in this document could potentially be addressed 
+by encouraging the supervisors to work in similar ways or establishing other means of 
+oversight. However, there is an argument that it is simply the number of bodies in 
+existence which give rise to more opportunities for inconsistency. While this makes 
+mechanisms that allow cooperation and sharing of best practice among supervisors all the 
+more important, the government is also interested in views as to whether the high number 
+by itself makes achieving greater consistency difficult and whether consideration should be 
+given to consolidation. 
+
+31. Is the number of supervisors in itself a barrier to effective and consistent 
+supervision? Is so, how should the number be reduced and what number would 
+allow a consistent approach? 
+
+32. If this is an issue, are there other ways to address it? For example, would 
+supervisors within a single sector benefit from pooling their AML/CFT resources and 
+establishing a joint supervisory function? 
+
+List of questions 
+
+1. Should the government address the issue of non-comparable risk assessment 
+methodologies and if so, how? Should it work with supervisors to develop a single 
+methodology, with appropriate sector-specific modifications? 
+
+2. How should the government best support supervisors – and supervisors support 
+each other – to link their risk-assessments to monitoring activities and to properly 
+articulate how they do so? 
+
+3. Should the government monitor the identification and assessment of risks by the 
+supervisors on an ongoing basis? Should the supervisors monitor each other’s 
+identification and assessment of risks? How might this work? 
+
+4. Should smaller supervisors be encouraged to pool AML/CFT resources into a joint 
+risk function and would this lead to efficiencies? If so, how should they be 
+encouraged? 
+
+5. How should the ability of the supervisors and law enforcement agencies to share 
+information on risks be improved? 
+
+6. To promote discussions between the supervisors, should attendance at the AMLSF 
+and submission of an annual return to the Treasury be made compulsory for 
+supervisors? How could the government ensure that this happened? 
+
+7. Could the Money Laundering Advisory Committee (MLAC) have a greater role in 
+driving improvements in the supervisory regime?  
+
+
+54 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+8. Should the government instigate a formal mechanism for assessing the 
+effectiveness of all the supervisors AML/CFT activities with the power to compel 
+action to address shortcomings? If so, should this be carried out by the Treasury 
+directly, through another body such as the National Audit Office, or through creating 
+a new body, perhaps along the same lines as the Legal Services Board which 
+oversees legal services supervisors or the Financial Reporting Council which 
+promotes high quality corporate governance and reporting? Are there other ways of 
+ensuring effectiveness that should be considered? 
+
+9. Would an overarching body be able to add value by maintaining a more strategic 
+view of the entire AML/CFT landscape and identifying cross-cutting issues which 
+individual supervisors might struggle to identify? Should such a body have the 
+authority to guide and compel the activities of the supervisors, up to and including 
+the power to revoke approval for bodies to be supervisors? 
+
+10. Should the government seek to harmonise approaches to penalties and powers? 
+For example, should supervisors have access to a certain minimum range of 
+penalties and powers and what should these be? Should there be a common 
+approach for deciding on penalties and calculating fines based on variables such as 
+turnover that are scalable to the size of the business? 
+
+11. Should the government seek to establish a single standard for supervisors 
+disciplinary and appeals functions? 
+
+12. Does the inability of some supervisors to directly compel attendance of relevant 
+persons to answer questions or to enter premises reduce their ability to effectively 
+supervise, or is liaison with law enforcement agencies an appropriate mechanism? 
+If so, how could the government address this?  
+
+13. Should all supervisors have powers to compel supervised businesses to submit 
+comprehensive and up-to-date information to aid risk assessment?  
+
+14. Is there a need for supervisors themselves to undergo training and/or continuous 
+professional development? Is so, what form might this take and should it be 
+government-recognised? 
+
+15. Is there a need for relevant persons in the supervised populations across all sectors 
+to undergo training and/or continuous professional development to aid their 
+understanding of AML/CFT issues? 
+
+16. What safeguards should be put in place to ensure that there is sufficient separation 
+between the advocacy and AML/CFT supervisory functions in professional bodies? 
+To what extent are appropriate safeguards already in place? 
+
+17. Should the government mandate the separation of representative and AML/CFT 
+supervisory roles? What impacts might this have on the professional bodies 
+themselves? 
+
+18. How does the UK approach to professional body supervision compare to other 
+countries’ regimes?  
+
+19. How could inconsistencies between the JMLSG guidance and the FCA’s Financial 
+Crime Guide best be resolved? Should the two be merged? Or should one be 
+discontinued and if so, which one and why? 
+
+
+
+ 55 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+20. What alternative system for approving guidance should be considered and what 
+should the government’s role be? Is it important to maintain the principle of 
+providing legal safe harbour to businesses that follow the guidance? 
+
+21. Should the government produce a single piece of guidance to help regulated 
+businesses understand the intent and meaning of the Money Laundering 
+Regulations, leaving the supervisors and industry bodies to issue specific guidance 
+on how different sectors can comply? If so, would this industry guidance need to be 
+Treasury approved? Should it be made clear that the supervised population is to 
+follow the industry guidance? 
+
+22. Should supervisors be required to publish details of their enforcement actions and 
+enforcement strategy, perhaps as part of the Treasury’s annual report on 
+supervisors, or in their own reports? What are the benefits and risks in doing so? 
+
+23. Should the government publish more of the detail gathered by the annual 
+supervisor’s report process? For example, sharing good practice or weaknesses 
+across all supervisors? 
+
+24. Should supervisors be required to undertake thematic reviews of particular activities 
+or sections of their supervised populations, as the FCA currently does? If so, how 
+often should such reviews be undertaken? 
+
+25. What is the best way to facilitate intelligence sharing among supervisors and 
+between supervisors and law enforcement? What safeguards should be imposed? 
+
+26. As one means of facilitating better sharing of intelligence among supervisors and 
+between supervisors and law enforcement, could the government mandate that all 
+supervisors should fulfil the conditions for, and become members of, a mechanism 
+such as FIN-NET? Are there other suitable mechanisms, such as the Shared 
+Intelligence System (also hosted by the FCA)? 
+
+27. Should the government require all supervisors to maintain registers of supervised 
+businesses? If so, should these registers cover all registered businesses or just 
+certain sectors? Should such registers be public? What are the likely costs and 
+benefits of doing so? 
+
+28. How can credit and financial institutions best be encouraged to take a proportionate 
+approach to their relationships with customers and avoid creating burdensome 
+requirements not strictly required by the regulations? 
+
+29. Does failure of AML/CFT compliance pose a credible systemic financial stability 
+risk? If so, does this mean that the FCA should devote more resource to the largest 
+banks which have the greatest potential to have systemic effects?  
+
+30. How should the FCA address the perception from evidence submitted to the Cutting 
+Red Tape Review that it is overly focused on process and ensure that its AML/CFT 
+supervision is focused proportionately on firms which pose the greatest risk? 
+
+31. Is the number of supervisors in itself a barrier to effective and consistent 
+supervision? Is so, how should the number be reduced and what number would 
+allow a consistent approach? 
+
+
+56 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+32. If this is an issue, are there other ways to address it? For example, would 
+supervisors within a single sector benefit from pooling their AML/CFT resources and 
+establishing a joint supervisory function? 
+
+Responses  
+
+The Treasury welcomes your views in response to the questions posed in this Annex and 
+would be keen to hear views on how to best deal with the issues raised with a view to 
+making the supervisory regime more effective. This will help ensure evidence-based policy 
+decisions in these areas. 
+
+Electronic responses are preferred and should be sent to: aml@hmtreasury.gsi.gov.uk 
+
+Questions or enquiries specifically relating to this consultation should also be sent to the 
+above email address. Please include the words CONSULTATION VIEWS or 
+CONSULTATION ENQUIRY (as appropriate) in your email title. If you do not wish your 
+views to be published alongside the Government response to this consultation, please 
+clearly specify this in your email.  
+
+Hard copy responses may be submitted to: 
+
+Review of AML/CFT Supervision 
+Sanctions and Illicit Finance Team  
+1st Floor Blue 
+HM Treasury 
+1 Horse Guards Road 
+London 
+SW1A 2HQ 
+
+Confidentiality and Disclosure policy 
+
+Information provided in response to this consultation, including personal information, might 
+be published or disclosed in accordance with the access to information regimes. These are 
+primarily the Freedom of Information Act 2000 (FOIA) and the Data Protection Act (DPA). 
+If you want the information that you provide to be treated as confidential, please be aware 
+that, under the FOIA, there is a statutory Code of Practice with which public authorities 
+must comply with and which deals, amongst other things, with obligations of confidence.  
+
+In view of this it would be helpful if you could explain to the Treasury why you regard the 
+information you have provided as confidential. If Government receives a request for 
+disclosure of the information, the Treasury will take full account of your explanation, but it 
+cannot give an assurance that confidentiality will be maintained in all circumstances. 
+
+An automatic confidentiality disclaimer generated by your IT system will not, of itself, be 
+regarded as binding on the Department. Your personal data will be processed in 
+accordance with the DPA, and in the majority of circumstances, this will mean that your 
+personal data will not be disclosed. 
+
+Timetable 
+
+The closing date for comments to be submitted is 2 June 2016.  
+
+
+  57 
+
+
+mailto:aml@hmtreasury.gsi.gov.uk
+
+
+
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+Appendix to Annex C – Criteria for 
+Membership of FIN-NET 
+
+Before receiving approval as a member of FIN-NET a potential member must demonstrate 
+that they satisfy the following criteria: 
+
+1. Mandate Mandate to regulate entities involved in the financial services sector 
+and/or combat financial fraud and other serious crime, which makes use of or 
+impacts on the UK financial system. 
+
+2. Gateways Legal ability to share information with a significant proportion of the 
+FIN-NET membership. Ability to share must include instances where disclosure 
+limited to the matter being matter investigated is not in itself a breach of the entity's 
+rules/laws. 
+
+3. FCA Even if gateways do not exist with all FIN-NET Members, the entity must be 
+able to disclose confidential information to the FCA (or such other entity that is 
+hosting the FIN-NET Secretariat). 
+
+4. Legal identity The entity should have the ability to enter into contracts in its own 
+name. 
+
+5. Integrity of information Existence of primary interest in the cases it is submitting 
+to FIN-NET and the ability to stand behind the information on such cases. 
+
+6. Commitment General ability and willingness to contribute actively to FIN-NET's 
+objectives and to share information with other members, including responding 
+promptly and fully to referrals/enquiries from FIN-NET Members. 
+
+7. Confidentiality Legal ability to hold information received from FIN-NET members 
+free from any requirement to make public disclosure if required (subject to Court 
+orders or the requirements of DPA and FOIA).  
+
+8. Security Adequate physical and electronic security to ensure that all documentation 
+received from FIN-NET members is held securely. 
+
+9. Clearance If applying to become a Main Member, willingness to submit appropriate 
+staff for clearance to required level and, if necessary pay for "developed vetting". 
+
+10. Communication Access to, or willingness to install, an accredited secure means of 
+communication (ideally electronic) with the FIN-NET Secretariat. 
+
+11. Funding Agreement to pay contributions to the costs of FIN-NET, as set by the 
+FIN-NET Steering Group. 
+
+12. Reputation A proven track record of working with at least one FIN-NET member 
+over a reasonable period of time. 
+
+
+  58 
+
+Action Plan for anti-money laundering and counter-terrorist finance 
+
+
+
+ 59          
+
+	Contents
+	Ministerial Foreword
+	Summary of Actions
+	1. Introduction
+	2. Actions
+	3. Implementing the Action Plan
+	Annex A: Consultation on legislative proposals
+	Annex B: Findings from the Call for Information on the Suspicious Activity Reports (SARs) Regime
+	Annex C: Call for information – AML Supervisory Regime
+
+
+
+

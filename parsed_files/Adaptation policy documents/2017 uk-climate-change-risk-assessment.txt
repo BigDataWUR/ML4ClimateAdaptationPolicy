@@ -1,0 +1,1267 @@
+
+
+
+
+UK Climate Change - Risk Assessment 2017
+
+
+
+
+HM Government
+
+UK Climate Change 
+Risk Assessment 2017
+
+January 2017
+
+
+
+
+HM Government
+
+UK Climate Change 
+Risk Assessment 2017
+Presented to Parliament pursuant to Section 56 of the 
+Climate Change Act 2008
+
+January 2017
+
+
+
+
+© Crown copyright 2017
+
+This publication is licensed under the terms 
+of the Open Government Licence v3.0 
+except where otherwise stated. To view 
+this licence, visit nationalarchives.gov.uk/
+doc/open-government-licence/version/3 or 
+write to the Information Policy Team, The 
+National Archives, Kew, London TW9 4DU, or 
+email: psi@nationalarchives.gsi.gov.uk.
+
+Where we have identified any third party 
+copyright information you will need to obtain 
+permission from the copyright holders 
+concerned.
+
+This publication is available at www.gov.uk/
+government/publications 
+
+Any enquiries regarding this publication 
+should be sent to us at  
+defra.helpline@defra.gsi.gov.uk
+
+Print ISBN 9781474137416 
+Web ISBN 9781474137423
+
+ID SGD0013128  01/17
+
+Printed on paper containing 75% recycled 
+fibre content minimum
+
+Printed in the UK by the Williams Lea Group 
+on behalf of the Controller of Her Majesty’s 
+Stationery Office
+
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+mailto:psi@nationalarchives.gsi.gov.uk
+http://www.gov.uk/government/publications
+http://www.gov.uk/government/publications
+mailto:defra.helpline@defra.gsi.gov.uk
+
+
+
+
+Contents
+
+Executive summary 3
+
+1. Introduction 5
+1.1 Legislative framework on climate change 5
+1.2 The UK Climate Change Risk Assessment 2017 
+
+Evidence Report 6
+
+2. The UK Government’s assessment of priority risks 
+and opportunities 10
+2.1 Flooding and coastal change risks to 
+
+communities, businesses and infrastructure 
+(‘more action needed’) 11
+
+2.2 Risks to health, well-being and productivity 
+from high temperatures (‘more action needed’) 12
+
+2.3 Risks of shortages in the public water supply, 
+and for agriculture, energy generation and 
+industry, with impacts on freshwater ecology 
+(‘more action needed’) 14
+
+2.4 Risks to natural capital, including terrestrial, 
+coastal, marine and freshwater ecosystems, 
+soils and biodiversity (‘more action needed’) 15
+
+2.5 Risks to domestic and international food 
+production and trade (‘more action needed’) 16
+
+2.6 New and emerging pests and diseases, and 
+invasive non-native species, affecting people, 
+plants and animals (‘research priority’) 17
+
+3. Assessment of priority risks and opportunities for 
+the Devolved Governments 18
+3.1 Scotland 18
+3.2 Wales 19
+3.3 Northern Ireland 20
+
+4. Next steps 21
+
+
+
+
+ Executive summary 3
+
+Executive summary
+
+In December 2015, the UK joined 195 countries in signing an historic global deal to tackle 
+climate change. The Paris Agreement commits the international community to reduce 
+greenhouse gas emissions in order to avoid some of the most severe impacts of climate 
+change. Despite this, we know that some changes to the climate are already inescapable 
+due to past emissions of greenhouse gases. These changes present challenges and 
+opportunities to all aspects of our society, and we must act on these if we are to achieve 
+our ambitions of creating a stronger, more resilient economy and a natural environment 
+that benefits people and can provide the vital resources and services we need.
+
+Climate change is not only a challenge of the future. We are already observing changes 
+in the UK climate, with average temperatures having risen by around 1ºC over the last 
+century. We are seeing a trend towards warmer winters and hotter summers, sea levels 
+around our coast are rising by around 3mm a year and there is emerging evidence of 
+changing rainfall patterns. The heavy rainfall and flooding over the winter of 2015/16 – 
+although they cannot yet be attributed to climate change – illustrate the costs and 
+disruption that can be caused by extreme weather. The ongoing development of the 
+Government’s 25 Year Environment Plan is one example of how we are building climate 
+adaptation into our plans and investments to ensure that we are resilient for the future.
+
+The Climate Change Act 2008 is an important piece of UK legislation that, on a five-yearly 
+cycle, requires the Government to compile an assessment of the risks for the UK arising 
+from climate change, and then to develop an adaptation programme to address those 
+risks and deliver resilience to climate change on the ground. The Act established the 
+Committee on Climate Change as an independent statutory body to advise the UK and 
+Devolved Governments on setting and meeting carbon budgets and preparing for climate 
+change. It also established the Adaptation Sub-Committee of the Committee on Climate 
+Change specifically to provide advice on climate change risks and opportunities and to 
+report regularly on UK progress on adaptation.
+
+In accordance with the requirements of the Act, we present here the Government’s 
+second assessment of the risks and opportunities for the UK of the current and predicted 
+impact of climate change, which follows on from the first report published in 2012. It draws 
+primarily on an independent Evidence Report commissioned from the Adaptation 
+Sub-Committee by the UK and the Devolved Governments.1 The Synthesis Report of the 
+Evidence Report sets out six urgent priorities for action over the next five years. In general, 
+the Government endorses the conclusions of the Adaptation Sub-Committee, with the 
+exception of some of those on food security.
+
+1 Committee on Climate Change (2016) UK Climate Change Risk Assessment 2017 Evidence Report can be 
+accessed at: www.theccc.org.uk/UK-climate-change-risk-assessment-2017/
+
+http://www.theccc.org.uk/UK-climate-change-risk-assessment-2017/
+
+
+
+
+4 UK Climate Change Risk Assessment 2017
+
+We are very grateful to all of those who contributed so generously of their time and 
+expertise to the production of the UK Climate Change Risk Assessment 2017 Evidence 
+Report. Hundreds of leading scientists participated as authors and reviewers, drawing on 
+a wealth of research from the UK’s world-leading academic institutes as well as a range of 
+other expert sources. Consistent with our commitment to open data, all the underpinning 
+evidence has been published by the Committee on Climate Change, to ensure that 
+government, businesses and other stakeholders have the information they need to 
+take action.
+
+Our statutory commitments under the Climate Change Act 2008 are unaffected by the 
+decision to leave the EU. Leaving the EU offers a unique opportunity to shape our 
+environment and economy for the benefit of all and we will do this in a way that provides 
+as much support as possible to the environment’s natural resilience and adaptability, as 
+well as recognising its potential role in letting us make changes to our infrastructure and 
+ways of working to cope with the impacts of climate change.
+
+
+
+
+ 1. Introduction 5
+
+1. Introduction
+
+This report fulfils the requirement of the Climate Change Act 2008 for the Government to 
+lay before Parliament a five-yearly assessment of the risks for the UK of the current and 
+predicted impacts of climate change.
+
+The purpose of this second UK Climate Change Risk Assessment report to Parliament is 
+to outline the UK and Devolved Governments’ views on the key climate change risks and 
+opportunities that the UK faces today. These views have been informed primarily by an 
+independent assessment of the available evidence on climate risks and opportunities, 
+which was commissioned by the UK and Devolved Governments from the Adaptation 
+Sub-Committee of the Committee on Climate Change. The Adaptation Sub-Committee’s 
+UK Climate Change Risk Assessment 2017 Evidence Report sets out six priority areas 
+needing urgent further action over the next five years. The next two sections of this report 
+provide the UK and Devolved Governments’ views on each of those six urgent priority 
+areas. Further action to address these risks will be considered as we develop the next 
+National Adaptation Programme, covering England and non-devolved matters, and due 
+to be published in 2018. The Devolved Governments each have their own policy and 
+implementation framework and these are set out in Section 3 along with their views on the 
+specific risks that affect them.
+
+In general, the UK Government and the Devolved Governments endorse the conclusions 
+of the Evidence Report prepared by the Adaptation Sub-Committee, with the exception of 
+some of the conclusions on food security.
+
+1.1 Legislative framework on climate change
+
+The Climate Change Act 2008 provides a legally binding framework to cut UK 
+greenhouse gas emissions and a framework for building the UK’s ability to adapt to the 
+changing climate.
+
+In terms of adaptation, the Act requires:
+
+• A UK-wide assessment of the risks and opportunities for the UK arising from climate 
+change. This must take place every five years; the first assessment (UK Climate 
+Change Risk Assessment: Government Report) was published in January 2012.
+
+• A programme for adaptation to climate change to address the identified risks so as 
+to deliver resilience to climate change on the ground. This must be put in place and 
+reviewed every five years, and must set out the UK Government’s objectives, 
+proposals and policies for responding to the risks identified in the Risk Assessment. 
+The first National Adaptation Programme: Making the country resilient to a changing 
+
+
+
+
+6 UK Climate Change Risk Assessment 2017
+
+climate, covering England and devolved matters, was published in 2013 and many of 
+the actions are ongoing.
+
+• Adaptation Reporting Powers (not applicable in Northern Ireland) which enable the 
+Secretary of State to direct ‘reporting authorities’ to prepare climate change 
+adaptation reports. A second round of reporting has taken place, with around 
+80 organisations submitting voluntary reports during 2016.
+
+The Climate Change Act 2008 also established the Adaptation Sub-Committee of the 
+Committee on Climate Change. Its role is to provide independent advice on the 
+preparation of the UK Climate Change Risk Assessment, to report to Parliament on the 
+UK Government’s progress in the implementation of the National Adaptation Programme 
+and to provide advice to the Devolved Governments, as required.
+
+1.2 The UK Climate Change Risk Assessment 2017 Evidence Report
+
+To underpin both the first and second UK Climate Change Risk Assessments, the 
+Government commissioned independent expert studies of the available evidence.
+
+The Evidence Report underpinning the Government’s first report in 2012 was produced 
+by a consortium funded by the Department for Environment, Food and Rural Affairs 
+(Defra) and the Devolved Governments. It provided a benchmark assessment of the risks 
+and opportunities of climate change to the UK.
+
+The UK Climate Change Risk Assessment 2017 Evidence Report was commissioned from 
+the Adaptation Sub-Committee, which was asked to address the following question:
+
+‘Based on the latest understanding of current, and future, climate risks/opportunities, 
+vulnerability and adaptation, what should the priorities be for the next UK National 
+Adaptation Programme and adaptation programmes of the devolved administrations?’
+
+In order to assess climate risks in a consistent way, and to facilitate action being focused 
+on the most pressing risks, the Adaptation Sub-Committee took a three-step approach to 
+assess the urgency of additional action for each climate risk and opportunity:
+
+• considering the magnitude of the risk now and in the future
+• taking into account policies and adaptation plans already in place to manage the risks
+• considering the potential benefits of further action.
+
+Figure 1 sets out the four ‘urgency categories’ used to assess each of the 56 individual 
+climate risks and opportunities considered by the Adaptation Sub-Committee. A full 
+description of the method for assigning urgency scores can be found in Chapter 2 of the 
+Evidence Report.
+
+
+
+
+ 1. Introduction 7
+
+Figure 1: Urgency categories used in the UK Climate Change Risk Assessment 
+2017 Evidence Report
+
+MORE 
+ACTION 
+NEEDED
+
+New, stronger or di�erent government policies or implementation 
+activities – over and above those already planned – are needed in the 
+next �ve years to reduce long-term vulnerability to climate change.
+
+RESEARCH 
+PRIORITY 
+
+Research is needed to �ll signi�cant evidence gaps or reduce the 
+uncertainty in the current level of understanding in order to assess 
+the need for additional action.
+
+SUSTAIN 
+CURRENT 
+ACTION
+
+Current or planned levels of activity are appropriate, but continued 
+implementation of these policies or plans is needed to ensure that 
+the risk continues to be managed in the future. This includes any 
+existing plans to increase or change the current level of activity.
+
+WATCHING 
+BRIEF
+
+The evidence in these areas should be kept under review, with 
+long-term monitoring of risk levels and adaptation activity so that 
+further action can be taken if necessary.
+
+MORE 
+URGENT
+
+LESS 
+URGENT
+
+Source: Committee on Climate Change (2016) UK Climate Change Risk Assessment 2017 Synthesis Report,  
+www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+The UK Climate Change Risk Assessment 2017 Evidence Report also goes further than 
+the first in considering international climate risks that could have consequences for the 
+UK, as well as the interdependencies between the various climate risks.
+
+The Adaptation Sub-Committee’s full Evidence Report comprises an overarching 
+Synthesis Report, which summarises the conclusions of eight technical chapters and 
+highlights six groups of priority risks where additional action is recommended in the next 
+five years (Figure 2). The six priority risk areas encompass most of the individual risks that 
+are identified as needing ‘more action’ in the underpinning technical chapters. The full list 
+of risks and their assigned urgency scorings is provided in Figure 3.
+
+http://www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+
+
+
+8 UK Climate Change Risk Assessment 2017
+
+Figure 2: The Adaptation Sub-Committee’s assessment of the top six areas of 
+inter-related climate change risks for the UK
+
+FUTURE RISK MAGNITUDE HIGH MEDIUM LOW NOW 
+
+New and emerging  pests and diseases, and invasive non-native species, 
+a�ecting people, plants and anmals (Ch3, Ch5, Ch7)
+
+Risks to natural capital, including terrestrial, coastal, marine and 
+freshwater ecosystems, soils and biodiversity (Ch3)
+
+Risks to health, well-being and productivity from high temperatures 
+(Ch5, Ch6) 
+
+Risk of shortages in the public water supply, and for agriculture, 
+energy generation and industry (Ch3, Ch4, Ch5, Ch6)
+
+Risks to domestic and international food production and trade 
+(Ch3, Ch6, Ch7)  
+
+Flooding and coastal change risks to communities, businesses 
+and infrastructure (Ch3, Ch4, Ch5, Ch6)
+
+MORE 
+ACTION 
+NEEDED 
+
+RESEARCH 
+PRIORITY 
+
+Note: The individual risks that make up these six risk areas may score differently in the Evidence Report, but 
+contribute to the overall urgency assessment of that group of risks. Future magnitude is based on a combination of 
+climate change and other drivers of risk (eg demographic change), taking into account how current adaptation 
+policies and plans across the UK are likely to reduce risks.
+
+Source: Committee on Climate Change (2016) UK Climate Change Risk Assessment 2017 Synthesis Report,  
+www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+http://www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+
+
+
+ 1. Introduction 9
+
+Figure 3: Urgency scores for each of the 56 individual risks and opportunities 
+identified in the UK Climate Change Risk Assessment 2017 Evidence Report
+
+Chapter 7: International dimensions 
+
+Chapter 6: Business and industry 
+
+Chapter 5: People and the built environment 
+
+Chapter 4: Infrastructure 
+
+Chapter 3: Natural environment and natural assets 
+
+KEY TO CHAPTERS: 
+
+MORE ACTION NEEDED RESEARCH PRIORITY SUSTAIN CURRENT ACTION WATCHING BRIEF 
+
+Ne4: Risks to soils from increased 
+seasonal aridity and wetness  
+
+PB1: Risks to public health and 
+wellbeing from high temperatures 
+
+In3: Risks to infrastructure from 
+coastal �ooding & erosion   
+
+In2: Risks to infrastructure from 
+river, surface/groundwater �ooding 
+
+In4: Risks of sewer �ooding due 
+to heavy rainfall   
+
+In6: Risks to transport networks 
+from embankment failure  
+
+In9: Risks to public water supplies 
+from drought and low river �ows 
+
+In1: Risks of cascading 
+infrastructure failures across 
+interdependent networks  
+
+Ne1: Risks to species and habitats 
+from changing climate space  
+
+Ne5: Risks to natural carbon 
+stores & carbon sequestration  
+
+Ne6: Risks to agriculture & wildlife 
+from water scarcity & �ooding  
+
+Ne8: Risks of land management 
+practices exacerbating �ood risk 
+
+Ne12: Risks to habitats & heritage 
+in the coastal zone from sea level 
+rise; loss of natural �ood protection  
+
+Ne2: Opportunities from new 
+species colonisations 
+
+It1: Weather-related shocks to 
+global food production and trade  
+
+It4: Risks from climate-related 
+international human displacement  
+
+Bu1: Risks to business sites from 
+�ooding 
+
+PB4: Potential bene�ts to health 
+& wellbeing from reduced cold 
+
+PB5: Risks to people, communities 
+& buildings from �ooding  
+
+PB9: Risks to health and social care 
+delivery from extreme weather  
+
+
+ 
+
+In5: Risks to bridges and pipelines 
+from high river �ows/erosion   
+
+In11: Risks to energy, transport & 
+ICT from high winds & lightning  
+
+In12: Risks to o�shore 
+infrastructure from storms and 
+high waves  
+
+Ne3: Changes in suitability of 
+land for agriculture & forests  
+
+Ne7: Risks to freshwater species 
+from high water temperatures  
+
+Ne13: Ocean acidi�cation & 
+higher water temperature risks 
+for marine species, �sheries and 
+marine heritage   
+
+
+ 
+
+It2: Imported food safety risks 
+
+It3: Long-term changes in global 
+food production 
+
+It5: Risks to the UK from 
+international violent con�ict
+
+It6: Risks to international law and 
+governance 
+
+Bu2: Risks to business from loss of 
+coastal locations & infrastructure 
+
+Bu5: Employee productivity 
+impacts in heatwaves and from 
+severe weather infrastructure 
+disruption 
+
+PB2: Risks to passengers from high 
+temperatures on public transport  
+
+PB6: Risks to viability of coastal 
+communities from sea level rise  
+
+PB7: Risks to building fabric from 
+moisture, wind, and driving rain  
+
+PB8: Risks to culturally valued 
+structures and historic 
+environment 
+
+PB10: Risks to health from 
+changes in air quality 
+
+PB11: Risks to health from 
+vector-borne pathogens 
+
+Ne9: Risks to agriculture, forestry, 
+landscapes & wildlife from 
+pests/pathogens/invasive species  
+
+It7: Opportunities from changes 
+in international trade routes 
+
+Bu3: Risks to business operations 
+from water scarcity 
+
+Bu4: Risks to business from 
+reduced access to capital 
+
+Bu7: Business risks /opportuni-
+ties from changing demand for 
+goods & services 
+
+Bu6: Risks to business from 
+disruption to supply chains 
+
+PB12: Risks of food-borne disease 
+cases and outbreaks 
+
+PB13: Risks to health from poor 
+water quality 
+
+PB14: Risk of household water 
+supply interruptions 
+
+In8: Subsidence risks to buried/ 
+surface infrastructure 
+
+In7: Low/high river�ow risks to 
+hydroelectric generation 
+
+In13: Extreme heat risks to rail, 
+road, ICT and energy infrastructure 
+
+In14: Bene�ts for infrastructure 
+from reduced extreme cold events 
+
+Ne10: Extreme weather/wild�re 
+risks to farming, forestry, wildlife 
+& heritage 
+
+Ne11: Saltwater intrusion risks to 
+aquifers, farmland & habitats 
+
+Ne14: Risks & opportunities from 
+changes in landscape character 
+
+In10: Risks to electricity 
+generation from drought and 
+low �ows
+
+PB3: Opportunities for increased 
+outdoor activity in warmer 
+weather 
+
+Note: Individual risks and opportunities are presented in the order they are discussed in the chapters of the 
+Evidence Report (not in priority order).
+
+Source: Committee on Climate Change (2016) UK Climate Change Risk Assessment 2017 Synthesis Report,  
+www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+http://www.theccc.org.uk/uk-climate-change-risk-assessment-2017/synthesis-report/
+
+
+
+
+10 UK Climate Change Risk Assessment 2017
+
+2. The UK Government’s assessment of priority 
+risks and opportunities
+
+The Government endorses the six priority areas identified by the Adaptation 
+Sub-Committee in the UK Climate Change Risk Assessment 2017 Evidence Report. 
+We agree with the urgency scores that have been assigned to each of the areas except 
+for some elements of the area relating to food production. In this section, we provide a 
+summary of each risk area and the Government’s general approach. Detailed responses 
+and actions will form the subject of the next National Adaptation Programme, due to be 
+published in 2018.
+
+Adapting to climate change is a government-wide issue with different departments leading 
+on different risks. Defra works across government and with other partners to fulfil the 
+requirements of the Climate Change Act 2008. Defra also leads on providing future UK 
+Climate Projections, an important resource used widely by government, business, local 
+government, civil society and communities to understand how the climate may change 
+over the rest of the century. Defra has commissioned the Met Office Hadley Centre 
+to produce an updated set of UK Climate Projections (UKCP18) in 2018 to ensure 
+that organisations continue to have access to the latest science to inform their 
+adaptation planning.
+
+The UK Climate Change Risk Assessment 2017 Evidence Report highlights that climate 
+risks will affect people differently, depending on their social, economic and cultural 
+environment. Low-income households are particularly susceptible to climate change 
+impacts, as these impacts disproportionally affect their resources. These groups also 
+have lower capacity and resources to adapt. Evaluation of climate risks and actions must 
+consider these distributional effects.
+
+The Green Book: Appraisal and Evaluation in Central Government2 was prepared by 
+HM Treasury to promote effective government investment and ensure it aligns with 
+government priorities and the expectations of the public. The guidance applies to all 
+government departments and sets out how the risks of climate change should be 
+considered in options appraisals whenever relevant, particularly for long-term planning 
+and infrastructure projects, regulatory and planning frameworks, contingency planning 
+and long-term policy frameworks. The guidance also states that an assessment should 
+take into account social and distributional impacts where they are likely to be significant 
+for particular groups in society. The Green Book is currently being updated, with a revised 
+edition due for publication in 2017.
+
+Below we address the six priority risk areas in turn.
+
+2 HM Treasury (2011) The Green Book: Appraisal and Evaluation in Central Government can be accessed at: 
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/220541/green_book_complete.pdf
+
+http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/220541/green_book_complete.pdf
+
+
+
+
+ 2. The UK Government’s assessment of priority risks and opportunities 11
+
+2.1 Flooding and coastal change risks to communities, businesses and 
+infrastructure (‘more action needed’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report presents compelling 
+evidence that climate change may lead to increases in heavy rainfall and significantly 
+increased risks from fluvial and surface flooding by mid-century. Rising sea levels may 
+further increase the risk of flooding and erosion along our coastline. The Evidence Report 
+recommends more ambitious approaches to adaptation, working with communities, 
+businesses and other partners to meet this challenge by:
+
+• ensuring there are long-term strategies in place to address projected risks to people, 
+communities and buildings
+
+• delivering more natural flood management and developing a more integrated 
+approach in high-risk catchments, especially where there are likely to be co-benefits 
+such as carbon storage, water quality and biodiversity benefits.
+
+The Government supports these recommendations. Managing flood risk is already a key 
+priority for the Government, and the report’s recommendations are broadly consistent 
+with our policies to intervene and invest effectively to manage flood risk. Our strategies are 
+most effective when government, communities, local authorities and the private sector 
+work together to ensure that we have a shared understanding of future risks and who is 
+best placed to manage them. Together we need to make use of the full suite of measures 
+and target them as effectively as we can, to make it less likely that flooding will occur and 
+to reduce the impact when it does.
+
+Our flood risk investment programme will drive down the overall risk of flooding and 
+coastal erosion to ensure that we will better protect over 300,000 homes from flooding by 
+2021. These investments are based on a well-developed national flood risk assessment 
+and long-term investment scenario modelling developed by the Environment Agency, 
+which already factors in climate change predictions and continually evolves to take 
+account of new climate change evidence and risks. The long-term investment scenario 
+modelling considers differing investment scenarios in the face of pressures such as 
+climate change and asset deterioration and takes into account total levels of investment, 
+not just government investment. The UK Climate Change Risk Assessment 2017 Evidence 
+Report recognises that current levels of investment are consistent with an optimal 
+investment strategy.
+
+The National Flood Resilience Review3 was published in September 2016 and sets out 
+actions to improve our readiness for flooding in the short term, to reduce the impacts and 
+the consequent costs and disruption to communities, businesses and our economy. This 
+includes working with infrastructure operators to improve the resilience of locally important 
+assets at risk of flooding. The review will also inform our consideration of long-term 
+investment needs and funding options.
+
+3 HM Government (2016) National Flood Resilience Review can be accessed at: www.gov.uk/government/
+publications/national-flood-resilience-review
+
+https://www.gov.uk/government/publications/national-flood-resilience-review
+https://www.gov.uk/government/publications/national-flood-resilience-review
+
+
+
+
+12 UK Climate Change Risk Assessment 2017
+
+We believe the installation of property-level resilience measures (those that prevent flood 
+water entering a property or that speed the recovery process if it does) can play an 
+important role in making people and their property less vulnerable to the physical and 
+mental impacts of flooding. In September 2016, we published Peter Bonfield’s Property 
+Flood Resilience Action Plan4 which was developed in collaboration with the commercial 
+sector with Government support. The Action Plan explores barriers to the use of flood 
+resilience measures and identifies how, collectively, business and government can 
+facilitate better uptake of such measures for residential and commercial properties at 
+high flood risk.
+
+We engage with and support local authorities in their responsibilities for managing local 
+flood risk. National planning policy on the provision of sustainable drainage systems in 
+developments has been strengthened. The Housing and Planning Act 2016 introduces a 
+new requirement for the Secretary of State to carry out a review of planning legislation 
+and planning policies for sustainable drainage in relation to the development of land 
+in England.
+
+Incorporating natural flood management measures is key to our approach and we 
+encourage such schemes as part of large capital projects. Natural flood management 
+demonstration projects, including at Pickering in Yorkshire and Holnicote in Somerset, 
+have demonstrated that these types of measures can be effective in helping to manage 
+flood risk at a catchment scale, slowing the flow of water and reducing local impacts when 
+carefully incorporated into a wider suite of catchment measures. In November 2016, we 
+announced £15 million specifically for natural flood management projects in England, 
+which will build the evidence base further.
+
+Increasingly, we are seeking to empower and enable local communities to understand 
+their risks and to develop catchment-based strategies. These integrate traditional, 
+innovative and natural flood management measures to provide multiple benefits. 
+An example of a local partnership approach is the Cumbria Flood Partnership. These 
+types of local partnerships will be further strengthened in the context of the 25 Year 
+Environment Plan.
+
+Looking ahead, we will continue to develop our longer-term strategies on investment, 
+providing local communities with the framework and tools they need to manage flood 
+risks effectively.
+
+2.2 Risks to health, well-being and productivity from high temperatures 
+(‘more action needed’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report shows that warming UK 
+temperatures, combined with demographic change, may lead to an increased risk of 
+overheating. It projects that the number of heat-related deaths in the UK could more than 
+
+4 P Bonfield and Defra (2016) Property Flood Resilience Action Plan can be accessed at: www.gov.uk/
+government/publications/improving-property-level-flood-resilience-bonfield-2016-action-plan
+
+https://www.gov.uk/government/publications/improving-property-level-flood-resilience-bonfield-2016-action-plan
+https://www.gov.uk/government/publications/improving-property-level-flood-resilience-bonfield-2016-action-plan
+
+
+
+
+ 2. The UK Government’s assessment of priority risks and opportunities 13
+
+double by the 2050s from a current baseline of around 2,000 per year. The Evidence 
+Report states that urgent action is needed in the next five years across a range of policy 
+areas to address overheating in homes and public buildings and to reduce the impacts of 
+the urban heat island effect through urban design and planning. Research is 
+recommended into the impacts of overheating on employee productivity.
+
+Research is also recommended into the influence of climate change on ground-level 
+ozone and other outdoor air pollutants (especially particulates), and how climate, 
+temperature and other factors (eg individual behaviour) affect indoor air quality.
+
+The Evidence Report also notes some potential opportunities associated with higher 
+temperatures. Outdoor activities may become more attractive, with perhaps an increase 
+in active transport, such as cycling, and walking leading to benefits for health and 
+well-being, as well as climate change mitigation from reductions in car use. However, 
+these benefits need to be set against the potential for greater exposure to the risks from 
+sunlight, ultraviolet radiation and air pollution. Warmer winters could also lead to fewer 
+cold-related deaths, which currently account for a greater number of excess deaths than 
+periods of very hot weather.
+
+The Government recognises the importance of reducing the risks and impacts of 
+overheating. Overheating is a complex issue that cuts across a number of policy areas, 
+including health, planning, transport, energy and environment. Responsibility for different 
+aspects of planning, commissioning and funding improvements is shared across a range 
+of organisations. Government departments and public and private entities are working 
+together to deliver improvements in these areas.
+
+A number of different policies and plans will affect how risks to health, well-being and high 
+temperatures can be managed in future. For example, Public Health England publishes 
+the Heatwave Plan for England to manage risks to public health. This document is 
+recognised in the Evidence Report as a key component of emergency planning that 
+provides advice for professionals, organisations and individuals to enable them to plan for 
+and respond to hot weather. An independent evaluation of the Heatwave Plan is under 
+way. In May 2016, Public Health England also published a new poster and leaflet to 
+support the public to stay safe in hot weather, and a checklist for identifying and 
+managing high indoor temperatures in homes. A checklist specifically for care home staff 
+is under development.
+
+Looking forward, we will consider where additional policy interventions are necessary to 
+address overheating risks as part of the National Adaptation Programme. For example, 
+the Government is commissioning research into how overheating risks can be identified 
+and mitigated. In the first instance, this will focus on new housing developments in 
+England, building on work undertaken by the former Zero Carbon Hub. We will also 
+explore whether there are better methods for understanding overheating risks in hospitals.
+
+
+
+
+14 UK Climate Change Risk Assessment 2017
+
+2.3 Risks of shortages in the public water supply, and for agriculture, 
+energy generation and industry, with impacts on freshwater ecology 
+(‘more action needed’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report sets out how climate 
+change combined with population growth may put greater pressure on water availability. 
+By the 2050s, many catchments across the UK will need to manage water deficits and 
+competing demands for water for public supply, industry, agriculture and the environment. 
+The Evidence Report recognises that the policy framework for managing these long-term 
+risks exists. It recommends continued action in the next five years that is flexible enough 
+to take account of the high degree of uncertainty about future projections of seasonal 
+rainfall and therefore the frequency and intensity of water shortages and drought.
+
+The Government is committed to more action on these risks and recently published 
+Creating a great place for living: Enabling resilience in the water sector,5 a roadmap setting 
+out how we will enhance our policy framework to secure the long-term resilience of the 
+water sector. The roadmap covers a wide range of areas, including the long-term 
+challenge to the public water supply and other water users from the greater extremes in 
+weather that are expected.
+
+We have also issued guidance to water companies that their next round of water resource 
+management plans should take a long-term, strategic approach to protecting and 
+enhancing resilient water supplies. Water companies are required to embed climate 
+change impacts as well as population and economic growth in their long-term plans, so 
+as to ensure that they are fully able to meet future water demand/supply balances. As a 
+result, there is already a well-recognised need for future investment in both demand-side 
+and supply-side measures to mitigate the risks from climate change. In turn, these actions 
+will help create a freshwater environment capable of supporting the biodiversity it contains 
+and the ecosystem services it provides.
+
+We are aware that the current water abstraction system (set up in the 1960s) is not flexible 
+or modern enough to respond to pressures on the environment, farm and other business 
+requirements, and the needs of our public water supply. We are therefore committed to 
+reform the system by the early 2020s to create a better, fairer, more modern and flexible 
+approach that will support business resilience, investment and growth, and manage the 
+pressures of a growing population and climate change.
+
+Reform includes many elements that will lead to better protection of the environment and 
+that will be adaptive over time. For example:
+
+• we will ensure that all abstractors are proportionately controlled at low flows to protect 
+the environment, while recognising essential water users
+
+5 Defra (2016) Creating a great place for living: Enabling resilience in the water sector can be accessed at:  
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/504681/resilience-water-sector.pdf
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/504681/resilience-water-sector.pdf
+
+
+
+
+ 2. The UK Government’s assessment of priority risks and opportunities 15
+
+• all abstraction conditions on permits will be reviewable when there is evidence of 
+environmental risk being caused by abstraction.
+
+2.4 Risks to natural capital, including terrestrial, coastal, marine and 
+freshwater ecosystems, soils and biodiversity (‘more action needed’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report identifies significant 
+threats to our natural capital and the goods and services it provides, from timber, food 
+and clean water to pollination, carbon storage and the cultural benefits of landscapes 
+and wildlife. The Evidence Report shows that direct impacts on the distribution of UK 
+biodiversity and the composition of terrestrial, coastal, marine and freshwater ecosystems 
+are already being observed. There is clear evidence of northwards shifts in species 
+distributions and the timing of seasonal events due to climate change.
+
+The Evidence Report highlights important links between climate change impacts on 
+natural capital and the other risk areas. For example, the natural environment plays an 
+integral role in the quality and availability of our water and on the magnitude of flood 
+events. It provides the backdrop to the movement of pests and diseases, and can play 
+a role in addressing overheating through urban trees and green spaces.
+
+The report also identifies potential opportunities for agriculture and forestry in the form of 
+extended growing seasons, increased productivity and new crop varieties that would have 
+potential benefits for domestic food production. In order for these opportunities to be 
+realised, however, action is needed to manage the negative impacts from reduced soil 
+quality and water availability and the increase in flooding and pests and diseases.
+
+The Evidence Report concludes that, while good progress is being made, strengthened 
+action is needed over the next five years to reduce existing pressures on the environment. 
+More flexible and integrated approaches to managing natural capital need to be adopted 
+and priority research undertaken into the changing suitability of land for different uses and 
+the climate risks to marine ecosystems.
+
+The Government supports the Evidence Report’s conclusions. Various policies are 
+already in place to address climate risks to natural capital. For example, increased efforts 
+to restore the hydrology of wetland habitats are under way as part of Countryside 
+Stewardship, and the Forestry Commission is working to protect, improve and expand 
+woodlands on the Public Forest Estate. We also note potential areas for improvement, for 
+example better use of policy levers such as the successor to the EU Common 
+Agricultural Policy.
+
+The Government recognises that reducing other pressures is a priority for increasing the 
+resilience of our natural capital to climate change. We have already made good progress 
+in restoring Sites of Special Scientific Interest to ‘favourable’ or ‘recovering’ condition, in 
+making land available for the creation of priority habitat and in establishing Marine 
+Protected Areas. Alongside reducing pressures, we also recognise the other clear 
+message of the report – that we need to accommodate change, such as through coastal 
+
+
+
+
+16 UK Climate Change Risk Assessment 2017
+
+realignment and ensuring sufficiently good habitat condition and connectivity to allow 
+species to migrate with the climate.
+
+Following the decision to leave the EU, we are undertaking a fundamental review of our 
+whole environmental policy framework. This will support our 25 Year Environment Plan, 
+which will have natural capital considerations at its heart and will be informed by the 
+findings of the UK Climate Change Risk Assessment 2017. It will also be informed by the 
+work of the Natural Capital Committee, which is working closely with the Adaptation 
+Sub-Committee.
+
+2.5 Risks to domestic and international food production and trade 
+(‘more action needed’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report sets out how extreme 
+weather can affect international food production, trade and supply chains. Longer-term 
+incremental changes in climate will affect agricultural productivity in regions that are 
+important for food production. At the same time, climate change will present risks and 
+opportunities for domestic production, with the resilience of UK food systems dependent 
+on the stewardship of natural resources including soils and responses to international 
+markets. The Evidence Report concludes that there is a need for policy intervention over 
+the next five years to manage the potential impacts of these risks on food prices in the UK.
+
+The Government recognises that climate change will present significant risks to the 
+availability and supply of food in the UK. Food supply has been identified as one of the 
+13 UK Critical National Infrastructure sectors and we work closely with industry to ensure 
+the security and resilience of supply. The resilience of food supply chains is regularly 
+tested by severe weather and other events, and consistently performs well. The Evidence 
+Report’s recommendation that new policy is needed to manage risks to UK food prices 
+therefore does not align with the findings from our own research, including that carried 
+out for the UK Food Security Assessment in 2009 and reviewed in 2012. The 
+Government takes a more optimistic view of the levels of resilience that are achieved 
+through functioning markets and diverse sources of supply.
+
+The Government recognises that UK food security is built on access to a wide variety of 
+markets, including through a rules-based world trading system operating alongside food 
+production in the UK. When the UK held the chair of the G20 Agricultural Markets 
+Information Systems (AMIS) in 2014/15, we agreed a protocol with key partner countries 
+to improve the response to price spikes. We will continue to support this initiative by 
+improving transparency and accountability and introducing robust evaluation of 
+the protocol.
+
+We agree with the Adaptation Sub-Committee that food production and security is a 
+clear research priority. The Government has already carried out research into the risks to 
+food supply from extreme weather events, including the potential impacts of tidal flooding 
+on supply chains through seaports and the energy dependency of food chains. Looking 
+forward, Research Council funding, together with our Centres for Agricultural Innovation, 
+
+
+
+
+ 2. The UK Government’s assessment of priority risks and opportunities 17
+
+will help to improve understanding of the risks to the resilience of our food system. We 
+will be reviewing the UK Food Security Assessment during the course of this Parliament, 
+and are currently scoping the priority areas on which to concentrate.
+
+2.6 New and emerging pests and diseases, and invasive non-native 
+species, affecting people, plants and animals (‘research priority’)
+
+The UK Climate Change Risk Assessment 2017 Evidence Report describes how new and 
+emerging pests and diseases – including invasive non-native species – have the potential 
+to cause severe impacts on people, animals and plants. It concludes that there is an 
+urgent need for research in the next five years to improve our understanding of how 
+climate change will affect the threat of pests and diseases and the best approaches to 
+monitor, detect and manage outbreaks and develop resilience to disease (eg through 
+developing new crop varieties and breeding techniques). It finds that the evidence is not 
+yet clear as to what extent surveillance is effective in identifying risks, or whether 
+resources are prioritised towards those vectors and pathogens that pose the biggest 
+challenge in the changing climate. Research is also needed to improve the evidence about 
+the impact of endemic diseases in a changing environment.
+
+The Government supports the conclusions of the Evidence Report and is already 
+undertaking investigations into the impacts of climate change on plant health and the 
+potential for climate change to increase the risk from pests. This work will lead to 
+improvements in our risk assessments to ensure that we target the pests and diseases 
+that pose the greatest risks. The UK Plant Health Risk Register, accessible through the 
+new UK Plant Health Information Portal,6 compares risks posed by different plant pests 
+and pathogens and prioritises actions. We carry out collaborative horizon-scanning and 
+information-sharing activities with international organisations, such as the European and 
+Mediterranean Plant Protection Organisation, to provide early warning of new pest threats.
+
+The UK has a proven system in place for monitoring international disease threats to 
+human and animal health. As an example, Public Health England undertakes invasive 
+mosquito surveillance with 30 seaports and airports and at key goods importers and 
+motorway service stations leading away from ports of entry in south-east England. We 
+work collaboratively with industry to assess and manage pest risk, as demonstrated by 
+our work on Bluetongue disease and the Schmallenberg virus. We also produce an 
+international forward look to improve forecasting of outbreaks by seeking to identify links 
+between meteorological data and geophysical impacts, and public and animal 
+health threats.
+
+Horizon-scanning is also carried out for new invasive non-native species likely to pose 
+a significant risk if they arrive in the UK. These threats are formal assessments using 
+a comprehensive risk framework that takes climate change into account.
+
+6 The UK Plant Health Information Portal can be accessed at: https://planthealthportal.defra.gov.uk/
+
+https://planthealthportal.defra.gov.uk/
+
+
+
+
+18 UK Climate Change Risk Assessment 2017
+
+3. Assessment of priority risks and 
+opportunities for the Devolved Governments
+
+The risks and opportunities from climate change will vary across the UK because of 
+geography and the policy frameworks that exist in the different countries. In addition to 
+summarising the priorities for the UK, the UK Climate Change Risk Assessment 2017 
+Evidence Report identifies the priorities for each of the countries in the UK in separate 
+national summaries.7 These are based on the UK-wide assessment, but take account of 
+the particular risks to each country and where urgent action is required. In this section, we 
+describe the risks that are considered priorities for Scotland, Wales and Northern Ireland 
+and the general approach being taken by the Devolved Governments to manage these.
+
+3.1 Scotland
+
+The Scottish Government will use and build on the assessment of the key areas of risk set 
+out in the UK Climate Change Risk Assessment 2017 Evidence Report national summary 
+for Scotland as it moves forward with implementing its Adaptation Programme. In most 
+risk areas, the assessment for Scotland reflects similar issues elsewhere in the UK. 
+Particular Scottish issues include:
+
+Risk to species and habitats from the changing climate More action 
+neededRisks to soils and natural carbon stores
+
+Risks to people, communities and buildings from flooding
+
+Research 
+priority
+
+Risks to coastal areas from sea-level rise combined with extreme weather
+
+Risks to marine species from ocean changes
+
+Risks to health and well-being
+
+Scotland has its own climate change legislation: the Climate Change (Scotland) Act 2009. 
+Scotland’s Climate Change Adaptation Framework (2009) was replaced by Scotland’s first 
+statutory Adaptation Programme in May 2014 (Climate Ready Scotland: Scottish Climate 
+Change Adaptation Programme). Two annual reports on the Adaptation Programme were 
+published by the Scottish Government in May 2015 and May 2016. The UK Climate 
+Change Risk Assessment 2017 Evidence Report national summary for Scotland was 
+published in July 2016 and the first independent assessment of progress under 
+
+7 The UK Climate Change Risk Assessment 2017 Evidence Report national summaries can be accessed at: 
+www.theccc.org.uk/uk-climate-change-risk-assessment-2017/national-summaries/
+
+https://www.theccc.org.uk/uk-climate-change-risk-assessment-2017/national-summaries/
+
+
+
+
+ 3. Assessment of priority risks and opportunities for the Devolved Governments 19
+
+Scotland’s Adaptation Programme,8 commissioned by the Scottish Government under 
+the 2009 Act, was published by the Adaptation Sub-Committee in September 2016.
+
+The Scottish Government has been developing and improving its adaptation response, for 
+example with new indicators and reporting duties on public bodies and the new National 
+Centre for Resilience. The Scottish Government will continue to develop its approach 
+based on the evidence, advice and recommendations of the Adaptation Sub-Committee, 
+both in the next annual report on the Scottish Climate Change Adaptation Programme (to 
+be published in May 2017) and the next Adaptation Programme (to be published in 2019).
+
+3.2 Wales
+
+The Welsh Government endorses the conclusions of the UK Climate Change Risk 
+Assessment 2017 Evidence Report national summary for Wales. Some 49 risks and 
+opportunities have been identified, with the most important risks to Wales summarised 
+as follows:
+
+Risks to infrastructure (from all sources of flooding)
+
+More action 
+needed
+
+Risk to public water supplies from drought and low flows
+
+Risks from some land management practices exacerbating flood risk
+
+Risks to ecosystems and agriculture businesses from changes in climatic 
+conditions
+
+Risks to communities from all sources of flooding and sea-level rise
+
+Research 
+priority
+
+Risks to infrastructure, business and buildings from high river flows, 
+erosion and extreme weather
+
+Risks and opportunities from changes to agriculture and forestry 
+productivity
+
+Risks to people’s health and well-being and associated service delivery 
+from high temperatures, flooding and extreme weather
+
+The Welsh Government’s actions on climate change adaptation are described in the 
+Climate Change Strategy for Wales: Adaptation Delivery Plan (2010). The actions in this 
+plan will be reviewed in light of the new evidence, with a view to publishing a new delivery 
+plan in 2018. The Welsh Government will work with the UK and other Devolved 
+Governments where there is common interest, and will be engaging the academic 
+community for support in addressing research priorities.
+
+8 Scottish Climate Change Adaptation Programme: An independent assessment can be accessed at:  
+www.theccc.org.uk/publication/scottish-climate-change-adaptation-programme-an-independent-
+assessment-for-the-scottish-parliament/
+
+http://www.theccc.org.uk/publication/scottish-climate-change-adaptation-programme-an-independent-assessment-for-the-scottish-parliament/
+http://www.theccc.org.uk/publication/scottish-climate-change-adaptation-programme-an-independent-assessment-for-the-scottish-parliament/
+
+
+
+
+20 UK Climate Change Risk Assessment 2017
+
+At a local level, there are statutory requirements under the Well-being of Future 
+Generations (Wales) Act 2015 for Public Services Boards in Wales to reference the 
+UK Climate Change Risk Assessment when assessing well-being in their area.
+
+3.3 Northern Ireland
+
+Due to geographical differences and variation in the projected changes to the Northern 
+Ireland climate, the priority risks identified in the UK Climate Change Risk Assessment 
+2017 Evidence Report national summary for Northern Ireland are not all the same as those 
+identified for the UK more generally.
+
+The national summary for Northern Ireland identifies a number of areas where stronger 
+action and further research are needed in the next five years, and these are summarised 
+below. These findings and recommendations and the categorisation of the risks have 
+been adopted by executive departments as a basis for adaptation planning. There are no 
+areas of dispute or issues within the summary that are contentious.
+
+Risks to soils, farming, natural carbon stores, species and coastal 
+habitats
+
+More action 
+needed
+
+Flooding risk to (interdependent) infrastructure (sewers, transport 
+networks)
+
+Potential benefits to people from reduced cold
+
+Risks to international food production and trade
+
+Changes in agricultural and forestry productivity and land suitability and 
+impacts on freshwater and marine ecosystems
+
+Research 
+priority
+
+Risks to infrastructure services from coastal flooding and erosion
+
+Risks to people from high temperatures, changes in air quality, health 
+and social care delivery and vector-borne pathogens
+
+Risks to communities and businesses from flooding
+
+Risks to business from reduced employee productivity due to 
+infrastructure disruption and higher temperatures
+
+Risks to historic environment and buildings
+
+Risks and opportunities in global food production
+
+Detailed responses and actions to the findings and recommendations in the Northern 
+Ireland summary will contribute to the development of the second Northern Ireland 
+Climate Change Adaptation Programme, to be published in 2019.
+
+
+
+
+ 4. Next steps 21
+
+4. Next steps
+
+The first National Adaptation Programme, published in 2013, sets out over 370 actions for 
+the UK Government, businesses, councils, civil society and academia to address the 
+findings of the first UK Climate Change Risk Assessment: Government Report and to build 
+the nation’s resilience to climate change. The most recent review of the National 
+Adaptation Programme9 by the Adaptation Sub-Committee in 2015 found that 109 of the 
+actions have been completed and 215 are on track. We continue to monitor progress and 
+the Adaptation Sub-Committee will issue its next report on progress in summer 2017.
+
+Adaptation to climate change is an integral part of policy across all levels of the UK 
+Government. Defra has its own significant interest, tackling some of the highest priority 
+risks such as those relating to flooding, water security, food production, environment and 
+biodiversity. Other departments, such as the Department for Communities and Local 
+Government, the Department for Business, Energy and Industrial Strategy and the 
+Department of Health, are working together to address risks to health, well-being and 
+productivity due to increasing temperatures.
+
+The second National Adaptation Programme will respond to the risks set out in this UK 
+Climate Change Risk Assessment and is due to be published in 2018. In developing the 
+programme, we will continue to work with business and industry, identifying where UK 
+Government action can support their resilience and how they themselves can take 
+adaptation forwards.
+
+9 Committee on Climate Change (2015) Progress in preparing for climate change: 2015 Report to Parliament 
+can be accessed at: www.theccc.org.uk/wp-content/uploads/2015/06/6.736_CCC_ASC_Adaptation-
+Progress-Report_2015_FINAL_WEB_070715_RFS.pdf
+
+https://www.theccc.org.uk/wp-content/uploads/2015/06/6.736_CCC_ASC_Adaptation-Progress-Report_2015_FINAL_WEB_070715_RFS.pdf
+https://www.theccc.org.uk/wp-content/uploads/2015/06/6.736_CCC_ASC_Adaptation-Progress-Report_2015_FINAL_WEB_070715_RFS.pdf
+
+
+
+
+	UK Climate Change Risk Assessment 2017
+	Contents
+	Executive summary
+	1. Introduction
+	1.1	Legislative framework on climate change
+	1.2	The UK Climate Change Risk Assessment 2017 Evidence Report
+
+	2. The UK Government’s assessment of priority risks and opportunities
+	2.1	Flooding and coastal change risks to communities, businesses and infrastructure (‘more action needed’)
+	2.2	Risks to health, well-being and productivity from high temperatures (‘more action needed’)
+	2.3	Risks of shortages in the public water supply, and for agriculture, energy generation and industry, with impacts on freshwater ecology (‘more action needed’)
+	2.4	Risks to natural capital, including terrestrial, coastal, marine and freshwater ecosystems, soils and biodiversity (‘more action needed’)
+	2.5	Risks to domestic and international food production and trade (‘more action needed’)
+	2.6	New and emerging pests and diseases, and invasive non-native species, affecting people, plants and animals (‘research priority’)
+
+	3. Assessment of priority risks and opportunities for the Devolved Governments
+	3.1	Scotland
+	3.2	Wales
+	3.3	Northern Ireland
+
+	4. Next steps
+
+
+
+

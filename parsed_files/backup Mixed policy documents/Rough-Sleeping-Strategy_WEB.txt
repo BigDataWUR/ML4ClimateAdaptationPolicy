@@ -1,0 +1,5426 @@
+
+
+
+
+Rough Sleeping Strategy August 2018
+
+
+
+
+
+Rough Sleeping Strategy
+Presented to Parliament by the Secretary of State for Housing,  
+
+Communities and Local Government by Command of Her Majesty
+
+August 2018
+
+CM 9685
+
+
+
+
+© Crown copyright 2018
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where 
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/
+version/3  
+
+Where we have identified any third party copyright information you will need to obtain permission  
+from the copyright holders concerned.
+
+This publication is available at www.gov.uk/government/publications
+
+Any enquiries regarding this publication should be sent to us at:
+
+Ministry of Housing, Communities and Local Government 
+Fry Building 
+2 Marsham Street 
+London 
+SW1P 4DF 
+Telephone: 0303 444 0000
+
+ISBN 978-1-5286-0763-6 
+CCS0818273008  08/18
+
+Printed on paper containing 75% recycled fibre content minimum
+
+Printed in the UK by the APS Group on behalf of the Controller of Her Majesty’s Stationery Office
+
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3
+http://www.gov.uk/government/publications
+
+
+
+
+Ministerial Foreword
+
+We are fortunate 
+to live in one of the 
+most successful, 
+advanced and 
+fair-minded 
+countries in the 
+world. Yet, despite 
+this, too many 
+people still sleep 
+rough on our 
+
+streets on any given night in England. 
+
+The human cost of this, in broken lives too 
+often cut short, is unacceptable.  
+
+This is why this Government – in line with 
+our manifesto pledge – has made 
+addressing rough sleeping a priority. 
+
+We have committed to halve rough 
+sleeping in this Parliament and to end it for 
+good by 2027.
+
+One of my first actions as Secretary of State 
+was to award £28 million of funding to 
+Housing First, a very impressive 
+programme which tackles this issue.
+
+Central and local government must work 
+together to ensure everyone in our society 
+has the dignity and security they need.
+
+Our Strategy is based around three core 
+pillars: Prevention, Intervention and 
+Recovery. 
+
+The first, Prevention, is at the heart of our 
+approach, with the focus on providing 
+timely support before someone becomes 
+homeless. This, for example, will help us 
+make sure no one leaves prison without 
+suitable accommodation in place. 
+
+The second pillar, Intervention, sets out 
+how this Strategy will help people who are 
+already in crisis get swift, targeted support 
+to get them off the streets. 
+
+The third, Recovery, emphasises how we 
+will support people to find a new home 
+quickly and rebuild their lives via a new 
+rapid rehousing approach.
+
+We cannot underestimate just how vital 
+having your own front door is to 
+someone’s sense of security, hope and 
+recovery.
+
+Equally important is knowing there is help 
+on hand – through the new navigators that 
+we are funding – to guide rough sleepers 
+through support systems and get them the 
+help they need. 
+
+This vision builds on the significant 
+programme of work that is already 
+underway to address homelessness as a 
+whole: the introduction of the 
+Homelessness Reduction Act, more 
+funding and support for local authorities to 
+prevent homelessness and the launch of 
+the Rough Sleeping Initiative.
+
+As such, it is backed by a detailed 
+programme to help people in the short and 
+long term and also by £1.2 billion of 
+funding to tackle homelessness. 
+
+This includes £100 million of investment 
+over the next two years to tackle rough 
+sleeping. 
+
+In everything we do, we will be led by 
+evidence of what works and will provide 
+
+
+
+
+annual updates, as well as developing a 
+strategy to address wider homelessness. 
+
+We will ensure that we remain focused on 
+our goals: eradicating rough sleeping and 
+preventing homelessness, with all 
+government departments working 
+seamlessly together. 
+
+We know this is a complex issue, and we 
+have more work to do, for example, to 
+support non-UK nationals who sleep 
+rough. This is a conversation that will 
+continue. 
+
+Which is why are committed to keeping 
+this Strategy under review and continuing 
+to develop our approach to respond to the 
+challenges of homelessness, working in 
+close partnership across government, 
+frontline services, local authorities and the 
+sector.
+
+We all have a part to play and this Strategy 
+also calls on businesses, communities and 
+our wider society to come together and 
+help make rough sleeping history. 
+
+My thanks to everyone who has 
+contributed to it, particularly the Rough 
+Sleeping Advisory Panel, and the Rough 
+Sleeping and Homelessness Reduction 
+Taskforce.
+
+Ultimately, the real test of its success will be 
+on the ground; in not just putting a roof 
+over people’s heads but helping them find 
+and make a place really feel like home. 
+
+These people, some of the most vulnerable 
+in our society, deserve our full support. 
+
+This Strategy will see that they get it. 
+
+Rt Hon James Brokenshire MP,  
+Secretary of State for Housing, 
+Communities and Local Government
+
+
+
+
+Contents
+
+Executive Summary 8
+
+Chapter 1: The scale of the problem and why we need to act 12
+
+Chapter 2: The 2027 vision: Prevention, Intervention, Recovery 22
+
+Chapter 3: Prevention 28
+
+Chapter 4: Intervention 40
+
+Chapter 5: Recovery 54
+
+Chapter 6: Conclusion and next steps 64
+
+
+8 
+
+Executive Summary
+
+1. The government is committed to halving 
+rough sleeping by 2022 and ending it by 
+2027. Ending rough sleeping will require 
+central and local government, as well as 
+business, communities, faith and voluntary 
+groups and the general public to work 
+together in new ways. This strategy shows 
+the government doing exactly that, as we 
+announce a range of cross-government 
+initiatives which will see us working jointly in 
+new ways, for instance through new health 
+provision for people who sleep rough, and 
+work in prisons to prevent people from 
+sleeping rough in the first place. 
+
+2. This strategy sets out our 2027 vision to 
+support every person who sleeps rough off 
+the streets and into a home. This is backed 
+up by £100 million of funding in the next 
+two years but marks just the beginning of 
+our plans to meet our 2027 ambition, 
+when no one has to sleep rough again. 
+Rough sleeping is the most extreme form 
+of homelessness and it is therefore right we 
+take action to help people off the streets 
+now. However, we also recognise that we 
+need to look beyond rough sleeping to 
+ensure the entire system is working to 
+prevent all forms of homelessness. This can 
+be seen in our wider work, for instance we 
+have recently announced measures to 
+ensure the private rented sector delivers 
+secure, safe and affordable homes, which 
+includes proposals for longer, more secure 
+tenancies. 
+
+3. We have already been bold in our approach 
+to supporting homeless people by 
+implementing the landmark legislation, the 
+Homelessness Reduction Act. This Act 
+fundamentally changes the way local 
+authorities work to support homeless people 
+in their areas, giving them new prevention 
+responsibilities towards more people. 
+
+4. Previous governments have pledged to  
+
+end rough sleeping before. While they led 
+important work to reduce rough sleeping, 
+we are determined to go further and end it 
+by 2027 to ensure no one has to sleep rough 
+again. This means tackling the issue directly 
+by helping people on the streets now and 
+leading the changes needed across 
+government to stop rough sleeping from 
+occurring in the first place. This will not be 
+easy but it is vital if we are to deliver a 
+country which works for everyone.
+
+5. Ending rough sleeping starts with secure 
+and affordable housing. Successive 
+governments have not built enough homes 
+and the result is a broken housing market. 
+This government is committed to changing 
+this. Since 2010, we have delivered more 
+than a million homes, including 378,000 
+affordable homes and 273,000 homes for 
+rent. Last year saw the biggest increase in 
+overall housing supply in England for almost 
+a decade: over 217,000 new homes.
+
+6. We are investing £9 billion in affordable 
+housing, including a new generation of 
+council housing. We are giving £1 billion of 
+funding flexibility to help ambitious councils 
+borrow more to build more. We will publish 
+a Social Housing Green Paper which sets out 
+the vital role social housing plays in this 
+country and our plans to build the social 
+housing that is needed to help people get 
+on in life. 
+
+7. We also recognise the value of sufficient  
+and good quality supported housing. This  
+is why we have recently announced that  
+we are maintaining Housing Benefit for all 
+supported housing, and will work with the 
+sector on oversight of quality and value for 
+money. This reflects the particular needs of 
+the vulnerable groups of people who access 
+supported housing, and the government’s 
+commitment to get the best possible 
+outcomes for them.
+
+
+
+
+8. Our strategy builds on these policies and the 
+work of the Rough Sleeping Initiative which 
+we announced in March 2018. It is based on 
+the advice and evidence put forward by our 
+expert Advisory Panel and brings all of 
+government together to deliver a new 
+system built around three core pillars: 
+Prevention, Intervention and Recovery.  
+This is a system that has prevention at its 
+heart: it provides timely support to tackle 
+mental health and substance misuse issues, 
+it helps people leaving prison to find 
+sustainable accommodation, and it provides 
+people at risk of rough sleeping with the 
+right support to find work and live 
+independently. If people do find themselves 
+at a crisis point and lose their home, this 
+strategy sets out how they will be helped to 
+find a new home quickly and supported to 
+recover, as part of a new ‘rapid rehousing’ 
+response to rough sleeping. 
+
+9. We understand that rough sleeping is an 
+issue that impacts different people and 
+different places in different ways, so our 
+approach is hardwired to recognise this 
+difference. We are providing targeted 
+funding to ensure that provision is in place 
+for women who sleep rough as we 
+recognise mainstream provision does not 
+always meet their needs. This supports a 
+locally driven approach, with local 
+authorities leading the charge. 
+
+10. We recognise that there are gaps in our 
+understanding. We are told by the sector 
+that LGBT individuals are more at risk of 
+homelessness and rough sleeping. This is 
+particularly the case among vulnerable 
+young people. We are also told that people 
+who sleep rough can be vulnerable to 
+trafficking and modern slavery. We want  
+to understand this better and we set out 
+measures to address both of these issues  
+in the strategy.
+
+11. This strategy is the beginning of a nine year 
+policy to ensure no one has to sleep rough 
+again. While it sets out meaningful action 
+
+that will help people now, it also sets out 
+how we will test different approaches, learn 
+from new evidence and scale up and roll out 
+our programmes.
+
+12. We will provide yearly updates which will 
+show our progress on the manifesto 
+commitment and outline new policies we 
+plan to take forward once the evidence is  
+in place to prove they work. We will also go 
+on to develop a strategy to address wider 
+homelessness and will be outlining our work 
+in that area in the coming months. 
+
+The scale of the problem and why 
+we need to act
+13. Our knowledge of who sleeps rough and 
+
+why is imperfect. Accurately measuring the 
+exact numbers of people sleeping rough is 
+challenging. In autumn 2017, 4,751 people 
+slept rough on a typical night. This was an 
+increase of 15% on the previous year.
+
+The 2027 vision:  
+Prevent, Intervene, and Recover
+14. We recognise that if we are to minimise the 
+
+considerable harm caused by rough 
+sleeping, the most important thing we can 
+do is to prevent it from happening in the first 
+place. This is why we set out a new ‘rapid 
+rehousing’ response to rough sleeping 
+which will enable us to ensure that by 2027 
+no one will have to sleep rough again. 
+
+Prevention
+15. Building on our work to put prevention at 
+
+the heart of homelessness services through 
+the landmark Homelessness Reduction Act 
+and our wider work to reform the private 
+rented sector, we are bringing forward a 
+range of new policies and programmes 
+which reinforce this approach.
+
+Key measures include:
+
+• Embedding prevention across 
+government: £3.2 million per year for two 
+years for a new range of pilots to help 
+
+
+  9
+
+people leaving prison find stable and 
+sustainable accommodation. New funding 
+for intensive support for care leavers with 
+complex needs.
+
+• Getting the basics right: new measures  
+to ensure the structures are in place to end 
+rough sleeping. This includes a review of 
+legislation around homelessness and rough 
+sleeping, including the Vagrancy Act. We are 
+clear that people who sleep rough need help 
+and should not be discriminated against.
+
+• Improving our understanding: research 
+announced in the LGBT Action Plan will help 
+us better understand how LGBT individuals 
+experience homelessness. We will build our 
+understanding of the links between modern 
+slavery and rough sleeping.
+
+• Improving oversight: ensuring that the 
+deaths or incidents of serious harm of 
+people who sleep rough are rigorously 
+investigated, where this is appropriate.  
+We will strengthen local homelessness 
+strategies, and introduce a new emphasis 
+on rough sleeping. 
+
+• Work to look at affordability in the 
+private rented sector, working with 
+stakeholders: the government has begun 
+work to look at affordability in the private 
+rented sector, with a view to developing 
+policy options for post-2020 when the 
+current Local Housing Allowance freeze 
+ends. We will work with the sector to 
+develop this. 
+
+Intervention
+16. Prevention is vital, but if we are to ensure no 
+
+one has to sleep rough again, we must act 
+and intervene now to support the people 
+who are experiencing it today.
+
+Key measures include:
+
+• Up to £45 million to continue the work 
+of the Rough Sleeping Initiative: 
+continuing to fund a broad range of local 
+schemes which meet local need. This year 
+
+we are funding over 500 new dedicated 
+homelessness workers and an additional 
+1,750 bed spaces to ensure people sleeping 
+rough have a bed, while their wider needs 
+are being addressed. 
+
+• Somewhere Safe to Stay Pilots: up to 
+£17 million for work in approximately 15 
+areas to rapidly assess the needs of people 
+at risk of rough sleeping and support them 
+to get the right help. 
+
+• Funding for rough sleeping navigators: 
+new specialists who will help people who 
+sleep rough to access the appropriate local 
+services, get off the streets and into settled 
+accommodation. 
+
+• Mental health and substance misuse 
+treatment: this year we will provide up to 
+£2 million in health funding to enable access 
+to health and support services for people 
+who are sleeping rough. We have asked 
+NHS England to spend up to £30 million on 
+health services for people who sleep rough, 
+over the next five years. This will be 
+informed by the findings of an audit of 
+health provision to be carried out this year. 
+
+• New training for frontline staff: new 
+training to ensure staff have the right skills 
+to support people who sleep rough. This 
+includes training on how to interact with 
+clients under the influence of Spice, 
+identifying and supporting victims of 
+modern slavery and domestic abuse, and 
+how to effectively support LGBT people. 
+
+• £5 million new funding for non-UK 
+nationals who sleep rough: new support 
+for local areas to work with non-UK 
+nationals who sleep rough. Additionally a 
+new increased focus on rough sleeping in 
+the Controlling Migration Fund.
+
+• A Rough Sleeping Support team: 
+prioritising support work and helping to 
+resolve the immigration status of non-UK 
+nationals who are sleeping rough. This 
+includes providing a national point of 
+
+
+10 
+
+contact for local authorities through 
+Immigration Enforcement’s Command and 
+Control Unit, using a phased approach.
+
+• New funding for an improved 
+StreetLink: supporting the general public, 
+business and communities to engage 
+positively with people who sleep rough, 
+through a new improved platform. 
+
+• Confirmation that we are maintaining 
+Housing Benefit for all supported 
+housing: new additional oversight 
+measures to ensure quality and value for 
+money.
+
+Recovery
+17. We need to ensure that people have  
+
+support in place to move into sustainable 
+accommodation. A stable home is an 
+essential element in a person’s recovery  
+from rough sleeping and needs to go hand 
+in hand with flexible support that is tailored 
+to individual needs. This chapter outlines 
+how government is ensuring that homes are 
+in place for people who sleep rough.
+
+Key measures include:
+
+• Dormant Assets funding: the allocation  
+of up to £135 million of dormant accounts 
+funds, the majority of which will be used to 
+support innovative financing for homes for 
+people who sleep rough or are at risk of 
+rough sleeping.
+
+• Move On Funding: launch of a £50 million 
+fund that will deliver a new supply of homes 
+outside of London for people who are 
+sleeping rough, as well as those who are 
+ready to move on from hostels or refuges 
+and might need additional support. 
+Learning from this will inform plans for 
+future capital funding for homes for people 
+who sleep rough. This is in addition to the 
+£50 million fund which was allocated to the 
+Greater London Authority (GLA), who have 
+been responsible for the implementation of 
+the fund in London. 
+
+• Supported Lettings: up to £19 million of 
+new funding to provide flexible support in 
+homes provided for people with a history of 
+rough sleeping. This will provide flexible 
+support funding to help over 5,000 people 
+at risk of rough sleeping, over the next two 
+years, to sustain their tenancies in homes 
+across the housing sector. 
+
+• Local Lettings Agencies: new funding to 
+help local areas grow enterprises to support 
+vulnerable people into accommodation.
+
+• Housing First: we have already announced 
+£28 million of funding for Housing First 
+pilots in Greater Manchester, the West 
+Midlands and Liverpool to support people 
+with multiple complex needs. 
+
+• Homelessness experts for every 
+Jobcentre Plus: will offer expert advice, 
+signposting and support.
+
+• Young Futures Fund: a new Social Impact 
+Bond, the Young Futures Fund, to support 
+young people who are not in education, 
+employment or training (NEET).
+
+Conclusion and next steps 
+18. This chapter sets out what our next steps 
+
+will be and when our interventions will 
+come online. We will keep this strategy 
+under review and continue to develop work 
+and further initiatives, for instance further 
+work on how we support non-UK nationals 
+off the streets. We are also developing a 
+delivery plan which will set out how we will 
+deliver the ambitious work set out in this 
+strategy, to be published in the autumn. 
+
+19. This strategy marks just the beginning of  
+our plans. It focusses, rightly, on putting in 
+place new programmes and structures to 
+support people off the streets now. We 
+recognise that embedding preventative 
+approaches takes time which is why we are 
+committing to updating this strategy 
+annually. These updates will set out further 
+progress to ensure no one has to sleep 
+rough again. 
+
+
+
+  11
+
+Chapter 1
+
+The scale of the problem and why we need to act
+
+
+
+
+20. People’s experiences of rough sleeping vary 
+enormously. Some people have a short and 
+very limited experience of rough sleeping  
+and, where prevention services work well, 
+may only sleep rough for a few days. Other 
+people may escape rough sleeping, only to 
+return again to the streets when their 
+housing fails or after a spell in hospital or 
+prison. Other people may, very sadly,  
+spend years on the street. Each person is 
+different and needs a different form of help 
+and assistance.
+
+Homelessness and rough sleeping
+21. This country has a strong safety net, with 
+
+legislation in place to support families and  
+the most vulnerable when they become 
+homeless and new legislation to prevent 
+people becoming homeless in the first place. 
+
+22. Homelessness as a term refers to a range of 
+different people and experiences. In law,  
+it  means that a person or household does 
+not have accommodation that is available 
+for them to occupy, that they have a legal 
+right to occupy, and that it is reasonable for 
+them to continue to occupy. This includes 
+people who sleep rough,1 people living in 
+hostels, shelters and domestic abuse 
+refuges, and hidden homeless people who 
+have to rely on friends or family for 
+accommodation in unreasonable 
+circumstances. Additionally, as part of our 
+strong safety net, local authorities are legally 
+obliged to house many homeless people as a 
+result of their needs, for example those with 
+children or those who are vulnerable as a 
+result of their health. 
+
+23. This strategy focusses on people who  
+sleep rough and those who are at risk of 
+sleeping rough. We will be setting out  
+how government is helping people  
+affected by other forms of homelessness  
+in a future strategy. 
+
+The scale of rough sleeping and the 
+latest trends
+24. Accurately measuring the exact numbers of 
+
+people sleeping rough is challenging. In 
+2010, the Coalition Government introduced 
+a snapshot method which requires every 
+local authority either to count or estimate 
+the number of people sleeping rough in 
+their area on a single night every year. In 
+autumn 2017 4,751 people were identified 
+as sleeping out on a typical night. This was 
+an increase of 15% (617 people) on the 
+previous year.i 
+
+25. The counts and estimates on a single night 
+provide useful data and is the agreed 
+method for tracking progress in tackling 
+rough sleeping. However, it is extremely 
+important that our understanding of who is 
+sleeping rough on our streets and what their 
+particular needs are becomes much more 
+sophisticated if we are to find the right 
+solutions to ending rough sleeping for each 
+and every citizen. We expect local 
+authorities and their delivery partners, 
+especially in areas with high numbers of 
+people who sleep rough, to develop 
+improved ways of recording and assessing 
+rough sleeping.
+
+ Chapter 1 | The scale of the problem and why we need to act 13
+
+1 Official statistics provide the following definition of people sleeping rough:  
+People sleeping, about to bed down (sitting on/in or standing next to their bedding) or actually bedded down in the open air (such as on the streets, in tents, doorways, 
+parks, bus shelters or encampments). People in buildings or other places not designed for habitation (such as stairwells, barns, sheds, car parks, cars, derelict boats, stations, 
+or “bashes” which are makeshift shelters, often comprised of cardboard boxes).  
+The definition does not include people in hostels or shelters, people in campsites or other sites used for recreational purposes or organised protest, squatters or travellers.
+
+
+
+
+The Rough Sleeping Initiative will 
+support work in local areas to improve 
+recording and assessing rough sleeping 
+by autumn 2018.
+
+26. Of the people who sleep rough across the 
+year, some will be sleeping on the streets  
+for the first time, some all year and some will 
+sleep rough intermittently. The number of 
+people sleeping on the streets is also likely  
+to be influenced by the seasons. Data  
+from the Combined Homelessness and 
+Information Network (CHAIN), a database 
+used in London by people working in the 
+sector, showed that 60% of the people 
+recorded as sleeping rough in London in 
+2017-18 were new to the streets.ii Over  
+half (59%) were seen only once, while only 
+6% were seen more than ten times.2 
+
+27. Rough sleeping is unevenly distributed 
+across the country, and it has increased not 
+only in large cities, but in many different 
+areas. Almost half (48%) of the people 
+identified as sleeping rough in England on a 
+single night in 2017 were in London and the 
+South East.
+
+28. Urban areas have seen the largest increases 
+since 2010, although numbers in rural areas 
+have also increased. Some seaside towns 
+have also seen large increases in the number 
+of people sleeping rough. The rate of people 
+sleeping rough (the local figure divided by 
+the resident household population) provides 
+a more comparable estimate between 
+areas. In autumn 2017, the rate of people 
+sleeping rough per 10,000 households was 
+2.0 for England, 3.1 for London, and 1.8 for 
+the rest of England. iii 
+
+The profiles of people who currently 
+sleep rough
+
+Gender, age and ethnicity
+
+29. People who sleep rough in England tend 
+to be: 
+a. male;  
+b. between 25 and 55 years old; and 
+c. predominantly white.
+
+30. In the 2017 counts and estimates, 83% of 
+people found sleeping rough were men, 
+while 14% were women (gender for the 
+remaining 3% was unknown).iv While 
+women and men have been found to be 
+equally likely to experience hidden 
+homelessnessv , these figures show that men 
+are more likely to experience rough sleeping.
+
+31. However, women who sleep rough are 
+more likely to have specific support needs 
+and to have experienced traumas, including 
+domestic abuse, mental ill health, substance 
+misuse, and to have self-harmed.vi We are 
+told by the sector that when women sleep 
+rough, they make themselves less visible in 
+order to stay safe. This means that we often 
+know less about them and their needs than 
+we do about men who sleep rough.
+
+32. In the 2017 counts and estimates, 81% of 
+people found sleeping rough were aged over 
+25 years.vii However, most people who sleep 
+rough first became homeless at a young age, 
+often in their early twentiesviii , pointing to 
+the need for early, targeted intervention.
+
+14 Chapter 1 | The scale of the problem and why we need to act
+
+2 However, findings from CHAIN may not be representative of rough sleeping incidences across England as CHAIN only collects information on rough sleeping in London.  
+In addition, CHAIN does not necessarily record all incidents of people sleeping rough. It records only those people whom outreach workers have been in contact with.  
+An alternative estimate for the average length of time people sleep rough is 33 days across the year in England.
+
+
+
+
+Rough sleeping rates per 10,000 households
+
+ Chapter 1 | The scale of the problem and why we need to act 15
+
+
+
+
+Lou, 47
+
+“I became homeless just over ten years ago 
+following the death of my daughter whilst I was  
+in rehab. I lost my mind a bit, I didn’t try and link in 
+with services but when I did it was very difficult.  
+I was using drugs, it took two weeks to get a 
+methadone script, when you are transient, 
+sleeping under bridges and in cars, you cannot 
+keep up with it, it is not possible. 
+
+Being homeless is the worst, you are reliant on 
+other people for somewhere to sleep, you need 
+someone to protect you. It’s the things I had to do 
+to get money, to survive from day to day. It’s the 
+way people look at you, I used to hide around 
+school times, because I don’t think people should 
+have to explain to their children why someone is 
+on the floor under a bridge. I get why people  
+look down on you, I really do, but people think 
+you choose to be in that position. Who would 
+chose to be homeless? Nobody.
+
+I’ve been in a number of hostels and it’s about the 
+people you have to support you. Here I have a 
+good key worker, everything I do is followed up 
+and things seem to be working at last. When  
+I came here I had over £2,000 of arrears, I’ve 
+managed to get rid of it now and I am the next on 
+the list. After 10 years, I am actually going to have 
+my own place, this is the best position I have been 
+in for such a long time. 
+
+I don’t care what my future holds, as longs as  
+I have my own front door and I can lock it behind 
+me. I don’t have to deal with people I don’t want 
+to, I don’t have to see anyone I don’t want to, and 
+I can just be me. Once I’m in I’ll need a week or 
+two to actually believe it has happened before  
+I think about what I am going to do next.”
+
+16 Chapter 1 | The scale of the problem and why we need to act
+
+Differences between London and the rest  
+of England
+
+33. The profiles of people sleeping rough in 
+London are different to the rest of England. 
+For instance there is a higher migrant rough 
+sleeping population in London who tend to 
+have lower support needs.ix In the 2017 
+counts and estimates, less than half (40%) 
+of the people sleeping rough in London 
+were from the UK, compared to around four 
+fifths (82%) in the rest of England. Almost a 
+third (30%) of people found sleeping rough 
+in London were from EU countries, 
+compared to 12% in the rest of England.x  
+
+Support needs
+
+34. Support needs often relate to health 
+conditions. Of the people seen sleeping 
+rough in London in 2017-18, 50% had 
+mental health needs, 46% had physical 
+health needs, 43% had alcohol misuse 
+needs and 40% misused drugs.xi Outside of 
+London, where people are more likely to 
+
+sleep rough for longer, support needs may 
+be higher.xii Evidence suggests that homeless 
+people have far higher rates of 
+schizophrenia, anxiety disorders, depression 
+and personality disorders than the general 
+population.xiii  
+
+35. In the 2015 Hard Edges report, a study  
+of severe and multiple disadvantage in 
+England, Professor Glen Bramley and 
+co-authors from Heriot-Watt University 
+estimated that around 31% of homeless 
+people have complex needs, which means 
+that they have two or more support needs.xiv   
+There is also evidence that a person’s 
+support needs increase the longer they stay 
+on the streets, and also with age. Many 
+people who sleep rough will have additional 
+support needs including emotional  
+needs. They may have poor financial or 
+interpersonal skills and will need support 
+to engage more positively with society, to 
+find employment or to set up and maintain 
+a home.
+
+
+
+
+Institutional history and interaction with 
+public services
+
+36. People who sleep rough are more likely 
+to have experience of institutions such as 
+prisons, the care system or the armed forces.xv  
+Data from CHAIN in 2017-18 shows 11% of 
+people sleeping rough were in care as a child 
+and 36% had served a custodial sentence. 
+This data also shows 7% were in the armed 
+forces, but this figure includes a relatively 
+high number of non-UK nationals. Only 3% 
+of people seen sleeping rough in London had 
+experience of the UK armed forces.
+
+
+
+LGBT
+
+
+37. There has been some early work from the 
+sector that indicates that the causes and 
+needs of LGBT individuals experiencing 
+homelessness can be different from those 
+who are non-LGBT. The Homeless Link 
+Annual Survey of youth homelessness 
+estimated that around 7% of young 
+homeless people were LGBT, but also 
+recognised that this was likely to be under 
+reported.xvi Many may have experienced 
+familial rejection, abuse and violence and 
+will have been at increased risk of sexual 
+exploitation. The evidence base is not yet 
+sufficiently robust to draw firm conclusions 
+on how this might be driving homelessness 
+or the prevalence of this issue; however, we 
+outline later in the strategy how we will 
+address this gap.
+
+Example of a pathway towards homelessness, characterised by multiple and complex interactions with  
+public services. 
+
+Jean’s homelessness pathway
+
+Living with 
+parents
+
+Council fl at with 
+daughter and 
+partner at 16
+
+Sleeping rough
+Stays with mother 
+
+then sofa surfs
+
+Gets new partner and 
+gets pregnant. Then 
+
+convicted for assaulting 
+police offi cer.
+
+Using ketamine and 
+begging. Mother asks 
+her to return home.
+
+Family problems persist 
+and chooses to move to 
+another city with cousin.
+
+Awful childhood, 
+including: alcohol abuse 
+
+& rape. Family broke 
+down. Became pregnant.
+
+Hostel Private rented fl at Council fl at Prison
+
+Suffers abuse. Council 
+offers fl at near abuser. 
+
+She refuses. Sent to 
+prison for altercation 
+
+with abuser.
+
+Offered council fl at.
+
+Council fl at is small so 
+moves to private rented 
+fl at. Suffers depression 
+
+but stops drug use.
+
+Does not trust landlord 
+so leaves. Council 
+
+will not help as she is 
+intentionally homeless.
+
+Prison for 1 year Hostel
+
+Has psychiatric support 
+and is looking for 
+accommodation.
+
+Offered temporary 
+accommodation.
+
+This diagram was reproduced with permission from Mackie & Thomas (2014) ‘Nations Apart? Experiences of single homeless people across Great Britain’.xxxi 
+
+ Chapter 1 | The scale of the problem and why we need to act 17
+
+
+
+
+The reasons why people sleep rough
+38. Professors Fitzpatrick and Bramley recently 
+
+identified poverty, particularly childhood 
+poverty, as the most powerful predictor of 
+all forms of homelessness. Certain groups 
+are significantly more likely to become 
+homeless than others, and factors such 
+as ethnicity, education, adverse childhood 
+experiences, gender and employment all 
+play a sizeable role.xvii  
+
+39. Early trauma and childhood abuse seem  
+to be common amongst homeless people 
+with more complex needs. A 2010 study  
+by Heriot-Watt University surveyed single 
+homeless people with multiple needs in 
+seven UK cities (452 people, 77% of whom 
+had slept rough). The authors found that by 
+the age of 16, 24% of those surveyed had 
+parents or carers with drug or alcohol 
+problems, 22% had experienced sexual 
+abuse, 23% had experienced physical 
+abuse and 27% had witnessed violence 
+between parents.xviii
+
+40. However, homelessness and rough 
+sleeping are not inevitable results of these 
+drivers. Many people who experience them 
+do not become homeless. Specific triggers 
+can lead to people rough sleeping, 
+including eviction from rented property, 
+conflict with family, relationship 
+breakdowns and leaving prison.xix
+
+The impact of rough sleeping  
+on the individual
+41. People who sleep rough regularly over a 
+
+long period are more likely to die young 
+than the general population. In an 
+international review of all available 
+evidence, homeless populations, along with 
+other excluded groups (including sex 
+workers and prisoners), are ten times more 
+likely to die than those of a similar age in the 
+general population. They are also much 
+more likely to die from injury, poisoning and 
+
+suicide (eight times greater risk in men,  
+19 times in women)xx . In another report, the 
+average age of death for a person who dies 
+whilst living on the streets or in homeless 
+accommodation in England was calculated 
+as 47 years old compared to 77 for the 
+general population,3 and it was estimated 
+that around 35% of people who die whilst 
+sleeping rough or living in homeless 
+accommodation died due to alcohol or 
+drugs, compared to 2% in the general 
+population.xxi  
+
+42. People sleeping rough are also frequently 
+victims of violence and theft. For example, in 
+a survey of 458 homeless people who had 
+slept rough in the past 12 months, one in 
+three reported that they had been 
+deliberately hit or kicked or experienced 
+another form of violence, and more than 
+half reported having their personal 
+belongings stolen.xxii Frequently people who 
+sleep rough do not report crimes to the 
+police as they do not believe that anything 
+will be done.xxiii  
+
+43. Data and research only tells us part of the 
+story. Understanding the day-to-day 
+experiences of people who are sleeping 
+rough, the impact on their lives and what 
+helps them off the streets is essential to help 
+us build our evidence base and to inform 
+better policy design and delivery and 
+making this the norm across government. 
+We are committed to working with people 
+with lived experience of homelessness and 
+rough sleeping to inform the delivery of this 
+strategy and our further work. We are 
+especially eager to understand more about 
+how these individuals successfully moved on 
+from rough sleeping.
+
+We will ensure that people’s lived 
+experience of rough sleeping and 
+homelessness will feed into future 
+updates of this strategy.
+
+18 Chapter 1 | The scale of the problem and why we need to act
+
+3 These figures were calculated using 2001-2009 data
+
+
+
+
+The cost of rough sleeping
+44. Helping people before they sleep rough will 
+
+not only reduce the human cost of rough 
+sleeping, it will also help to reduce costs to 
+the wider public sector. People who sleep 
+rough often have a combination of needs 
+which will mean that they come into contact 
+with a range of public bodies. This includes 
+the costs of providing health care, drug and 
+alcohol treatment, emergency services and 
+costs to the criminal justice system. 
+However, some people who sleep rough 
+may not want to interact with services 
+because of their complex needs.
+
+45. Estimates of the costs of rough sleeping to 
+the public purse vary depending on the 
+methodology followed and the data used. 
+In the 2015 Hard Edges report, Professor 
+Glen Bramley and co-authors estimated the 
+costs of rough sleeping to the public purse 
+to be between £14,300 and £21,200 per 
+person per year, with the higher cost being 
+incurred if rough sleeping occurred 
+alongside substance misuse and offending. 
+This is three to four times the average cost to 
+public services of an average adult 
+(approximately £4,600). The estimated cost 
+of rough sleeping, excluding the cost of 
+benefits, is therefore between £7,100  
+and £15,200 per person per year.xxiv  
+
+Estimates of the cost to the public purse of homelessness compared to the average cost per person per year, 
+2014-15 prices
+
+
+£0
+
+£5,000
+
+£10,000
+
+£15,000
+
+£20,000
+
+£25,000
+Cost per person 
+excluding benefits
+
+Total cost per person
+
+Average UK public 
+expenditure for 
+
+comparable services
+
+Homeless, 
+Substance & 
+
+Offender
+
+Homeless & 
+Substance
+
+Homeless & 
+Offender
+
+Homeless Only
+
+Source: Lankelly Chase, Foundation, Hard Edges: Mapping severe and Multiple disadvantage in England 2015
+
+£14,300
+
+£7,100
+
+£20,200
+
+£14,400
+
+£16,300
+
+£9,300
+
+£21,200
+
+£15,200
+
+£4,600
+
+£3,100
+
+  Source: Lankelly Chase, Foundation, Hard Edges: Mapping severe and Multiple disadvantage in England 2015
+
+ Chapter 1 | The scale of the problem and why we need to act 19
+
+
+
+
+Our plans to improve our  
+evidence base
+46. It is essential that we use evidence to inform 
+
+our interventions. Not only does better data 
+and evidence mean we can hold ourselves 
+to account as we make progress towards 
+ending rough sleeping, but it also means we 
+can make sure that our interventions reflect 
+the needs of the people they are designed to 
+help and provide value for money to 
+taxpayers. This is why, across the strategy, 
+we have made a number of commitments 
+to piloting new approaches to inform wider 
+roll-out, improving data and building the 
+evidence base. We have already introduced 
+the H-CLIC data collection arrangements 
+through which local authorities will be 
+gathering and reporting on the causes of 
+homelessness, and the accommodation and 
+support needs of people asking for help, 
+including single people threatened with 
+homelessness and those sleeping rough.
+
+Over the next nine years, we will plug 
+evidence gaps and pilot, test and 
+evaluate new approaches which will 
+inform our plans for wider roll-out. 
+
+20 Chapter 1 | The scale of the problem and why we need to act
+
+
+
+
+ Chapter 1 | The scale of the problem and why we need to act 21
+
+
+
+
+Chapter 2
+
+The 2027 vision:  
+Prevention, Intervention, Recovery
+
+
+
+
+47. Our vision is that by 2027 all parts of central 
+and local government, in partnership with 
+business, the public and wider society are 
+working together to ensure that no-one  
+has to experience rough sleeping again. 
+
+The role of prevention
+48. If we are to minimise the considerable harm 
+
+caused by rough sleeping, the most 
+important thing we can do is to prevent it 
+from happening in the first place. This will 
+take time but this government has already 
+taken important steps to embed a culture  
+of prevention into services through the 
+Homelessness Reduction Act 2017. That 
+Act, for the first time, puts prevention at the 
+heart of the local housing authority 
+response to homelessness and also puts 
+new duties on other public sector bodies to 
+refer people at risk of homelessness to local 
+homelessness services. The Act also means 
+that single people and childless couples are 
+no longer excluded from assistance because 
+they do not have ‘priority need.’ Instead 
+they are owed duties to help prevent them 
+becoming homeless or help to find 
+alternative accommodation. 
+
+49. We have also taken important steps to 
+ensure the private rented sector delivers safe 
+and affordable homes. For instance, we are 
+consulting on how to overcome the barriers 
+to landlords offering longer tenancies, 
+including a proposed model for a three year 
+tenancy with a six month break clause. We 
+are also improving affordability for tenants 
+through market reforms and legislative 
+interventions like the Tenant Fees Bill, and 
+educating landlords and tenants of their 
+respective rights and responsibilities. 
+
+50. Through the Troubled Families Programme, 
+local authorities and their partners are 
+working to mitigate some of the triggers 
+that can lead people to sleep rough. By 
+providing high quality whole family support 
+to families with complex needs, the 
+
+programme aims to reduce the risk and 
+impact of family breakdown due to 
+extraordinary reasons such as alcohol or 
+drug dependency or domestic violence. We 
+will ensure that we learn from the Troubled 
+Families Programme and the evidence and 
+good practice that it is generating.
+
+51. The Homelessness Reduction Act lays the 
+foundations for the changes we need to 
+see. However, if we are to ensure no one has 
+to sleep rough again then we need all parts 
+of government to come together so that 
+public services are working to ensure stable 
+accommodation is in place for the people 
+who access their services. In turn, these 
+services will also provide people with the 
+right support and skills so that they can 
+maintain a home. This will involve local 
+authorities, the care system, the health 
+service, prisons and probation services, the 
+police, immigration services and Jobcentres 
+working together to support the most 
+vulnerable. 
+
+The 2027 Vision: central and local 
+government work hand in hand with 
+charities and businesses to prevent 
+rough sleeping
+52. Our guiding principle is that all partners  
+
+at the local and national level will work 
+together in a joined-up way, commissioning 
+and building services based on evidence  
+of what works. Services will offer 
+person-centred support with an 
+understanding of individual needs and 
+recognition of their strengths. They will 
+promote individual choice and create 
+environments that are appropriate for 
+vulnerable people. 
+
+53. We will have effective systems in place that 
+allow us to gather meaningful data to better 
+understand homelessness and rough 
+sleeping, to support delivery partners in 
+their work, and to hold them to account 
+where they are not working effectively.  
+
+ Chapter 2 | The 2027 vision: Prevention, Intervention, Recovery 23
+
+
+
+
+This will include Supported Housing, where 
+we will have designed and implemented 
+new oversight measures for quality and 
+value for money. 
+
+54. It is not just local and central government 
+that has a part to play; there is an 
+opportunity for many parts of society to 
+come together to ensure that we are all 
+doing our bit, so that no one has to sleep 
+rough again. In chapter five we outline how 
+we will enable business and communities to 
+support people who sleep rough or are at 
+risk of rough sleeping in their area.
+
+55. In particular, we also believe that registered 
+providers are crucial to increasing the supply 
+of homes to people at social and affordable 
+rent and are delivering the majority of new 
+affordable homes. Housing Associations not 
+only provide homes for vulnerable people 
+but, in support of their charitable objectives, 
+many also invest their own funding into 
+supporting their residents to maintain their 
+tenancies, increase their employment and 
+life skills, and live more productive lives. By 
+2020, we want Housing Associations to play 
+an even more central role, working with 
+their local partners and councils, building 
+
+even more homes and continuing to work 
+with communities and their residents to 
+provide appropriate, flexible and safe homes 
+for vulnerable people.  They have a 
+fundamental part to play in resolving the 
+current crisis, and in delivering the future 
+system of informed and robust prevention. 
+
+Intervention and Recovery in 2027:  
+a rapid rehousing response
+56. The earlier that a stable base can be 
+
+established, the greater the chances that an 
+individual will not return to rough sleeping. 
+The Housing First model follows the 
+principle that the first thing to do when 
+intervening to secure a person’s recovery is 
+to support them into a home, with intensive 
+wrap-around support provided in tandem 
+to help them address their needs. We have 
+committed £28 million to pilot Housing First 
+in Greater Manchester, Liverpool and the 
+West Midlands.
+
+Nottingham Community Housing Association (NCHA), Mr M
+
+Mr M, in his early 60s, was living in private rented 
+accommodation until he was evicted in January 
+2018, due to anti-social behaviour (ASB) issues 
+with his neighbours, which he denied. 
+
+He was left homeless and initially slept rough for a 
+month, spending a night in a winter shelter and a 
+couple of nights in hospital. After a temporary 
+stay in a hotel, the local authority’s housing 
+department referred him to Linby Drive (short stay 
+temporary housing), run by Nottingham 
+Community Housing Association (NCHA).
+
+He has been given a room with en-suite facilities, 
+more suited to his medical conditions. As well as 
+
+accommodation, he has received tailored support 
+around budgeting, identification documents and 
+potential courses to help him to access new 
+opportunities.
+
+When he moves into independent 
+accommodation NCHA will continue to support 
+him by referring him to support services, helping 
+him to register for utilities, and setting up the best 
+payment plan for him. 
+
+With NCHA’s support, Mr M has improved his 
+budgeting skills and pays his residents’ charge, to 
+the point where he is three months in credit and 
+saving up for when he is offered his own home. 
+
+24 Chapter 2 | The 2027 vision: Prevention, Intervention, Recovery
+
+
+
+
+Clearing House, Ibrahim, 53
+
+Ibrahim became homeless for three months after 
+his agency work ended. He tried to look for jobs 
+that would support him to fund his 
+accommodation, but with no work opportunities 
+available, Ibrahim was left with no choice but to 
+turn to the streets.
+
+During this time, Ibrahim would sleep on public 
+transport or try to find safe spots in the streets. He 
+also had undiagnosed health issues and was 
+experiencing unusual symptoms, but didn’t know 
+how to get the support he needed.
+
+After a few months he was found by a charity 
+who took him to a shelter and got him the medical 
+attention he needed. Unfortunately, he found out 
+he had cancer which he received treatment for. 
+
+The charity then supported him to access his own 
+accommodation through Clearing House. Ibrahim 
+remarked; 
+
+“I was so happy when I walked through those 
+doors. It felt good and I’m so thankful for the help 
+I received. That was a day I’ll never forget. It’s nice 
+and quiet here and I can relax. I am also much 
+better at controlling my money now. I don’t spend 
+money on alcohol so I make sure I pay my all my 
+bills and rent.”
+
+Ibrahim also volunteers as a street buddy twice a 
+week as he wants to help other people who are in 
+similar situations.
+
+57. Another example is the Clearing House 
+scheme, which was set up by Lord Young 
+in the 1990s as part of a wider drive to 
+reduce rough sleeping and demonstrates 
+the security a stable home can offer. As a 
+result of that scheme there are still over 
+3,750 units across London which are used 
+to house people who have slept rough, a 
+quarter of whom come straight from the 
+streets and are rapidly rehoused. A vital 
+element of this offer is floating support 
+provided by St Mungo’s and Thames Reach 
+to help clients maintain their home. The 
+evidence from this is impressive; 92% of 
+tenants in these units do not return to rough 
+sleeping and 15% of tenants in these units 
+are now in paid work. 
+
+58. Ensuring that the right support, tailored to 
+an individual’s needs, is provided alongside a 
+home, is fundamental to both the Housing 
+First and Clearing House models. Particular 
+examples of support which have been 
+proven to be effective are key workers or 
+navigators who help clients access more 
+mainstream support and more specialist, 
+bespoke programmes targeted at people 
+who sleep rough. 
+
+59. By 2027, we want to base our response to 
+rough sleeping on a rapid rehousing 
+
+ Chapter 2 | The 2027 vision: Prevention, Intervention, Recovery 25
+
+approach. This means if a person is at risk of 
+rough sleeping they will have their needs 
+assessed quickly in line with the 
+requirements of the Homelessness 
+Reduction Act, be offered appropriate 
+support and then helped rapidly into a 
+home, with appropriate support alongside. 
+This approach was endorsed by the Advisory 
+Panel and we set out how we are laying the 
+foundations for this new approach in 
+subsequent chapters. 
+
+The role of social investment by 2027
+60. Government has been working to attract 
+
+new sources of funding into the sector, 
+which can enable more support to be put in 
+place for people who sleep rough, bring 
+forward new homes and empower people 
+working in the sector to be more innovative. 
+
+61. One important example of this is our work 
+to stimulate social impact investment. Social 
+impact investors seek to address core social 
+problems including homelessness and 
+rough sleeping alongside making a financial 
+
+
+
+
+return. The sector is growing, driven by 
+appetite amongst investors. There are 
+already a significant number of social 
+enterprises providing stable 
+accommodation to vulnerable people who 
+might otherwise be at risk. These enterprises 
+include local lettings agencies that seek 
+to house disadvantaged people who are 
+usually poorly served by the private rental 
+market and also social property funds. 
+
+62. We are determined that social impact 
+investment should become ‘business as 
+usual’ for individual and institutional 
+investors. We have committed to do this by: 
+
+• making it easier for people to invest;
+
+• improving deal flow and the ability to invest 
+at scale;
+
+• strengthening competence and confidence 
+within the financial services industry; and
+
+• developing better reporting of non-financial 
+outcomes.
+
+63. As part of this, this government has also led 
+the way in testing and trialling Social Impact 
+Bonds. These models provide an 
+opportunity to address perennial challenges 
+in society by bringing together the public, 
+private and voluntary sectors to drive 
+
+innovation with a focus on delivering 
+outcomes. Social Impact Bonds allow service 
+providers the freedom and flexibility to 
+provide a bespoke service, while the 
+taxpayer only pays for successful outcomes. 
+They can also encourage early intervention 
+to prevent a crisis which saves money in the 
+longer term.
+
+64. There are now over 40 Social Impact Bonds 
+in the UK, including 17 aimed at reducing or 
+preventing rough sleeping. The UK is 
+considered a world leader in this field. The 
+evidence from these Social Impact Bonds 
+shows the benefit of this approach. For 
+instance, the £15 million Fair Chance Fund 
+Social Impact Bond was a three-year 
+programme targeted at homeless young 
+people aged 18 to 24 years to improve 
+accommodation, education and 
+employment outcomes. After two years, 
+86% of the young people participating in 
+the programme had entered 
+accommodationxxv and more than 400 
+qualifications were achieved over the course 
+of the programme. Reports to date also 
+show that the payment by results system 
+appeared to incentivise staff to achieve 
+outcomes, with no evidence of perverse 
+incentives or a focus on quick wins.[i]
+
+The St Basils Re-writing Futures programme 
+
+The Re-writing Futures programme was a Social 
+Impact Bond that supported young homeless 
+people aged 18-24 who were not in priority  
+need for housing, unable to access other service 
+provision and were Not in Education, Employment 
+or Training (NEET).
+
+“The Social Impact Bond allowed us to work with 
+a cohort of young people with the greatest needs, 
+who may have been failed by other services. Each 
+young person was offered intensive tailored 
+support over a longer time (3 years) to obtain  
+long term stable accommodation. They were  
+
+then supported into employment, training or 
+volunteering. This was provided by a team of 
+Progression Coaches and Volunteers who are 
+skilled and knowledgeable in a whole host of 
+areas including; accommodation, NEET support, 
+Mental Health, Substance Abuse and offending. 
+Joint working with other agencies was crucial to 
+the success of this programme and enabled us to 
+offer the wrap around support needed to progress 
+these individuals on in their lives more positively. 
+The SIB gave us the opportunity to be flexible, 
+creative and responsive to change quickly and 
+efficiently.”
+
+26 Chapter 2 | The 2027 vision: Prevention, Intervention, Recovery
+
+
+
+
+65. There is a clear role for social investment to 
+help bring on stream new supply of housing 
+for vulnerable people and in the next 
+chapters we outline additional steps we are 
+taking to target social investment at people 
+rough sleeping now. We believe that Social 
+Impact Bonds and social investment more 
+broadly are crucial tools and we are working 
+to develop a new pipeline of social 
+investment opportunities.
+
+We are clear that we will deliver an 
+expanded social investment market, 
+including Social Impact Bonds, in our 
+2027 vision.
+
+ Chapter 2 | The 2027 vision: Prevention, Intervention, Recovery 27
+
+
+
+
+Chapter 3
+
+Prevention
+
+
+
+
+66. This chapter sets out what we are doing 
+now, both to help the people who are 
+currently sleeping rough, but also to lay the 
+foundations for the 2027 vision to Prevent, 
+Intervene and Recover. 
+
+67. This government has taken a number of 
+important steps to put prevention at the 
+heart of our response to homelessness. 
+As well as implementing the Homelessness 
+Reduction Act, we have also dedicated £20 
+million to establish a network of 26 
+Homelessness Prevention Trailblazer 
+projects, and a further £20 million of 
+funding for 48 projects providing targeted 
+prevention and early intervention for those 
+at imminent risk of sleeping rough. Learning 
+from these programmes has shaped this 
+strategy and the areas involved offer a 
+blueprint for others to follow.
+
+Getting the basics right
+
+68. As part of the implementation of the 
+Homelessness Reduction Act, we 
+committed to review how the Act is working 
+within two years. This will provide important 
+insight and will shape our future plans.  
+Given the breadth of legislation impacting 
+on rough sleeping, we have decided that 
+this review will go further and look at other 
+
+relevant homelessness and rough sleeping 
+legislation.
+
+69. In particular, some people, including the 
+Advisory Panel, have expressed concerns 
+about how the Vagrancy Act is being used in 
+relation to people who sleep rough. Those 
+who find themselves sleeping rough are 
+some of the most vulnerable in society and 
+we are clear that people who sleep rough 
+should not be discriminated against.
+
+70. We need to understand how this Act is 
+being applied to people who are sleeping 
+rough. We also want to better understand 
+how other legislation such as the Care Act is 
+being used to help people who sleep rough.
+
+We will launch a wider review of 
+homelessness and rough sleeping 
+legislation, which will include the 
+Vagrancy Act. The review will ensure  
+that the structures are in place to deliver 
+effective services and engage with 
+vulnerable people constructively.  
+We expect the review to report by 
+March 2020.
+
+Nos Da Kernow
+
+Nos Da Kernow (in English - Good Night Cornwall) 
+is a rough sleeping prevention outreach service 
+that helps single people or childless couples who 
+would likely sleep rough if they became homeless.
+
+It brings together the expertise of individual 
+organisations – homelessness prevention; 
+resettlement and assertive street outreach into 
+one team applying new approaches and solutions 
+alongside tried and tested ones. Partnership 
+working is key and Nos Da Kernow has developed 
+meaningful relationships with a range of agencies 
+
+including Jobcentre Plus, private & social landlords 
+and mental health services.
+
+The service estimates that it is prevented over 200 
+people from sleeping on the streets in the past 18 
+months. This is through supporting people before 
+they become homeless, helping agencies to raise 
+awareness, and building their preparedness for 
+when somebody is at risk of becoming homeless. 
+Once the immediate threat of rough sleeping has 
+dissipated, the service works with the client to 
+build their resilience.
+
+ Chapter 3 | Prevention 29
+
+
+
+
+Shining a light on performance and stronger 
+accountability
+
+71. As highlighted by the Advisory Panel, 
+another powerful set of tools for improving 
+our response to rough sleeping is the use of 
+local homelessness strategies. Local 
+housing authorities are required to carry 
+out a review of homelessness in their area 
+and to produce a homelessness strategy 
+which sets out how they will prevent and 
+reduce homelessness, and provide support 
+to people affected by it. They also have to 
+refresh these strategies every five years. 
+While some local housing authorities have 
+good quality strategies developed with 
+their partners, unfortunately a number 
+have not been kept up to date and, 
+crucially, many do not effectively address 
+rough sleeping. These strategies are 
+essential tools for driving performance and 
+shining a light at the local level.
+
+We will work with the Local Government 
+Association and local authorities so that 
+by winter 2019: 
+•  all local authorities update their 
+
+strategies and rebadge them as 
+homelessness and rough sleeping 
+strategies;
+
+•  strategies are made available online 
+and submitted to MHCLG; and
+
+•  local authorities report progress in 
+delivering these strategies and publish 
+annual action plans.
+
+Where necessary, we will support these 
+changes by seeking to legislate at the 
+earliest opportunity. 
+Where local authorities do not follow 
+these changes, we will take action.
+
+72. Further, just as we intend to hold ourselves 
+to account through annual updates to this 
+strategy, so too do we expect local 
+authorities to be transparent about their 
+progress. 
+
+73. While it is important that strategies are in 
+place to set a vision, we must also be clear 
+about who is responsible for delivering the 
+commitments in the strategies. However, 
+this can be challenging; the local delivery 
+landscape is complex with a number of 
+agencies with different priorities operating 
+under a variety of accountability 
+arrangements.
+
+We will consult, by the end of this year, 
+on ways to improve accountability at the 
+local level, including the potential use of 
+local Homelessness Reduction Boards.
+
+74. There is also a clear link between 
+homelessness and health and wellbeing 
+which is not always being made at the local 
+level, which we are keen to address. We 
+suggest that a local housing authority 
+representative (for example, lead member) 
+sits on Health and Wellbeing Boards to 
+ensure that wider homelessness issues are 
+considered as part of the health and 
+wellbeing agenda.
+
+In the Rough Sleeping Initiative areas, 
+through our practitioner team, we will 
+support Health and Wellbeing Boards 
+(HWB) to recognise and respond to the 
+health needs of people who sleep rough. 
+We will support them to fulfil their 
+statutory duties, and to provide 
+leadership in the development of 
+homelessness and rough sleeping 
+strategies. 
+
+30 Chapter 3 | Prevention
+
+
+
+
+75. Another vital mechanism for shining a  
+light on performance is to be open and 
+transparent when things go wrong. New 
+arrangements will improve the recording  
+of all deaths, including people who sleep 
+rough. Those cases not referred to a 
+coroner will be addressed by a Medical 
+Examiner and will, as appropriate, be 
+referred to other programmes, such as 
+the Learning from Deaths programme.
+
+76. We agree with the Advisory Panel, who 
+were clear that Safeguarding Adult Reviews 
+are powerful tools, which unfortunately are 
+rarely used in the case of people who sleep 
+rough.
+
+We will work with Safeguarding Adult 
+Boards to ensure that Safeguarding Adult 
+Reviews are conducted when a person 
+who sleeps rough dies or is seriously 
+harmed as a result of abuse or neglect, 
+whether known or suspected, and there 
+is concern that partner agencies could 
+have worked more effectively to protect 
+the adult. Lessons learned from these 
+reviews will inform improvements in local 
+systems and services.
+
+77. It is essential that local authorities, which are 
+so vital to this agenda, have the right skills 
+and support to deliver their duties and 
+support their residents. We are therefore 
+taking a number of steps to help them 
+secure this. We also want to ensure that 
+local authorities are able to learn from each 
+other and share best practice. The Local 
+Government Association has an important 
+role to play here and we are interested in 
+the potential of extending their peer review 
+approach and developing a new ‘kite 
+marking’ or awards scheme system.
+
+We will work with the Local Government 
+Association to develop a comprehensive 
+package of sector-led support for 
+homelessness and rough sleeping. We 
+expect this to be in place by summer 
+2019.
+
+78. We also recognise the vital role of non-
+commissioned organisations and charitable 
+bodies. For instance, through the Rough 
+Sleeping Initiative we are funding Housing 
+Justice to ensure that winter shelters in 
+London will provide safe and secure 
+accommodation. 
+
+79. We understand how essential a skilled 
+workforce is to delivering good services and 
+ultimately, meeting our commitment. We 
+fund the National Housing Advice Service, 
+which has provided nationally consistent, 
+effective, quality homelessness and housing 
+advice to a range of frontline audiences.  
+It has also supported, and facilitated, 
+homelessness prevention and early 
+intervention for households at risk of 
+homelessness and rough sleeping through 
+the provision of advice, training and support 
+to frontline audiences.  
+
+80. Experience from authorities like Southwark, 
+which was an early adopter of elements of 
+the Homelessness Reduction Act, shows the 
+importance of rigorous training and support 
+for staff. We particularly want to get a better 
+picture of the challenges facing Housing 
+Options teams.
+
+We will undertake research into 
+workforce challenges and opportunities 
+in Housing Options teams and the 
+voluntary sector, with the results feeding 
+into future policy approaches.
+
+ Chapter 3 | Prevention 31
+
+
+
+
+Better data 
+
+81. As we outlined in chapter one, there are a 
+number of issues that we recognise we do 
+not as yet have a clear enough 
+understanding of. One such area is how 
+LGBT individuals are at increased risk of 
+homelessness and rough sleeping, 
+particularly amongst young people. In the 
+LGBT Action Plan we announced that we 
+will fund new research into the nature and 
+scale of LGBT homelessness and individuals’ 
+experience of services while homeless.
+
+Based on findings from the new research 
+into LGBT homelessness, we will set out 
+further concrete steps to address the 
+issues of LGBT homelessness in the first 
+yearly refresh of the strategy.
+
+82. We also want to improve the data collected 
+by a wider range of services which people 
+who sleep rough access, so that we can start 
+to work towards an integrated approach to 
+data, which was a recommendation of the 
+Advisory Panel. We are keen to pilot these 
+new approaches. 
+
+We will establish data pilots by summer 
+2019 to develop and test an outcomes 
+framework for homelessness and rough 
+sleeping.
+
+83. These pilots will involve working with a 
+number of local authorities and their 
+delivery partners to better understand what 
+data is currently collected at the local level, 
+how robust it is and what it tells us. They will 
+also help develop data standards to support 
+consistent approaches to local data 
+collection, and subsequently develop and 
+test a multi-agency outcomes framework, 
+looking across a range of services, including 
+
+key health services. This framework would 
+help to define what local authorities and 
+their delivery partners are expected to 
+achieve through the provision of 
+homelessness services and could support 
+the development of homelessness and 
+rough sleeping strategies. 
+
+84. We also recognise we need to better 
+understand and monitor links between 
+homelessness and health and are keen to 
+work to ensure that a person’s housing 
+status becomes a fundamental part of their 
+treatment and recovery. 
+
+We will test ways of including a  
+person’s housing status in new NHS  
+data collections to inform future policy 
+and commissioning of services for 
+homeless people. 
+
+The health service
+
+85. The cost to the health service of single 
+people experiencing rough sleeping and 
+other chronic homelessness is sizeable. In 
+2010 this was conservatively estimated at 
+£86 million each year.xxvi The Advisory Panel 
+was clear in its recommendations about the 
+importance of health services in preventing 
+rough sleeping. They were also clear that 
+moving towards a world where housing, 
+health care, public health and social care 
+are working together to support people 
+who sleep rough would not only lead to 
+better outcomes, but also bring savings 
+to the NHS. We are therefore keen to 
+encourage more targeted homelessness 
+prevention work across the NHS.
+
+We will request that NICE produce 
+guidance to support targeted 
+homelessness prevention, integrated 
+care and recovery.
+
+32 Chapter 3 | Prevention
+
+
+
+
+86. We know that people leave hospital without 
+accommodation in place and some of those 
+go on to sleep rough. Fundamental to 
+tackling this is ensuring people working in 
+hospitals and primary care have the right 
+skills and understand the importance of 
+a person’s housing status when leaving a 
+service. We are funding research to inform 
+ways of working in the delivery of hospital 
+discharge and primary care services, due for 
+publication in 2018 and 2019. 
+
+We will be actively promoting the 
+learning from this research to feed into 
+effective hospital discharge models, in 
+partnership with the health service. This 
+will be promoted in the 83 Rough 
+Sleeping Initiative areas. 
+
+87. Building on this, from 1st October 2018, the 
+Duty to Refer will help strengthen links on 
+rough sleeping between health 
+organisations and local authorities.
+
+Prisons, Probation and the Criminal Justice 
+System.
+
+88. There are already initiatives underway to 
+support offenders into accommodation 
+and reduce the risk of those individuals 
+reoffending. The government invests 
+approximately £63 million per annum into 
+accommodation for offenders, housing 
+nearly 2,800 people at any one time. We 
+have been leading on options to improve 
+the support prisoners receive from 
+Department for Work and Pensions Prison 
+Work Coaches and prison staff to make 
+benefit claims prior to release. Despite this, 
+in 2016-17 30% of adult prisoners under 
+supervision from Community Rehabilitation 
+Companies (excluding London)xxvii were 
+discharged to unsettled or unknown 
+accommodation on their first night of 
+release. If we are to end rough sleeping we 
+need to change the way people leaving 
+prison are supported into accommodation. 
+This means planning early for their release, 
+working in partnership with the relevant 
+housing authority and providing support to 
+
+Stockport Homes: Lisa
+
+Lisa attended A&E in January 2017 for a fractured 
+limb and, whilst there, disclosed that she did not 
+have anywhere safe to return home to. Lisa was 
+visited on the same day by an advocate who got 
+to know her housing and social situation. 
+
+Lisa’s injury was the result of an abusive 
+relationship. She had very poor mental health and 
+was serving a prison license for drugs offences. 
+Having a joint account with her partner meant 
+that Lisa had no independent financial means. 
+
+The hospital advocate worked with the hospital 
+discharge coordinator to be able to find suitable 
+short-term accommodation in time to prevent 
+delayed discharge. 
+
+She was discharged into temporary 
+accommodation and stayed there for four months 
+where she was supported by her project worker, 
+
+alongside her hospital advocate, to access 
+appropriate benefits, sign up to a GP and undergo 
+a mental health assessment, as well as receiving 
+support from the Psychological Medicines team. 
+
+She struggled in temporary accommodation and 
+was supported to apply for social housing, 
+including her medical information so that she 
+could be prioritised. She has since accepted a 
+social housing property, receiving support to move 
+through a volunteer removals company, cleaning 
+service and furniture recycling scheme. The 
+hospital advocate continued to support Lisa for 
+a further month to help her to settle in, sign up to 
+a new GP, set up home bills and create a positive 
+attachment to her new home. The Psychological 
+Medicines team are still providing outreach to Lisa 
+who has been settled in her property now for 
+six months. 
+
+ Chapter 3 | Prevention 33
+
+
+
+
+access benefits or maintain previous 
+tenancies. Providing offenders with the right 
+accommodation on release is key to 
+reducing reoffending levels. We are 
+therefore keen to launch new pilots which 
+will support offenders who have been 
+identified as being at risk of rough sleeping 
+on release. We want to use any information 
+gathered to inform the future provision of 
+accommodation for ex-offenders.
+
+We will invest £3.2 million per year for 
+two years to launch pilots in a small 
+number of resettlement prisons in 
+England. The pilots will start in April 
+2019 and will run for two years. 
+
+89. The pilots will test a new partnership 
+approach with prisons, the National 
+Probation Service, Community 
+Rehabilitation Companies, and local 
+authorities working together to plan, secure 
+and sustain accommodation for offenders 
+on their release. Building on lessons learnt 
+from the voluntary sector, the pilots will 
+deliver wrap-around support, to help 
+offenders sustain their accommodation and 
+reduce their likelihood of reoffending. To 
+ensure that the pilots are successful, we will 
+introduce in-reach officers in the pilot sites. 
+The in-reach officers will work with prisons 
+and probation to facilitate effective 
+engagement and to ensure that appropriate 
+options and support are provided to help 
+sustain accommodation. 
+
+90. Another area of concern cited by the 
+Advisory Panel is about offender access to 
+benefits given their lack of access to the 
+internet. The Department for Work and 
+Pensions and Ministry of Justice are working 
+together to improve prisoners’ access to 
+Universal Credit (UC) on leaving prison.  
+
+This includes:
+
+• Increasing the level of prisoner engagement 
+with Prison Work Coaches;
+
+• Supporting prisoners to begin the UC claim 
+in prison;
+
+• Continuing our work to support prisoners to 
+open bank accounts in prison; and
+
+• Supporting prisoners to verify their identity 
+for UC purposes. 
+
+We are planning to trial this improved 
+process in late August 2018 in both 
+public (HMP Wayland & Norwich) and 
+contracted prisons (HMP Birmingham); 
+and to implement the new process in the 
+autumn 2018.
+
+91. This work sits within the context of a wider 
+national partnership agreement that 
+Ministry of Justice will establish with the 
+Department for Work and Pensions, which 
+sets out clear roles and responsibilities for 
+the various bodies involved in getting more 
+ex-offenders into employment and 
+accessing benefits in the future across 
+England and Wales. Earlier this year the 
+Ministry of Justice published the Education 
+and Employment strategy which sets out 
+how each prisoner will be set on a path to 
+employment from the outset. These reforms 
+will empower governors to commission 
+bespoke, innovative education provision 
+which meets the needs of their prisoners 
+and links to employment opportunities on 
+release.  Employers will be engaged and 
+persuaded to take on ex offenders via the 
+New Futures Network (NFN) and governors 
+and employers have been consulted on 
+proposals to increase the use of release on 
+temporary licence to enhance employment 
+opportunities.
+
+34 Chapter 3 | Prevention
+
+
+
+
+We are further improving the support 
+available to prisoners prior to release by 
+providing assistance to offenders to help 
+them access benefits and employment 
+support.
+
+92. Increasing accountability is also key to 
+ensuring prisoners are supported into 
+suitable accommodation, and will help 
+to break the cycle of reoffending.
+
+We intend to introduce an 
+‘accommodation on release’ 
+performance metric for prison Governors 
+from 2019-20, which will be jointly 
+owned with Community Rehabilitation 
+Companies, who are already subject to 
+this performance measure.
+
+93. Government recently published a Female 
+Offenders Strategy and we are shifting  
+our focus from custody to the community. 
+Across government, we are investing 
+£5 million funding over two years in 
+community provision for women. As part  
+of this, we launched an initial £3.5 million 
+grant competition for 2018-19 and  
+2019-20 for community services and  
+multi-agency, whole system approaches.
+
+We will be working with local and 
+national partners to develop a pilot for 
+‘residential women’s centres’ in at least 
+five sites across England and Wales. 
+
+94. As part of the pilot, we want to test 
+intensive residential-based support models 
+in the community that can be used as 
+diversion from custody and to support 
+women to address the underlying causes of 
+their offending behaviour.
+
+95. The aim of the pilot is to develop a robust 
+evidence base about what could be 
+effective, sustainable and scalable models 
+for improving outcomes for female 
+offenders and reducing the numbers and 
+frequency of women entering and re-
+entering custody on short custodial 
+sentences.
+
+96. A process of engagement with local and 
+national partners to refine how the pilot 
+could be designed and delivered is being 
+undertaken and is expected to continue 
+until the end of the year. We are taking a 
+consultative approach to identifying the 
+most suitable sites, and designing and 
+delivering the pilot. 
+
+97. We also recognise that this group may often 
+have multiple and complex needs which 
+requires partnership work at the local level. 
+
+We will be working across government 
+and with other national and local 
+partners to develop a National 
+Concordat on Female Offenders. 
+
+98. This will set out how local partners and 
+services should be working together in 
+partnership to identify and respond to the 
+often multiple and complex needs of 
+women as they journey through the 
+Criminal Justice System. We aim to publish 
+this by the end of 2018.
+
+The care system 
+
+99. Approximately 10% of people sleeping 
+rough in London today were in care as a 
+child.xxviii Given that fewer than 1% of 
+children under 18 are in carexxix , this 
+indicates how vital it is to ensure these 
+young people have the right support and 
+skills to live independently in later life. To 
+achieve this we have already taken some 
+important steps, including the successful 
+
+ Chapter 3 | Prevention 35
+
+
+
+
+Staying Put programme which has helped 
+young people to stay in foster care for 
+longer. We have also invested nearly £6 
+million to pilot Staying Close which supports 
+young people leaving care.
+
+100. In line with this government’s commitment 
+to bringing new forms of investment into 
+the sector, we are committing £5 million to 
+pilot three Social Impact Bonds for care 
+leavers. These will include accommodation 
+outcomes and be launched in autumn 2018.
+
+101. A key plank of the support government has 
+put in place for care leavers is to require local 
+authorities to appoint personal advisors. 
+Personal advisors help care leavers transition 
+into adulthood and live independently by 
+helping them access the support they need 
+from mainstream services. In April 2018, we 
+extended personal advisor support for all 
+care leavers up to age 25, should they 
+choose to access the support. We have also 
+placed a duty on local authorities to publish 
+information (their ‘Local Offer’) on how they 
+support care leavers, including for instance 
+via exemptions from Council Tax. 
+
+102. However, we want to go further and ensure 
+that areas with the highest number of 
+young care leavers at risk of rough sleeping 
+get more intensive support. The Advisory 
+Panel also recommended this approach.
+
+We will fund £3.2 million in 47 areas to 
+employ specialist personal advisers to 
+provide intensive support, appropriate  
+to their needs, to the most at-risk care 
+leavers in their area.
+
+Welfare 
+
+103. The welfare system forms an important 
+safety net that helps prevent, intervene in, 
+and support recovery from rough sleeping. 
+This includes the provision of financial 
+support from the benefits system. Support 
+to help meet the cost of housing is a 
+significant part of this, with the government 
+spending over £24 billion a year on Housing 
+Benefit. We have already made a number of 
+significant changes recently to improve the 
+support we provide to vulnerable claimants, 
+including people who sleep rough. These 
+include: 
+
+• the abolition of housing cost restrictions for 
+18–21 year olds, announced in March this 
+year, to ensure that there are no unintended 
+barriers to young people accessing housing 
+and getting into work;
+
+• providing around £1 billion in Discretionary 
+Housing Payments to local authorities to 
+support households who are in need of 
+further financial assistance with their 
+housing costs;
+
+• increasing Targeted Affordability Funding  
+by £125 million between 2018-19 and 
+2019-20, to support benefit claimants living 
+in areas where private rents have been rising 
+fastest;
+
+• a two week ‘Transition to Universal Credit 
+Housing Payment’ is now awarded to 
+Housing Benefit claimants who move on to 
+Universal Credit. This payment comprises 
+two additional weeks of Housing Benefit 
+entitlement from the start date of the 
+Universal Credit claim. 
+
+104. There have been a number of reforms to the 
+welfare system over recent years that have 
+been designed to create a welfare system 
+that supports the most vulnerable, helps 
+to support people into work wherever 
+possible, and is fair to the taxpayer. It is 
+clear that the highly complex needs of some 
+people who sleep rough can make it difficult 
+for them to navigate the welfare system. 
+
+36 Chapter 3 | Prevention
+
+
+
+
+That is why we have designed a number of 
+safeguards, including individualised support 
+from Department for Work and Pensions 
+front line staff with benefit and housing 
+claims and any other problems that may 
+occur. We will continue to keep this sensitive 
+issue under review. 
+
+105. We know that we need to be able to better 
+assess any potential impact of future policy 
+changes on homelessness. Currently, there 
+is no consensus on the best way to do this.
+
+We have committed to conduct a 
+feasibility study - led by MHCLG, and 
+co-funded by the Department for Work 
+and Pensions. The long-term ambition 
+for this research is to develop a 
+quantitative, predictive model (or 
+models) of homelessness and rough 
+sleeping, which can be applied to various 
+policy scenarios, to help assess the 
+impacts of government intervention on 
+levels of homelessness. This will be 
+supported by an evidence review on 
+the broad range of factors that might 
+influence levels of homelessness, from 
+the housing market to welfare systems, 
+as well as individual drivers.
+
+106. In the longer term, government has begun 
+work to look at affordability in the private 
+rented sector, with a view to developing 
+policy options for post-2020 when the current 
+Local Housing Allowance freeze ends.
+
+In order to inform this thinking we want 
+to gather evidence from stakeholders, 
+including the homelessness sector and 
+local authorities, regarding the 
+challenges in local areas and options to 
+address them.
+
+Modern slavery 
+
+107. Government recognises there is a clear 
+potential risk of vulnerable people who are 
+sleeping rough being trafficked. Equally, 
+there is a risk that victims exiting 
+government support through the National 
+Referral Mechanism, particularly where they 
+have no formalised immigration status, may 
+sleep rough and be re-trafficked.
+
+To reduce the number of modern slavery 
+victims at risk of homelessness once they 
+exit central government support, we will 
+extend the period of move on support 
+from 14 to 45 days, significantly 
+increasing the time available for support 
+providers to work with victims to ensure 
+they have safe and secure 
+accommodation to move to before 
+exiting National Referral Mechanism 
+support. We will also be rolling out 
+drop-in hubs for victims leaving the 
+National Referral Mechanism, which will 
+be accessible up to six months after 
+leaving National Referral Mechanism 
+support, providing an opportunity to 
+signpost victims at risk of homelessness 
+to appropriate support. We will roll out 
+these changes at pace by March 2020.
+
+108. In addition, the government is already 
+supporting six pilot local authorities in 
+Birmingham, Croydon, Derby, Leeds, 
+Nottingham and Redbridge with over 
+£1 million in funding from the Controlling 
+Migration Fund to test pathways for victims 
+moving out of National Referral Mechanism 
+support into local communities, and identify 
+best practice that can be promoted 
+nationally.
+
+ Chapter 3 | Prevention 37
+
+
+
+
+Based on the results from the pilots to 
+test pathways for victims moving out of 
+National Referral Mechanism support, 
+we will use learning to inform a national 
+roll-out.
+
+109. To build our understanding of the links 
+between modern slavery and rough 
+sleeping, we will ensure that adequate 
+information is collected on housing status 
+and the needs of victims when they enter 
+the National Referral Mechanism and assess 
+evidence from the Police Transformation 
+Fund on cases related to trafficking or 
+exploitation of people who are homeless. 
+
+110. We also want to work closely with the sector 
+to raise awareness of the links between 
+modern slavery and homelessness. 
+
+We will host a roundtable in autumn 
+2018 with homelessness and anti-slavery 
+organisations to bring together experts 
+on these issues at a national level and 
+identify opportunities to build on the 
+work of regional anti-slavery networks.
+
+111. Victims of modern slavery may also present 
+to services as victims of domestic abuse and 
+the sector stress the importance of 
+supporting victims of both forms of abuse. 
+We are already undertaking a review of the 
+funding and commissioning of domestic 
+abuse services in England, which is being 
+informed by an independent audit of 
+domestic abuse services, led by Ipsos MORI. 
+We also support Women’s Aid to run a 
+project called ‘No Woman Turned Away’, 
+which tracks the journeys of women who 
+have struggled to access domestic abuse 
+services. The data includes evidence of 
+women who have ‘sofa surfed’ or slept 
+
+rough while they waited for domestic  
+abuse support. 
+
+We will draw on all of this data to inform 
+our future approach and to develop 
+person-centred, bespoke interventions 
+which flexibly address individual needs.
+
+38 Chapter 3 | Prevention
+
+
+
+
+ Chapter 3 | Prevention 39
+
+
+
+
+Chapter 4
+
+Intervention
+
+
+
+
+112. Preventing rough sleeping is an essential 
+step in meeting our commitment. Equally as 
+important is ensuring that we are doing 
+everything we can to support the people 
+sleeping rough now to move off the streets, 
+towards recovery and fulfilling lives in our 
+communities. Below we set out a range of 
+work, led by government, which delivers 
+that rapid support and also starts to put in 
+place the building blocks of our 2027 vision. 
+
+The Rough Sleeping Initiative
+
+113. In March this year government announced 
+the launch of the new Rough Sleeping 
+Initiative. The Rough Sleeping Initiative is 
+focused on helping people who are rough 
+sleeping now and leading conversations 
+with local areas and across government to 
+bring about the 2027 vision. The Initiative is 
+made up of an expert team of sector 
+practitioners and policy officials from across 
+local and regional government and the third 
+sector. It is being led by Jeremy Swain, on 
+secondment from his role as Chief Executive 
+of Thames Reach, a leading homelessness 
+charity working with people who are 
+homeless and sleep rough. 
+
+114. This expert team is already working 
+intensively with 83 local areas with the 
+highest number of people who sleep rough, 
+offering their expertise and guidance as well 
+as driving and monitoring progress. As part 
+of this work, the team has allocated £30 
+million funding for 2018-19 to specific 
+initiatives in those areas. This will ensure that 
+services are in place quickly to get people off 
+the streets before the winter period. Over 
+the last few months the team has been 
+working with local areas to create bespoke 
+plans to help people who sleep rough in 
+their areas. These plans are based on our 
+evidence of what works but are diverse and 
+reflect local circumstances. They include:
+
+• A strong focus on the workforce, with 
+provision for more dedicated staff focused 
+on rough sleeping with detailed knowledge 
+of the local population and specialist 
+practitioners who help address their 
+complex needs.  This includes assertive 
+outreach teams, which will work in 
+partnership with local agencies to 
+proactively identify and work with people 
+sleeping rough. In total we are funding over 
+500 new dedicated homelessness workers. 
+Camden, for example, will receive £870,000 
+for a significant expansion of their outreach 
+team to deliver targeted street interventions 
+focusing on hot spot areas, as well as new 
+staff to support people who sleep rough to 
+maintain their own accommodation.
+
+• An additional 1,750 bed spaces to ensure 
+people sleeping rough have a bed, while 
+their wider needs are being addressed. This 
+includes extra emergency accommodation 
+to help people quickly when they most need 
+it and, crucially, also housing-led options to 
+help people stay off the streets. For instance 
+Cornwall will receive over £430,000 for 
+crisis hostel accommodation, cold weather 
+provision and support for the most 
+disengaged individuals with chronic needs.  
+This also includes supporting additional 
+housing-led provision, so that the needs of 
+people sleeping rough can be met more 
+flexibly by increasing their choice and 
+control over the options available. For 
+instance, Leicester’s allocation of £265,043 
+includes £175,000 for ‘Action Homeless’  
+an innovative housing-led scheme.
+
+• Strong partnerships with the third sector 
+and charities which are fundamental to the 
+delivery of rough sleeping services. 
+
+ Chapter 4 | Intervention 41
+
+
+
+
+Rough Sleeping Initiative: Bournemouth
+
+In the November 2017 rough sleeper count, 
+48 people were recorded sleeping on the streets 
+of Bournemouth, a figure which is projected to 
+continue to rise during 2018, without 
+intervention. Bournemouth Borough Council and 
+their delivery partners are committed to reducing 
+rough sleeper numbers and to providing support 
+and accommodation which enables routes away 
+from the streets for homeless people.
+
+The Rough Sleeping Initiative has worked with 
+Bournemouth Borough Council and its delivery 
+partners to co-produce a range of funded 
+interventions to meet the needs of rough sleepers 
+in the area and we were delighted to award a 
+grant of £387,500 for 2018–19 to fund:
+
+• A project co-ordinator – raising the 
+prominence of initiatives to end rough 
+sleeping and ensuring delivery of the 
+programme.
+
+• 4 assertive rough sleeping outreach workers, 
+focused on engagement with people on the 
+
+streets, enabling reconnection and access to 
+sustainable, supported accommodation.
+
+• 5 units of supported Housing First 
+accommodation.
+
+• Specialist psychological support, working 
+with those who have experienced complex 
+trauma, and increasing staff resilience and 
+skills.
+
+• An iInitiative to increase access to the private 
+rented sector, supporting landlords to accept 
+tenants with a background of homelessness 
+with social needs.
+
+• A duty to refer coordinator, increasing the 
+emphasis on prevention of homelessness 
+through the Homelessness Reduction Act as 
+people leave hospital or prison.
+
+Against the prevailing rise in numbers, 
+Bournemouth’s aspiration is to reduce local  
+rough sleeping by at least 33% this winter when 
+compared with figures for those sleeping on the 
+streets last winter.
+
+42 Chapter 4 | Intervention
+
+115. Schemes will also support a broad range  
+of particular groups, for whom  
+mainstream services are not always suitable. 
+The Advisory Panel highlighted the 
+importance of this, in particular for women. 
+This includes:
+
+• Southwark, who are receiving £615,000 
+which includes funding a worker,  
+through Solace Women’s Aid, who will  
+work with offenders who have experienced 
+domestic abuse; 
+
+• Westminster who are receiving £534,466 
+to provide contained accommodation for 
+women and couples in a psychologically 
+informed environment; 
+
+• Medway, who are receiving £410,416, 
+which includes a specialist mental 
+
+health worker to work with people who 
+have experienced domestic abuse, and 
+other health issues, as well as additional 
+housing-led approaches for women and 
+couples;
+
+• Manchester, who are receiving £418,088, 
+which includes funding for specialist staff 
+working with young people, as well as peer 
+support for people at risk of rough sleeping 
+on leaving prison; 
+
+• Southend-on-Sea, who are receiving 
+£425,325, which includes funding for  
+an expansion of housing-led interventions 
+for older men with complex needs, and 
+additional outreach staff including 
+specialists in mental health and domestic 
+abuse; and
+
+
+
+
+• £5,000 to pilot a new dog kennel facility in 
+Portsmouth, linked to the Homeless Night 
+Service, in recognition that many people 
+who sleep rough with animals may be 
+unwilling to use accommodation that will 
+not allow pets. 
+
+116. The work of the Rough Sleeping Initiative 
+is essential to ensuring people who sleep 
+rough are supported to leave the dangers  
+of the streets behind them. This important 
+work will need to respond to emerging 
+challenges and make an immediate impact. 
+We know this will need more than 
+12 months to truly make an impact.
+
+We can confirm that the Rough Sleeping 
+Initiative will also receive up to £45 
+million for 2019-20 to continue its vital, 
+targeted, work.
+
+117. Whilst our focus in 2018-19 has been  
+on areas with the highest levels of rough 
+sleeping we recognise that local 
+circumstances change and that many areas 
+need support. So we will work with these 
+83 local areas as well as other areas with a 
+rough sleeping issue and where the local 
+authority and partners have the 
+commitment and determination to reduce 
+and end rough sleeping. Where local 
+authorities are struggling to tackle rough 
+sleeping in their area the Rough Sleeping 
+Initiative will work with them to improve 
+their approach. 
+
+Rough Sleeping Navigators
+
+118. Local systems can often be complex and for 
+some of the people who sleep rough finding 
+a way to access the support they need can 
+be challenging. We want to ensure that 
+everyone can access the support that they 
+are entitled to and prevent people from 
+falling between gaps in local services. 
+Evidence from the homelessness sector and 
+
+the heath service shows the benefit of  
+a navigator approach for people with 
+complex or multiple needs. For this reason 
+we will be providing new funding for 
+navigators who will help people who  
+sleep rough get the right support to access 
+local services.
+
+We will ensure that people sleeping 
+rough can access local systems by 
+providing new funding for rough 
+sleeping navigators.
+
+Pilots of ‘Somewhere Safe to Stay’
+
+119. Our 2027 vision is built around a system 
+where there is a smaller amount of 
+emergency accommodation, but which  
+will rapidly assess the needs of the person  
+in crisis. This is because in 2027 more people 
+will be prevented from rough sleeping and  
+if they do reach a crisis point will be rapidly 
+rehoused. The person will also receive 
+bespoke advice and support and be quickly 
+helped into a stable home. Below we set out 
+how our new Somewhere Safe to Stay 
+Pilots, as recommended by the Advisory 
+Panel, will test this approach. 
+
+120. This builds on the example of the No Second 
+Night Out programme which launched in 
+London in 2011. This model is aimed at 
+people new to the streets and offers support 
+to rapidly identify the issues that led them to 
+sleep rough, for instance financial issues or 
+relationship breakdown. The results have 
+been impressive. 84% of people who slept 
+rough and accessed a No Second Night Out 
+service in 2016-17 did not sleep rough again 
+in the following year. We have funded 
+48 rough sleeping projects through our 
+£20 million Rough Sleeping Grant 
+programme to get the rapid support they 
+need to recover and move on from a rough 
+sleeping crisis. Many of these projects are 
+building on the No Second Night Out 
+
+ Chapter 4 | Intervention 43
+
+
+
+
+approach. Across the first year of the 
+programme over 1,900 individuals have 
+been prevented from rough sleeping and 
+nearly 2,500 individuals have been 
+supported into accommodation.  
+
+121. While the longer-term outcomes are not 
+known, it is clear that more of this type of 
+provision is required: there are only 70 
+spaces per night in London’s No Second 
+Night Out hubs, yet 1,137 people sleep 
+rough on London streets according to the 
+nightly count. We want to understand how 
+this type of provision might work in other 
+parts of the country. Whilst No Second Night 
+Out has delivered great results, it can only 
+support people who have already slept 
+rough. In line with our prevention agenda 
+and as recommended by the Advisory Panel, 
+we think that intervention should happen 
+sooner.
+
+We will be piloting a new Somewhere 
+Safe to Stay service in 15 locations around 
+the country which have high numbers of 
+people who sleep rough. This will be 
+backed with up to £17 million in new 
+funding. We expect that by 2020, these 
+will support up to 6,000 people.
+
+122. Building on the learning from the No 
+Second Night Out programme these pilots 
+will support those new to rough sleeping, 
+but they will also support people who have 
+been identified as being at risk of sleeping 
+rough. These assessment centres will offer 
+bespoke support tailored to people’s needs. 
+This could include advice and support on 
+issues such as personal finances or 
+immigration status. 
+
+Hostels
+
+123. Hostels are, and will undoubtedly remain, 
+an important part of our response to rough 
+sleeping, in particular as part of an 
+emergency solution. We strongly support 
+the hostel sector which is why we recently 
+announced that we will maintain Housing 
+Benefit for housing costs in supported 
+housing, which includes hostels but also 
+other vital provision such as refuges. We will 
+also work with the sector on developing a 
+sound and robust oversight regime, 
+ensuring all vulnerable people are entering 
+into a hostel or refuge that is of a good 
+quality and able to meet their needs. 
+
+124. There is an enormous variety of hostels 
+which range considerably in size and 
+scope, with some providing services for 
+specific groups such as young people or 
+women and others having more generic 
+functions. We are aware that many 
+providers would like to see improved and 
+more rapid move on from hostels. The 
+evidence we do have concerning 
+movement out of hostels and back to the 
+street suggests that there is room for 
+improvement in this area. We want to 
+understand more about what  
+type of hostels achieve the best results in 
+terms of helping people move past rough 
+sleeping and address associated issues 
+such as substance misuse and mental 
+health issues which frequently contribute  
+to repeat homelessness. We also want to 
+understand whether there are particular 
+cohorts who are particularly suited or 
+unsuited to hostel type accommodation. 
+We would also like to understand how 
+government can support the valuable work 
+of hostels, and ensure that there is an 
+appropriate pathway after the immediate 
+emergency is dealt with. 
+
+44 Chapter 4 | Intervention
+
+
+
+
+We will be working closely with local 
+authorities, providers, hostel residents 
+and other stakeholders to launch a 
+review of hostels focussed on capacity, 
+quality and outcomes. We will be 
+working with the sector to outline this 
+work this year with the full review 
+commencing in spring 2019. 
+
+125. The hostel workforce does an incredible job 
+under difficult conditions. Consequently 
+under the Rough Sleeping Initiative we have 
+funded a number of ‘in-reach’ posts which 
+are intended to give greater capacity to 
+hostels through dedicated staff being linked 
+to hostels who can focus on helping 
+residents move on from the hostel into more 
+independent accommodation. The impact 
+of these posts will be carefully analysed with 
+a view to rolling-out this approach, should it 
+prove effective. 
+
+126. We are determined that staff have all the 
+skills and support they need - an area 
+highlighted by the Advisory Panel. A key 
+element of this offer is the new London 
+Training Academy which will offer bespoke 
+training to people working with people who 
+sleep rough, with a focus on training for 
+people recruited via the Rough Sleeping 
+Initiative. However, we recognise the need 
+for more support for people working with 
+those who sleep rough and will therefore  
+be working with the sector to deliver 
+additional training. 
+
+New training will include: 
+•  new specific packages focussed on 
+
+identifying and supporting vulnerable 
+groups, including victims of modern 
+slavery and domestic abuse;
+
+•  training and non-statutory guidance 
+around LGBT issues and how to most 
+effectively support individuals; 
+
+•  training for front-line staff on how to 
+deal with unpredictable environments, 
+for instance with clients under the 
+influence of New Psychoactive 
+Substances such as Spice; and
+
+•  training for staff on how to support 
+non-UK nationals, including ensuring 
+they access the full range of support 
+they are entitled to.
+
+People who sleep rough from outside  
+of the UK
+
+127. Many non-UK nationals who sleep rough 
+are in the UK lawfully, and when people are 
+entitled to it – whether they are British or 
+not – it is vital they can access the services 
+they need. People who want to settle in  
+the UK should prepare to find work and 
+accommodation before they arrive here. 
+
+128. We want to ensure that local areas have the 
+tools they need to support non-UK nationals 
+off the streets. Local authorities already do 
+great work to ensure that the people in their 
+areas have access to the right support and 
+we want to help them go further. In order 
+to do this we are launching a new, bespoke 
+fund which will help local areas to develop 
+local solutions to this issue. The types of 
+activity we expect to promote through this 
+new fund include support to access 
+accommodation and employment or to 
+return to their home country voluntarily, 
+where that is the best option for the 
+individual.
+
+ Chapter 4 | Intervention 45
+
+
+
+
+Gerry, 64
+
+“My first husband was abusive but I met my 
+second husband and moved to Australia with him 
+to start a new life. We had a young daughter there. 
+To me it was a paradise, I had my own company, a 
+car, money in the bank and lived with his family. 
+But then in 2001 my sister came to visit me and 
+had an affair with my husband - my marriage and 
+my whole world just crumbled, I crumbled.
+
+I started drinking heavily. It got too much and I got 
+sent back to the UK. I went to my council who got 
+me a bed in an emergency hostel. I didn’t like it, 
+the sheets were disgusting, the jam had mould all 
+over it. I started drinking with some people and 
+before I knew it I was rough sleeping. 
+
+I was drinking eight cans of beer a day plus half a 
+bottle of vodka, sleeping in skips. I was surviving 
+to drink and drinking to survive. I’d be in A and E 
+over and over, I’d end up in police cells but at least 
+it was warm and I had a roof over my head. I tried 
+to kill myself on my 50th birthday; luckily a doctor 
+was going past and saved me. But I remember 
+thinking I can’t even kill myself. After some time 
+I collapsed. I went into a coma, on life support. 
+
+I survived and got put in rehab. I started 
+volunteering in Ealing, helping people in hostels 
+get access to services. A commissioner mentioned 
+Groundswell to me and I started working to help 
+people who were homeless get back on their feet. 
+I had always been ashamed of who I was and 
+what I had become. But I realised that all the 
+mistakes I had made, I could use them to help 
+other people. It opened a whole new world to me. 
+I liked myself again; I could feel the respect coming 
+back to me. 
+
+I’ve been at Groundswell for nearly 8 years now, 
+I pay my own rent, my council tax, my own bills. 
+Being back in normal life again, it is a wonderful 
+feeling. I have a home a cat, a garden. Nobody in 
+their right mind makes themselves homeless or 
+addicted to a substance on purpose. I’m one of 
+the lucky ones. I’m happy and I like myself. 
+
+There is an opportunity for everyone out there 
+who thinks they are rubbish. You just need 
+someone somewhere to give you a hand up, 
+a little bit of support, it is achievable.”
+
+We will be launching a new £5 million 
+fund to help local areas take action to 
+help non-UK nationals who sleep rough 
+off the streets.
+
+129. We already fund activity of this type through 
+the Controlling Migration Fund, alongside 
+other schemes which ease pressures on local 
+services resulting from recent migration. 
+We are clear that this Fund will actively 
+encourage bids from local authorities to 
+support non-UK nationals away from the 
+street. This will include help for EEA 
+nationals to return home voluntarily, where 
+they have requested support to do so. The 
+two funds are designed to complement 
+
+each other and we will provide further 
+guidance to local authorities on how they 
+can access the funds and the relationship 
+between them shortly.
+
+The £100 million Controlling Migration 
+Fund will reopen this summer, with an 
+increased focus on bids from local 
+authorities to work with non-UK 
+nationals who sleep rough.
+
+130. The Rough Sleeping Initiative is providing 
+funding to some local authorities to provide 
+specific support to non-UK nationals –  
+for example, Croydon will be providing 
+
+46 Chapter 4 | Intervention
+
+
+
+
+short term accommodation for non-UK 
+nationals while they receive coaching and 
+support to access employment and longer-
+term accommodation, and  
+Wolverhampton will provide specialist 
+support to people sleeping rough who 
+have immigration issues. 
+
+131. We know that frontline staff require 
+different skills and knowledge to work with 
+non-UK nationals who sleep rough, many of 
+whom have complex immigration cases or 
+restricted eligibility for welfare and services. 
+As outlined previously, we will ensure our 
+new training offer equips staff to support 
+non-UK nationals who sleep rough.
+
+132. Where non-UK nationals are sleeping rough 
+and would like to return to their family and 
+support networks in their home country, 
+local authorities and homelessness agencies 
+are able to support this. Immigration 
+Enforcement will continue working in 
+partnership with local agencies to support 
+them in individual cases of people sleeping 
+rough from the EEA and the rest of the 
+world. Non–EEA nationals wishing to return 
+to their home country can apply for 
+assistance from the Home Office’s Voluntary 
+Returns Service. If eligible, support can 
+include arranging and paying for tickets, 
+help with travel documentation, financial 
+support up to £2,000 which can be used to 
+find somewhere to live, a job or start a 
+business. Local authorities can make use 
+of the reconnection service to facilitate 
+voluntary returns and to reconnect EEA 
+nationals with support services in their 
+home country. 
+
+133. Some non-UK nationals who sleep rough 
+need help to resolve their immigration 
+status. One of the Advisory Panel’s 
+recommendations was for targeted 
+casework support to help people with 
+complex immigration cases. Through the 
+Rough Sleeping Initiative we are also aware 
+of reports of individuals who are unable to 
+
+resolve their case, either to stay in this 
+country or return home.
+
+We will therefore provide an additional 
+Rough Sleeping Support team to 
+support and resolve the immigration 
+status of non-UK nationals who are 
+sleeping rough.
+
+134. The team will help individuals to regularise 
+their status where they establish a right to 
+remain in the UK, and support them to return 
+home as quickly as possible where this is 
+appropriate. This includes providing a 
+national point of contact for local authorities 
+through Immigration Enforcement’s 
+Command and Control Unit, using a phased 
+approach. We will monitor its use to build our 
+understanding of how the immigration 
+system can support homelessness services to 
+help people off the streets more quickly.
+
+135. We are aware that people who arrive in this 
+country as asylum seekers require assistance 
+to access the mainstream support system if 
+their asylum claim is accepted or to return 
+home if it is refused. We recognise this issue 
+and are providing £1.75 million from the 
+Controlling Migration Fund for a two-year 
+pilot to support 19 local authorities in 
+England with some of the highest numbers 
+of asylum seekers. This funding will provide 
+local officers to help newly recognised 
+refugees to transition into mainstream 
+society during and after they move on from 
+government-supported accommodation. 
+This will complement work already 
+underway to smooth their access to the 
+mainstream benefits system, for example 
+through arranging an early appointment 
+with their local job centre and ensuring that 
+they have all the documentation they need 
+to access the benefits they are entitled to 
+and begin their search for employment.
+
+ Chapter 4 | Intervention 47
+
+
+
+
+136. We know this a complex issue and we 
+recognise there is more work to do to 
+support non-UK nationals off the streets.  
+We will keep this strategy under review and 
+continue to develop work around how we 
+support non-UK nationals off the streets. To 
+do this we will need to work in partnership 
+across government, front-line services, local 
+authorities and the sector.
+
+We will be setting up a cross-government 
+working group to explore these issues in 
+detail with the results feeding into our 
+approach in forthcoming rough sleeping 
+strategy updates. It will meet regularly 
+from autumn 2018.
+
+137. This group will explore the drivers of rough 
+sleeping among non-UK nationals, drawing 
+on evidence from external partners where 
+necessary, highlight existing good practice 
+and bring forward new steps to go further 
+to prevent and reduce rough sleeping 
+among this group. 
+
+Victims of domestic abuse
+
+138. We are absolutely committed to protecting 
+victims of domestic abuse. Since 2014 we 
+have invested £33.5 million in services that 
+support victims of domestic abuse and have 
+published our Priorities for Domestic Abuse 
+Services outlining our expectations of local 
+authorities in commissioning these services. 
+Our 2016–2018 fund for domestic abuse 
+services provided £20 million to 80 projects 
+across the country to help support the 
+creation of more than 2,200 bed spaces  
+and give support to over 19,000 victims  
+of domestic abuse. We recently launched  
+a further £18.8 million fund for domestic 
+abuse services, including refuges. This new 
+fund is open to all local areas across England 
+
+to bid for a share. Our updated priorities are 
+clear that local areas should respond to the 
+needs of all domestic abuse victims including 
+disabled, BME, LGBT and older people. 
+
+139. We are currently carrying out a review of 
+how domestic abuse services are 
+commissioned and delivered locally. To 
+inform this review, we commissioned Ipsos 
+MORI to lead an audit of local authority 
+commissioned domestic abuse services to 
+understand what impact services are having 
+and to identify gaps in provision. The audit 
+has now concluded and a final report of the 
+findings will be published in due course.
+
+Meeting the health needs of people who 
+sleep rough now
+
+140. The NHS has embarked on a major 
+transformation of mental health services, 
+with a significant programme of investment 
+and expansion underway with the Mental 
+Health Five Year Forward View, including 
+the ambition to increase the number of 
+patients being treated by one million a year 
+by 2020-21 and increase the mental health 
+workforce by 21,000 over the same period.
+
+141. The Advisory Panel stressed the importance 
+of targeted health support to help people 
+on the streets now. They pointed to models 
+of integrated care where health 
+professionals, in particular those with 
+mental health expertise, were working hand 
+in hand with outreach teams and hostels to 
+actively identify and support people who are 
+rough sleeping. This included support to 
+access community health services. 
+
+48 Chapter 4 | Intervention
+
+
+
+
+In 2018-19 we will provide up to  
+£2 million in health funding to test 
+models of community-based provision 
+designed to enable access to health and 
+support services for people who are 
+sleeping rough. This will include services 
+to support people with both mental ill 
+health and substance misuse issues.
+
+142. However, we do not have a clear enough 
+view of the gaps in health provision for 
+people who are sleeping rough around the 
+country. To inform future commissioning 
+and ensure the health and care system 
+meets need, we recognise we need a clearer 
+picture of any gaps there are. 
+
+We will begin a rapid audit of provision 
+targeted at people who sleep rough that 
+can be used to inform future 
+commissioning decisions. 
+
+143. We also want to ensure mainstream 
+provision can meet the needs of people who 
+sleep rough. Access to primary care remains 
+a challenge for people sleeping rough. 
+Reducing inequalities in access to general 
+practices is one of the seven principles of  
+the General Practice Forward View and 
+underpins care redesign. Resources for 
+general practice commissioners and 
+providers encourage organisations to 
+recognise the challenges faced by people 
+experiencing homelessness in accessing  
+and benefiting from the care on offer.
+
+We will host a round table in August 
+2018 to discuss what further action is 
+needed to improve access to primary 
+care for people who sleep rough. It will 
+also discuss monitoring progress 
+towards reducing inequalities. 
+
+144. We are also concerned by reports about the 
+lack of quality care for homeless people at 
+the end of their lives. Support for localities  
+to improve end of life care for vulnerable 
+groups, including people experiencing 
+homelessness, has been commissioned 
+from the Voluntary, Community and Social 
+Enterprise Health and Wellbeing Alliance, 
+due for publication in summer 2018. 
+
+Guidance on care for homeless people 
+at the end of their lives will be promoted 
+through the Ambitions for Palliative and 
+End of Life Care Partnership and wider 
+stakeholders made up of organisations 
+from across the healthcare and third 
+sectors, including NHS England.
+
+145. In developing a long-term NHS plan, 
+supported by a new funding settlement 
+from government, new objectives for 
+reducing health inequalities are needed if 
+we are to address the different life 
+expectancies of people who are rough 
+sleeping or experiencing other forms of 
+homelessness. This will include setting out 
+the barriers to accessing health services that 
+exist for these vulnerable groups, and how 
+reducing inequalities will be built into each 
+programme. 
+
+146. Over the early autumn, NHS England will  
+be discussing options with organisations 
+representing and supporting people who 
+are experiencing homelessness and people 
+with personal experience of rough sleeping, 
+before taking decisions on funding. 
+
+Drawing on this work, we have asked 
+the NHS to spend up to £30 million on 
+health services for people who sleep 
+rough, over the next five years.
+
+ Chapter 4 | Intervention 49
+
+
+
+
+Tackling street activity
+
+147. Rough sleeping is the most visible form of 
+homelessness and street activity such as 
+begging, street drinking, street based drug 
+use and street based sex work can be more 
+visible again, often causing concerns for 
+local communities. People engaged in street 
+activity will not always be sleeping rough, 
+however as with people who sleep rough 
+they will have a range of housing and 
+support needs and will often be vulnerable 
+or contributing to the vulnerability of others.
+
+148. Providing effective services for people who 
+are street active is challenging and complex 
+but will be necessary in terms of addressing 
+public perception around levels of rough 
+sleeping. We want to work more closely 
+with the voluntary sector, community 
+groups and local authorities so that 
+immediate and longer term support is 
+provided to enable people to move away 
+from street based life styles. 
+
+149. This will require new partnerships in many 
+areas that harness the good will, energy and 
+resources available to tackle the problem 
+locally. These partnerships will need to be 
+based on open and honest conversations 
+about the challenges of tackling street 
+activity and rough sleeping, finding shared 
+solutions that maximize the positive impact 
+that all groups and organisations can have. 
+This might mean asking a community group 
+with members who have lived experience  
+to engage with clients who are refusing 
+interventions from statutory services or 
+encouraging a faith based group to provide 
+immediate support such as food and 
+advocacy in a building-based setting rather 
+than on the street. 
+
+We will be working with local authorities 
+and their partners to tackle street activity 
+as part of the Rough Sleeping Initiative 
+work.
+
+Drug and alcohol misuse
+
+150. Drug and alcohol misuse affects a large 
+number of people who sleep rough,  
+and can be both a cause and consequence 
+of homelessness. One important angle is 
+ensuring access to treatment services for 
+people who misuse drugs and alcohol. But  
+it is also essential that we take action to 
+restrict the supply of harmful drugs and 
+tackle anti-social practices such as street 
+drinking which we know can act as a draw 
+to the streets.
+
+151. We also know the use of New Psychoactive 
+Substances including synthetic cannabinoids 
+such as those supplied under the brand name 
+‘Spice’ is particularly prevalent amongst 
+people who sleep rough. Misuse of these 
+substances in particular can be challenging 
+and dangerous for the people who work 
+with those who sleep rough. We have 
+controlled synthetic cannabinoids as Class B 
+drugs under the Misuse of Drugs Act and 
+given the police the powers they need to take 
+action. In the 2017 Drug Strategy, the 
+government committed to working with the 
+homelessness sector to address the misuse  
+of New Psychoactive Substances among the 
+homeless population, including those in 
+hostels and supported accommodation. 
+We have already commissioned the Advisory 
+Council on the Misuse of Drugs (ACMD) to 
+provide advice on the risks and factors that 
+cause vulnerable people to misuse drugs. 
+When the ACMD report back later this year 
+we will consider what further steps the 
+government should take to protect these 
+groups. We have set out how we are 
+introducing new training for frontline staff 
+working with people under the influence  
+of these drugs. 
+
+152. We are also tackling the issue of street 
+drinking. Research by academics at 
+Heriot Watt University found that 53%  
+of the homeless people with other needs 
+surveyed were street drinkers.xxx In recent 
+years we have worked with 13 areas to 
+
+50 Chapter 4 | Intervention
+
+
+
+
+tackle problems with street drinking. For 
+example, Merton in London and Hastings 
+operate multi-agency case planning groups 
+that include local housing providers. In 
+Wisbech it is recognised that street drinkers 
+often see housing as their first priority and 
+so outreach workers operate in close 
+partnership with the local night shelter  
+and the temporary housing team. 
+
+We want to build on learning and 
+findings from our recent work in local 
+areas to tackle street drinking into the 
+government’s new alcohol strategy, 
+currently in development. One of its 
+main themes will be support for 
+vulnerable people.
+
+How the police can support people who sleep 
+rough to access help
+
+153. The police have an important role to play in 
+local partnership working to prevent and 
+tackle rough sleeping. The police are 
+responsible for ensuring community safety 
+and tackling crime that may be perpetrated 
+either by or against individuals rough 
+sleeping, as well as responding to 
+vulnerabilities that are particularly acute 
+among those at risk of homelessness.
+
+154. The Association of Police and Crime 
+Commissioners are supportive of our 
+determination to help people off the streets. 
+The Association of Police and Crime 
+Commissioners have committed to drive this 
+issue nationally through better join up of 
+relevant national portfolio leads, including 
+the Police and Crime Commissioners who 
+coordinate activity on Local Partnerships  
+and Policing, Alcohol and Substance Misuse 
+and Mental Health and Custody.
+
+Ministers and the Association of Police 
+and Crime Commissioners will host a 
+roundtable event in autumn 2018, to 
+encourage leadership on rough sleeping 
+from Police and Crime Commissioners 
+and across the wider police to drive 
+collaboration and sharing of best 
+practice. This will initially focus on the 83 
+Rough Sleeping Initiative areas.
+
+155. The National Police Chiefs’ Council have 
+also taken a strong leadership role in 
+support of reducing homelessness, 
+including through the appointment of a 
+national lead on homelessness. Through the 
+National Police Chiefs’ Council lead, police 
+forces are identifying best practice of how 
+police are working effectively with local 
+authorities to reduce homelessness and 
+manage associated crime and vulnerability 
+risks. This is being trialled through a project 
+in Brighton and Hove. Over the next year, 
+the project will test how the police identify 
+those at risk of homelessness, the action 
+taken to refer individuals, and how 
+information sharing can be improved to 
+prevent poor outcomes for vulnerable 
+individuals.
+
+ Chapter 4 | Intervention 51
+
+
+
+
+StreetLink
+
+156. We know that rough sleeping is an issue 
+that the general public feels strongly about 
+and many, rightly, want to help. This is why 
+we launched the StreetLink service in 2012, 
+which enables members of the public to link 
+people they have seen sleeping rough to 
+local services. This is a vital tool for the 
+outreach teams that work to connect 
+people who sleep rough with services. We 
+have provided £300,000 per year to fund 
+the StreetLink service since it was 
+established. Over this period, the service has 
+received 218,422 alerts from the general 
+public. As a result, over 26,000 individuals 
+were found by outreach teams and over 
+22,000 individuals were supported into 
+accommodation or services and its reach is 
+growing. Last year over the winter period 
+over 100,000 new people joined StreetLink. 
+
+157. The Advisory Panel was clear that they 
+wanted to see further support for the 
+platform. However we believe that there is 
+
+potential to build on the StreetLink 
+approach. We are keen to empower 
+businesses to give something meaningful 
+back to their communities, to help 
+community groups to work together more 
+easily, and to make it easier for everyone 
+who wants to donate their time, skills or 
+resources in a meaningful way. 
+
+We will be launching a new online 
+platform to help individuals, community 
+groups and businesses support people 
+who sleep rough off the streets for good. 
+
+158. This will include StreetLink and also contain 
+options for alternative giving to help 
+members of the public support 
+organisations that help people off the 
+streets. We will continue to fund StreetLink 
+in the interim and will procure the new 
+platform by spring 2020.
+
+StreetLink, Tom
+
+Tom* had his own flat from 2011 until he was 
+evicted in 2014 for not paying his rent. He was 
+receiving Housing Benefit directly but spending it 
+elsewhere due to lack of budgeting skills and an 
+addiction to Spice. From that point, Tom started 
+sleeping rough in central London, begging and 
+relying on day centres for showers and food.
+
+A member of the public noticed Tom sleeping out 
+one evening and used StreetLink to send an alert 
+to connect him to the local outreach team; the 
+first step in the process of providing an individual 
+with support to end their homelessness. The 
+outreach team were able to locate Tom from the 
+information given in the referral and, having 
+spoken with him, set up an assessment that led  
+to him being placed into a hostel.
+
+An infection that Tom had picked up, alongside 
+other health issues, resulted in a referral from the 
+first hostel to another more suited to his needs, 
+
+where he lived for two years. While in the hostel, 
+Tom was able to begin his recovery, gaining a 
+renewed self-confidence, and receiving support 
+to arrange services and documents such as a 
+passport and a new bank account. Tom also 
+started attending courses, to help develop his 
+skills, build his CV and gain some IT experience, 
+given his interest in computers.
+
+Tom continues to recover while receiving support 
+to move away from homelessness for good. 
+According to Tom “I really didn’t know how to get 
+myself off the streets at the time. I’d like to thank 
+the person who referred me to StreetLink because 
+they really did help me out a lot. Now I have 
+security and I know I have a bed to come back to 
+and I don’t have to worry about being on the 
+streets. If they hadn’t referred me, I’m pretty sure I 
+would still be homeless at this point in time.”
+
+*The name of the individual has been changed.
+
+52 Chapter 4 | Intervention
+
+
+.
+
+
+ Chapter 4 | Intervention 53
+
+
+
+
+Chapter 5
+
+Recovery
+
+
+
+
+159. In previous chapters we have outlined how 
+we are putting in place new structures to 
+ensure people who sleep rough are 
+supported off the streets, through our new 
+rapid rehousing approach. As part of this we 
+are funding new outreach workers and 
+emergency provision through the Rough 
+Sleeping Initiative and our new Somewhere 
+Safe to Stay pilots will ensure people are 
+assessed quickly and supported into an 
+appropriate pathway of support. This work 
+goes hand in hand with new commitments 
+from across government to help people 
+who sleep rough overcome any issues, be 
+that by addressing their health needs or 
+immigration status or help to find 
+employment.
+
+160. We have been clear that at the end of this 
+pathway is a safe and secure home, with 
+appropriate support offered alongside. We 
+know this is key to a person’s recovery. 
+However, currently many people who are 
+ready to move on from hostels and other 
+forms of emergency accommodation are 
+unable to do so because of a lack of suitable 
+move on accommodation. This chapter 
+outlines how we will make sure there are 
+suitable homes available to people to move 
+on from rough sleeping. It also outlines how 
+we will ensure that individuals get the right 
+support to maintain their tenancies and are 
+given opportunities to sustain their recovery 
+in the long term, for instance through 
+employment and in their local communities. 
+
+Work to boost supply
+
+161. Since 2010 we have built 378,000 
+affordable homes. This is more than the 
+previous government built in the preceding 
+seven years. Affordable housing remains the 
+government’s priority which is why in June 
+we announced a multi-billion pound boost 
+to social housing across England. Around 
+23,000 new affordable homes will be 
+delivered through a £1.67 billion 
+government investment deal. This will 
+include at least 12,500 social rent homes 
+
+in high cost areas. This is part of the 
+government’s £9 billion investment in 
+affordable homes.
+
+162. We have also heralded a new generation of 
+council housing by inviting local authorities 
+to bid for a share of £1 billion extra 
+borrowing to build much needed homes. 
+This will be split equally between London 
+and the rest of England and will focus on 
+building homes where they are needed 
+most.
+
+163. This is just part of our wider work to build 
+the homes this country needs. At Autumn 
+Budget, we announced further reforms to 
+tackle our broken housing market which 
+included planning reforms to ensure more 
+land is available for housing and launching 
+Homes England.
+
+164. However, beyond this we also recognise the 
+need for accommodation which meets the 
+specific needs of people who sleep rough, 
+which is tailored, appropriate and 
+sustainable. Below we outline how we are 
+doing just that.
+
+Housing First
+
+165. For people with complex needs we have 
+already shown our commitment to Housing 
+First by announcing £28 million of funding 
+for three pilots. International evidence 
+shows this could be a vital tool to meet the 
+needs of people sleeping rough with 
+complex needs and we are keen to learn 
+more about how this could work on a larger 
+scale, within the UK’s housing system.
+
+We will undertake an extensive and 
+robust evaluation of Housing First and will 
+ensure that all learning from these pilots 
+will be used to inform decisions on roll-
+out. We will also publish interim findings 
+which will inform future work. The 
+evaluation will begin in autumn 2018. 
+
+ Chapter 5 | Recovery 55
+
+
+
+
+166. We are also keen to understand more  
+clearly what financial model would make 
+Housing First viable in this country and how 
+these models might interact with the 
+benefits system.
+
+We are exploring the introduction  
+of an exemption from the Shared 
+Accommodation Rate for the 
+government-backed pilots of Housing 
+First. Any learning from this will be 
+captured through the planned evaluation 
+of the pilots, and factored in to potential 
+further roll-outs of Housing First.
+
+167. It is crucial to the success of a rapid 
+rehousing approach that people who sleep 
+rough have access to housing which is 
+suitable for their needs. This means learning 
+from the evidence as we build it and 
+tailoring an offer that is flexible to the 
+individual. Support is already available, with 
+the current approach offering an exemption 
+from the Shared Accommodation Rate to 
+those aged 25–34 who have been in a 
+homeless hostel which specialises in 
+rehabilitation or resettlement for at least 
+three months cumulatively. As we learn 
+from the evidence, we will explore whether 
+this definition is still the right one.
+
+As we move towards a rapid rehousing 
+approach, we will learn from the 
+evidence and explore whether the 
+current definition of those that have 
+lived in a homeless hostel is still the right 
+one for the purposes of exemption from 
+the Shared Accommodation Rate.
+
+Move On Fund
+
+168. We are aware from conversations with the 
+sector that there is a demand for capital 
+funding to provide homes for people who 
+want to move on from sleeping rough or 
+living in a hostel and who generally have 
+lower needs than a Housing First client. In 
+light of that, we committed £100 million to 
+a Move On Fund, which is aimed at 
+providing affordable housing for those 
+leaving homeless hostels and domestic 
+abuse refuges. £50 million of this has been 
+allocated to the GLA who have been 
+responsible for the implementation of the 
+fund in London. One important piece of 
+feedback from that fund was that providers 
+also needed revenue funding to provide 
+support alongside the home. We have 
+listened carefully and have recently agreed 
+that the GLA can use a proportion of the 
+funding to pay for support costs and they 
+are now working with providers to develop 
+proposals. We are also reflecting this 
+feedback elsewhere by helping providers 
+cover the cost of support through our new 
+Supported Lettings scheme, which is set out 
+later in this chapter. We are now launching 
+the rest of the Move On Fund, based on that 
+learning.
+
+We are launching a prospectus  
+with Homes England for bids for  
+the £50 million Move On Fund outside of 
+London. 
+
+169. We will invite bids for funding to deliver new 
+move on units for people leaving homeless 
+hostels and domestic abuse refuges. Bids 
+will be both for the capital funding to build 
+homes, and importantly for the funding to 
+provide tenancy sustainment support 
+alongside the home.
+
+56 Chapter 5 | Recovery
+
+
+
+
+170. We are clear we want to help deliver new 
+homes for people who sleep rough and see 
+it as critical to our 2027 vision. Learning 
+from the success of the Move On Fund will 
+inform our plans for future capital funding 
+for homes for people who sleep rough
+
+Dormant assets
+
+171. We are also keen to ensure that we foster 
+new parts of the market to bring forward 
+additional new supply for vulnerable 
+people. We have been working closely with 
+Big Society Capital who have developed a 
+strategy for a substantial programme of 
+investment in housing for vulnerable 
+people, including those most at risk of 
+homelessness or rough sleeping. Big Society 
+Capital have identified several opportunities 
+to create innovative investment approaches 
+that will build future opportunities with the 
+potential for large scale impact, including 
+through attracting significant amounts of 
+private capital. For example, new social 
+investment could enable properties for 
+Housing First models.
+
+172. Additionally there are opportunities for Big 
+Society Capital to build on existing models 
+of social investment funds to provide 
+property to charitable and social enterprise 
+organisations working with specific 
+vulnerable groups including domestic abuse 
+victims, ex-offenders and care leavers, to 
+help them move from B&B or hostel type 
+accommodation into more suitable stable 
+accommodation. To illustrate the potential 
+of social investment models, previously  
+a £30 million investment by Big Society 
+Capital in the Resonance property funds 
+catalysed private co-investment enabling 
+£160 million of total investment with the 
+potential to finance 700 homes across 
+London, Bristol, Oxford and Milton Keynes, 
+with plans to grow further.
+
+We have allocated up to £135 million 
+from dormant accounts to social 
+investment, with the majority going 
+towards housing for vulnerable people 
+and the rest being spent on new models 
+of community funding. The first 
+opportunities in this programme will 
+be launched in autumn 2018.
+
+173. This is part of our dormant asset strategy 
+which will see up to £330 million from 
+dormant bank and building society accounts 
+being used over the next four years to help 
+these causes, as well as to promote financial 
+inclusion and help disadvantaged young 
+people reach their potential.
+
+Supported lettings
+
+174. We previously highlighted the Clearing 
+House scheme which provides over 3,750 
+properties for people in London with a 
+history of rough sleeping, a scheme 
+supported by the Advisory Panel. As we set 
+out in our announcement of the Rough 
+Sleeping Initiative in March, we have been 
+working with the National Housing 
+Federation (NHF) to explore the possibility  
+of expanding or replicating this successful 
+scheme outside of London to provide 
+homes for people with low needs leaving 
+hostels or coming directly from the street. 
+We have also spoken to a large number  
+of local areas and housing associations to 
+understand how we might be able to bring 
+forward more homes, either in the social 
+sector or the private rented sector.
+
+175. The majority were very positive about the 
+potential of such an approach in their areas. 
+However, we also understand that there are 
+huge variations in need across the country 
+and that different areas face different 
+challenges in finding the right properties for 
+vulnerable people. Therefore, we want local 
+areas to be free to create local schemes that 
+suit their circumstances. We understand 
+
+ Chapter 5 | Recovery 57
+
+
+
+
+that a lack of support funding is a major 
+barrier to landlords of all types bringing 
+forward properties to those with greater 
+needs, as they do not have confidence that 
+tenants will receive support that will enable 
+them to sustain their tenancies.
+
+We are opening a new Supported 
+Lettings Fund, of up to £19 million, 
+which will fund flexible support and 
+tenancy sustainment for homes provided 
+exclusively for people who sleep rough.
+
+176. This will provide flexible support funding to 
+help over 5,000 people at risk of rough 
+sleeping, over the next two years, to sustain 
+their tenancies in homes across the housing 
+sector. This funding will be for local 
+authorities to support housing associations 
+or private landlords. We hope that this will 
+encourage more landlords to come forward, 
+with the confidence that support will be 
+provided for people to maintain their 
+tenancies. Local areas could also set up 
+schemes similar to Clearing House.
+
+Supported Housing
+
+177. Supported Housing offers a critical life line 
+to people who sleep rough now and will 
+continue to do so in future. It provides 
+crucial accommodation and support for a 
+range of people such as care leavers, victims 
+of domestic abuse, those with substance 
+misuse issues and many others, who find 
+themselves without a home or at risk of 
+homelessness. We are committed to this 
+provision, which delivers essential support 
+and accommodation. This is why we have 
+recently announced that we are maintaining 
+Housing Benefit for all supported housing, 
+and will work with the sector on oversight of 
+quality and value for money. This reflects the 
+particular needs of the vulnerable groups of 
+people who access supported housing, and 
+the government’s commitment to get the 
+
+best possible outcomes for them. We also 
+recognise how important housing related 
+support services are in this sector and are 
+keen to get a full and clear picture of how 
+this is currently working. We will therefore 
+undertake a review of that element in order 
+to better understand how housing and 
+support currently fit together.
+
+We have committed to undertake a 
+review of housing related support 
+services. This will commence in 
+September 2018. 
+
+The Private Rented Sector
+
+178. For many, the private rented sector offers a 
+route out of homelessness and rough 
+sleeping and is a vital part of delivering the 
+homes this country needs. The government 
+is aware that dysfunction in the private 
+rented sector can increase the risk of people 
+becoming homeless. From 2010–14, Crisis 
+managed the Private Rented Sector Access 
+Programme with nearly £11 million in 
+funding. The programme supported over 
+153 bespoke schemes run by the third 
+sector to support homeless people, or those 
+at risk, to access private rented sector 
+tenancies. The evaluation found the 
+programme to be successful – the schemes 
+helped create 8,000 tenancies, with 90% 
+lasting beyond six months. 
+
+179. The government is also delivering a wide 
+range of reforms to rebalance the 
+relationship between landlords and tenants. 
+This will deliver a high-quality, fairer, more 
+secure and more affordable sector for 
+everyone, including those at risk of 
+homelessness and rough sleeping. These 
+reforms include:
+
+• improving affordability through the Tenant 
+Fees Bill which will ban unnecessary fees, 
+saving tenants money and giving them 
+more control over their finances;
+
+58 Chapter 5 | Recovery
+
+
+
+
+• working with the Department of Work and 
+Pensions to consider the long term options 
+around housing benefit;
+
+• supporting longer tenancies through our 
+model tenancy agreement, the build to rent 
+sector, and consulting on the barriers to 
+landlords offering longer tenancies;
+
+• extending Houses in Multiple Occupation 
+(HMO) licensing to address poor conditions 
+and overcrowding in HMOs;
+
+• launching new guidance to ensure landlords 
+and tenants are aware of their rights and 
+responsibilities.
+
+180. A key recommendation from the Advisory 
+Panel was to strengthen engagement with 
+the private rented sector to bring online 
+more homes for people who sleep rough 
+and we are determined to do just that. We 
+want to work with local areas to explore 
+innovative models to ensure that the private 
+rented sector also does its bit to support 
+vulnerable people. 
+
+181. At the 2017 Budget we announced an 
+additional £20 million to fund existing or 
+new schemes that support vulnerable 
+people in accessing or sustaining private 
+rented sector tenancies. We recognise the 
+importance of ensuring that those who 
+sleep rough are supported in accessing 
+properties in the private rented sector. 
+However, it is critical that other people who 
+are homeless, who can also be at risk of 
+sleeping rough, also receive the support 
+they need. 
+
+We will primarily focus the £20 million 
+Private Rented Sector Access Fund on 
+supporting schemes that help single 
+homeless people and families. We will 
+publish further details of our plans later 
+this year.
+
+Local Lettings Agencies
+
+182. We expect the Private Rented Sector Access 
+Fund, Move On and Supported Lettings to 
+support a wide range of schemes. We 
+expect that local lettings agencies should be 
+an important part of this system and will 
+help people navigate their housing options 
+at a local level. Local lettings agencies 
+currently provide a range of services, from 
+property/tenant matching to brokering 
+relationships with local private landlords, 
+and leasing and renting properties directly. 
+This allows individuals to understand their 
+options, make informed choices and take 
+on properties that they may not otherwise 
+be able to access. We think that local 
+lettings agencies have significant potential 
+and are keen to support them to become 
+important parts of our rapid rehousing 
+approach.
+
+We will be opening a new fund to 
+support the set up or extension of local 
+lettings agencies in order to source, 
+identify or provide homes and advice for 
+people who are homeless or at risk of 
+homelessness.
+
+Social Impact Bonds
+
+183. We see Social Impact Bonds as a 
+fundamental part of our 2027 vision and  
+as a result are bringing forward measures to 
+broaden their use now. We are keen to build 
+on our successes and in particular on the 
+great work of the Fair Chance Fund which 
+has provided vital support to young people.
+
+ Chapter 5 | Recovery 59
+
+
+
+
+We will launch a new Social Impact Bond 
+aimed at young people. The Young 
+Futures Fund will be aimed at young 
+people not in education, employment or 
+training (NEET), who are between the 
+ages of 18-24 and are at risk of 
+homelessness and rough sleeping.
+
+184. Government is continually working with local 
+areas as part of our Rough Sleeping Social 
+Impact Bond. As we have been assessing the 
+deliverability of the projects we have made 
+adjustments to the spending profile and the 
+areas involved. Some local authorities are 
+struggling to meet demand for their services, 
+which shows the potential of this approach. 
+We want to help them support more people 
+through these programmes. 
+
+To meet demand for the Rough Sleeping 
+Social Impact Bond programme, we are 
+now providing £1.2 million of outcomes 
+payments across the programme to 
+ensure that more than 150 people will 
+have access to the support they need to 
+secure and sustain accommodation.
+
+The general public, communities  
+and business
+
+185. Fundamental to our 2027 vision is that all 
+parts of society, including the general public, 
+business, faith and voluntary groups and 
+communities come together to support 
+people at risk of rough sleeping, reflecting 
+the vision of the government’s Civil Society 
+Strategy. We know that people want to help 
+us meet the challenge. Over 40% of adults 
+volunteer once a year and over a quarter 
+volunteer at least once a month, with many 
+more who would like to but cannot fit it into 
+their busy lives. The business community, 
+who already support their local areas 
+
+Nightstop, Max
+
+“My family moved around a lot when I was 
+growing up. I didn’t have a great relationship with 
+my biological father. When I was 12 it got too 
+much and I left.
+
+I stayed with family and friends and only slept 
+rough a few times. There wasn’t always a place  
+to go. When I slept rough, things felt vacant. I had 
+my own bench I used to go to. During this time  
+I was still at school and, in year 12, a scholarship 
+programme to attend University in the United 
+States started in my year. I successfully applied. 
+
+Family circumstances meant that I had to come 
+back to London before finishing and I was sleeping 
+
+rough a lot more. It wasn’t the same as before. I 
+was older now. It was lonely and scary. I reached 
+out for help. It was charities that helped me. 
+
+I used Nightstop for a couple of months where it 
+feels like you’re invited into a family home for the 
+night. One of the people I stayed with was so 
+welcoming. When she found out I had Jamaican 
+heritage, she cooked me curry goat, rice and peas. 
+
+These services go out of their way to help people. 
+It’s because of them I am where I am now. If I 
+didn’t have them and I had to sleep rough for one 
+more night I don’t know if I would have made it.”
+
+60 Chapter 5 | Recovery
+
+
+
+
+through both volunteer work and more 
+formal structures such as Local Enterprise 
+Partnerships, Chambers  
+of Commerce and Business Improvement 
+Districts, tell us they want to do more. 
+Schemes like Nightstop which uses 
+volunteer hosts to provide emergency 
+overnight accommodation for young 
+homeless people show the vital role 
+communities can play. 
+
+186. We are going to build on this goodwill. We 
+have already set out improvements to the 
+StreetLink platform which will help 
+members of the public link people who 
+sleep rough with local services. We want to 
+ensure the voices of small charities, 
+including faith groups, are heard and form 
+part of our future work.
+
+To enable the voices of small charities, 
+including faith groups, into further 
+iterations of the strategy, we will 
+convene a roundtable bringing together 
+a range of charitable organisations. 
+
+Employment
+
+187. Charities, local authorities and community 
+groups also do a lot of group work to help 
+people who sleep rough develop the right 
+skills to find work. This government is clear 
+that work provides the best opportunity to 
+move out of poverty, and we are determined 
+to do all we can to support those recovering 
+from rough sleeping to stabilise their lives so 
+they can move closer to or into work. Crucial 
+to this is an individualised, tailored approach 
+which takes into account personal 
+circumstances, needs and capabilities.
+
+188. The Department for Work and Pensions 
+already provides a substantial package of 
+support to people who may have 
+experienced homelessness and claim 
+benefits (including people who have slept 
+
+rough). Support is tailored to take into 
+account an individual’s readiness for work 
+and includes: access to work experience 
+opportunities, sector-based work  
+academies and the New Enterprise 
+Allowance for those interested in starting 
+their own business. Those individuals who 
+need extra, tailored and more long term 
+support to find work have immediate access 
+to traineeships and the Work and Health 
+Programme. Work coaches tailor work 
+search requirements to take account of 
+individual circumstances, including putting 
+jobseeking requirements on hold to give 
+people time and space needed to resolve 
+their accommodation issues. 
+
+189. We want to do more to ensure homeless 
+people receive the support they need to 
+access and navigate the benefit system and 
+find work.
+
+We will: 
+•  establish a work coach homelessness 
+
+expert to act as a single point of 
+contact in every Jobcentre; 
+
+•  task Jobcentre Plus Partnership 
+Managers with building effective 
+working partnerships with housing 
+services, homeless charities and 
+organisations;
+
+•  provide a dedicated, comprehensive 
+package of guidance for work coaches 
+and external stakeholders that clearly 
+sets out the Department for Work and 
+Pensions support offer for people who 
+sleep rough; and
+
+•  share as best practice the innovative 
+partnership work between Newcastle 
+Jobcentre Plus and Newcastle Local 
+Authority, an early adopter of the 
+Homelessness Prevention Trailblazer 
+Programme across the whole 
+Jobcentre Plus network. 
+
+ Chapter 5 | Recovery 61
+
+
+
+
+190. Jobcentre work coaches already refer 
+homeless people to other local employment 
+providers, including the Ready to Work 
+Programme run by Business in the 
+Community (BITC).
+
+191. There are also other innovative locally-
+developed and small-scale models in place 
+which we wish to build on. For example, at 
+the Connection at St Martin’s Day Centre in 
+central London, Jobcentre work coaches 
+work alongside homelessness professionals 
+to provide a joined-up and holistic service.
+
+192. Another example of an approach to support 
+people at risk of rough sleeping or with a 
+history of rough sleeping was the STRIVE 
+programme, which helped individuals gain 
+basic skills necessary to access the labour 
+market. This programme had significant 
+successes. It successfully met its aim of 
+supporting 100 people over the first two 
+years of delivery. Nearly half of participants 
+had progressed to education, volunteering 
+or employment, with 15 of those individuals 
+in work.
+
+Subject to further evidence and 
+affordability, we will support further 
+pilots and proofs of concepts which 
+support people at risk of rough sleeping 
+into work. 
+
+193. This will involve working across local 
+agencies and involving local business 
+communities where possible, including 
+working with organisations such as BITC  
+to use learning from existing schemes  
+(such as the ‘Ready to Work’ scheme).
+
+62 Chapter 5 | Recovery
+
+
+
+
+ Chapter 5 | Recovery 63
+
+
+
+
+Chapter 6
+
+Conclusion and next steps
+
+
+
+
+194. We are under no illusions that the manifesto 
+commitment to halve rough sleeping by the 
+end of this Parliament and to end it by 2027 
+is a challenging and ambitious objective. 
+However, it is an objective that we are 
+committed to achieving. We know the 
+human cost of rough sleeping. It is not 
+acceptable that in our prosperous society 
+vulnerable people sleep on our streets. We 
+have a duty to support these people, to 
+make sure that they have suitable, safe and 
+stable accommodation. We need to make 
+sure that they have access to the privileges 
+that so many of us take for granted in our 
+day to day lives, including access to 
+healthcare, mental health and substance 
+misuse support, and access to benefits. We 
+must make sure that in the future, no one 
+ever has to sleep rough again. 
+
+195. This strategy sets out a bold, long-term 
+vision for achieving this. For the first time, 
+the government is coming together to solve 
+these issues in a targeted, comprehensive 
+way. We know that people who sleep rough 
+need access to suitable accommodation 
+that meets their needs, but this in itself is not 
+enough. We recognise that they also need 
+wider support through health care, mental 
+health, substance misuse and support 
+services. We know that those leaving prison 
+need to be able to access accommodation, 
+those who need help to find work or 
+benefits need to be able to access 
+Jobcentres and that some people need help 
+and support with their immigration status. 
+In order to achieve our ambitious objective, 
+we need all parts of government, local 
+authorities, the care system, the health 
+service, prisons and probation services, the 
+police, immigration services and Jobcentres 
+to come together so that public services are 
+working to support the most vulnerable. 
+There is an opportunity for many parts of 
+society to work together to ensure that we 
+are all doing our bit to end rough sleeping. 
+
+196. We need to support those in crisis on our 
+streets now. This strategy focusses, rightly, 
+on putting in place new programmes and 
+structures to support people off the streets 
+now. However, this strategy is the first step 
+to deliver our 2027 vision to end rough 
+sleeping. We recognise that embedding 
+preventative approaches takes time which is 
+why are committing to updating this 
+strategy annually. We know that there are 
+gaps in our evidence base, and as we better 
+understand the needs of people who sleep 
+rough, we will be able to extend and refine 
+our offer. We will keep this strategy under 
+review and continue to develop work and 
+further initiatives including around how we 
+support non-UK nationals off the streets.
+
+197. We will be refreshing this strategy on an 
+annual basis, setting out the progress we 
+have made and ensuring that our offer 
+remains targeted. We will also publish in the 
+autumn a delivery plan which will set out 
+how we will deliver the ambitious work set 
+out in this strategy. Finally, we will also be 
+following this publication up with a strategy 
+which will address other forms of 
+homelessness. 
+
+ Chapter 6 | Conclusion and Next Steps 65
+
+
+
+
+Table of Commitments
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+25. The Rough Sleeping Initiative will support work in local areas 
+to improve the recording and assessing of rough sleeping by 
+autumn 2018.
+
+• Ministry of Housing, 
+Communities and  
+Local Government 
+
+43. We will ensure that people’s lived experience of rough sleeping 
+and homelessness will feed into future updates of the strategy.
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+46. Over the next nine years, we will plug evidence gaps and pilot, 
+test and evaluate new approaches which will inform our plans 
+for wider roll-out.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+65. In our 2027 vision we are clear that we will deliver a  
+much expanded social investment market, including  
+Social Impact Bonds.
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+• Department for Digital, 
+Culture, Media and Sport
+
+70. We will launch a wider review of homelessness and rough 
+sleeping legislation, which will include the Vagrancy Act. 
+The review will ensure that the structures are in place to 
+deliver effective services and engage with vulnerable people 
+constructively. We expect the review will report by March 2020.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+• Department of Health  
+and Social Care
+
+• Ministry of Justice
+
+• Home Office
+
+71. We will work with the Local Government Association and local 
+authorities so that by winter 2019:
+
+• all local authorities update their strategies and rebadge them 
+as homelessness and rough sleeping strategies;
+
+• strategies are made available online and submitted to 
+MHCLG; and
+
+• local authorities report progress in delivering these strategies 
+and publish annual action plans.
+
+Where necessary, we will support these changes by seeking to 
+legislate at the earliest opportunity.
+
+Where local authorities do not follow these changes, we will 
+take action.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+73. We will consult, by the end of this year, on ways to improve 
+accountability at the local level, including the potential use of 
+local Homelessness Reduction Boards.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+66 Chapter 6 | Conclusion and Next Steps
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+74 In the Rough Sleeping Initiative areas, through our practitioner 
+team, we will support Health and Wellbeing Boards (HWB) to 
+recognise and respond to the health needs of people who sleep 
+rough. We will support them to fulfil their statutory duties, and 
+to provide leadership in the development of homelessness and 
+rough sleeping strategies.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+• Department of Health  
+and Social Care
+
+76. We will work with Safeguarding Adult Boards to ensure that 
+Safeguarding Adult Reviews are conducted when a person who 
+sleeps rough dies or is seriously harmed as a result of abuse or 
+neglect, whether known or suspected, and there is concern that 
+partner agencies could have worked more effectively to protect 
+the adult. Lessons learned from these reviews will inform 
+improvements in local systems and services.
+
+• Department of Health  
+and Social Care
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+77. We will work with the Local Government Association to 
+develop a comprehensive package of sector-led support for 
+homelessness and rough sleeping. We expect this to be in place 
+by summer 2019. 
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+80. We will undertake research into workforce challenges and 
+opportunities in Housing Options teams and the voluntary 
+sector, with the results feeding into future policy approaches.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+81. Based on findings from the new research into LGBT 
+homelessness, we will set out further concrete steps to  
+address the issues of LGBT homelessness in the first yearly 
+refresh of the Strategy.
+
+• The Government  
+Equalities Office
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+82. We will establish data pilots by summer 2019 to develop  
+and test an outcomes framework for homelessness and  
+rough sleeping.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+84. We will test ways of including a person’s housing status in new 
+NHS data collections to inform future policy and commissioning 
+of services for homeless people. 
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+• Department of Health  
+and Social Care
+
+85. We will request that NICE produce guidance to support targeted 
+homelessness prevention, integrated care and recovery.
+
+• Department of Health  
+and Social Care
+
+ Chapter 6 | Conclusion and Next Steps 67
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+86. We are funding research to inform ways of working in the 
+delivery of hospital discharge and primary care services, due 
+for publication in 2018 and 2019. We will actively promote 
+the learning from this research into effective hospital discharge 
+models, in partnership with the health service. This will be 
+promoted in the 83 areas.
+
+• Department of Health  
+and Social Care
+
+88. We will invest £3.2 million per year for two years to launch 
+pilots in a small number of resettlement prisons in England. 
+The pilots will support offenders who have been identified 
+as being at risk of rough sleeping on release. The pilots will 
+start in April 2019 and will run for two years. We will use the 
+information to learn lessons that will inform the future provision 
+of accommodation for ex-offenders.
+
+• Ministry of Justice
+
+• Ministry of Housing, 
+Communities and  
+Local Government 
+
+90. We are planning to trial a new process to improve access to 
+benefits on leaving prison in late August 2018 in both public 
+(HMP Wayland & Norwich) and contracted prisons (HMP 
+Birmingham); and to implement the new process in the autumn. 
+
+• Ministry of Justice
+
+• Department for Work  
+and Pensions
+
+91. We are further improving the support available to prisoners prior 
+to release by providing assistance to offenders to help them 
+access benefits and employment support.
+
+• Ministry of Justice
+
+• Department for Work  
+and Pensions
+
+92. We intend to introduce an ‘accommodation on release’ 
+performance metric for prison Governors from 2019/20, which 
+will be jointly owned with Community Rehabilitation Companies, 
+who are already subject to this performance measure.
+
+• Ministry of Justice
+
+93. We will work with local and national partners to develop a 
+pilot for ‘residential women’s centres’ in at least five sites across 
+England and Wales.
+
+• Ministry of Justice
+
+97. We will work across government and with other national  
+and local partners to develop a National Concordat on  
+Female Offenders. 
+
+• Ministry of Justice
+
+102. We will fund £3.2 million in 47 areas to employ specialist 
+personal advisers to provide intensive support, appropriate to 
+their needs, to the most at-risk care leavers in their area. 
+
+• Department for Education
+
+68 Chapter 6 | Conclusion and Next Steps
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+105. We have committed to conduct a feasibility study – led by 
+MHCLG and co-funded by DWP. The long-term ambition for 
+this research is to develop a quantitative, predictive model (or 
+models) of homelessness and rough sleeping, which can be 
+applied to various policy scenarios, to help assess the impacts of 
+government intervention on levels of homelessness. This will be 
+supported by an evidence review on the broad range of factors 
+that might influence levels of homelessness, from the housing 
+market to welfare systems, as well as individual drivers. 
+
+• Ministry of Housing, 
+Communities and Local 
+Government
+
+106. In order to inform thinking for the development of policy 
+options to address affordability in the Private Rented Sector 
+post-2020, we want to gather evidence from stakeholders, 
+including the homelessness sector and local authorities, as to 
+the challenges in local areas and options to address them.
+
+• Department for Work  
+and Pensions
+
+107. To reduce the number of modern slavery victims at risk of 
+homelessness once they exit central government support, we 
+will extend the period of move on support from 14 to 45 days, 
+significantly increasing the time available for support providers 
+to work with victims to ensure they have safe and secure 
+accommodation to move to before exiting National Referral 
+Mechanism support. We will also be rolling out drop-in hubs 
+for victims leaving the National Referral Mechanism, which will 
+be accessible up to six months after leaving National Referral 
+Mechanism support, providing an opportunity to signpost 
+victims at risk of homelessness to appropriate support. We will 
+roll out these changes at pace by March 2020.
+
+• Home Office
+
+108. Depending on the results of six local authority pilots to 
+test pathways for victims moving out of National Referral 
+Mechanism support into local communities, we will use learning 
+to inform a national roll out.
+
+• Home Office
+
+110. We will host a roundtable in autumn 2018 with homelessness 
+and anti-slavery organisations to bring together experts on these 
+issues at a national level and identify opportunities to build on 
+the work of regional anti-slavery networks.
+
+• Home Office 
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+111. We will draw on data gathered through the Women’s Aid  
+‘No Woman Turned Away’ project to inform our future 
+approach to supporting victims of domestic abuse, and to 
+develop person-centred, bespoke interventions which flexibly 
+address individual needs.
+
+• Home Office
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+116. We can confirm that the Rough Sleeping Initiative will receive up 
+to £45 million for 2019/20 to continue its vital, targeted, work. 
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+ Chapter 6 | Conclusion and Next Steps 69
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+118. We will ensure that people sleeping rough can access  
+local systems by providing new funding for rough  
+sleeping navigators.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+121. We will be pilot a new Somewhere Safe to Stay service in 15 
+locations around the country which have high numbers of 
+people who sleep rough. This will be backed with up to £17 
+million in new funding. We expect that by 2020, these will 
+support up to 6,000 people.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+124. We will work closely with local authorities, providers, hostel 
+residents and other stakeholders to launch a review of hostels 
+focussed on capacity, quality and outcomes. We work with 
+the sector to outline this work this year with the full review 
+commencing in Spring 2019.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+126 We will introduce new training for people working with those 
+who sleep rough. This will include:
+
+• new specific packages focussed on identifying and supporting 
+vulnerable groups, including victims of modern slavery and 
+domestic abuse;
+
+• training and non-statutory guidance around LGBT issues and 
+how to most effectively support individuals;
+
+• training for front-line staff on how to deal with unpredictable 
+environments, for instance with clients under the influence of 
+New Psychoactive Substances such as Spice.
+
+• training for staff on how to support non-UK nationals, 
+including ensuring they access the full range of support they 
+are entitled to.
+
+• Ministry of Housing, 
+Communities and  
+Local Government 
+with support from the 
+Government Equalities 
+Office and the  
+Home Office 
+
+128. We will launch a new £5 million fund to help local areas take 
+action to help non-UK nationals who sleep rough off the streets.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+129. The £100 million Controlling Migration Fund will reopen this 
+summer, with an increased focus on bids from local authorities 
+to work with non-UK nationals who sleep rough.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+• Home Office
+
+133. We will provide an additional team to support and resolve the 
+immigration status of non-UK nationals who are sleeping rough.
+
+• Home Office
+
+70 Chapter 6 | Conclusion and Next Steps
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+136. We will set up a cross-government working group to explore 
+options for more work to support non-UK nationals off the 
+street, with the results feeding into our approach in forthcoming 
+Rough Sleeping Strategy updates. It will meet regularly from 
+autumn 2018.
+
+• Home Office
+
+141. In 2018/19 we will provide up to £2 million in health funding 
+to test models of community-based provision designed to 
+enable access to health and support services for people who are 
+sleeping rough. This will include services to support people with 
+both mental ill health and substance misuse issues. 
+
+• Department of Health  
+and Social Care
+
+142. We will begin a rapid audit of provision targeted at people  
+who sleep rough that can be used to inform future 
+commissioning decisions.
+
+• Department of Health  
+and Social Care
+
+143. We will host a round table in August 2018 to discuss what 
+further action is needed to improve access to primary care for 
+people who sleep rough. It will also discuss monitoring progress 
+towards reducing inequalities.
+
+• Department of Health  
+and Social Care
+
+144. Guidance on care for homeless people at the end of their lives 
+will be promoted through the Ambitions for Palliative and End 
+of Life Care Partnership and wider stakeholders made up of 
+organisations from across healthcare and third sector, including 
+NHS England.
+
+• Department of Health  
+and Social Care
+
+146. Drawing on work to develop the long term plan for the NHS, 
+we have asked NHS England to spend up to £30m on health 
+services for people who sleep rough, over the next five years.
+
+• Department of Health  
+and Social Care
+
+149. We will work with local authorities and their partners to tackle 
+street activity as part of the Rough Sleeping Initiative work.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+152. We want to build learning and findings from our recent work 
+in local areas to tackle street drinking into the government’s 
+new alcohol strategy, currently in development. One of its main 
+themes will be support for vulnerable people.
+
+• Home Office
+
+154. Ministers and the Association of Police and Crime 
+Commissioners will host a roundtable event in the autumn, 
+to encourage leadership on rough sleeping from Police and 
+Crime Commissioners and across the wider police to drive 
+collaboration and sharing of best practice. This will initially focus 
+on the 83 Rough Sleeping Initiative areas.
+
+• Home Office
+
+ Chapter 6 | Conclusion and Next Steps 71
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+157. We will launch a new online platform to help individuals, 
+community groups and businesses support people who sleep 
+rough off the streets for good
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+165. We will undertake an extensive and robust evaluation of 
+Housing First and will ensure that all learning from these pilots 
+will be used to inform decisions on roll-out. We will also publish 
+interim findings which will inform future work. The evaluation 
+will begin in autumn 2018.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+166. We are exploring the introduction of an exemption from the 
+Shared Accommodation Rate for the Government-backed pilots 
+of Housing First. Any learning from this will be captured through 
+the planned evaluation of the pilots, and factored in to further 
+roll-outs of Housing First.
+
+• Department for Work  
+and Pensions
+
+167. As we move towards a rapid rehousing approach, we will  
+learn from the evidence and explore whether the current 
+definition of those that have lived in a homeless hostel is still 
+the right one for the purposes of exemption from the Shared 
+Accommodation Rate.
+
+• Department for Work  
+and Pensions
+
+168. We are launching a prospectus with Homes England for bids for 
+the £50 million Move-On Fund outside of London.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+172. We have allocated up to £135 million from dormant accounts to 
+social investment, with the majority going towards housing for 
+vulnerable people and the rest being spent on new models of 
+community funding. The first opportunities in this programme 
+will be launched in the autumn.
+
+• Department for Digital, 
+Culture, Media & Sport
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+175. We are opening a new Supported Lettings Fund, of up to 
+£19 million, which will fund flexible support and tenancy 
+sustainment for homes provided exclusively for people who 
+sleep rough.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+177. We have committed to undertake a review of housing related 
+support services. This will commence in September 2018.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+181. We will primarily focus the £20 million Private Rented Sector 
+Access Fund on supporting schemes that help single homeless 
+people and families. We will publish further details of our plans 
+later this year.
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+72 Chapter 6 | Conclusion and Next Steps
+
+
+
+
+Section  
+of Strategy
+
+Strategy  
+Commitment
+
+Accountable 
+Department 
+
+182. We will open a new fund to support the set up or extension 
+of local lettings agencies in order to source, identify or provide 
+homes and advice for people who are homeless or at risk of 
+homelessness.
+
+• Ministry of Housing, 
+Communities and  
+Local Government
+
+183. We will launch a new Social Impact Bond aimed at young 
+people. The Young Futures Fund will be aimed young people 
+who not in education, employment and training (NEET), are 
+between the ages of 18-24 and are at risk of homelessness and 
+rough sleeping.
+
+• Department for Digital, 
+Culture, Media & Sport
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+184. To meet demand for the Rough Sleeping Social Impact Bond 
+programme, we are now providing £1.2 million of outcomes 
+payments across the programme to ensure that more than 150 
+people will have access to the support they need to secure and 
+sustain accommodation.
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+186. To enable the voices of small charities, including faith  
+groups, into further iterations of the strategy, we will  
+convene a roundtable bringing together a range of  
+charitable organisations.
+
+• Department for Digital, 
+Culture, Media & Sport
+
+•  Ministry of Housing, 
+Communities and 
+Local Government
+
+189. In order to ensure homeless people receive the support they 
+need to access and navigate the benefit system and find work, 
+we will: 
+
+• establish a work coach homelessness expert to act as a single 
+point of contact in every Jobcentre;
+
+• Jobcentre Plus Partnership Managers will be tasked with 
+building effective working partnerships with housing services, 
+homeless charities and organisations;
+
+• provide a dedicated, comprehensive package of guidance for 
+work coaches and external stakeholders that clearly sets out 
+the DWP support offer for people who sleep rough; and
+
+• share as best practice the innovative partnership work 
+between Newcastle Jobcentre Plus and Newcastle Local 
+Authority, an early adopter of the Homelessness Prevention 
+Trailblazer Programme across the whole Jobcentre Plus 
+network.
+
+• Department for Work  
+and Pensions
+
+192. Subject to further evidence and affordability, we will support 
+further pilots and proofs of concepts building on these models.
+
+• Ministry of Housing, 
+Communities and 
+Local Government
+
+• Department for Work  
+and Pensions
+
+ Chapter 6 | Conclusion and Next Steps 73
+
+
+
+
+Endnotes
+i MHCLG (2018) ‘Rough Sleeping Statistics Autumn 2017, England (Revised)’.  
+
+Available at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
+file/682001/Rough_Sleeping_Autumn_2017_Statistical_Release_-_revised.pdf 
+
+ii Greater London Authority (2018) ‘CHAIN annual report 2017/18’.  
+Available at: https://data.london.gov.uk/dataset/chain-reports 
+
+iii MHCLG (2018) ibid.
+
+iv MHCLG (2018) ibid.
+
+v Bramley, G & Fitzpatrick, S (2017) ‘Homelessness in the UK: who is most at risk?’ Housing Studies 33:1.  
+Available at: https://www.tandfonline.com/doi/full/10.1080/02673037.2017.1344957 
+
+vi Mackie & Thomas (2014) ‘Nations Apart? Experiences of single homeless people across Great Britain.  
+Available at: https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/types-of-homelessness/
+nations-apart-experiences-of-single-homeless-people-across-great-britain-2014/  
+
+vii MHCLG (2018) ibid.
+
+viii Mackie & Thomas (2014) ibid; Fitzpatrick et al (2012) ‘Multiple Exclusion Homelessness in the UK: An overview of key 
+findings Briefing Paper No.1’. Available at: https://www.hw.ac.uk/schools/doc/MEH_Briefing_No_1_2012.pdf 
+
+ix Fitzpatrick et al (2012) ibid.
+
+x MHCLG (2018) ibid.
+
+xi Greater London Authority (2018) ibid.
+
+xii Fitzpatrick et al (2012) ibid.
+
+xiii Cockersell, P (2011) Homelessness and mental health: adding clinical mental health interventions to existing social 
+ones can greatly enhance positive outcomes Journal of Public mental Health 10(2) 88-980 
+
+xiv Bramley et al (2015) ‘Hard Edges: Mapping severe and multiple disadvantage’. The Lankelly Chase Foundation. 
+Available at: https://lankellychase.org.uk/wp-content/uploads/2015/07/Hard-Edges-Mapping-SMD-2015.pdf 
+
+xv Greater London Authority (2018) ibid., Fitzpatrick et al (2012) ibid.
+
+xvi Homeless Link (2018) ‘Young & Homeless 2018’. Available at:  
+https://www.homeless.org.uk/sites/default/files/site-attachments/Young%20and%20Homeless%202018.pdf
+
+xvii Bramley & Fitzpatrick (2017) ibid.
+
+ xviii Fitzpatrick et al (2013) ‘Pathways into multiple exclusion homelessness in seven UK cities’. Urban Studies 50(1). 
+Available at: https://pureapps2.hw.ac.uk/ws/portalfiles/portal/7456915
+
+xix Greater London Authority (2018) ibid 
+
+xx Aldridge, RW et al (2018) ‘Morbidity and mortality in homeless individuals, prisoners, sex workers, and individuals 
+with substance use disorders in high-income countries: a systematic review and meta-analysis’ The Lancet 
+391(10117) pp241-250.
+
+xxi Thomas, B (2011) ‘Homelessness: A silent killer – A research briefing on mortality amongst homeless people’. Crisis. 
+Available at: https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/health-and-wellbeing/
+homelessness-a-silent-killer-2011/
+
+xxii Sanders, B. & Albanese, F. (2016) ‘It’s no life at all: Rough Sleepers’ experiences of violence and abuse on the streets  
+of England and Wales’. Crisis. Available at: https://www.crisis.org.uk/media/20502/crisis_its_no_life_at_all2016.pdf 
+
+xxiii Sanders & Albanese (2016) Ibid.
+
+xxiv Bramley (2015) ibid.
+
+xxv ICF Consulting Services ‘Fair Chance Fund evaluation: interim report year 2’. MHCLG.  
+Available at: https://www.gov.uk/government/publications/fair-chance-fund-evaluation-interim-reports
+
+74 Chapter 6 | Conclusion and Next Steps
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/682001/Rough_Sleeping_Autumn_2017_Statistical_Release_-_revised.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/682001/Rough_Sleeping_Autumn_2017_Statistical_Release_-_revised.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/682001/Rough_Sleeping_Autumn_2017_Statistical_Release_-_revised.pdf
+https://data.london.gov.uk/dataset/chain-reports
+https://www.tandfonline.com/doi/full/10.1080/02673037.2017.1344957
+https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/types-of-homelessness/nations-apart-experiences-of-single-homeless-people-across-great-britain-2014/
+https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/types-of-homelessness/nations-apart-experiences-of-single-homeless-people-across-great-britain-2014/
+https://www.hw.ac.uk/schools/doc/MEH_Briefing_No_1_2012.pdf
+https://lankellychase.org.uk/wp-content/uploads/2015/07/Hard-Edges-Mapping-SMD-2015.pdf
+https://www.homeless.org.uk/sites/default/files/site-attachments/Young%20and%20Homeless%202018.pdf
+https://pureapps2.hw.ac.uk/ws/portalfiles/portal/7456915
+https://www.crisis.org.uk/media/20502/crisis_its_no_life_at_all2016.pdf
+https://www.gov.uk/government/publications/fair-chance-fund-evaluation-interim-reports
+
+
+
+
+[i] ICF Consulting Services ‘Fair Chance Fund evaluation: interim report year 2’. MHCLG.  
+Available at: https://www.gov.uk/government/publications/fair-chance-fund-evaluation-interim-reports 
+
+xxvi Public Health England (2016) ‘Homelessness: Applying All Our Health’.  
+Available at: https://www.gov.uk/government/publications/homelessness-applying-all-our-health
+
+xxvii The quality of the validated returns for London was insufficient for inclusion within the annual performance measure. 
+On-going work to improve data quality returns means that we hope to start reporting London during 2018/19.
+
+xxviii Greater London Authority (2018) ibid.
+
+xxix Morse, A (2014) ‘Children in Care’. National Audit Office.  
+Available at: https://www.nao.org.uk/wp-content/uploads/2014/11/Children-in-care1.pdf
+
+xxx Herriot- Watt (201) ibid. 
+
+xxxi Mackie, P. and Thomas, I. (2014) ‘Nations apart? Experiences of single homeless people across Great Britain.’ 
+ London: Crisis.
+
+ Chapter 6 | Conclusion and Next Steps 75
+
+https://www.gov.uk/government/publications/fair-chance-fund-evaluation-interim-reports
+https://www.gov.uk/government/publications/homelessness-applying-all-our-health
+https://www.nao.org.uk/wp-content/uploads/2014/11/Children-in-care1.pdf
+
+
+
+
+ISBN 978-1-5286-0763-6 
+CCS0818273008  
+
+https://www.design102.co.uk/
+
+
+
+
+	Ministerial Foreword
+	Executive Summary
+	Chapter 1: The scale of the problem and why we need to act
+	Chapter 2: The 2027 vision: Prevention, Intervention, Recovery
+	Chapter 3: Prevention
+	Chapter 4: Intervention
+	Chapter 5: Recovery
+	Chapter 6: Conclusion and Next Steps
+
+
+
+

@@ -343,7 +343,7 @@ def save_metadata(model_directory, savemode, accuracy=None, test_size=None, trai
     
 if __name__ == '__main__':
     #constants and data collecting
-    model_directory = '../tensorflow/logdir'
+    model_directory = os.path.join('..','tensorflow','logdir')
     start_time = time.clock()
     c,conn = connect_to_db("climate.db")
     conv_dict = load_conv_dict("conversion_dictionary.txt")

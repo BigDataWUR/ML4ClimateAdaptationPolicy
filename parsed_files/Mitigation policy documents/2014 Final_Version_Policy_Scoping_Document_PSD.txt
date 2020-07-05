@@ -1,0 +1,3829 @@
+
+
+  
+
+Next steps in CCS:  
+
+Policy Scoping Document 
+
+
+      
+
+Developing an approach for the next phase of 
+Carbon Capture & Storage projects in the UK 
+
+
+  
+
+
+August 2014 
+
+
+    2    
+
+© Crown copyright 2014  
+
+URN 14D/281  
+
+
+ 
+
+You may re-use this information (not including logos) free of charge in any format or medium, 
+under the terms of the Open Government Licence.  
+
+To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence/   
+
+or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU,  
+
+or email: psi@nationalarchives.gsi.gov.uk .  
+
+
+ 
+
+Any enquiries regarding this publication should be sent to us at: 
+
+Office of Carbon Capture and Storage 
+
+Department of Energy & Climate Change, 
+
+3 Whitehall Place, 
+
+London, SW1A 2AW 
+
+Tel: 0300 060 4000 
+
+Email: occs@decc.gsi.gov.uk 
+
+
+ 
+
+This document can be found on DECC’s website:  
+
+www.gov.uk/decc   
+
+
+ 
+
+http://www.nationalarchives.gov.uk/doc/open-government-licence/
+mailto:psi@nationalarchives.gsi.gov.uk
+mailto:occs@decc.gsi.gov.uk
+https://www.gov.uk/government/organisations/department-of-energy-climate-change
+
+
+  3 
+
+
+Foreword  
+
+In the 1930s, in the midst of London’s pea-soup fog, Battersea Power 
+Station was the first power station in the world
+
+
+1
+
+ to deploy an innovative 
+
+technology known as “Flue Gas Desulphurisation” (FGD) to clean up 
+sulphur dioxide in its toxic fumes – a key cause of London’s air pollution. 
+
+
+   
+
+The cost of that technology was significant and in the 1930s there were no financial or 
+regulatory incentives to deploy FGD.  Battersea was ahead of its time – for a variety of 
+reasons, it took another 70 years before the technology was fully commercialised.  But FGD is 
+now installed in over 1700
+
+
+2
+
+ power stations across the world and the energy industry expects to 
+
+invest around $8bn
+
+
+3
+
+ in the technology in 2015 alone.  
+
+
+ 
+
+Today the problem is not sulphur dioxide, but carbon dioxide.  And to solve this problem we 
+need more clean energy from renewable and nuclear sources, alongside cleaner energy from 
+gas.  But we also need a new generation of coal and gas power stations equipped with Carbon 
+Capture and Storage (CCS) for the 21
+
+
+st
+
+ century. 
+
+
+ 
+
+The UK is leading Europe in developing CCS technology, and the world’s first power CCS 
+projects in North America will come on stream this year.  But we can’t wait another 70 years.  
+We need CCS to be commercial in a decade.  The prize is a big one - with CCS we can 
+achieve our carbon targets more cheaply and support over 15,000 jobs per year by 2030
+
+
+4.  
+
+It is not just the technology which continues to mature.  The regulatory, commercial, legal and 
+financial structures which will allow industry to move forward also need to develop.  The 
+Government thinks that the best and quickest way to achieve this is to make available 
+significant support to ensure the UK’s first commercial scale CCS projects are established.  In 
+addition to working intensively to support those projects, the Government is also thinking 
+ahead to how we can support industry to build on the infrastructure which could be put in place 
+by these projects, in a second phase of CCS development.   
+
+
+ 
+
+The UK is recognised as having the most advanced policy and regulatory framework in the 
+world
+
+
+5
+
+ to encourage CCS.  But we need to do more and we need your help.  This Coalition 
+
+Government pioneered open policy making, as set out in the Civil Service Reform Plan.  That 
+plan stated that the best way to develop “high quality, creative policy is to open the policy 
+development process to external sources”, beyond the Civil Service and Whitehall mandarins. 
+
+
+ 
+
+It is in that spirit, and to continue the excellent work which the CCS industry started under its 
+Cost Reduction Task Force, that I offer this Policy Scoping Document to stimulate discussion 
+and look ahead to further engagement over the coming months on how we can make Phase 2 
+of CCS deployment in the UK a reality. 
+
+Rt Hon Edward Davey MP, Secretary of State
+
+                                            
+
+
+1
+
+ www.ukerc.ac.uk/support/tiki-download_file.php?fileId=2411 
+
+
+2
+
+ Energy Industries Council, http://www.modernpowersystems.com/features/featureflue-gas-desulphurisation-trends-and-opportunities/ 
+
+
+3
+
+  http://home.mcilvainecompany.com/index.php/component/content/article/7-news/706-nr1927 
+
+
+4
+
+ http://www.ccsassociation.org/index.php/download_file/view/748/76/ 
+
+
+5
+
+ Global Status of CCS 2013, GCCSI  http://decarboni.se/publications/global-status-ccs-2013/43-ccs-policy-index 
+
+https://intranet.decc.gsi.gov.uk/about/ministers/sos/Pages/default.aspx
+
+
+  4  
+
+          
+
+
+    5 
+
+
+Contents 
+Foreword ................................................................................................................................... 3 
+
+General information ................................................................................................................. 6 
+
+
+ 
+
+1. Executive Summary....................................................................................................... 8 
+
+
+ 
+
+Section A ................................................................................................................................. 11 
+
+2. Introduction .................................................................................................................. 12 
+
+3. Interventions to date ................................................................................................... 16 
+
+
+ 
+
+Section B ................................................................................................................................. 21 
+
+4. Financial Incentives and Electricity Market Reform ................................................. 22 
+
+5. Financing CCS projects .............................................................................................. 28 
+
+6. Transport and storage infrastructure ........................................................................ 30 
+
+7. Part Chain and Full Chain projects ............................................................................ 36 
+
+8. Enhanced oil recovery (EOR) ..................................................................................... 38 
+
+9. Industrial CCS .............................................................................................................. 41 
+
+10. Bio-CCS / BECCS......................................................................................................... 46 
+
+11. Carbon Capture and Utilisation (CCU) ....................................................................... 48 
+
+12. Supply chain ................................................................................................................ 49 
+
+13. Knowledge transfer (KT) ............................................................................................. 51 
+
+14. Research, development and innovation .................................................................... 53 
+
+
+ 
+
+Section C ................................................................................................................................. 54 
+
+15. Catalogue of questions ............................................................................................... 55 
+
+Annex I - Government’s approach to Risk Allocation under Phase 1 of the 
+Commercialisation Programme [i] ............................................................................. 58 
+
+Annex II - Government’s approach to Risk Allocation under Phase 1 of the 
+Commercialisation Programme [ii] ............................................................................ 62 
+
+
+     6 
+
+General information 
+
+Purpose of this document: 
+
+The Government aims to deliver a secure, affordable, low carbon energy system.  As part of 
+this, the Government’s long-term vision for the electricity market, through its Electricity Market 
+Reform programme, is to transition to a point where low carbon technologies can compete 
+fairly on price. Competition between technologies will allow us to meet our objectives in the 
+most cost-effective way. Carbon Capture and Storage is a key technology which will enable 
+this.  Therefore, the Government is committed to supporting the commercialisation and cost 
+reduction of CCS alongside the efforts of industry and governments internationally.   
+
+This document summarises the Government’s policies and actions already taken to support 
+
+CCS deployment in the UK, and what we believe to be the main challenges to further 
+commercial deployment of CCS in the UK.  It invites views, inputs and evidence on addressing 
+those challenges.  
+
+The Government committed
+
+
+6
+
+ to engage further with the industry on how mechanisms 
+
+implemented by the Government’s Electricity Market Reform could be applied to early stage 
+CCS projects.  This document sets out key aspects of those discussions to date, and key 
+areas which need further development.     
+
+The Government anticipates that further policy statements or consultations may be needed as 
+detailed aspects of policy are refined. 
+
+
+ 
+
+CCS terminology 
+
+When CCS is referred to in this document, unless stated otherwise it will refer to CCS in its 
+broadest sense: 
+
+ capturing carbon from either power generation or industrial processes; 
+
+ transporting the CO2; and 
+
+ storing CO2 in geological formations underneath the seabed, or utilising the CO2 
+in products (Carbon Capture and Utilisation - CCU) such as plastic and cement, 
+or as part of the Enhanced Oil Recovery (EOR) technique.  
+
+
+ 
+
+This document is not intended to be a technical guide to CCS, and will not detail the different 
+technologies. 
+
+
+ 
+
+Issued: 7 August 2014 
+
+
+ 
+
+Respond by: 23 October 2014 
+
+
+ 
+
+                                            
+
+
+6
+
+ Para 3.35; EMR: Contract for Difference: Contract and Allocation Overview, Aug 2013 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/233004/EMR__Contract_for_Difference__Contract_and_Allocati
+on_Overview_Final_28_August.pdf 
+
+
+ 7 
+
+Territorial extent: 
+
+This policy scoping document covers Great Britain.  The Department for Trade and Industry 
+(DETINI) is responsible for CCS policy in Northern Ireland as energy policy is transferred to the 
+Northern Ireland Assembly.  
+
+
+ 
+
+How to respond: 
+
+Your response will most useful if it is framed in direct response to the questions posed, though 
+further comments and evidence are also welcome.  
+
+Electronic format is preferred – please send any responses to occs@decc.gsi.gov.uk. 
+However, hard copy responses may also be sent to the Department at the address on page 2.  
+
+
+ 
+
+The Office of Carbon Capture and Storage (OCCS) also sends out updates and bulletins.  To 
+register to receive these, please send an e-mail to occs@decc.gsi.gov.uk 
+
+
+ 
+
+Additional copies: 
+
+You may make copies of this document without seeking permission. An electronic version can 
+be found at www.gov.uk/decc. 
+
+
+ 
+
+Versions of this document in Braille, large print or audio-cassette are available on request. This 
+includes a Welsh version. Please contact us under the above details to request alternative 
+versions. 
+
+
+ 
+
+Confidentiality and data protection: 
+
+Information provided in response to this policy scoping document, including personal 
+information, may be subject to publication or disclosure in accordance with the access to 
+information legislation (primarily the Freedom of Information Act 2000, the Data Protection Act 
+1998 and the Environmental Information Regulations 2004).  
+
+If you want the information that you provide to be treated as confidential please state so clearly 
+in writing when you submit your response. It would be helpful if you could explain to us why 
+you regard the information you have provided as confidential. If we receive a request for 
+disclosure of the information we will take full account of your explanation, but we cannot give 
+an assurance that confidentiality can be maintained in all circumstances. An automatic 
+confidentiality disclaimer generated by your IT system will not, of itself, be regarded by us as a 
+confidentiality request. 
+
+We will summarise all responses and place this summary on our website at www.gov.uk/decc. 
+This summary will include a list of names or organisations that responded but not personal 
+information such as addresses or other contact details. 
+
+
+    
+
+mailto:occs@decc.gsi.gov.uk
+mailto:occs@decc.gsi.gov.uk
+http://www.gov.uk/decc
+http://www.gov.uk/decc
+
+
+  8 
+
+
+1. Executive Summary 
+
+CCS – and actions the Coalition Government has taken 
+
+ The Government is committed to supporting the commercialisation and cost reduction of 1.1.
+Carbon Capture and Storage (CCS) as a key mechanism for delivering a secure, 
+affordable, low carbon energy system.   
+
+ CCS is not a single technology, but a suite of different technologies, which in some 1.2.
+cases have been used for decades.  However, there is limited experience of 
+implementing CCS on power generation worldwide and currently no commercial-scale 
+projects in the UK which are capturing carbon dioxide (CO2), transporting and then 
+
+storing it deep beneath the sea-bed. 
+
+ The policies made and actions taken by the Coalition Government have meant the UK is 1.3.
+leading Europe in the development of CCS – with the best R&D in our universities and 
+two commercial scale projects under active development as part of our world-leading 
+Commercialisation Programme, one of which has secured €300m from the European 
+Commission – the only project in Europe to attract such funding.  
+
+ We anticipate that one or both of these projects, White Rose and Peterhead, could form 1.4.
+the first phase of CCS deployment in the UK.  They would help prove the concept, 
+create important infrastructure that may be used for subsequent projects, create 
+commercial relationships between the different elements of the CCS chain, and begin to 
+build interest from competing businesses and their supply chains.  In addition to working 
+intensively to help support these first projects, the Government is also thinking ahead. If 
+the market can demonstrate that costs are falling in line with expectations, the 
+Government will assess how it can support industry to build on the infrastructure put in 
+place through the first projects, to deliver future CCS deployment. 
+
+Moving forward - topics covered by this document  
+
+ This document invites views, inputs and evidence on our existing policies that could 1.5.
+support those projects, and also on future policy development which may be needed.  
+Key aspects are: 
+
+ Financial Incentives & Electricity Market Reform (Chapter 4):  The 
+Government’s long-term vision for the electricity market, through its Electricity 
+Market Reform programme, is to transition to a point where low carbon 
+technologies can compete fairly on price.  The Government has already noted its 
+intention
+
+
+7
+
+ that any future Contract for Difference (CfD) allocation for CCS projects 
+
+would take place through competitive project selection processes, wherever 
+practical and effective, and noted that bilateral negotiation remains an alternative 
+where such processes are not practical; it has also committed
+
+
+8
+
+ to further 
+
+discussions with CCS developers on these issues.   
+
+ In order to continue to make progress in the course of the remainder of 2014 and 
+2015, DECC will engage with developers on the design of a generic CCS CfD and 
+
+                                            
+
+
+7
+
+ Para 3.33, August 2013 publication on EMR Contract and Allocation Overview 
+
+
+8
+
+ Para 3.35, August 2013 publication on EMR Contract and Allocation Overview 
+
+
+ 9 
+
+options for the criteria which might be applied in any future allocation frameworks. 
+Without prejudice to future decisions on the Levy Control Framework or any future 
+allocation processes under the EMR enduring regime, this work should enable an 
+appropriate suite of enabling architecture to be in place for CCS by 2016. 
+
+ Financing CCS (Chapter 5): The Government has recognised that raising 
+finance for low carbon energy and other major infrastructure projects, including 
+CCS, from traditional sources may be challenging, and therefore has a range of 
+mechanisms available to support investors. This chapter provides a brief 
+summary of those mechanisms. 
+
+ Transport and Storage infrastructure (Chapter 6): Analysis shows that effective 
+investment in and use of transport and storage infrastructure could deliver 
+significant cost reductions.  This chapter sets out the Government’s approach to 
+date and seeks views on future direction. 
+
+ Part chain projects (Chapter 7):  This chapter addresses the possibility that 
+early Phase 2 projects could be “part-chain” CCS projects; clarifies what “part-
+chain” refers to; and briefly outlines some of the issues affecting such projects. 
+
+ Enhanced Oil Recovery (Chapter 8): The Government is exploring with industry 
+the extent to which CO2-EOR could play a significant role in the UK’s CCS 
+deployment and maximise future recovery from the North Sea.  This chapter 
+outlines the potential opportunity available, provides an update of recent work and 
+seeks views on how to further encourage activity in this area. 
+
+ Industrial CCS (Chapter 9): To meet the UK’s longer term ambitions on climate 
+change, carbon dioxide emissions from energy intensive industries will need to be 
+substantially reduced.  For some of these industries, CCS is likely to be a key part 
+of the technology mix required to make such reductions.  This chapter 
+summarises the Government’s activity to date and seeks views on possible next 
+steps.   
+
+ Bio-CCS / Bioenergy with CCS (Chapter 10): In the long term, combining 
+bioenergy with CCS (BECCS) to produce negative emissions is predicted to offer 
+a key route by which the UK could meet its 2050 targets. This chapter briefly sets 
+out Government policy development to date. 
+
+ CCU (Chapter 11): Carbon Capture and Utilisation (CCU) technologies could 
+offer a route by which to make CO2 a commodity rather than a waste product.  
+This chapter summarises the Government’s current approach. 
+
+ Supply Chain (Chapter 12): The CCS supply chain is likely to be similar to those 
+for other major energy infrastructure projects.  This chapter outlines how the 
+Government will help companies who wish to exploit the opportunities in this 
+nascent sector. 
+
+ Knowledge Transfer (Chapter 13): Knowledge transfer is a key philosophy 
+which underpins the CCS Commercialisation Programme – CCS projects in 
+receipt of Government funding  will be expected to share their experience and 
+learning with the wider industry to support development and cost reduction.  This 
+chapter summarises the Government’s current approach and explores possible 
+approaches under any future projects.  
+
+ Underpinning Research, Development and Innovation (Chapter 14): 
+Continued research, development and innovation is a key way in which to further 
+
+
+ 10 
+
+reduce the costs of CCS by creating better, cheaper components and processes.  
+This chapter summarises the Government’s current approach and possible future 
+actions. 
+
+Next steps 
+
+ We welcome views on the issues identified in this document or more widely. Details of 1.6.
+how to respond to questions raised in this document can be found on page 7. 
+
+ We will be engaging with the CCS Development Forum
+
+
+9
+
+ on these issues. We will also 1.7.
+
+be discussing with those interested in the development of CCS, both individually and 
+collectively, the issues raised.  
+
+ Over the past three years, the Government has issued a series of documents and 1.8.
+consultations as policy on Electricity Market Reform and generic CfDs for renewables 
+
+was refined. 
+
+ This document marks a continuation of aspects of that dialogue, and we anticipate 1.9.
+further documents and consultations may be issued as detailed aspects of CCS policy 
+are refined. 
+
+
+  
+
+                                            
+
+
+9
+
+ https://www.gov.uk/government/groups/ccs-development-forum 
+
+
+ 11 
+
+Section A 
+
+
+   12 
+
+2. Introduction 
+
+This chapter sets out why the Government is encouraging the development and deployment of 
+CCS, and sets out how CCS may be deployed in three phases in the UK as the industry 
+matures.   
+
+Context 
+
+ Supporting the development of Carbon Capture and Storage (CCS) is a priority for the 2.1.
+Coalition Government
+
+
+10
+
+. Cost-competitive CCS has the potential to provide a significant 
+
+contribution to meeting three of DECC’s core objectives:  
+
+(i) Promote UK Growth 
+
+(ii) Deliver secure energy on the way to a low carbon future  
+
+(iii) Drive ambitious action on climate change at home and abroad  
+
+ These objectives are set against the backdrop of a legally binding greenhouse gas 2.2.
+emission reduction target of at least 80% by 2050 and a need to put the UK on a cost-
+effective pathway to meeting this target. 
+
+Why CCS 
+
+ The UK energy system is complex.  We use energy in many different ways – to light and 2.3.
+heat our homes, to power our industry, and to get to work and go on holiday.  Our 
+energy comes from many different sources: renewable, nuclear and fossil fuels to 
+generate electricity; gas to generate heat; oil, in the form of petrol and diesel, in our cars 
+and planes. 
+
+ DECC’s award winning 2050 Pathways Calculator
+
+
+11
+
+ enables people to explore this 2.4.
+system and see how choices in one area have an impact on others.  To change the 
+energy system to a secure, affordable, low carbon one, many experts, including the 
+International Energy Agency (IEA) and the Energy Technologies Institute (ETI), agree 
+that CCS will need to be at the heart of it. 
+
+ This is because CCS can be used to address different parts of the energy system.  First, 2.5.
+to achieve the UK’s 2050 climate change targets, the UK Government’s 2011 Carbon 
+
+
+Plan12
+
+ showed that the UK would need to substantially decarbonise its electricity system 
+
+by 2030.  The 2013 Electricity Market Reform Delivery Plan set out several scenarios by 
+which this could be achieved, including a high CCS scenario delivering up to 13GW of 
+decarbonised electricity by 2030.  Second, to continue to meet climate ambitions, the 
+UK will then need tackle the carbon emissions which originate from energy intensive 
+industry.  For some of these industries, CCS is likely to be a key technology through 
+
+which to achieve this.  Finally, in the long term, when combined with biomass and 
+bioenergy, CCS creates the potential of “negative emissions” – the possibility of 
+removing carbon dioxide from the atmosphere by permanently storing the carbon 
+temporarily locked in plants.  The potential of “negative emissions” removes or reduces 
+
+                                            
+
+
+10
+
+ The Coalition: our programme for government (2010); The Coalition government mid-term review (2013) 
+
+
+11
+
+ https://www.gov.uk/2050-pathways-analysis 
+
+
+12
+
+ https://www.gov.uk/government/publications/the-carbon-plan-reducing-greenhouse-gas-emissions--2 
+
+
+ 13 
+
+the need to develop and deploy more expensive carbon mitigation technologies 
+elsewhere in the economy. 
+
+ Analysis by the CCS Association (CCSA) showed that deploying CCS in our energy 2.6.
+system could reduce energy bills compared with a business as usual approach and 
+support over 15,000 jobs per year by 2030
+
+
+13.  
+
+ CCS provides a means by which fossil fuels, which currently produce around 60% of the 2.7.
+UK’s electricity and play a vital role in enabling the system to respond flexibly to 
+demand, are able to continue to make a valuable contribution to our energy needs in a 
+low carbon future.  
+
+ The Government is therefore committed to work with industry and other governments to 2.8.
+help develop CCS as a commercially viable carbon abatement technology. We believe 
+that the immediate priority is to demonstrate the commercial and economic viability of 
+
+CCS at commercial scale in the power generation sector. The UK Government 
+programme is part of a wider international effort, which should see the first commercial 
+scale power stations equipped with CCS operating from this year in North America.   
+
+Cost reduction 
+
+ Most new technologies reduce in cost as they develop and mature.  Examples of this 2.9.
+cost reduction theory include mobile phones, electric vehicles and photo-voltaic solar 
+panels.   
+
+ For CCS, like other low carbon energy technologies such as offshore wind, this cost 2.10.
+reduction is crucial for it to play a part in the UK’s electricity system to 2030 and in the 
+longer term in UK’s wider energy system. 
+
+ In 2013, the CCS Cost Reduction Task Force (CRTF)
+
+
+14
+
+ undertook a thorough analysis, 2.11.
+which concluded that CCS costs could be significantly reduced to a level which is 
+competitive with other forms of low carbon generation in the UK. 
+
+ The Government endorsed those conclusions in its response to the Cost Reduction 2.12.
+Task Force’s report and, through the CCS Development Forum
+
+
+15
+
+, continues to work with 
+
+industry as it develops, and puts in place, plans for achieving these outcomes.  
+
+Three phases of CCS development and deployment 
+
+ The maturing of CCS as a commercial technology is unlikely to take place through a 2.13.
+linear process.  The Government has previously
+
+
+16
+
+ set out a conceptual framework of 
+
+how CCS could be developed and deployed in three broad phases in the UK: 
+
+ The first phase of CCS projects is made up of first-of-a-kind (FOAK) projects, 
+taken forward under the Commercialisation Programme.  The Government 
+considers that the quickest and most effective way to reduce the cost of CCS is to 
+support the UK’s first commercial-scale project(s).  A FOAK project is critical in 
+establishing CCS infrastructure in the UK, developing and testing the market-led 
+commercial and legal frameworks for projects of this type, and thereby 
+significantly reducing the risks and barriers faced by subsequent projects.  
+
+ The second phase of CCS projects: This is a transition phase between heavily 
+state supported Phase 1 and cost-competitive Phase 3 projects.  Our discussions 
+
+                                            
+
+
+13
+
+ http://www.ccsassociation.org/index.php/download_file/view/748/76/ 
+
+
+14
+
+ https://www.gov.uk/government/groups/ccs-cost-reduction-task-force 
+
+
+15
+
+ https://www.gov.uk/government/groups/95 
+
+
+16
+
+ https://www.gov.uk/government/publications/ccs-in-the-uk-government-response-to-the-ccs-cost-reduction-task-force--3 
+
+
+ 14 
+
+with the industry over the past few months have indicated that project developers 
+may still face some of the challenges of Phase 1 projects – in terms of not being 
+able to absorb all the technical and commercial risks of CCS, and therefore 
+deploying CCS at a cost which is not yet competitive with some other forms of low 
+carbon generation.  
+
+ As set out in the Government response to the Cost Reduction Task Force, Phase 
+2 projects might be developed on a similar timeline, as well as subsequent to the 
+Commercialisation Programme projects.  It is feasible that early Phase 2 projects 
+may take Final Investment Decisions (FID) later this decade, but before Phase 1 
+projects have completed construction and commissioning.  Later Phase 2 projects 
+may come forward in the early 2020s once Phase 1 projects are operating 
+successfully.   
+
+ The third phase: By Phase 3 we expect the CCS industry to have developed to a 
+point where projects are fully commercial and are able to compete in the market 
+on the basis of cost with other low carbon technologies, as set out in the EMR 
+Delivery Plan.  Our policies are designed to help bring CCS to this third phase as 
+quickly as possible.  Our objective is a competitive, low carbon energy market, 
+with different technologies competing on price and providing the best value for 
+money for the consumer. 
+
+ The Government remains fuel and capture-technology agnostic.  Policies have been 2.14.
+designed so as to be equally applicable to CCS on coal or gas power stations, and to 
+projects which utilise any of the three main groupings of carbon capture technology: pre-
+combustion, post-combustion or oxyfuel.   
+
+ As mentioned in the Government Response to the CRTF, the Government anticipates 2.15.
+that Phase 2 projects could capture CO2 emissions from either power stations or energy 
+intensive industry.  Project developers may also choose to exploit Enhanced Oil 
+Recovery techniques. 
+
+Scoping document 
+
+ This document is intended to provide industry with a clearer indication of our plans to 2.16.
+support the continued deployment of CCS.   
+
+ The document summarises the policies and actions which the Government has already 2.17.
+taken to support Phase 1 of CCS deployment in the UK.  It then sets out how those 
+policies, including plans to put in place enabling architecture for possible future award of 
+CfDs for CCS projects under Electricity Market Reform, could support Phase 2 CCS 
+Projects and beyond. This is without prejudice to future decisions on the Levy Control 
+Framework or any future allocation processes under the EMR enduring regime. 
+
+ It seeks views, evidence and input on this, and on the full spectrum of issues which 2.18.
+could impact future policy development on CCS, to enable industry to deliver up to the 
+high CCS scenario from the EMR Delivery Plan.  
+
+Open policy making 
+
+ The Coalition Government is committed to open policy making, as set out in the Civil 2.19.
+Service Reform Plan.  That plan states that the best way to develop “high quality, 
+creative policy is to open the policy development process to competition from external 
+sources”. 
+
+
+ 15 
+
+ This document is designed to provide an opportunity for sources outside the Civil 2.20.
+Service to provide their input, views and evidence on the future of CCS in the UK. 
+
+
+ 16 
+
+3. Interventions to date  
+
+The 2012 UK CCS Roadmap
+
+
+17
+
+ set out a comprehensive package of interventions and funding 
+by the Government to support the first commercial scale CCS projects in the UK.   
+
+This chapter provides a summary of our interventions to date. 
+
+Rationale and Government role 
+
+ The Government believes that CCS is one of a number of technologies with the 3.1.
+potential to help the UK meet its decarbonisation objectives. We are therefore keen to 
+encourage the development of CCS as a low-cost alternative to other forms of 
+decarbonisation. 
+
+ The current market in the UK, and internationally, is not delivering investment in CCS on 3.2.
+the scale needed to reduce costs and enable widespread deployment of CCS in the 
+2020s.  Deployment on this timescale is needed if CCS is to fulfil its potential and 
+contribute to the Government’s long-term decarbonisation objectives.  The Government 
+considers that the quickest and most effective way to reduce the cost of CCS is for the 
+UK to deploy its first commercial-scale projects.  In 2012 the Government published its 
+CCS Roadmap.  This set out a programme of measures and interventions to support 
+industry in reducing the costs of CCS, to a point where the technology is cost-
+competitive with other forms of low carbon generation and carbon abatement 
+technology.  The five key areas set out in the 2012 Roadmap were: 
+
+ £1bn CCS Commercialisation Programme 
+
+ Electricity Market Reform 
+
+ £125m Research, Development and Innovation Programme 
+
+ Addressing key barriers to commercialisation such as regulation 
+
+ International engagement and knowledge sharing   
+
+Interventions to date 
+
+CCS Commercialisation Programme 
+
+ The CCS Commercialisation Programme aims to support the deployment of the UK’s 3.3.
+first commercial scale CCS project(s).  
+
+ This will be critical in establishing CCS infrastructure in the UK, developing and testing 3.4.
+the market-led commercial and legal frameworks for projects of this type, and thereby 
+
+significantly reducing the risks and barriers faced by subsequent projects.  
+
+ In recognition of the technical, financial and commercial challenges initial projects face, 3.5.
+the Government is providing extensive support.  This includes around £100m to support 
+the majority of both development and front end engineering and design (FEED) costs for 
+the two projects in the Commercialisation Programme; making available the remainder 
+of the £1bn capital funding Government has committed to CCS to support the 
+investment required for constructing these projects; providing operational support 
+
+                                            
+
+
+17
+
+ https://www.gov.uk/government/publications/the-ccs-roadmap 
+
+
+ 17 
+
+through tailored low carbon Contracts for Difference (CfDs), subject to value for money; 
+and putting in place arrangements, tailored to individual projects, for Government to 
+share CCS specific risks (industry will take on business as usual risks).  As a condition 
+of this significant level of public investment, knowledge and know-how developed will be 
+actively disseminated.   
+
+ The Competition was launched alongside the Roadmap in April 2012 and attracted 3.6.
+significant interest from industry. From an initial eight bids submitted, two projects have 
+been taken forward into FEED:    
+
+ White Rose Project in Yorkshire, England – this project proposes to capture about 
+90% of the CO2 from a new super-efficient coal fired power station at the Drax 
+site, and to store it in a saline formation deep beneath the Southern North Sea 
+seabed. The project involves Alstom, Drax Power, BOC and National Grid.  
+
+
+    18 
+
+ Peterhead Project in Aberdeenshire, Scotland – this project proposes to capture 
+about 85% of the CO2 from part of the existing gas fired power station before 
+transporting it and storing it in a depleted gas field deep beneath the Central North 
+Sea seabed.  The project involves Shell and SSE. 
+
+
+      
+
+
+ Both projects are expected to take Final Investment Decisions towards the end of 3.7.
+FEED, around the end of 2015, with Government decisions shortly thereafter.  
+Construction, commissioning and operation will follow as soon as possible. 
+
+Electricity Market Reform (EMR) 
+
+ Electricity Market Reform (EMR) will deliver the low carbon electricity and reliable 3.8.
+supplies that the country needs, at the lowest possible cost. It will transform the UK 
+electricity sector to one where low-carbon generation can compete with conventional, 
+unabated fossil-fuel generation – ensuring we build the right mix of generation for the 
+long-term. 
+
+ Up to a fifth of generation capacity will close by 2020, whilst UK electricity demand could 3.9.
+double by 2050 as our economy grows and heat and transport systems are increasingly 
+electrified.  Around £100 billion
+
+
+18
+
+ of investment is required by 2020, and to achieve this 
+
+investment we need to attract new sources of capital, and do so whilst keeping costs to 
+consumers as low as possible.  In order to meet our low carbon objectives and to put us 
+on the right path to 2050, much of our electricity generation will need to be 
+decarbonised by 2030, of which up to 13GW could be from CCS.  
+
+ EMR is the Government’s response to this challenge and is the biggest reform to the 3.10.
+electricity sector since its privatisation. EMR has three goals: to decarbonise electricity 
+generation; to keep the lights on; and to minimise the cost to consumers.  The EMR 
+Delivery Plan was published in December 2013. 
+
+                                            
+
+
+18
+
+ https://www.gov.uk/government/publications/delivering-uk-energy-investment-2014 
+
+
+ 19 
+
+ The key mechanism under Electricity Market Reform (EMR) for bringing forward 3.11.
+investment in CCS and other low carbon generation are Contracts for Difference (CfDs). 
+CfDs will provide efficient long term support for all forms of low carbon generation – 
+including CCS.  
+
+ CfDs provide certainty and stability on prices: generators will receive in effect a fixed 3.12.
+price for the low carbon electricity they produce - known as the ‘strike price’. When the 
+market reference price is below the strike price generators will receive a top-up payment 
+from suppliers. Conversely if the reference price is above the strike price, the generator 
+must pay back the difference.  
+
+ A CfD will be a private law contract between a generator and the newly established 3.13.
+Government-owned counterparty body – the Low Carbon Contracts Company.  This 
+body will provide a single accountable party for generators to interact with over the 
+lifetime of the CfDs.   
+
+ Our long-term vision is for low-carbon generation to compete fairly on cost without 3.14.
+financial support, other than that provided indirectly by the carbon price.  
+
+ The first CfDs for CCS will be negotiated with the two projects under the Government’s 3.15.
+CCS Commercialisation Programme.  In order to receive CfDs, these projects will need 
+to demonstrate value for money. The design of a generic CCS CfD will take into account 
+progress of these negotiations. 
+
+CCS Research, development and innovation 
+
+ The 2012 Technology Innovation Needs Assessment (TINA)
+
+
+19
+
+ and the 2013 Cost 3.16.
+Reduction Task Force confirmed that further cost reductions in CCS would likely come 
+from continued research, development and innovation. 
+
+ The UK has a world-class CCS research base and the Government is committed to 3.17.
+supporting this work.  We are delivering a 4-year, £125 million CCS Research and 
+Development programme with our funding partners (the Research Councils, Technology 
+Strategy Board and Energy Technologies Institute) to support: 
+
+(i) Fundamental research and understanding at our universities and research 
+organisations.    
+
+(ii) The development of better, cheaper components and processes.   
+
+(iii) Pilot scale projects to bridge the gap between lab-scale research and 
+commercial scale deployment.     
+
+ In total, around 100 separate projects are being funded through this programme
+
+
+20
+
+.  3.18.
+
+ The Government has also supported the establishment of the UK CCS Research Centre 3.19.
+(UKCCSRC)
+
+
+21
+
+ – a £13 million investment which brings together the UK’s top CCS 
+
+academics to promote and coordinate UK CCS research capability and increase 
+academic collaboration with industry. 
+
+
+  
+
+                                            
+
+
+19
+
+ http://www.carbontrust.com/media/168543/tina-ccs-carbon-capture-storage-summary-report.pdf 
+
+
+20
+
+ https://www.gov.uk/government/publications/cross-government-carbon-capture-and-storage-r-d-programme-2011-2015-list-of-projects 
+
+
+21
+
+ https://ukccsrc.ac.uk/ 
+
+
+ 20 
+
+Regulation 
+
+ The UK is recognised as one of the most favourable policy and regulatory environments 3.20.
+for CCS in the world, according to the Global CCS Institute's (GCCSI) CCS Policy 
+Indicator
+
+
+22
+
+.  The UK has led the world in the development of a regulatory framework to 
+
+facilitate CCS.  The Government undertook a comprehensive review of the regulation 
+necessary to enable CCS in 2007 and has quickly addressed barriers when identified.  
+For example, the Government added powers to the Energy Act 2011 to address a 
+barrier to the reuse of existing capital assets for the purpose of CO2 storage and 
+transport. 
+
+ The Government also recognises the importance of long term regulatory and price 3.21.
+signals for investor certainty. For this reason we have brought forward a ‘triple lock’ of 
+policies which will, among other effects, encourage deployment of CCS. These are (i) 
+the stipulation that there should be no new coal power plants over 300MW built without 
+CCS; (ii) the Carbon Price Floor which gives an economic incentive to reduce emissions 
+from fossil fuelled power stations; and (iii) the Emissions Performance Standard which 
+provides a regulatory backstop to the requirement of no new coal without CCS.  
+
+International engagement and knowledge sharing 
+
+ Our international engagement is focussed on promoting knowledge sharing between 3.22.
+projects and countries to help cost reduction and to support the deployment of CCS. 
+
+ The Government is engaging through regional, bilateral and multilateral relationships to 3.23.
+collaborate and help overcome the challenges of commercial-scale CCS deployment.  
+We participate in a number of bilateral relationships as well as through international fora 
+such as the Carbon Sequestration Leadership Forum, the North Sea Basin Task Force 
+and the Clean Energy Ministerial; working with countries facing similar challenges to the 
+
+
+UK. 
+
+
+ We are also engaging with individual countries and supporting international 3.24.
+collaboration on R&D. For example in Canada we have supported the UK CCS 
+Research Centre to establish a research exchange and sign a Memorandum of 
+Understanding (MOU) with Sask Power. 
+
+ In April 2012, the Government announced
+
+
+23
+
+ the allocation of up to £60 million to support 3.25.
+the development of CCS technology in emerging markets. This pledge is part of the 
+global commitment made by governments in 2011 through the Clean Energy Ministerial 
+Carbon Capture, Use and Storage Action Group to allocate $200 million to accelerate 
+the deployment of CCS in the near term.  Working with the Asian Development Bank, 
+£35 million
+
+
+24
+
+ of this funding will be used to support CCS projects in China and 
+
+Indonesia; and working with the World Bank, the remaining £25 million will support CCS 
+projects in South Africa and Mexico. 
+
+
+   
+
+                                            
+
+
+22
+
+ Global Status of CCS 2013, GCCSI http://decarboni.se/publications/global-status-ccs-2013/43-ccs-policy-index 
+
+
+23
+
+ https://www.gov.uk/government/news/uk-allocates-up-to-60m-to-support-development-of-ccs-in-emerging-markets 
+
+
+24
+
+ https://www.gov.uk/government/world-location-news/uk-supports-china-and-indonesia-to-develop-carbon-capture-and-storage  
+
+
+ 21 
+
+Section B 
+
+The CCS Commercialisation Programme is designed to bring forward the first 
+commercial scale project(s) in the UK and overcome many barriers.   
+
+
+ 
+
+The purpose of this section is to identify remaining barriers to further deployment, and 
+to seek views, input and evidence on how to address them to inform ongoing policy 
+development. 
+
+
+   22 
+
+4. Financial Incentives and Electricity 
+Market Reform 
+
+The Government’s long-term vision for the electricity market, through its Electricity Market 
+Reform programme, is to transition to a point where low carbon technologies can compete 
+fairly on price.  
+
+DECC will continue to make progress towards this goal in the course of the remainder of 2014 
+and 2015 by broadening its engagement with the industry, on a non-exclusive and no-
+commitment basis, on the design of a generic CCS Contract for Difference (CfD); on potential 
+future arrangements for awarding CCS CfDs; and on the criteria which it might apply to project 
+selection.  
+
+This chapter sets out some of the issues which will be explored over the next 18 months, with 
+a view to putting in place a suite of enabling architecture for future CCS projects by 2016. 
+
+Context  
+
+ The Government is in the process of reforming the electricity market to bring forward 4.1.
+investment in low carbon generation, as part of the transition to a secure, affordable, low 
+carbon energy system. 
+
+ The Government’s long-term vision for the electricity market, through its Electricity 4.2.
+Market Reform programme, is to transition to one in which low carbon technologies can 
+compete fairly on price. Competition between technologies will allow us to meet our 
+objectives in the most cost-effective way. 
+
+ Some technology-tailored approaches will be necessary to ensure investment comes 4.3.
+forward in the early stages of the transition, while industries are maturing and while cost 
+reductions are being achieved and demonstrated.  We set out below our approach to 
+financial support for Phase 1 CCS and initial plans to build on this approach for Phase 2 
+and beyond. 
+
+Approach to supporting Phase One CCS Projects – White Rose and Peterhead 
+
+ In recognition of the importance of CCS, and the fact that no commercial scale power 4.4.
+projects are operational anywhere in Europe, the Government launched the CCS 
+Commercialisation Programme in 2012.  Under this programme, significant levels of 
+Government support have been made available to bring forward these First-Of-A-Kind 
+(FOAK) projects (see table 1).  This support includes:  
+
+ Support for FEED development costs.  FEED (Front End Engineering and 
+Design) is the pre-construction stage of engineering and planning necessary to 
+achieve a greater certainty of cost, system design and technical performance.  
+During this stage of work, projects under the Commercialisation Programme are 
+also required to undertake broader work around commercial and financial risk 
+reduction.  Through FEED, the developer should become certain enough on the 
+cost of the project to justify further investment which then allows the Government 
+to also take decisions on how much support is justified. The Government is 
+meeting up to 75% of the costs (around £100m in total) supporting the FEED 
+activity of the White Rose and Peterhead CCS projects.  The private sector 
+sponsors of both projects are funding the remainder from their own resources. 
+
+
+ 23 
+
+ Support for construction costs.  In recognition of the significant capital 
+investment required, and the challenge of raising funds to finance these multi-
+billion pound FOAK infrastructure projects, the Government will also provide 
+support from the remainder of the £1bn capital funding it has committed to the 
+Programme. In addition to any capital support from Government, both projects 
+would have to raise the majority of capital investment through equity or external 
+finance. 
+
+ Support during operation.  Should one or both of the projects, and Government, 
+take positive Final Investment Decisions, the projects will be eligible for 
+operational support through a CfD. This CfD will pay for the additional operating 
+costs associated with CCS and provide an adequate return on the capital the 
+consortia have invested.   
+
+ There remains a significant degree of uncertainty over the costs and operational risks 4.5.
+around FOAK projects. We expect FEED to allow for some cost discovery and therefore 
+reduce uncertainty. However, various CCS specific risks may materialise in different 
+phases of the projects during design, build, commissioning, operation and 
+decommissioning. If these risks were to materialise the associated costs could impact 
+on the economic viability of the plant.  
+
+ A key aspect of the Government support on offer to the White Rose and Peterhead 4.6.
+projects, therefore, is potential risk sharing of CCS-specific risks during construction and 
+operation.  As part of the Commercialisation Programme, Government analysed the 
+business-as-usual and CCS specific risks FOAK projects are likely to face in a Baseline 
+Risk Allocation Matrix (BRAM) and set out its high-level approach to risk sharing
+
+
+25
+
+ (see 
+
+Annex I and II). The Government agreed to share a limited number of CCS specific risks 
+and details of those arrangements will be developed through negotiation with 
+developers. Once agreed, these arrangements will be implemented through specifically 
+tailored project contract terms and a CfD.   
+
+Towards Phase 2 
+
+ The EMR Delivery Plan set out a range of scenarios for decarbonising the electricity 4.7.
+system, including through the deployment of CCS of up to 13GW by 2030 in the high 
+CCS scenario. For the commercialisation objective to be realised, this implies that 
+subsequent projects should involve significant risk transfer from Government and the 
+consumer to the developer, beyond that envisaged for Phase 1 projects.   
+
+ Within these parameters, there are a number of considerations that will need to be 4.8.
+addressed in the enabling architecture for any Phase 2 CCS projects.  Some of these 
+are highlighted below and we welcome preliminary views on these high level issues. We 
+expect to consult on specific issues in greater detail over the course of the next 18 
+months. 
+
+Pre-Capital investment 
+
+ A CfD requires a developer to be sufficiently confident of the capital and operational 4.9.
+costs of its project to estimate, with reasonable certainty, the strike price it will need over 
+the lifetime of the project. Reliable estimates of these costs are usually only available 
+once FEED is complete. 
+
+                                            
+
+
+25
+
+ Tender documents are available at: 
+https://online.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?site=1000&lang=en&noticeid=560937&fs=true 
+
+
+ 24 
+
+ However, developing a project through FEED to a point where the developer can take 4.10.
+an investment decision in itself involves significant costs. Investors in more established 
+low carbon generation technologies are prepared to make similar investment without the 
+certainty of a CfD. On the other hand, during initial discussions, CCS developers have 
+noted the high risks created by the uncertainty, complexity and interdependencies of the 
+CCS chain. They were therefore not prepared to fund such FEED investment entirely at 
+their own risk without the offer of a CfD. 
+
+ Whilst this is understandable given the currently nascent state of CCS in the UK, in the 4.11.
+longer term CCS developers will need to develop projects at their own risk, as is the 
+case for other low carbon technologies, up to the point where they can attract sufficient 
+interest from investors. 
+
+Q1. To what extent would developers be prepared to invest in FEED costs ahead 
+of allocation of a CfD?  What measures could be adopted so that the developers 
+have sufficient certainty of their costs and a Strike Price to form the basis of an 
+investment decision? 
+
+Capital Investment 
+
+ The Commercialisation Programme combines revenue support through Contracts for 4.12.
+Difference with an element of capital support.  Follow-on projects will be eligible to apply 
+for infrastructure guarantees and other finance mechanisms such as through UK Green 
+Investment Bank and European Investment Bank (see chapter 5), to support them in 
+raising finance from non-public sources. 
+
+ The Commercial Development Group, established under the Cost Reduction Task 4.13.
+Force, and which reports to CCS Development Forum is working to support project 
+developers in engaging with finance markets. 
+
+Q2.  How best should the industry-led CCS Commercial Development Group work 
+to support project developers in engaging with finance markets? 
+
+Operational support via Contracts for Difference  
+
+ CfDs are long-term, private law contracts where Generators sell their electricity into the 4.14.
+market in the usual way and where variable payments are made to ensure the generator 
+receives the agreed “strike price”. CfDs stabilise returns for generators at a fixed level 
+over the duration of the contract. This removes the generator’s long term exposure to 
+electricity price volatility, substantially reducing the commercial risks faced by these 
+projects.  CfDs are not intended to provide protection against project development, 
+technical or operational performance risks. The Government does not believe that they 
+should fulfil this role for CCS.  
+
+ However, initial feedback from developers is that the generic CfD may require some 4.15.
+adaptation to be investible for CCS projects, including early stage Phase 2 projects, for 
+example enabling flexibility to be able to adjust the Strike Price to take account of: 
+
+ movement in capital estimates; and  
+
+ changes to some operational costs once the Strike Price is agreed.  
+
+ This is because there are a number of uncertainties which have the potential to impact 4.16.
+the overall cost and return on investment of CCS projects along its full chain. Examples 
+include:  
+
+
+ 25 
+
+ Uncertainties in future fuel price assumptions, as CCS has significant fuel costs 
+unlike some other low carbon generation.  
+
+ Availability of cost effective infrastructure which can over time lead to cost 
+reduction.  
+
+ Availability of valuable alternatives for the disposal of carbon dioxide (e.g. the use 
+of carbon dioxide in enhanced oil recovery).  
+
+ The performance of the storage sites.  
+
+Q3.  To what extent should Government reflect long-term risks of full chain CCS 
+projects in the design of a CCS CfD? In particular, we will want to explore the 
+extent to which similar risks also arise in other sectors and the changes that may 
+be needed in CfD design to put CCS on an equivalent basis to other low carbon 
+technologies. 
+
+ In the 2013 EMR Contract and Allocation Overview
+
+
+26
+
+ the Government noted its intention 4.17.
+that any future CfD allocation for CCS projects would take place through competitive 
+project selection processes, wherever practical and effective. This is in line with 
+Government policy of increasing competition within and between low carbon 
+technologies, which will assist with meeting Government’s goals for least-cost 
+decarbonisation of the power sector over the longer term. It also noted that bilateral 
+negotiation remains an alternative for CCS CfD allocation where competitive processes 
+are not practical. Any final allocation decision would still be subject to strict value for 
+money considerations and an assessment of overall budget constraints.  
+
+ The Government committed
+
+
+27
+
+ to engage further with CCS developers, assessing the 4.18.
+applicability of the generic CfD to early stage CCS projects and whether this needs to 
+be tailored to provide appropriate support for this technology. 
+
+ In order to continue to make progress towards achieving cost competition within and 4.19.
+between low carbon technologies, DECC will therefore, in the course of the remainder 
+of 2014 and 2015, broaden its engagement with the industry on a non-exclusive and no-
+commitment basis on the design of a generic CCS CfD and options for how these may 
+be allocated in future. The design of a generic CCS CfD will also take into account 
+progress in the CCS competition, where relevant, for other early stage CCS projects. 
+Without prejudice to future decisions on the Levy Control Framework or any future 
+allocation processes under the EMR enduring regime, this work should enable an 
+appropriate suite of enabling architecture to be in place for CCS by 2016.        
+
+ The current approach for the Phase 1 projects, and potential future approach for Phases 4.20.
+2 and 3 is summarised in table 1 below. 
+
+
+  
+
+                                            
+
+
+26
+
+ EMR: Contract for Difference – Contract and Allocation Overview August 2013. Available at: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/233004/EMR__Contract_for_Difference__Contract_and_Allocati
+on_Overview_Final_28_August.pdf 
+
+
+27
+
+ Ibid 
+
+
+ 26  
+
+TABLE 1 
+
+High-level principles for HMG intervention to support CCS – reducing levels of support 
+through phases to full commercialisation 
+
+ Phase 1 
+
+Peterhead 
+
+White Rose 
+
+Phase 2 
+
+Transition phase 
+
+Phase 3 
+
+Full commercialisation 
+
+HMG Contribution to 
+FEED costs 
+
+Yes Subject to decision No 
+
+HMG contribution to 
+construction costs 
+
+Yes* No 
+
+HMG risk sharing 
+during construction 
+
+Yes* No 
+
+HMG risk sharing 
+during operation 
+
+Yes* No 
+
+CfD Yes* In principle, subject 
+to decision
+
+
+† 
+
+
+In principle - all low 
+carbon technologies 
+compete on price
+
+
+† 
+
+
+Notes: 
+
+* Subject to negotiations, Final Investment Decisions by consortia and Government, an assessment of affordability 
+and value for money; and state aid approval 
+
+
+† 
+
+Without prejudice to future allocations from the current Levy Control Framework; or future decisions on the next 
+
+Levy Control Framework period 
+
+Next steps 
+
+ In order to put in place by 2016 the enabling architecture to bring forward a second 4.21.
+phase of CCS in the UK, the Government will work to broaden its consultation with 
+industry over the next 18 months on: 
+
+ The design principles of a generic CCS CfD. 
+
+ Options for how such a CfD may be allocated in future, including criteria that may 
+apply.   
+
+ These consultations will be without prejudice to future decisions on the Levy Control 4.22.
+Framework or any future allocation processes under the EMR enduring regime. 
+
+ We welcome views at this stage on whether the challenges outlined above on pre-4.23.
+capital investment, capital investment and operational support are appropriate issues on 
+which to focus further consultations, and any further issues we will need to consider. 
+
+
+  
+
+Subject to 
+
+decision† 
+
+
+ 27 
+
+Questions: 
+
+Q1. To what extent would developers be prepared to invest in FEED costs ahead of 
+allocation of a CfD? What measures could be adopted so that the developers 
+have sufficient certainty of their costs and a Strike Price to form the basis of an 
+investment decision? 
+
+Q2. How best should the industry-led CCS Commercial Development Group work to 
+support project developers in engaging with finance markets? 
+
+Q3.  To what extent should Government reflect long-term risks of full chain CCS 
+projects in the design of a CCS CfD? In particular, we will want to explore the 
+extent to which similar risks also arise in other sectors and the changes that may 
+be needed in CfD design to put CCS on an equivalent basis to other low carbon 
+technologies. 
+
+
+      28 
+
+5. Financing CCS projects 
+
+The Government has recognised that raising finance for low carbon energy and other major 
+infrastructure projects, including CCS, from traditional sources may be challenging, and 
+therefore has a range of mechanisms available to support investors. 
+
+This chapter provides a brief summary of those mechanisms. 
+
+Context  
+
+ As evidenced by White Rose and Peterhead, full-chain CCS projects are major, multi-5.1.
+billion pound infrastructure projects.  These projects are part of the Government’s Top 
+40 priority investments, as set out in the National Infrastructure Plan
+
+
+28. 
+
+ Up to 2020 alone, the UK needs to attract a further £100bn investment
+
+
+29
+
+ in its energy 5.2.
+infrastructure.  The changes to the Electricity Market and the creation of Contracts for 
+Difference (CfDs) are designed to provide project developers with revenue certainty.  
+However, project developers still need to raise capital funding to finance the 
+construction of their projects.   
+
+ As for other infrastructure projects, that finance will need to come from market.  5.3.
+However, the Government has recognised that raising such finance for these low 
+carbon energy projects from traditional sources may be challenging, and therefore has a 
+range of mechanisms available to support investors in raising sufficient capital from non-
+public sources to take forward their projects.  The key mechanisms are provided by the 
+Green Investment Bank and Infrastructure UK. 
+
+Green Investment Bank 
+
+ The Green Investment Bank (GIB) was established to accelerate investment in the UK’s 5.4.
+transition to a green economy. The UK Government is the sole shareholder and 
+provided an initial £3.8bn of capital to be invested with the aim of helping to lower the 
+cost of capital for green projects. 
+
+ The GIB has a key role to play given the restricted availability of long-term debt to low-5.5.
+carbon infrastructure projects. Investments are made in demonstrably green projects 
+and programmes with the aim of mobilising private capital. To date, the GIB has 
+committed £1.3bn of capital and in doing so has mobilised a further £4.6bn. Products 
+available through the GIB include debt, mezzanine, equity and guarantees, offered on 
+terms equivalent to others in the market, but not low cost finance or grants. 
+
+Infrastructure UK 
+
+ Infrastructure UK (IUK)
+
+
+30
+
+ is a unit within the Treasury that works on the UK’s long-term 5.6.
+infrastructure priorities, of which CCS is one, and helps secure private sector 
+investment. IUK manages the UK Guarantee Scheme, a mechanism through which the 
+Government is seeking to kick-start crucial infrastructure projects.  
+
+                                            
+
+
+28
+
+ https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/263159/national_infrastructure_plan_2013.pdf 
+
+
+29
+
+ https://www.gov.uk/government/publications/delivering-uk-energy-investment-2014 
+
+
+30
+
+ https://www.gov.uk/government/organisations/infrastructure-uk 
+
+
+ 29 
+
+ The Treasury has made available £40bn of financial guarantees for such infrastructure 5.7.
+projects. This support is offered as a financial guarantee of scheduled principal and 
+interest to a lender or investor in a UK infrastructure project and on behalf of the 
+relevant borrower or issuer of debt.  
+
+European Investment Bank 
+
+ The European Investment Bank (EIB) is the bank of the European Union and is one of 5.8.
+the largest multilateral borrowers and lenders by volume in the world. The bank provides 
+finance and expertise for sound and sustainable investment projects which contribute to 
+furthering EU policy objectives. 
+
+ The vast majority of the EIB’s financing is through loans, but they also offer guarantees, 5.9.
+equity investment, intermediary project loans through local banks, project bonds, 
+venture capital and microfinance among their range of products. Support from the EIB 
+
+can be used to assist in unlocking financing from other sources. 
+
+Q4. Are these existing products sufficient to support CCS projects in raising 
+finance from non-public sources?  If not, please explain why, with supporting 
+evidence, and what kind of additional financing or products would be needed? 
+
+Experiences from White Rose and Peterhead projects 
+
+ As part of the FEED contracts signed with the Government, White Rose and Peterhead 5.10.
+will share key aspects of their experience and learning with the wider industry (this 
+approach is set out in more detail in chapter 13).  This learning will include how the 
+projects are financed (within the terms of commercial confidentiality), what viable 
+financial structures look like and financial model templates for the use of prospective 
+CCS developers. 
+
+
+ 
+
+Question: 
+
+Q4. Are the existing products offered by the Green Investment Bank (GIB), 
+Infrastructure UK (IUK) and the European Investment Bank (EIB) sufficient to 
+support CCS projects in raising necessary finance from non-public sources?  If not, 
+please explain why, with supporting evidence, and what kind of additional financing 
+or products would be needed? 
+
+
+    30 
+
+6. Transport and storage infrastructure 
+
+Analysis
+
+
+31
+
+ shows that effective investment in, and use of, transport and storage infrastructure 
+could deliver significant cost reductions.   
+
+This chapter sets out the Government’s approach to date, and seeks views on future direction. 
+
+Context  
+
+ Regulatory arrangements for transport and storage are in place in the UK and will need 6.1.
+to be tested in practice as projects get underway. The Government has also introduced 
+measures to ensure that we are able to make most effective use of CCS specific 
+infrastructure at a national level as it is constructed. The challenge is to promote 
+
+investment in transport and storage to enable deployment while there remains 
+significant uncertainty about the timing, location and scale of CCS deployment. 
+
+ Transport and storage are fundamental to the effective commercialisation of CCS. 6.2.
+Investment at scale, and ahead of demonstrable demand, is key to unlocking the cost 
+reductions the Cost Reduction Task Force (CRTF) has identified as essential if CCS is 
+to be cost effective compared with low carbon alternatives. Transport and storage also 
+requires substantial investment and poses performance risk to a CCS project which 
+must be managed. 
+
+Expected requirement  
+
+ Permanent, environmentally secure storage is fundamental to successful CCS. There is 6.3.
+good evidence to suggest that the UK’s geology is well suited to the permanent 
+containment of carbon dioxide.  This capacity has been comprehensively mapped
+
+
+32
+
+, but 
+
+developing potential sites into operational storage capacity will require significant 
+investment. That investment requires a high level of confidence that the store will be 
+used and will perform as expected.  
+
+Clustering - shared transport and storage infrastructure 
+
+ Work done by the UK CCS Cost Reduction Task Force
+
+
+33
+
+ suggests that investment in, 6.4.
+and effective use of, shared transport and storage infrastructure could deliver about half 
+of the cost savings necessary for CCS to be cost competitive with other low carbon 
+forms of generation. This is greater than any other contributory factor analysed in their 
+report. This analysis suggests that, subject to technical limits on capacity, sharing of 
+infrastructure could be key if CCS is to compete with other low carbon generation.  A 
+key challenge is therefore the extent to which this investment in shared infrastructure 
+can be justified. 
+
+ The Government has sought to facilitate investment in CO2 transport and storage in 6.5.
+recent years. These efforts have focussed on: 
+
+ Establishing a system for permitting and leasing of offshore CO2 storage 
+sites. Comprehensive arrangements were set out in legislation in 2008 and detail 
+subsequently added on the permitting conditions and processes, as well as the 
+
+                                            
+
+
+31
+
+ https://www.gov.uk/government/groups/ccs-cost-reduction-task-force 
+
+
+32
+
+ http://www.co2stored.co.uk/ 
+
+
+33
+
+ https://www.gov.uk/government/groups/ccs-cost-reduction-task-force 
+
+
+ 31 
+
+terms of the lease necessary from The Crown Estate, to progressively develop 
+specific storage sites.  These arrangements provide for the prospect of storing 
+carbon dioxide in tandem with the recovery of hydrocarbons, through CO₂ EOR.  
+
+ Understanding the Storage Potential of the UK Offshore Area. The UK 
+Government has funded or part-funded a number of assessments of the UK 
+offshore area. These confirm the enormous potential capacity (at least 100 years 
+at current levels of CO2 emissions) but also recognise the uncertainty attached to 
+the practical and economic development of those estimates, particularly for less 
+characterised features such as saline aquifers. The most recent and detailed 
+assessment appraised around 600 potential storage sites, with a total of up to 78 
+gigatonnes of capacity. The CO2 Stored
+
+
+34
+
+ database is one of the most complete 
+
+storage atlases anywhere in the world and is being further developed and made 
+available through The Crown Estate and the British Geological Survey. 
+
+ A regulatory backstop to encourage the shared development and use of 
+CCS infrastructure. Regulations
+
+
+35
+
+ were implemented in 2011 to facilitate third 
+
+party access to, or modification of, CCS infrastructure. These are based on a 
+process of negotiated access, with the ability for the Government to adjudicate in 
+the national interest in the event the parties are unable to reach agreement. 
+
+ Current regulation does not make provision or comment on technical aspects of 
+shared CCS infrastructure, such as operating parameters including pipeline 
+pressures for wider networks, or specifications for the CO2 to be transported.   
+
+Q5.  We would welcome views on whether this is a priority from an 
+industry perspective. 
+
+ The projects under the Commercialisation Programme, i.e. White Rose and 
+Peterhead, both have transport and storage infrastructure capacity in excess of 
+their own needs.   
+
+Future development of transport and storage infrastructure 
+
+ One of the actions identified by the Cost Reduction Task Force was to put in place 6.6.
+arrangements to ensure optimal transport and network configuration.  As a result the 
+Storage Development Group was established, reporting into the CCS Development 
+Forum. The Government is keen for this Group to have strong industry participation and 
+leadership, and to come forward with practical actions needed to help reduce the risks 
+of investing in storage site exploration, development and operation identified by the Cost 
+Reduction Task Force. We will continue to work with the Group with this objective in 
+mind. 
+
+ A number of commentators have pointed to the longer lead times for storage site 6.7.
+development compared with other parts of the CCS chain. This is unlikely to be a 
+problem for integrated full-chain projects, where the project plan will factor in the 
+different duration of each part of the chain. However, there are currently few market 
+incentives to invest in exploring and developing storage sites outside of these 
+circumstances. If this is the case then future CCS projects will need either to develop 
+their project on a timetable consistent with the time needed to explore for and develop 
+
+                                            
+
+
+34
+
+ http://www.co2stored.co.uk/ 
+
+
+35
+
+ http://www.legislation.gov.uk/uksi/2011/2305/made 
+
+
+ 32 
+
+new CCS transport and storage infrastructure, or make use of existing infrastructure if 
+that is practical and available.  
+
+ The Government introduced legislation to facilitate effective utilisation of existing 6.8.
+infrastructure in 2011, and we are keen to better understand what further steps may be 
+necessary to stimulate private investment in infrastructure deployment. This is already 
+an area that the Storage Development Group is considering, but we would also 
+welcome views of other interested parties on this point.  
+
+Q6.  What further steps may be necessary to stimulate private investment in 
+infrastructure deployment? 
+
+ We have also considered previously how far the current market led approach to CCS 6.9.
+infrastructure is capable of delivering the investment needed if CCS is to be widely 
+deployed. The essence of this approach is that investment is private sector led and 
+
+stimulated by demand, but with a regulatory backstop (2011 CO2 Infrastructure 
+legislation) to enable projects and facilities to be modified where it is in the wider interest 
+to do so, and to enable third parties to access existing infrastructure.  In developing the 
+Commercialisation Programme, the Government believed that this approach is more 
+likely to result in cost-effective investment in CCS infrastructure than would a 
+programme of public investment in transport and storage. 
+
+ In 2010 Government consulted on whether a national or regional monopoly (either in the 6.10.
+private or public sectors) supplier of transport and storage services should be created 
+as an alternative to this market based approach.  Based on the responses received, it 
+concluded
+
+
+36
+
+ that this was unnecessary given the current state of development of CCS, 
+
+but said it would keep the option under review.  It is not apparent that circumstances 
+have changed significantly since then. In particular uncertainty about the timing, location 
+and scale of CCS deployment, which is essential for CCS infrastructure to be effectively 
+planned, does not appear to have reduced significantly since 2010. 
+
+CO2 storage site permits and provision for liabilities under the CCS Directive  
+
+ Carbon dioxide storage can only take place in the UK under the terms of a permit 6.11.
+issued by the appropriate regulatory body.  The terms of the permit are set out in 
+European legislation, and the permit controls the process of storage as well as placing 
+obligations on the permit holder to manage the storage site in an environmentally 
+acceptable manner.  It also imposes obligations on the storage site permit holder to take 
+remedial action where necessary and to bear the cost of any environmental damage 
+caused by the storage site, including climate damage in the event that carbon dioxide 
+leaks into the atmosphere. The permit holder is relieved of long-term liability for the site 
+once injection comes to an end, the associated infrastructure has been 
+decommissioned and the evidence points toward complete and permanent containment 
+of the CO2. 
+
+ A number of prospective developers of CO2 sites have identified these regulatory 6.12.
+requirements as a disincentive to invest in storage site development.  In particular they 
+are concerned about the potential climate change contingent liability that could 
+crystallise during the period the permit is in place and - whilst very unlikely - could be 
+significantly greater than the revenue earned during the operation of the store if it did 
+materialise.  Concern tends to be focussed on the financial implications of the 
+
+                                            
+
+
+36
+
+ https://www.gov.uk/government/consultations/developing-our-carbon-capture-and-storage-ccs-industry 
+
+
+ 33 
+
+obligations, should the most extreme circumstances arise, rather than the obligations 
+themselves. 
+
+ There is little scope within current European legislation for Member States to modify the 6.13.
+obligations on a storage permit holder. The Government’s approach is therefore to work 
+with the industry to help better understand the financial implications of storage liabilities 
+that might arise. We recently published an assessment of the potential financial 
+consequences from the theoretical leakage of carbon dioxide
+
+
+37
+
+. In virtually all 
+
+circumstances these consequences are likely to be finite, and remedial measures would 
+be available to mitigate the cause of the damage. The European Commission is 
+currently reviewing the CCS Directive (as set out below), but it is too early to know 
+whether these provisions will be adjusted as a result.  We want to work with industry to 
+understand what further work we could do collectively that would help build confidence 
+in the financial implications of storage site integrity.  
+
+Q7.  We would welcome views on the current arrangements for permitting the 
+operation of storage sites, whether these are proving to be a barrier to 
+investment, and if so how these barriers might be overcome. 
+
+CCS Directive 
+
+ The European Commission is currently reviewing the CCS Directive.  The Commission 6.14.
+will submit a review report to the European Parliament and to the Council by March 
+2015.  An external evaluation study consisting of an on-line survey, follow-up interviews 
+and stakeholders meetings is underway.  
+
+ The Commission has signalled that the review will also be a broad based policy review 6.15.
+and therefore an opportunity to consider wider European CCS policy – particularly in the 
+light of the forthcoming agreement on the 2030 climate and energy package. 
+
+Q8.   Are there elements of the way the CCS Directive has been implemented in 
+the UK that ought to be revisited?  What should the UK be asking for during 
+the Directive review process? 
+
+Projects of Common Interest (PCI) / Connecting Europe Facility (CEF) funding 
+
+ In October 2013, the European Commission adopted a list of 248 key energy 6.16.
+infrastructure projects. These projects had been selected by twelve regional groups 
+established by the new guidelines for trans-European energy infrastructure (TEN-E). 
+Carrying the label "projects of common interest" (PCI) they will benefit from faster and 
+more efficient permit granting procedures and improved regulatory treatment. 
+
+ This list will be updated in October 2015 and could potentially include CO2 transport 6.17.
+projects.  In order to progress any potential inclusion on such a list, and to consider any 
+CO2 transport proposals if included, the European Commission requires a “thematic 
+group” to be established. The North Sea Basin Task Force is currently exploring 
+whether it can take on the role of such a thematic group. 
+
+ The European Commission documentation
+
+
+38
+
+ sets out the eligibility criteria for CO2 6.18.
+transport projects.  
+
+                                            
+
+
+37
+
+ https://www.gov.uk/government/publications/co2-storage-liabilities-in-the-north-sea-an-assessment-of-risks-and-financial-consequences-
+summary-report-for-decc-may-2012 
+
+
+38
+
+ http://ec.europa.eu/energy/infrastructure/pci/pci_en.htm 
+
+
+ 34 
+
+ For a project to be included in the list, it has to have significant benefits for at least two 6.19.
+Member States (or at least one Member State and one State from the European 
+Economic Area); contribute to market integration and further competition; enhance 
+security of supply, and reduce CO2 emissions. CO2 transport projects should also 
+enable the connection of multiple CO2 sources and storage sites via common 
+infrastructure and minimise environmental burden and risks.  
+
+ PCIs may be able to access financial support from the Connecting Europe Facility 6.20.
+(CEF), under which a €5.85 billion budget has been allocated to trans-European energy 
+infrastructure for the period 2014-20.  Projects can receive co-funding up to 50%. This 
+rate can be exceptionally increased to 75% if the project proves through its cost-benefit 
+analysis that it contributes to significantly increased regional or Union-wide security of 
+supply, that it strengthens the solidarity of the Union or that it comprises highly 
+innovative solutions.  CEF can provide financial instruments (project or corporate 
+financing) and grants for studies (which minimise risk factors) or works (filling the 
+funding gap for non-commercial projects).  
+
+ Given the potential funding opportunity, the Government would encourage the CCS 6.21.
+industry to consider how potential project proposals should be identified and developed. 
+
+London Protocol 
+
+ Geological formations underneath the North Sea could act as a storage hub for Europe.  6.22.
+However, current international regulation, referred to as the London Protocol
+
+
+39
+
+, could in 
+
+some circumstances prevent this.  The London Protocol has been interpreted by 
+contracting parties as prohibiting the export of CO2 from a contracting party to other 
+countries for injection into sub‐seabed geological formations.  
+
+ The protocol was amended by contracting parties in 2009 to allow for cross‐border 6.23.
+transportation of CO2 for sub‐seabed storage, but the amendment must be ratified by 
+two‐thirds of contracting parties to enter into force.  To date, only a handful of 
+contracting parties have ratified.  
+
+ The UK will continue to raise awareness among relevant Governments of the 6.24.
+importance to global CCS deployment of ratifying international marine treaty 
+amendments, including the London Protocol Article 6 amendment. 
+
+
+ 
+
+Questions: 
+
+Q5. To what extent is it a priority from an industry perspective for regulation to cover 
+technical aspects of shared CCS infrastructure, such as operating parameters 
+including pipeline pressures for wider networks, or specifications for the CO2 to 
+be transported?  
+
+Q6. What further steps may be necessary to stimulate private investment in CO2 
+transport and storage infrastructure deployment? 
+
+                                            
+
+
+39
+
+ 1996 Protocol to the 1972 Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter 
+
+
+ 35 
+
+Q7. What are your views on the current arrangements for permitting the operation of 
+storage sites?  Are these arrangements proving to be a barrier to investment, and 
+if so how might these barriers be overcome? 
+
+Q8. Are there elements of the way the CCS Directive has been implemented in the 
+UK that ought to be revisited?  What should the UK be asking for during the 
+Directive review process? 
+
+
+   36 
+
+7. Part Chain and Full Chain projects 
+
+This chapter looks at the interaction between full-chain and part-chain CCS projects in 
+developing UK CCS infrastructure. 
+
+Context 
+
+ The Government considers that the best, quickest way to reduce the costs of CCS is to 7.1.
+support the deployment of the UK’s first commercial scale CCS projects which 
+incorporate the full-chain of CCS activity – capture, transport and safe, permanent 
+geological storage.   
+
+ The criteria for the Commercialisation Programme therefore prioritised such full-chain 7.2.
+projects.  Part-chain projects were not excluded, but needed to demonstrate potential to 
+ultimately form a full-chain project.   
+
+ The full-chain projects under the Commercialisation Programme, i.e. White Rose and 7.3.
+Peterhead, both have transport and storage infrastructure capacity in excess of their 
+own needs.  Cost Reduction Task Force analysis showed that shared use of 
+infrastructure could deliver the biggest cost reduction as compared to other cost 
+reductions from cheaper financing, technology learning and engineering improvements, 
+and potentially EOR.   
+
+ The Government has not taken any decision on whether potential future support might 7.4.
+be directed at full-chain projects, part-chain projects or both, and all projects will need to 
+demonstrate that they can deliver value for money.  Notwithstanding this, the full-chain 
+infrastructure developed through Phase 1 creates the possibility of future part-chain 
+projects, and we set out below some of the issues that might need to be addressed in 
+such projects.   
+
+Commercial structures of part-chain projects 
+
+ Part-chain projects, utilising the infrastructure laid down for example by the Phase 1 7.5.
+project(s) or any subsequent infrastructure providers, could be formed at either end of 
+the pipeline: 
+
+ Part-chain capture projects:  Power stations or heavy industry installing carbon 
+capture technology, and plugging into any existing infrastructure in order to 
+dispose of their CO2.  
+
+ Part-chain storage projects:  Project developers wishing to make use of 
+Enhanced Oil Recovery (EOR) techniques in particular may wish to enter some 
+form of commercial arrangements to buy captured and transported CO2.   
+
+ It is also possible that infrastructure providers may choose to invest in additional 7.6.
+transport infrastructure to link-in with any existing transport and storage infrastructure.  
+
+ A major area where the market still appears immature is the commercial structures 7.7.
+which would be needed for part-chain projects to exploit the infrastructure created by 
+Phase 1 project(s) or other infrastructure providers. 
+
+
+ 37 
+
+ As set out in chapter 6, the regulatory framework
+
+
+40
+
+ has been established, by which CCS 7.8.
+projects, including Phase 1 project(s), will be expected to allow access to their 
+infrastructure on fair and reasonable terms. 
+
+ One key aspect of any commercial structures will be the payment flow of possible CfDs. 7.9.
+The core rationale of the CfD under Electricity Market Reform is a strike price to 
+incentivise the generation of clean electricity.     
+
+ Conceptually, if a part-chain capture project entered into commercial agreements with 7.10.
+Phase 1 projects or any subsequent infrastructure providers on access to their 
+infrastructure, the part-chain project could demonstrate that its electricity was clean and 
+thereby qualify for a CfD. 
+
+ The part-chain capture project could then use CfD revenue to meet the cost of any tariff 7.11.
+agreed with the provider or operator of the existing transport and storage infrastructure.    
+
+Q9.  The Government does not consider it currently has a role, beyond existing 
+third party regulations, in establishing the terms and conditions of any 
+such agreements.  What steps do you think industry should take to further 
+develop the commercial models for any such agreements? 
+
+Question: 
+
+Q9. The Government does not consider it currently has a role, beyond existing third party 
+regulations, in establishing the terms and conditions of any agreements between part-
+chain projects and full-chain / CO2 infrastructure providers.  What steps do you think 
+industry should take to further develop the commercial models for any such 
+agreements? 
+
+
+  
+
+                                            
+
+
+40
+
+ http://www.legislation.gov.uk/uksi/2011/2305/made 
+
+
+ 38 
+
+8. Enhanced oil recovery (EOR) 
+
+The Government is exploring with industry the extent to which CO2-EOR could play a 
+significant role in the UK’s CCS deployment and maximise future recovery from the North Sea.   
+
+This chapter outlines the potential opportunity available, provides an update of recent work and 
+seeks views on how to further encourage activity in this area. 
+
+Context 
+
+ The UK’s offshore oil and gas reserves, and the industry which has grown to exploit 8.1.
+those reserves, has made a significant contribution to the economy and job creation. 
+Achieving optimal recovery from the UK’s reserves is demanding, but with the average 
+
+UK Continental Shelf (UKCS) recovery factor from oil fields projected to be 
+approximately 47% at end of field life, there is still a significant prize to be gained by 
+maximising recovery from the existing oil fields. 
+
+ Enhanced oil recovery (EOR) refers to a range of techniques used to recover 8.2.
+incremental oil beyond that which can be extracted from the more conventional 
+depletion and waterflood recovery mechanisms.  CO2-based EOR, part of the miscible 
+gas injection technique, is one such method. 
+
+ CO2-EOR is sometimes referred to under the umbrella term of “Carbon Capture and 8.3.
+Utilisation” (CCU), particularly in the US and China.  Broader CCU issues are explored 
+in chapter 11. 
+
+ The CO2-EOR industry has been long established in North America, with over 150 fields 8.4.
+in operation generating c250,000 barrels of oil a day
+
+
+41.   
+
+
+ The Cost Reduction Task Force recognised the potential contribution of CO2-EOR to the 8.5.
+UK’s CCS industry, and calculated that the technique, and revenue generated, could 
+reduce the cost of CCS by between £5-£26/MWh (depending on assumptions around 
+the underlying power station).  However, as set out in the Government’s Response, it is 
+not yet clear to what extent the North American experience can be replicated in the UK 
+offshore.  Of 300 fields currently in operation on the UK Continental Shelf, only two are 
+EOR schemes, although additional projects are now either in execution, such as the 
+world’s first offshore Low Salinity scheme (BP’s Clair Ridge development), or are at pre-
+sanction stages of evaluation. The principal barriers to implementing EOR projects 
+include: 
+
+ Higher risk for EOR offshore compared to onshore. The well spacing is much 
+higher offshore, which increases reservoir uncertainty, and is more difficult to 
+carry out small scale pilot projects before committing to full-field development. 
+
+ Supply of secure, low cost EOR injectants, in particular for miscible gas (including 
+CO2) EOR. 
+
+ Weight and space limitations on offshore oil platform which make retrofitting major 
+new equipment for EOR projects challenging. 
+
+
+  
+
+                                            
+
+
+41
+
+ http://www.adv-res.com/pdf/v4ARI%20CCS-CO2-EOR%20whitepaper%20FINAL%204-2-10.pdf 
+
+
+ 39 
+
+The Wood Review; and PILOT EOR Work Group 
+
+ The Wood Review, commissioned by the Government to examine how to maximise 8.6.
+recovery from the UK’s oil and gas reserves also recognised the potential of CO2-EOR, 
+and stated that “industry should be encouraged more in EOR schemes to avoid leaving 
+significant value behind”. The Review also endorsed the work of the PILOT group
+
+
+42
+
+ - a 
+
+partnership between the UK oil and gas industry and DECC, which established an EOR 
+Work Group in 2013. 
+
+ The PILOT EOR Work Group is undertaking a  three phase programme to: 8.7.
+
+ Screen the UKCS fields for EOR potential.  
+
+ Engage industry and look for synergies by geography/geology/EOR type and 
+collaborative opportunities to progress EOR understanding. 
+
+ Where possible, initiate EOR projects with operators and / or suppliers. 
+
+ Within this programme of work, PILOT is keen to identify a candidate field for an 8.8.
+independent pre-FEED study to assess economic feasibility of CO2 EOR.  However, 
+such work is dependent on an operator bringing forward a proposal for detailed review. 
+
+ This programme of work commenced in earnest in October 2013, with a workshop of 8.9.
+over 40 experts.  Using an advanced screening tool, all the major oil fields were 
+screened for both hydrocarbon miscible gas injection and for CO2 injection.  That 
+screening also took into account the distance from the potential CO2 storage hubs that 
+may be developed under the CCS Programme, as PILOT believes that CO2 EOR 
+projects are more likely to develop by exploiting existing CO2 storage hubs than by 
+developing stand-alone CO2 infrastructure.   
+
+ The data from this screening led PILOT to conclude that the top 15 fields could produce 8.10.
+an additional 0.6 billion barrels of oil equivalent (boe) with 0.1-0.2 billion boe as a result 
+of CO2-EOR.  At an assumed market price of $100 per barrel, that would indicate a 
+possible gross revenue of $10bn - $20bn. 
+
+ DECC, as regulator for the offshore oil and gas industry, has recently contacted UKCS 8.11.
+field operators to begin a series of “EOR Reviews” to look in more detail at what is 
+holding back EOR project investment and what industry and government can do to 
+increase EOR activity.  This programme of reviews, responsibility for which will pass to 
+the Oil and Gas Authority once it is established, will start in autumn 2014 and is 
+expected to take 1-2 years.  These planned reviews will include CO2-EOR proposals.  
+Since field development projects are confidential during the planning stage, no further 
+details are expected to be released at this stage.  
+
+ These reviews will help inform DECC’s future approach to offshore EOR, including CO2 8.12.
+EOR. 
+
+Incentives 
+
+ There is no consensus within industry as to how CO2-EOR could or should develop in 8.13.
+the UK.  It has been suggested that Government should take further measures to 
+encourage such development. The Government is aware of the significant potential for 
+enhanced oil recovery on the UK Continental Shelf.  It will consider evidence from 
+industry on the possible need to support gas and oil companies on EOR projects 
+
+                                            
+
+
+42
+
+ https://www.gov.uk/government/groups/105 
+
+
+ 40 
+
+through its review of the oil and gas tax regime, which was announced at Budget 2014.  
+HM Treasury published a call for evidence
+
+
+43
+
+ on 14 July, marking the start of 12 weeks of 
+
+discussions with industry and other stakeholders on the long-term future of oil and gas 
+tax. 
+
+Q10.   On issues of incentives for CO2-EOR, respondents are encouraged to input 
+to the HM Treasury call for evidence on the Review of the Oil and Gas 
+Fiscal Regime, which closes on 3 October 2014. 
+
+CO2 supply and demand 
+
+ The potential availability of CO2 and the fields in which it can be used may not match up 8.14.
+in a timely manner. 
+
+Q11.   How should industry collaborate to best match the needs of CO2 supply 
+
+and demand for any future CO2-EOR industry and how should this be 
+managed? 
+
+ Some industry stakeholders have speculated that additional infrastructure may be 8.15.
+needed over and above that proposed under Phase 1 project(s), in order to realise the 
+potential of EOR - for example a pipeline from the Southern North Sea to the Central 
+North Sea.   
+
+Q12.  How should the industry collaborate to take forward any such 
+requirements? 
+
+Questions: 
+
+Q10. On issues of incentives for CO2-EOR, respondents are encouraged to input to the 
+HM Treasury call for evidence on the Review of the Oil and Gas Fiscal Regime, 
+which closes on 3 October 2014 
+
+Q11. How should industry collaborate to best match the needs of CO2 supply and 
+demand for any future CO2-EOR industry and how should this be managed? 
+
+Q12. How should the industry collaborate to take forward any additional transportation 
+infrastructure requirements of any future CO2-EOR industry? 
+
+
+  
+
+                                            
+
+
+43
+
+ https://www.gov.uk/government/consultations/review-of-the-oil-and-gas-fiscal-regime-a-call-for-evidence  
+
+
+ 41 
+
+9. Industrial CCS 
+
+To meet the UK’s longer term ambitions on climate change, carbon dioxide emissions will need 
+to be substantially reduced.  For some energy intensive industries, CCS is likely to be a key 
+part of the technology mix required to make such reductions.   
+
+This chapter summarises the Government’s activity to date and seeks views on possible next 
+steps. 
+
+Terminology 
+
+ Industrial CCS refers to capturing and storing carbon emissions from energy intensive 9.1.
+industries such as iron and steel, cement, refineries and chemicals.  This includes 
+
+emissions from industrial processes, and from equipment used to generate heat and 
+electricity on industrial sites.    
+
+Context 
+
+ The Government expects Industrial CCS (ICCS) to be a key option for delivering the 9.2.
+significant carbon abatement required in energy intensive industries.  
+
+ Analysis by the International Energy Agency (IEA) shows that industrial sectors such as 9.3.
+iron and steel, cement, refineries and chemicals account for 20% of total global CO2 
+emissions.  Furthermore, emissions from each of these sectors are expected to grow 
+until at least 2050 under current policies.  The IEA estimate that industrial applications 
+could comprise half of the emission reductions achieved through CCS globally by 
+
+
+205044.  
+
+ Without CCS it may not be possible to substantially decarbonise these sectors in the 9.4.
+medium or even long term as many industrial processes unavoidably generate CO2 as a 
+result of chemical reactions that are integral to the formation of the final product. Whilst 
+energy efficiency and fuel switching will reduce emissions they will become increasingly 
+expensive. Hence economies with energy intensive industries will find their 
+decarbonisation efforts becoming both more difficult and costly without large scale 
+industrial CCS.  
+
+ Whilst considerable knowledge and experience can be transferred from the power 9.5.
+generation sector’s development of carbon capture technologies to energy intensive 
+industries, there are also unique challenges in relation to suitable capture technologies, 
+sector specific commercial considerations, and impact on end products’ cost and 
+quality. 
+
+ Recent government modelling
+
+
+45
+
+ suggests that ICCS could be an important means of 9.6.
+carbon reduction for industry from the mid-2020s in the UK. However, there are 
+currently just a handful of ICCS projects around the world.  
+
+
+  
+
+                                            
+
+
+44
+
+   http://www.iea.org/publications/freepublications/publication/CCS_Annex.pdf 
+
+
+45
+
+ Modelling to support The future of heating: meeting the challenge - report by Redpoint 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/197562/baringa_heat_paper_analytical_support.pdf  
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/197562/baringa_heat_paper_analytical_support.pdf
+
+
+ 42 
+
+Industrial CCS: Techno-economic study 
+
+
+ 
+
+BIS and DECC funded a techno-economic study of carbon capture and carbon utilisation 
+
+technologies in four key energy intensive industry sectors – iron and steel, cement, chemicals and 
+
+refineries.  Companies in these sectors, along with academia, provided input and oversight 
+
+throughout the study.   
+
+
+ 
+
+The study focused on understanding possible technologies which could lead to deployment by 
+
+2025, an ambition expressed in the Committee on Climate Change’s 4th Carbon Budget, as well as 
+
+related costs. 
+
+
+ 
+
+Key findings included: 
+
+
+ 
+
+ Some (first generation) technologies such as amine solvents can be rolled out by 2025 in 
+
+most sectors if demonstrated by 2020.   Exceptions include cement, where site conditions 
+
+may favour calcium looping technology.  Calcium looping is at an earlier stage of 
+
+development but published cost estimates suggest it is of lower cost than some first 
+
+generation technologies.   
+
+
+ 
+
+ Industrial carbon capture is expected to cost over £50 per tonne of CO2 captured for all 
+
+technologies, with the exception of capture from high purity streams associated with some 
+
+chemicals processes, notably ammonia and hydrogen manufacture. The range of costs is 
+
+comparable to expected costs of capture in the power sector.  
+
+
+ 
+
+ ‘First generation’ amine technologies are likely to be most cost-effective for all industries in 
+
+the mid-2020s, though more cost effective technologies may become available shortly 
+
+thereafter. 
+
+
+ 
+
+ ‘Second generation’ technologies, including those more optimised for each sector, could be 
+
+available around 2025 if development and deployment are accelerated (and are more likely 
+
+to be cost effective in the 2030s)  
+
+
+ 
+
+Work to date 
+
+ Work in early 2013 by BIS and by the UK CCS Research Centre on technological 9.7.
+aspects of CCS, found a complex picture with different technology needs in each sector 
+and highly uncertain and variable costs.   
+
+ In order to provide more evidence, BIS and DECC commissioned further analysis which 9.8.
+was undertaken collaboratively with industry, and published in May 2014.  The results 
+are summarised below: 
+
+
+  43 
+
+ The report identifies site level barriers, the most pertinent of which detailed engineering 
+
+studies, pilots and demonstrations could reduce are: 
+
+o Increased operational complexity and risks (unavailability, process dependencies) 
+
+o New applications of existing technologies which are not yet proven at scale 
+
+o Plant integration risks (hidden costs of additional downtime, alternative product 
+
+supplies, technology lock-in)  
+
+o High levels of uncertainty regarding costs  
+
+ Carbon Capture and Utilisation (CCU) for industrial emissions is unlikely to be 
+
+commercial by the mid-2020s (see chapter 11 for further discussion of CCU). 
+
+
+  
+
+
+ This techno-economic study shows CCS in industrial sectors is still at an early stage 9.9.
+compared to the power sector and may require government intervention for the 
+technologies to become commercial.   
+
+Current evidence gathering and policy development  
+
+ The Government is undertaking or supporting a number of key pieces of work to further 9.10.
+understand and support the development of industrial CCS. These include work as part 
+of the Tees Valley City Deal, and the Industrial 2050 Decarbonisation and Energy 
+Efficiency Roadmaps project. 
+
+Tees Valley City Deal 
+
+ Some of the above barriers, such as uncertain costs and commercial requirements, are 9.11.
+being explored in Teesside through work funded under the Tees Valley City Deal
+
+
+46
+
+.  The 
+
+Local Enterprise Partnership, Tees Valley Unlimited, has been awarded £1m, alongside 
+industry contributions, to carry out: 
+
+ pre-FEED (Front-End Engineering and Design) analysis on capture, transport and 
+storage from multiple industrial sources in Teesside; and 
+
+ development of possible business and investment models for industrial CCS in 
+Teesside 
+
+ The project is expected to conclude towards the end of 2015. 9.12.
+
+Industrial 2050 Decarbonisation and Energy Efficiency Roadmaps  
+
+ The recent techno-economic study evidence is contributing to analysis by BIS and 9.13.
+DECC on Industrial 2050 Decarbonisation and Energy Efficiency Roadmaps, which will 
+inform medium to long term decarbonisation policies for energy intensive industries and 
+
+will report in 2015. 
+
+ The project involves collaborative work with eight energy intensive industries to identify 9.14.
+potential emissions reduction pathways, and to agree immediate next steps to help 
+enable progress. Work is already underway with all eight sectors, with iron and steel, 
+and paper and pulp most advanced. 
+
+
+  
+
+                                            
+
+
+46
+
+ https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/321751/Tees_Valley_City_Deal_Document.pdf 
+
+
+ 44 
+
+On-site generation / Private Networks 
+
+ The Government consulted extensively in designing the generic CfD and allocation 9.15.
+methodology, and published the draft CfD Agreement and terms and conditions (April 
+2014). Furthermore, the Final CfD Operational Framework (published in November 
+2012) stated that eligible low-carbon electricity generation operating on a ‘private wire’ 
+network could participate within the CfD regime. The Government has since published 
+the CfD for Private Network Generation: policy overview (June 2014)
+
+
+47
+
+.  The policy 
+
+overview sets out how license-exempt, renewable generators operating on a private 
+network (and with an onsite customer) will be able to participate in the CfD regime. 
+
+ As part of the Government’s approach to developing CfDs and an allocation framework 9.16.
+for CCS projects outside the CCS Competition, we would welcome views on:  
+
+Q13.  What changes to the CfD design would developers need in order to bring 
+
+forward projects involving industrial emitters installing CCS on their onsite 
+power generation?  Respondents should note that the Government intends 
+to publish further guidance on Private Network Generation in early Autumn 
+2014.   
+
+Future policy work 
+
+ Policy for industrial CCS will continue to be developed, using the outputs from the 9.17.
+techno-economic study, Tees Valley project and the Industrial 2050 Decarbonisation 
+and Energy Efficiency Roadmaps.  
+
+ We would welcome thoughts on what should be considered as part of this work.  Key 9.18.
+issues to be explored include: 
+
+Q14.  Which of the barriers are the most important and how should they be 
+overcome? 
+
+Q15.  What is the best next step for each sector?  For example, should first 
+generation technologies be brought forward in all sectors, or would it be 
+better to consider bespoke actions per sector? 
+
+Q16.   How should any Government activity best support R&D and innovation for 
+ICCS? 
+
+ We intend to hold a workshop in autumn 2014 to exchange views and seek further 9.19.
+inputs from industry about how best to make progress on innovation in industrial CCS.  
+
+Questions: 
+
+Q13. What changes to the CfD design would developers need in order to bring forward 
+projects involving industrial emitters installing CCS on their onsite power generation?  
+
+Respondents should note that the Government intends to publish further guidance 
+on Private Network Generation in early Autumn 2014.   
+
+Q14. Which of the barriers to industrial CCS are the most important and how should they 
+be overcome? 
+
+                                            
+
+
+47
+
+ https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/320667/policy_overview.pdf 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305539/cfd_agreement.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305536/generic_cfd_t_and_cs.pdf
+
+
+ 45 
+
+Q15. What is the best next step for each sector?  For example, should first generation 
+technologies be brought forward in all sectors, or would it be better to consider 
+bespoke actions per sector? 
+
+Q16. How should any Government activity best support R&D and innovation for ICCS? 
+
+
+   46 
+
+10. Bio-CCS / BECCS 
+
+In the long term, combining bioenergy with CCS (BECCS) to produce negative emissions
+
+
+48 is 
+
+predicted to offer a key route by which the UK could meet its 2050 targets. 
+
+This chapter briefly sets out Government policy development to date. 
+
+Context 
+
+ The 2014 Intergovernmental Panel on Climate Change (IPCC) report highlighted the 10.1.
+importance of Bioenergy and CCS, sometimes referred to as BECCS or BioCCS: 
+
+ “Combining bioenergy with CCS (BECCS) offers the prospect of energy supply 
+with large-scale net negative emissions”
+
+
+49 
+
+ Energy system models, such as that developed by the Energy Technologies Institute 10.2.
+(ETI)
+
+
+50
+
+, also highlight the importance of BECCS and “negative emissions”. 
+
+ Biomass can be used as the single fuel source for power generation (dedicated use) or 10.3.
+in combination with conventional coal sources (co-fired generation).  
+
+ When combined with CCS, it offers the potential of “negative emissions” by taking 10.4.
+atmospheric CO2 temporarily locked in plants and storing them permanently in 
+geological formations
+
+
+51. 
+
+ The Government is committed to ensuring that bioenergy used in the UK energy system 10.5.
+is from sustainable sources.  DECC has developed a scientific calculator
+
+
+52
+
+ to investigate 
+
+the impact on carbon emissions of biomass sourced from North America to produce 
+electricity.   
+
+Policy development to date 
+
+ In 2012, the ETI
+
+
+53
+
+ undertook a study on the technical aspects of combining bioenergy 10.6.
+and CCS. 
+
+ The FEED programme for White Rose, under the UK CCS Commercialisation 10.7.
+Programme, includes a design option of co-firing biomass with coal. 
+
+ To date, through the EU Emissions Trading System (EU ETS) mechanism and 10.8.
+Electricity Market Reform, there are incentives to deploy biomass combustion and CCS 
+respectively.  However, there are no specific incentives to deploy bio-CCS / BECCS. 
+
+ The Government, as set out in the Bioenergy Strategy (2012)
+
+
+54
+
+, recognises that full 10.9.
+exploitation of the potential from BECCS will require further work to understand how 
+trading in negative emissions may be incorporated into carbon trading mechanisms in 
+the long term, either globally or at regional level, such as within the EU ETS.   
+
+                                            
+
+
+48
+
+ https://workspace.imperial.ac.uk/climatechange/Public/pdfs/Briefing%20Papers/Briefing%20Paper%208.pdf 
+
+
+49
+
+ Pg25, Section 4.2.2, IPCC, 2014: Summary for Policymakers, In: Climate Change 2014, Mitigation of Climate Change. 
+http://report.mitigation2014.org/spm/ipcc_wg3_ar5_summary-for-policymakers_approved.pdf 
+
+
+50
+
+ http://www.eti.co.uk/modelling-low-carbon-energy-system-designs-with-the-eti-esme-model/ 
+
+
+51
+
+ Definition taken from Grantham Institute briefing paper: 
+https://workspace.imperial.ac.uk/climatechange/Public/pdfs/Briefing%20Papers/Briefing%20Paper%208.pdf 
+
+
+52
+
+ https://www.gov.uk/government/publications/life-cycle-impacts-of-biomass-electricity-in-2020 
+
+
+53
+
+ http://www.eti.co.uk/project/biomass-to-power-with-carbon-capture-and-storage/ 
+
+
+54
+
+ https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/48337/5142-bioenergy-strategy-.pdf 
+
+
+ 47 
+
+ The Committee on Climate Change’s 2014 Progress Report to Parliament
+
+
+55
+
+ 10.10.
+recommended that: 
+
+“[The EU ETS Reform and] regulatory regime should also allow for negative emissions 
+
+(e.g. from use of bioenergy with CCS) to count towards required emissions reduction.” 
+
+Q17.  We would welcome views as to what issues the UK Government may want 
+to urge the European Commission to consider regarding BECCS before 
+they propose the detailed architecture of EU climate and energy policy for 
+the period post-2020, including revisions to the EU ETS Directive for phase 
+IV of the EU ETS (2021-2030). 
+
+Question: 
+
+Q17.  We would welcome views as to what issues the UK Government may want to urge 
+the European Commission to consider regarding BECCS before they propose the 
+detailed architecture of EU climate and energy policy for the period post-2020, 
+including revisions to the EU ETS Directive for phase IV of the EU ETS (2021-
+2030). 
+
+
+     
+
+                                            
+
+
+55
+
+ http://www.theccc.org.uk/wp-content/uploads/2014/07/CCC-Progress-Report-2014_web_2.pdf 
+
+
+ 48 
+
+11. Carbon Capture and Utilisation (CCU) 
+
+Carbon Capture and Utilisation (CCU) technologies could offer a route to making CO2 a 
+commodity rather than a waste product. 
+
+This chapter summarises the Government’s current approach. 
+
+Context 
+
+ CCU refers to technologies which can capture and then convert CO2 into viable 11.1.
+commercial products such as construction materials, biofuels, fertilisers and polymers. 
+
+ Particularly in the US and China, the term “CCU” also includes Enhanced Oil Recovery 11.2.
+(EOR) (see chapter 8).  
+
+Current activity 
+
+ As part of the 4-year, £125m CCS R&D Programme, the Government and its partners 11.3.
+are investing around £10m in CCU.  The Government, through the Research Councils, 
+also supports the CO2-Chem network
+
+
+56
+
+, one of the largest networking groups for 
+
+academia and industry to share ideas on CCU. 
+
+ Recent expert reports suggest that most CCU technologies remain at the R&D level
+
+
+57
+
+ 11.4.
+and are unlikely to be commercial by the mid-2020s, although some are advancing and 
+already attracting private sector investment
+
+58;59
+
+
+.   
+
+
+Q18.  The Government and its R&D partners will continue to monitor the 
+progress of CCU technologies, as part of wider efforts on CCS.  Do you 
+wish to offer any evidence of such progress? 
+
+Question: 
+
+Q18.  The Government and its R&D partners will continue to monitor the progress of CCU 
+technologies, as part of its wider efforts on CCS.  Do you wish to offer any 
+evidence of such progress? 
+
+
+   
+
+                                            
+
+
+56
+
+ http://co2chem.co.uk/ 
+
+
+57
+
+ CCU in the Green Economy, 2011 
+
+
+58
+
+ http://www.econic-technologies.com/wp-content/uploads/2013/12/Econic-Press-Release1.pdf 
+
+
+59
+
+ http://www.c8s.co.uk/index.php 
+
+
+ 49 
+
+12. Supply chain 
+
+The CCS supply chain is likely to share many characteristics with the supply chain for other 
+major energy infrastructure projects.   
+
+This chapter outlines how the Government will support companies to exploit the opportunities 
+in this nascent sector. 
+
+
+ 
+
+Context 
+
+ A thriving CCS supply chain is beneficial for the UK economy and will be essential as 12.1.
+CCS develops. The deployment of CCS, starting with the White Rose and Peterhead 
+CCS projects, represents multi-billion pound opportunities for companies at all levels in 
+the supply chain.   
+
+Current approach  
+
+ As with other infrastructure projects of similar scale, the supply chain for developing, 12.2.
+constructing and operating a commercial CCS project will be complex, involving a range 
+of businesses and contractual relationships. The Government has no role in dictating 
+these arrangements, other than to ensure that public funding does not distort these 
+normal commercial processes.  
+
+ It is expected that the Phase 1 CCS projects will help stimulate the supply chain, 12.3.
+providing opportunities across the different stages: 
+
+ at the design and planning stage; 
+
+ at the construction stage, the opportunity to supply equipment and services; 
+
+ through on-going services during operation; and 
+
+ at the decommissioning stage. 
+
+ The Government has set out that projects wishing to apply for a CfD must have a supply 12.4.
+chain plan before they can apply.  Similar requirements will be made to projects under 
+the Commercialisation Programme.  The aim of the supply chain plan assessment 
+process is to encourage the effective development of low carbon electricity generation 
+supply chains by encouraging open and competitive tenders and the promotion of 
+innovation and skills which will in turn drive down the cost of low carbon generation over 
+the long term and result in lower energy costs to consumers.  By delivering low carbon 
+generation as efficiently as possible and at least cost to consumers, more generation 
+will be supported which will ensure that consumers have access to the secure energy 
+they need at affordable prices.  
+
+Supporting companies wishing to exploit opportunities in the CCS sector 
+
+ The Energy Industries Council (EIC), supported by DECC, facilitated a Ministerial 12.5.
+Supply Chain Event in May 2014.  Both CCS Competition projects set out their plans 
+and future procurement intentions, which are likely to emerge from late 2015 onwards. 
+DECC intends to work with partners to facilitate further CCS supply chain engagement 
+during 2015 to raise awareness of these opportunities.  
+
+
+ 50 
+
+ A number of routes are available to support companies that may wish to supply goods 12.6.
+and services to CCS projects.  For example, the Department for Business, Innovation 
+and Skills’ Advanced Manufacturing Supply Chain Initiative (AMSCI)
+
+
+60
+
+ provides grant 
+
+funding to organisations. 
+
+International projects 
+
+ With the UK seen as leaders in the development of CCS, increasingly there are 12.7.
+opportunities to supply goods and services to international CCS projects. DECC will 
+continue to engage with UKTI regarding possibilities for both inward and outward 
+investment as the CCS industry develops. 
+
+Q19.  Is any further action needed to support supply chain companies wishing to 
+supply good and services to CCS projects in the UK or abroad? 
+
+Longer term CCS supply chain capacity  
+
+ In 2012, the Government commissioned analysis
+
+
+61
+
+ which concluded that the capacity in 12.8.
+the UK supply chain would not act as a constraint on future deployment of CCS out to 
+2030.  Any potential barriers, outlined below, were expected to resolve themselves as 
+the UK CCS market grows.   
+
+Q20.   Do you agree that currently there does not appear to be significant supply 
+chain barriers to the commercial deployment of CCS up to 2030?  If your 
+answer is no, please set out why, with supporting evidence. 
+
+Questions: 
+
+Q19. Is any further action needed to support supply chain companies wishing to supply 
+good and services to CCS projects in the UK, or abroad? 
+
+Q20.   Do you agree that currently there does not appear to be significant supply chain 
+barriers to the commercial deployment of CCS up to 2030?  If your answer is no, 
+please set out why, with supporting evidence. 
+
+
+   
+
+                                            
+
+
+60
+
+ https://www.financebirmingham.com/amsci/  (the scheme is run by Finance Birmingham for BIS) 
+
+
+61
+
+ AEA’s 2012 Report “Assessing the Domestic Supply Chain Barriers to the Commercial Deployment of Carbon Capture and Storage within 
+the Power Sector”; https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/140108/AEA_Technology_reprort_-
+_Assessing_the_Domestic_Supply_Chain_Barriers_to_the_Commercial_Deployment_of_Carbon_Capture_and_Storage_within_the_Power_S
+ector_-_FINAL.pdf 
+
+
+ 51 
+
+13. Knowledge transfer (KT) 
+
+Knowledge transfer is a key philosophy which underpins the CCS Commercialisation 
+Programme. CCS projects in receipt of Government support will be expected to share their 
+experience and learning with the wider industry to support development and cost reduction. 
+
+
+ 
+
+This chapter summarises the Government’s current approach, and explores possible 
+approaches under any future phases of CCS deployment. 
+
+
+ 
+
+Context  
+
+ Knowledge Transfer (KT) refers to the principle of sharing learning and experience 13.1.
+gained by projects under the CCS Commercialisation Programme.  In broader terms, KT 
+is the process of collating and disseminating information, know-how (how to do and 
+deliver), skills and experience (tacit knowledge) on all aspects of delivering a large scale 
+full chain CCS project through FEED, construction, commissioning, operation, 
+decommissioning and post-closure monitoring.  
+
+Current approach  
+
+ Amongst other benefits, Phase 1 projects are intended to support commercial scale 13.2.
+CCS by sharing knowledge to help mature and de-risk CCS deployment.  This 
+knowledge includes programme and risk management; commercial arrangements and 
+financial options; technical design and integration of all the sub-systems within the CCS 
+chain; operating and maintenance philosophy; understanding the supply chain; and 
+compliance with statutory and regulatory regimes.  To protect commercial and 
+proprietary information, KT will not include commercially sensitive information.   
+
+ Knowledge will be disseminated through reports made freely available to all on the 13.3.
+Government’s website.  In addition, there will be mechanisms to share know-how and 
+experience, such as participation at seminars and workshops and the hosting of 
+secondments from the UK academic community.   
+
+Knowledge transfer for phase two projects 
+
+ Phase 1 projects will be contracted to provide KT as part of the capital expenditure grant 13.4.
+award.   
+
+ It is intended that this KT will cover the whole-life project cycle, from FEED through to 13.5.
+decommissioning and monitoring.   
+
+Q21.  Should similar arrangements be made for the provision of KT from any 
+Government supported future CCS projects?  If so, what kind of aspects of 
+KT does industry find most useful?  
+
+ We identified the target audience for the KT from Phase 1 projects as those integral to 13.6.
+the future deployment of CCS, including: prospective CCS developers, owners and 
+operators; the CCS supply chain; policy makers in the UK and other governments, and 
+regulators; CCS financiers and insurers; industry bodies; and the research community, 
+though they can be accessed freely by all.   
+
+
+ 52 
+
+Q22.  How can KT from projects under the Commercialisation Programme and 
+any future projects be most usefully disseminated, e.g. via report, 
+workshops, seminars etc.?   
+
+Questions: 
+
+Q21. Should similar arrangements be made for the provision of KT from any future CCS?  
+If so, what kind of aspects of KT does industry find most useful? 
+
+Q22. How can KT from projects under the Commercialisation Programme and any future 
+projects be most usefully disseminated, e.g. via report, workshops, seminars etc.?   
+
+
+    53 
+
+14. Research, development and 
+innovation 
+
+Continued research, development and innovation is expected to further reduce the costs of 
+CCS by creating better, cheaper components and processes.   
+
+This chapter summarises the Government’s current approach, and possible future actions. 
+
+Context 
+
+ Further development and refinement of existing technologies and innovative 14.1.
+breakthroughs are vital if the costs of CCS are to be reduced.   
+
+Current programme  
+
+ The UK has a 4-year (2011-2015) £125 million cross-government CCS research, 14.2.
+development and innovation programme. Funding comes from the Department of 
+Energy and Climate Change (DECC), the Technology Strategy Board (TSB), the Energy 
+Technologies Institute (ETI) and the Research Councils and covers: 
+
+ £62 million to support fundamental research and understanding, including £13 
+million to establish the UK CCS Research Centre to bring together the UK’s top 
+CCS academics to promote and coordinate UK CCS research capability and 
+increase academic collaboration with industry. 
+
+ £28 million to support the development and demonstration of CCS components 
+and next generation technologies, such as new solvents and capture 
+technologies, turbines and CO2 metering and monitoring technologies.    
+
+ £35 million for pilot scale projects to bridge the gap between research and 
+commercial scale deployment. 
+
+ The Advanced Power Generation Technology Forum (APGTF), with input from the UK 14.3.
+CCS Research Centre, has undertaken a prioritisation of R&D needs for CCS.
+
+
+62
+
+     
+
+Future funding & project selection   
+
+ As part of the £125m programme, DECC launched a £20m CCS Innovation competition.  14.4.
+Based on feedback from our academic and industrial stakeholders, that competition was 
+open to all aspects of CCS, provided projects could demonstrate cost reduction 
+potential.  As a result, funded projects included: capture technologies, transportation 
+and metering, storage, CCU and industrial CCS.   
+
+ The Government and partners intend to make available further funding for CCS R&D for 14.5.
+Financial Year (FY) 15/16, to be announced in autumn 2014. 
+
+Question: 
+
+Q23. For any future funding calls, should R&D funding be targeted at specific aspects of 
+the CCS chain, or level of technology maturity?  
+
+                                            
+
+
+62
+
+ Ch4, Cleaner Fossil Power Generation in the 21st Century – Moving Forward 2014 http://apgtf-uk.com/index.php/publications/publications-
+2014/doc_download/15-cleaner-fossil-power-generation-in-the-21st-century-moving-forward-2014 
+
+
+ 54 
+
+Section C  
+
+
+ 55 
+
+15. Catalogue of questions  
+
+
+  
+
+Ch 4:  Financial Incentives and Electricity Market Reform 
+
+Q1. To what extent would developers be prepared to invest in FEED costs ahead of 
+allocation of a CfD, and if they are not able to do so what measures could be adopted 
+so that the developers have sufficient certainty of their costs and a Strike Price to 
+form the basis of an investment decision? 
+
+Q2. How best should the industry-led CCS Commercial Development Group work to 
+support project developers in engaging with finance markets? 
+
+Q3.  To what extent should Government reflect long-term risks of full chain CCS projects 
+in the design of a CCS CfD? In particular, we will want to explore the extent to which 
+similar risks also arise in other sectors and the changes that may be needed in CfD 
+design to put CCS on an equivalent basis to other low carbon technologies. 
+
+Ch 5:  Financing CCS projects 
+
+Q4. Are the existing products offered by the Green Investment Bank (GIB), Infrastructure 
+UK (IUK) and the European Investment Bank (EIB) sufficient to support CCS projects 
+in raising necessary finance from non-public sources?  If not, please explain why, 
+with supporting evidence, and what kind of additional financing or products would be 
+needed? 
+
+Ch 6:  Transport and Storage Infrastructure 
+
+Q5. To what extent is it a priority from an industry perspective for regulation to cover 
+technical aspects of shared CCS infrastructure, such as operating parameters 
+including pipeline pressures for wider networks, or specifications for the CO2 to be 
+transported?  
+
+Q6. What further steps may be necessary to stimulate private investment in infrastructure 
+deployment 
+
+Q7. What are your views on the current arrangements for permitting the operation of 
+storage sites? Are these proving to be a barrier to investment, and if so how might 
+these barriers be overcome? 
+
+Q8. Are there elements of the way the CCS Directive has been implemented in the UK 
+that ought to be revisited?  What should the UK be asking for during the Directive 
+review process? 
+
+
+ 56 
+
+Ch 7:  Part and Full Chain projects 
+
+Q9. The Government does not consider it currently has a role, beyond existing third party 
+regulations, in establishing the terms and conditions of any agreements between 
+part-chain projects and full-chain  / CO2 infrastructure providers.  What steps do you 
+think industry should take to further develop the commercial models for any such 
+agreements? 
+
+Ch 8:  Enhanced Oil Recovery (EOR) 
+
+Q10. On issues of incentives for CO2-EOR, respondents are encouraged to input to the 
+HM Treasury call for evidence on the Review of the Oil and Gas Fiscal Regime, 
+
+which closes on 3 October 2014 
+
+Q11. How should industry collaborate to best match the needs of CO2 supply and demand 
+for any future CO2-EOR industry and how should this be managed? 
+
+Q12. How should the industry collaborate to take forward any additional transportation 
+infrastructure requirements of any future CO2-EOR industry? 
+
+Ch 9:  Industrial CCS 
+
+Q13. What changes to the CfD design would developers need in order to bring forward 
+projects involving industrial emitters installing CCS on their onsite power generation?  
+Respondents should note that the Government intends to publish further guidance on 
+Private Network Generation in early Autumn 2014.   
+
+Q14. Which of the barriers to industrial CCS are the most important and how should they 
+be overcome? 
+
+Q15. What is the best next step for each sector?  For example, should first generation 
+technologies be brought forward in all sectors, or would it be better to consider 
+bespoke actions per sector? 
+
+Q16. How should any Government activity best support R&D and innovation for ICCS? 
+
+Ch 10:  Bio-CCS / BECCS 
+
+Q17.  We would welcome views as to what issues the UK Government may want to urge 
+the European Commission to consider regarding BECCS before they propose the 
+detailed architecture of EU climate and energy policy for the period post-2020, 
+including revisions to the EU ETS Directive for phase IV of the EU ETS (2021-2030). 
+
+
+  57 
+
+Ch 11:  CCU 
+
+Q18.  The Government and its R&D partners will continue to monitor the progress of CCU 
+technologies, as part of its wider efforts on CCS.  Do you wish to offer any evidence 
+of such progress? 
+
+Ch 12:  Supply Chain 
+
+Q19.  Is any further action needed to support supply chain companies wishing to supply 
+good and services to CCS projects in the UK, or abroad? 
+
+Q20.   Do you agree that currently there does not appear to be significant supply chain 
+
+barriers to the commercial deployment of CCS up to 2030?  If your answer is no, 
+please set out why, with supporting evidence. 
+
+Ch 13:  Knowledge Transfer (KT) 
+
+Q21. Should similar arrangements as those under the Commercialisation Programme, be 
+made for the provision of KT from any future CCS projects?  If so, what kind of 
+aspects of KT does industry find most useful? 
+
+Q22. How can KT from projects under the Commercialisation Programme and any future 
+projects be most usefully disseminated, e.g. via report, workshops, seminars etc.?   
+
+Ch 14:  Research, Development and Innovation 
+
+Q23. For any future funding calls, should R&D funding be targeted at specific aspects of 
+the CCS chain, or level of technology maturity?  
+
+
+    58 
+
+Annex I - Government’s approach to Risk 
+Allocation under Phase 1 of the 
+Commercialisation Programme [i] 
+
+[Full documentation can be found at: 
+https://online.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?site=1000&lang=en&noticeid=56
+0937&fs=true] 
+
+
+ 
+
+Chapter 5 of Invitation to Participate in Discussions (ITPD), April 2012 
+
+
+ 
+
+5. Risk allocation 
+
+
+ 
+
+5.1. Introduction  
+
+
+ 
+
+5.1.1. Importance of risk 
+
+
+ 
+
+(a) Risk identification, risk ownership and risk management are critical components to  
+the successful delivery of the CCS Commercialisation Programme and to the development of a commercial CCS 
+industry. They will be an important element of any commercial arrangements the Authority enters into with a 
+Bidder, and the successful management of risk will be key to any Payment Mechanism and incentive 
+regime. 
+
+
+ 
+
+(b) The Authority has undertaken considerable analysis of the Demonstrator 1 and of  
+information obtained from market soundings. It recognises that each potential Project will have a particular risk 
+profile and each Bidder a particular risk appetite. 
+
+
+ 
+
+5.1.2 Bidder risk assessment requirements 
+
+
+ 
+
+Bidders are expected to demonstrate in their Bids that they have a clear understanding of the full range of risks 
+that are associated with their Bids (see instructions to Bidders later in this section). They are expected to have 
+completed and to evidence in Bids a comprehensive risk assessment, including assessment of the consequence 
+of particular risks maturing and of the mitigation actions that need to be in place both to reduce the likelihood of 
+risks crystallising and the impact (financial, technical and temporal) if they do. 
+
+
+ 
+
+5.1.3 This section of ITPD 
+
+
+ 
+
+This section of the ITPD describes the Authority’s approach and underpinning concepts for the assessment and 
+allocation of risks. It sets out the Government’s position on risk allocation. It should be read alongside Part 4 of 
+this ITPD which describes how risk allocation will be contractualised. 
+
+
+ 
+
+5.2 Authority’s approach to risk 
+
+
+ 
+
+5.2.1 General principle of risk allocation 
+
+
+ 
+
+(a) Risks will primarily be allocated to the party with the best ability to influence and manage such risks. The 
+Authority therefore expects industry to be responsible for managing the many risks inherent in the development 
+and operation of CCS Projects which are within their natural sphere of competence – risks such as ensuring that 
+timely construction conforms with design, that private capital is available when contracted to be available and that 
+systems are properly operated once constructed. These have been categorised as "Business As Usual "risks. 
+
+
+ 
+
+(b) Industry’s expert ability to manage these risks, and to apply this expertise to finding 
+solutions to the novel problems posed by CCS, is at the heart of the CCS Commercialisation Programme. 
+
+
+ 
+
+5.2.2 CCS-specific risks 
+
+
+ 
+
+Before solutions for complex risks 
+
+
+ 59 
+
+(a) It is recognised that the nature of some particular risks unique to CCS are such that they are not yet well 
+understood and/or readily insured against or easily managed. The Authority considers that a pragmatic solution 
+will need to be established between industry and Government for the management of, and liability for, those risks. 
+
+
+ 
+
+(b) However, the Authority will not contract: 
+
+
+ 
+
+(i) for Government to manage risks which, despite their novelty and emerging nature, industry has better expertise 
+to manage; or 
+
+
+ 
+
+(ii) for industry to manage risks which are wholly outside its control and which Government or other stakeholders 
+are better placed to manage. 
+
+
+ 
+
+Shared risks migrates to industry over time 
+
+
+ 
+
+(c) Some risks may be shared and the Authority expects that there may be a distinction to be drawn between the 
+management of some risks (often best placed with industry) and the financial consequences of risks maturing. 
+
+
+ 
+
+(d) The Authority’s analysis suggests that risk allocation and management in some areas should change over time 
+as risks become better understood and Projects become better defined and developed. The contractual 
+arrangements described in Part 4 of this ITPD will include a mechanism for change that allows this to occur at an 
+affordable price, and with value-for-money and Deliverability as the key drivers. 
+
+
+ 
+
+Some Projects may not succeed 
+
+
+ 
+
+(e) Ultimately, it is possible that a Project may, despite the best efforts of all parties, prove that CCS, or a 
+particular CCS technology, is not economically viable at Commercial Scale. If this happens, this is not a risk that 
+the Authority expects Bidders to take exclusively. 
+
+
+ 
+
+5.3 Overview of Authority’s required risk allocation 
+
+
+ 
+
+5.3.1 General 
+
+
+ 
+
+(a) The Authority seeks to achieve a process for the allocation and management of risk which maximises the 
+delivery of the CCS Commercialisation Outcome at best value for taxpayers and electricity consumers and within 
+affordability constraints. 
+
+
+ 
+
+(b) The Authority recognises that to deliver the CCS Commercialisation Outcome at best value-for-money within 
+affordability constraints it needs to balance the exposure of participants (Government and industry) to risk in a 
+manner which makes Projects fundable, from both public and private sources. 
+
+
+ 
+
+(c) At a high level, it is expected that risks will be allocated and managed by one or more parties and managed 
+through the agreed contractual mechanisms. To achieve this it is necessary to identify and characterise all 
+material risk, including its likelihood and impact to time, cost and performance and agree appropriate mitigation 
+action and identify the party best able to manage it. 
+
+
+ 
+
+5.3.2 FEED work 
+
+
+ 
+
+(a) A key risk mitigant will be work that industry has done or does to explore and develop its understanding and 
+reduction of risk during FEED work. The Authority is willing to consider part-funding of this work on the basis 
+described in the draft FEED Contract. 
+
+
+ 
+
+(b) FEED will be commissioned where Bids, selected through Evaluation, are insufficiently mature in terms of cost 
+uncertainty, risk understanding or other factors to justify the immediate award of a Project Contract. 
+
+
+ 
+
+5.3.3 Project Contract, CfD and PCG 
+
+
+ 
+
+The primary risk allocation arrangements will be contained in the suite of contracts that may be awarded to 
+Bidders. These are described in Part 4 of this ITPD and comprise primarily: 
+
+
+  60 
+
+(a) The Project Contract. This will be the principal contract for the injection of Capital Grant for construction 
+funding by the Authority and addressing design and construction risks and others that apply during the period 
+before the CCS systems have all completed commissioning. Certain other, longer term risks will also be 
+addressed in this contract. A summary of this contract is set out in Section 4 of Part 4 of this ITPD. 
+
+
+ 
+
+(b) The Contract for Difference that is intended to be agreed at the time that the Project Contract is executed, 
+subject to modification at key project Milestones to reflect agreed risk allocation. A summary of the main terms 
+that the Authority envisages this will contain is set out in Section 5 of Part 4 of this ITPD. This is intended to be a 
+vehicle for funding operating period costs and (potentially) further contributions towards capital costs. It is 
+intended to address the risks associated with electricity market price volatility; and 
+
+
+ 
+
+(c) The Parent Company Guarantee described in Section 6 of Part 4 of this ITPD and set out in Appendix 8. 
+
+
+ 
+
+5.3.4 Risk proposition 
+
+
+ 
+
+The Authority has established and reflected in this ITPD what it considers to be a balanced proposition on risk 
+allocation which reflects the approach described above. The Authority accepts that, in Projects as novel as those 
+which will participate in the CCS Commercialisation Programme, negotiation of risk allocation will be required to 
+strike the optimum balance; however, during these negotiations it does not expect a wholesale departure from the 
+proposition set out in this ITPD. 
+
+
+ 
+
+5.3.5 Baseline Risk Allocation Matrix 
+
+
+ 
+
+Purpose 
+
+
+ 
+
+(a) The Baseline Risk Allocation Matrix is set out in Appendix 11 of this ITPD. It has been developed as a means 
+through which to present the principal risks that arise in a potential CCS Project. It does so assuming an 
+integrated CCS Full Chain Project. It is intended as a mechanism to show how the Authority expects risks to be 
+allocated between industry and the Government and provide a reasoned justification for the allocation. 
+
+
+ 
+
+Instructions to Bidders 
+
+
+ 
+
+(b) Bidders are accordingly urged to accept and price the risk allocation proposed in the Baseline Risk Allocation 
+and the Contracts Principles set out in Part 4 of this ITPD. Departures from the Authority’s Baseline Risk 
+Allocation proposition must be itemised and fully detailed. Each must be priced, to allow the Authority to assess 
+the improved value for money afforded by the proposed change. 
+
+
+ 
+
+Evaluation of Bid risk profile 
+
+
+ 
+
+(c) The extent to which a Bid departs from the Authority’s Baseline Risk Allocation, any enhanced value for money 
+offered will be Evaluated. Significant detrimental departures will attract concomitantly negative Evaluation. Bids 
+which depart from the Authority’s risk proposition to such an extent as to call into question the likelihood that 
+the Authority would be able to conclude a negotiation successfully will be Evaluated accordingly. The Authority 
+reserves the right to reject any Bid which leads it to conclude that a negotiation is unlikely to be successful. 
+
+
+ 
+
+(d) It follows that the Authority considers that any Bid in which Bidders propose to accept and manage additional 
+risk to that already allocated to industry in the Authority’s proposed allocation will be Evaluated more favourably, 
+provided it is demonstrated that the risks concerned can be managed effectively. 
+
+
+ 
+
+Bidder discussion of risk 
+
+
+ 
+
+(e) Bidders are urged to use the discussion process described in Section 3 of Part 1 of this ITPD to test proposed 
+deviations from the Authority’s risk proposition. 
+
+
+ 
+
+Preference for integrated Bidders 
+
+
+ 
+
+(f) Bids which are made on a fully integrated basis – where a single contract can be placed with a single Bid 
+Vehicle, which is responsible for managing the entire Project and all risks that are allocated to industry, supported 
+by Parent Company Guarantees in the form set out in Appendix 8 – will be Evaluated as being significantly more 
+attractive than those which are not made on that basis. In short, the Authority does not want to own or fund 
+Consortium integration risks. 
+
+
+ 61  
+
+Part Chain Projects 
+
+
+ 
+
+(g) The risks posed by Part Chain Projects will need to be managed effectively. Part Chain Projects will only be 
+supported by a FEED Contract where the Bidder can clearly identify the potential to connect and become part of a 
+CCS Full Chain Project in the foreseeable future. In such cases, definition and allocation of risks across the 
+CCS Chain will need to be demonstrated in a manner consistent with the overall risk allocation put forward by the 
+Authority. Part Chain Projects will not be funded beyond FEED Contracts unless they have joined other Part 
+Chain Projects or a CCS Full Chain Project to become a CCS Full Chain Project or a Cluster Project. 
+
+
+     62 
+
+Annex II - Government’s approach to Risk 
+Allocation under Phase 1 of the 
+Commercialisation Programme [ii] 
+
+
+ 
+
+[Full documentation can be found at: 
+https://online.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?site=1000&lang=en&noticeid=56
+0937&fs=true] 
+
+
+ 
+
+Appendix 11 from ITPD – Baseline Risk Allocation Matrix 
+
+
+ 
+
+1.1 Baseline Risk Allocation Matrix 
+
+
+ 
+
+General 
+
+
+ 
+
+1.1.1 The Baseline Risk Allocation Matrix prepared by the Authority has been presented in this Appendix 11 of 
+this ITPD. The Baseline Risk Allocation Matrix sets out the CCS Specific Risks and the Business As Usual risks. 
+
+
+ 
+
+1.1.2 Any risks/and or impacts to the Project which are considered to be a result of Developer default is a BAU 
+risk. 
+
+
+ 
+
+1.1.3 At the point at which risks are considered closed (i.e. at the point in time beyond which the probability of the 
+risk materialising is close to zero) then, the majority of such risks will pass entirely to the Bidder/Developer. 
+
+
+ 
+
+Structure of Baseline Risk Allocation Matrix 
+
+
+ 
+
+1.1.4 The structure and headings of the Baseline Risk Allocation Matrix are as follows running from left to right: 
+
+
+ 
+
+ Level 1 and Level 2 risk categorisation: high level broad risk categories are identified (Level 1) with 
+subsequent detailed breakdown into Level 2. Risks are profiled at their lowest defined level. The 
+Level 1 and Level 2 risks have been given unique identification numbers. 
+
+
+ 
+
+ Component chain: where applicable, the risk is subsequently defined according to the CCS Chain 
+Link to which it relates. 
+
+
+ 
+
+ Consequence / impact: provides a description of the likely impact which will be result should the risk 
+materialise. 
+
+
+ 
+
+ Temporal description of the risk: the relevant part of the Project lifecycle which is potentially affected 
+by each risk is described in this column. A statement about when in the Project lifecycle the 
+Baseline Risk Allocation and subsequent responsibility for its management changes is also 
+provided, where relevant. 
+
+
+ 
+
+ Risks mitigated during FEED: a statement as to the likelihood of the risk level reducing as a result of 
+conducting FEED, is provided. 
+
+
+ 
+
+ General Baseline Risk Allocation and explanation of Baseline Risk Allocation: a statement about 
+who is responsible for which risk, along with an explanation, is provided. 
+
+
+ 
+
+ Contractual treatment: a high-level explanation of how the risk will be addressed in the relevant 
+contracts is provided. 
+
+
+ 
+
+ Risk control measures: potential risk control measures are provided and are split according to the 
+Authority enabling activities and industry management techniques. The former category 
+demonstrates the actions which the Authority believes that the it needs to take in order to mitigate 
+the risk in question; the latter category demonstrates the type of risk mitigation response that it 
+
+
+ 63 
+
+would expect from industry. This is not intended to be comprehensive but provides an initial 
+proposed risk allocation for Bidders. The Authority does not expect that the 
+
+ relevant contracts will necessarily oblige it to undertake these activities; in some cases it would be 
+unlawful to fetter its public law discretion by doing so. 
+
+
+ 
+
+1.1.5 Any risks and/or impacts to the project which are considered to be a result of Developer fault is a BAU risk. 
+
+
+ 
+
+1.1.6 At the point at which risks are considered closed (i.e. at the point in time beyond which the probability of the 
+risk materialising is close to zero) then, in the main, they pass entirely to Bidder/Developer. 
+
+
+   
+
+[NB. Appendix 11 contains six pages of detailed tables, a sample of which is below.  These can be found in the 
+electronic version] 
+
+
+    
+
+© Crown copyright 2014 
+
+Department of Energy & Climate Change 
+
+3 Whitehall Place 
+
+London SW1A 2AW 
+
+www.gov.uk/decc   
+
+URN 14D/281 
+
+http://www.gov.uk/decc
+

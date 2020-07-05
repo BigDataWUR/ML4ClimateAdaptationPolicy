@@ -1,0 +1,1835 @@
+
+
+
+
+Education and employment strategy
+
+
+
+
+Education and Employment Strategy 
+
+
+              
+
+May 2018 
+
+Cm 9621 
+
+
+  
+
+Education and Employment Strategy 
+Presented to Parliament  
+by the Lord Chancellor and Secretary of State for Justice  
+by Command of Her Majesty 
+
+
+ 
+
+May 2018 
+
+
+               
+
+Cm 9621 
+
+
+ 
+
+
+© Crown copyright 2018 
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where 
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-
+licence/version/3 
+
+Where we have identified any third-party copyright information you will need to obtain permission 
+from the copyright holders concerned. 
+
+This publication is available at https://www.gov.uk/government/publications 
+
+Any enquiries regarding this publication should be sent to us at  
+orcgcorporateteam1@justice.gov.uk. 
+
+ISBN 978-1-5286-0392-8 
+
+CCS0518628748 05/18 
+
+Printed on paper containing 75% recycled fibre content minimum 
+
+Printed in the UK by the APS Group on behalf of the Controller of Her Majesty’s Stationery Office 
+
+
+  
+
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3/
+http://nationalarchives.gov.uk/doc/open-government-licence/version/3/
+https://www.gov.uk/government/publications
+mailto:orcgcorporateteam1@justice.gov.uk
+
+
+
+
+Education and Employment Strategy 
+
+Contents 
+
+Foreword 3 
+
+Introduction 5 
+
+Chapter 1: Education and training in prison 9 
+
+Chapter 2: Prison work 18 
+
+Chapter 3: Employment on release 24 
+
+Conclusion 33 
+
+
+    1 
+
+
+Education and Employment Strategy 
+
+
+   2 
+
+
+Education and Employment Strategy 
+
+Foreword 
+
+I have seen the power of work to transform lives. It’s not just the financial security of 
+having a pay packet, but everything else that comes with being in work: purpose, 
+structure, networks, having a stake in something. 
+
+As a government, we have made sure it always pays to work. As a result, we’ve seen 
+record-breaking levels of employment and millions more people move into work over the 
+last few years. This has pulled people out of poverty and opened up new prospects and 
+possibilities for them and their families.  
+
+The benefits of work should touch and transform the lives of everyone in the country. In 
+particular, I want ex-offenders to share in this country’s remarkable jobs story.  
+
+A prison sentence rightly serves as a punishment, depriving someone of their liberty. 
+However, for those offenders who are committed to change and who want to turn their 
+backs on crime, prison should also serve as an impetus to help set them on a path to a 
+better life.  
+
+Following that path is good for them. It is also good for society as a whole: moving ex-
+offenders off benefits and into work reduces the financial burden on taxpayers and the 
+welfare state, reduces reoffending and, therefore, reduces the number of future victims of 
+crime. 
+
+Although prison cannot help those who are not willing to help themselves, for those 
+offenders who are, this education and employment strategy aims to ensure prison can 
+prove to be a pivotal, positive and permanent turning-point in their lives.  
+
+Underpinning that turning-point is work. We know that when an offender is released from 
+prison, they are much less likely to continue committing crime if they have a job. Yet only 
+17% of ex-offenders are in PAYE work a year after coming out of prison and only half of 
+employers say they would even consider employing an ex-offender.  
+
+The vision at the heart of this strategy is to put offenders on a path to employment as soon 
+as they step foot in prison. That involves focusing efforts both inside and outside of prison. 
+
+Within the prison walls, it starts with education. We must ensure that more offenders leave 
+prison with the basic skills that are essential to entering the workplace and with the skills 
+employers need. That’s why we are putting governors in full control of the education 
+provided in their prisons so they can tailor it to their specific prison populations and for the 
+local jobs market. We will also continue to look at how in-cell technology could support 
+prisoner learning. 
+
+Alongside education work experience is also important. A third of prisoners have some 
+kind of job in prison. Whether that is cooking in the kitchens, cleaning on the wings or 
+cutting hair in the barbers, prison work delivers purposeful activity for thousands of 
+prisoners and helps prisons run effectively.  
+
+However, prison jobs are not currently geared towards properly preparing prisoners for the 
+workplace or providing a route into a real job with an employer. The evidence shows 
+
+
+3 
+
+Education and Employment Strategy 
+
+release on temporary licence – or workplace ROTL – is an effective rehabilitation tool. 
+However, it is currently not being used to its potential to help prisoners along the path to 
+employment.  
+
+That’s why this strategy expands the use of workplace ROTL to get prisoners who have 
+earned it, and who have been properly risk-assessed, out of their cells and into real 
+workplaces. This will allow prisoners to build trust and prove themselves with an employer. 
+
+It is also a powerful incentive to promote good behaviour in prison. If you do not cause 
+trouble, if you take the right path and play by the rules, that behaviour will be recognised 
+and you will be rewarded with a more liberal prison regime. Incentives like workplace 
+ROTL can play an important role alongside the other measures we are taking to reduce 
+the levels of violence and disorder in prisons. 
+
+Beyond the prison walls, we need to change the mind-set of many employers and 
+highlight the benefits of recruiting ex-offenders and of working more closely with prisons.  
+
+When an employer sees an ex-offender, I want them to see future potential, not just a 
+former prisoner. The New Futures Network will be an important new force in persuading 
+employers to take on ex-prisoners, as well acting as a broker between prisons and 
+employers to create opportunities for prisoners.  
+
+We also recognise the argument in favour of financial incentives and will balance this 
+against wider government objectives. We will consider how to take forward a national 
+insurance contributions holiday alongside wider work on employer obligations and 
+incentives.  
+
+The fact is, prisons have the potential to provide many loyal and hard-working recruits. 
+Some employers see that, but others still need to change their thinking. The dynamics of 
+the labour market should focus the minds of employers. We have a thriving jobs market 
+and demand for workers in some sectors is very high. Leaving the European Union is also 
+likely to have an impact on the workforce in sectors such as catering, construction and 
+agriculture.  
+
+These are among the first-priority sectors for the New Futures Network. By forging closer 
+relationships between employers and prisons and by expanding the use of workplace 
+ROTL, prisoners will get a foot through the door to sectors like these and employers will 
+able to fill short-term skills gaps whilst developing potential permanent employees for the 
+longer term.  
+
+For those prisoners who want to work and are prepared to change, this strategy will help 
+to break down the barriers and prejudices offenders often face in trying to find a job.  
+
+I want prisons to be places of hope and aspiration that can propel prisoners into 
+employment when they are released. In doing so, they will be able to start a new chapter in 
+their lives, contribute to society and become part of this country’s extraordinary jobs story. 
+
+
+  
+
+Rt. Hon David Gauke MP 
+Secretary of State for Justice 
+
+
+4 
+
+Education and Employment Strategy 
+
+Introduction 
+
+Our vision 
+1. Reoffending by those released from custody costs society around £15 billion per year 
+
+– and the overwhelming majority of prisoners will be released from custody at some 
+stage in their lives. Through effective rehabilitation we can reduce the number of 
+victims of crime in the future.  
+
+2. Many ex-offenders have multiple problems in their lives, including troubled family 
+relationships, drug and mental health problems, lack of suitable accommodation, low 
+educational achievement and poor employment records. These different problems 
+can compound one another and require a comprehensive response.  
+
+3. This strategy focuses on work, which we know is central to prisoners turning their 
+lives around. People leaving prison who find a job are between 6 and 9 percentage 
+points less likely to reoffend than those who do not, even when a range of other 
+factors are taken into account. Work can provide a foundation for a different kind 
+of life.  
+
+4. This must start with offenders themselves. Effective rehabilitation needs prisoners to 
+engage with the opportunities in front of them, to build a different kind of life. They 
+must be willing to commit to change, take advice, learn new skills and take 
+opportunities to work – both during their sentence and after. Prisons cannot help 
+people who are not willing to help themselves – but they can sharpen the incentives 
+to help set prisoners on the right path. This means:  
+
+a. A sentencing plan for each prisoner that sets direction and provides something 
+positive to aim for.  
+
+b. An Offender Management system that gives each prisoner a key worker to 
+encourage and hold them to account. 
+
+c. Tough enforcement when prisoners engage in violence and disruption, affecting 
+their own futures and those of others.  
+
+d. Proportionate rewards and opportunities for those making choices that will 
+prepare them to lead crime-free lives on release, from positive engagement in 
+prison education to prison work. 
+
+5. For those willing to engage, the system must deliver. Our vision is that when an 
+offender enters prison they should be put, immediately, on the path to employment on 
+release. This means: 
+
+a. Rigorous assessment of each prisoner’s education level at the beginning of – and 
+at key points during – their sentence, to understand each individual’s starting 
+point and measure progress.  
+
+b. Education and training which is responsive to individuals’ needs, is properly 
+integrated into prison regimes and delivers what employers are looking for. 
+
+c. Prison work, provided by employers with easy access to prisons, and work 
+placements on day release which help prisoners build towards employment 
+opportunities on release. 
+
+
+5 
+
+Education and Employment Strategy 
+
+d. Links with local and national employers ready to offer ex-prisoners jobs on 
+release.  
+
+e. Effective supervision and support when ex-offenders leave prison, so that they 
+make the most of job opportunities. 
+
+Progress to date 
+6. Progress has been made in some important aspects of this. The number of prisoners 
+
+working in prison industries (prison jobs provided by private sector employers or 
+government departments) at any one time has increased significantly, from 7,500 in 
+2010/11 to over 11,000 in 2016. This has boosted the number of prisoners engaged 
+in purposeful activity and helped many more acquire key skills to prepare them for 
+employment on release. In addition to this, there are over 13,000 prisoners working to 
+provide prison services at any one time, such as cleaning prison wings or cooking in 
+the kitchens. 
+
+7. Meanwhile, prison education has been improving, with an increase in the number of 
+prisons in England rated as good or outstanding by Ofsted. In Wales ESTYN, the 
+office of Her Majesty's Inspectorate for Education and Training in Wales, inspect 
+prison education and the majority of prisons are rated as good. It is our ambition to 
+see the number of prisons rated as good or outstanding for education continue to 
+grow until that level of quality is embedded across the system. 
+
+Challenges ahead 
+8. The proportion of offenders in P45 employment one year after release is just 17%. 
+
+The evidence indicates that there are not large differences in employment rates for 
+male and female ex-offenders. This low employment rate contributes to higher levels 
+of reoffending and comes at a direct cost to the welfare system.  
+
+9. Too many prisoners are still engaged in violence and disruption, rather than turning 
+their own lives around. There were 28,000 violent incidents recorded in our prisons 
+last year alone. Rates of violence are lower in the female estate than the male estate 
+but are still unacceptable. We have not made sufficient use of all the tools available – 
+to map out a path to a better future for each prisoner, bear down on bad behaviour 
+and reward the good. A fresh look is needed at all the tools available for this.  
+
+10. Nor has the system delivered everything it should for those prisoners who do engage. 
+Prisons have not been sufficiently geared towards getting prisoners into work on 
+release. In particular:  
+
+a. Prison education has delivered qualifications but not been tailored closely enough 
+to the requirements of employers or the needs of different cohorts of prisoners. 
+With large-scale contracts, governors in England have lacked the levers to 
+manage performance and integrate education properly into prison regimes. At 
+times in the past, training for female prisoners has been driven by stereotypes 
+about ‘suitable’ employment rather than market intelligence about employment 
+opportunities.  
+
+b. Prison work has delivered purposeful activity and helped prisons function 
+efficiently, but has not been linked sufficiently to employment opportunities on 
+release. Workplace on Release on Temporary Licence (ROTL) has also been 
+under-used for both men and women 
+
+
+6 
+
+Education and Employment Strategy 
+
+c. On release, ex-prisoners have benefited from initiatives like Ban the Box, but 
+many employers remain sceptical about employing ex-offenders. Employers need 
+further encouragement and easy access to prisons to change this. Meanwhile, the 
+supervision of, and support for, ex-prisoners on release has often been piecemeal 
+and insufficiently coordinated.  
+
+Our approach  
+11. In the coming months we will set out, in more detail, how we intend to sharpen the 
+
+incentives and punishments for all prisoners in custody, so that many more choose 
+cooperation and rehabilitation over violence and disruption. We will consider: 
+
+a. How we categorise prisoners, including how we separate the ringleaders of 
+trouble and violence from others.  
+
+b. The punishment of unacceptable and illegal behaviour in prisons, including the 
+best use of the new protocol between the Ministry of Justice and the Crown 
+Prosecution Service.  
+
+c. The role of the Incentives and Earned Privileges (IEP) system in punishing bad 
+behaviour and rewarding the good – including positive engagement in education 
+and training.  
+
+d. The ability of prisoners to earn income in the later part of their sentences, 
+including through Release on Temporary Licence. 
+
+e. The role of the key worker in the new Offender Management system in supporting 
+prisoners and holding them to account.  
+
+12. We will also set out our approach to managing and rehabilitating female offenders, 
+including how best to support women into employment when they leave custody. For 
+example, this will include how women can manage childcare responsibilities 
+alongside rehabilitation programmes and working commitments.  
+
+13. The following chapters of this document focus on how we will match these measures 
+with a prison and probation system geared towards employment on release.  
+
+14. Chapter 1 sets out our approach to prison education. In Wales, this is the 
+responsibility of the Welsh Government and this paper includes developments in 
+Welsh prisons where relevant. In England we will:  
+
+a. Establish consistency and minimum standards in a few key areas across the 
+prison estate.  
+
+b. Empower governors in England to commission the education provision most likely 
+to meet employers’ requirements and prisoners’ needs.  
+
+c. Provide the right tools and support to governors to make the best use of these 
+powers.  
+
+d. Establish a new vocational training route for governors to make use of in England 
+and Wales called the Prisoner Apprenticeship Pathway.  
+
+e. Couple greater powers for governors with greater accountability for performance.  
+
+
+7 
+
+Education and Employment Strategy 
+
+15. Chapter 2 concerns work in prison and workplace ROTL. It sets out how we will: 
+
+a. Develop a new approach, through a partnership with The Clink, to tie work 
+already being done by prisoners in prison services, such as cooking in prison 
+kitchens, with employment on release.  
+
+b. Consult governors and employers on proposals to increase the opportunities 
+available to prisoners to gain experience in real workplaces through ROTL. 
+
+16. Chapter 3 focuses on employment on release. It sets out how we will:  
+
+a. Launch the New Futures Network (NFN) to engage and persuade employers to 
+take on ex-prisoners, with experts placed in every geographical prison group in a 
+phased roll-out across England and Wales. 
+
+b. Consider how to take forward a National Insurance Contributions (NIC) holiday 
+alongside wider work on employer obligations and incentives. 
+
+c. Recruit ex-prisoners directly into the civil service, providing jobs and acting as a 
+role model for other employers. 
+
+d. Work with DWP to explore ways to deliver enhancements to the current benefit 
+claim process so that ex-prisoners have easier access to financial support on the 
+day of release where needed. 
+
+e. Ensure that prisons and NPS/CRCs work together more seamlessly, by 
+sharpening and aligning accountability for ex-prisoners’ employment on release. 
+
+17. Together, these measures are designed to produce a system in which each prisoner 
+is set on a path to employment, with prison education and work geared towards 
+employment on release. To deliver this, governors will be given the levers to make a 
+difference and the support to make the most of new powers. They will then be 
+accountable for delivering results. 
+
+
+ 8 
+
+
+Education and Employment Strategy 
+
+Chapter 1: Education and training in prison 
+
+Chapter Summary 
+The first step on a prisoner’s path to employment on release is acquiring the right skills. 
+Many prisoners enter prison educated only to a low level. Over half were assessed on 
+reception as having the English and maths abilities expected of an 11-year-old. This 
+makes effective and relevant training in prison vital.  
+
+In England, we have taken steps to raise the standard and consistency of education 
+and training across the prison estate. These include introducing maths and English 
+assessments on entry into and release from prison. In Wales improvements include 
+piloting the Wales Essential Skills Toolkit. We have also appointed common awarding 
+organisations for each of the seven most popular (by volume of learners) subjects in 
+prison education in England. These reforms are designed to prevent education being 
+disrupted when a prisoner moves from one prison to another, whilst allowing new data 
+to be collected to track performance.  
+
+Thanks to ongoing reform and the hard work of those working in the system, education 
+in prisons has improved year on year. But too many prisoners are reaching the end of 
+their sentence without securing basic skills in English and maths. Often, prison 
+education has not been properly integrated into prison regimes. In addition, education 
+has not been closely tailored to the requirements of employers or the needs of different 
+cohorts of prisoners, with governors lacking the levers to manage performance.  
+
+Consistency across the prison estate is necessary in some areas so that prisoners can 
+move from one prison to another without disrupting their education. There is also a role 
+for the centre in setting minimum standards and expectations. However, governors 
+know their own prisoners best and, given the right tools, are in the best position to 
+ensure that training is relevant to the requirements of employers. In Wales HMPPS 
+delivers education on behalf of the Welsh Government and governors have 
+responsibility for arrangements in their prison.  
+
+We want to see prison education that complements prison work, is oriented towards 
+employment on release and is integrated both into prisoners’ sentence plans and prison 
+regimes. To deliver this in England we will: 
+
+a. Establish consistency and minimum standards in a few key areas across the prison 
+estate.  
+
+b. Empower governors to commission the education provision most likely to meet 
+employers’ requirements and prisoners’ needs.  
+
+c. Provide the right tools and support to governors to make best use of these powers.  
+
+d. Establish the Prisoner Apprenticeship Pathway as a new vocational route for 
+governors to make use of.  
+
+e. Couple greater powers for governors with greater accountability for performance. 
+
+
+ 9 
+
+
+Education and Employment Strategy 
+
+Prison education 
+18. For a prisoner, the first step on the path to employment on release is acquiring the 
+
+right skills during their sentence. We know that, for the population as a whole, skills 
+have a clear link with employment. For example, in July to September 2017, the 
+employment rate for those educated to A* to C grade GCSE standard was 72% 
+compared with 43% for those with no qualifications. 
+
+19. Many prisoners enter prison with low skills. Over half of prisoners were assessed on 
+reception as having the English and maths abilities of a primary school pupil. A 
+survey of prisoners sentenced in 2005/06 found that only 53% had any qualifications 
+at all, compared with 85% of the general population and 42% have been permanently 
+excluded from school-age education. Meanwhile, more recent estimates show that 
+one third self-identify as having a learning difficulty.  
+
+20. This makes effective and relevant training vital for prisoner rehabilitation. The 
+evidence shows that prison learners were significantly more likely to be in P45 
+employment than non-learners one year from release. Evidence suggests that 
+engaging in education in prison may reduce the likelihood of reoffending. Ipsos MORI 
+research commissioned by the Ministry of Justice (MoJ) and Department for 
+Education (DfE) in 2015 showed that offenders who participate in education are 
+significantly less likely to reoffend within 12 months of release – 7.5 percentage 
+points less likely. 
+
+21. In Wales, prison education is a devolved matter, delivered by HMPPS Wales on 
+behalf of the Welsh government. This chapter therefore focuses principally on 
+England.  
+
+Progress to date 
+22. In England, we have taken steps to raise the standard and consistency of education 
+
+and training across the prison estate.  
+
+23. Since 2014 there have been mandatory reception assessments in maths and English 
+for all prisoners, providing a baseline for their literacy and numeracy levels.  
+
+24. In May 2016, Dame Sally Coates published an important review of prison education 
+in England, commissioned by the Ministry of Justice. Since then we have made 
+significant progress in taking forward her recommendations including implementing 
+basic skills assessments of every prisoner at the beginning and end of their sentence 
+to measure the progress they make, a common curriculum and awarding bodies for 
+the most popular subjects across the whole prison estate and a commitment to 
+devolve education budgets to local governors from April 2019, with the procurement 
+process to deliver this now launched. The review did not cover prison education in 
+Wales but the findings have informed developments.  
+
+25. In August 2017, these assessments were also introduced for prisoners when 
+transferring between prisons and when released from prison. The data resulting from 
+these assessments will be considered when developing performance indicators that 
+will demonstrate the progress made by prisoners in these key subject areas and help 
+to drive improvements in prisons’ education strategies.  
+
+
+10 
+
+Education and Employment Strategy 
+
+26. To further prevent disruption to prisoners’ education following prison transfers, we 
+have also appointed common awarding organisations for each of the seven most 
+popular subjects in prison education. These subjects include the core curriculum 
+areas of maths, English, Information and Communications Technology (ICT) and 
+English for Speakers of Other Languages (ESOL) as well as catering and hospitality, 
+construction, planning and the built environment, and cleaning and facilities 
+management. This means a prisoner who starts a qualification in one prison will be 
+able to complete it at another rather than starting again as they move across the 
+prison estate.  
+
+27. Individual prisons have also built some highly effective partnerships with employers to 
+deliver vocational training. The Halfords employment academies at Drake Hall and 
+Onley are great examples of offenders being trained in skills that can lead to full-time 
+employment on release.  
+
+28. To enable prison governors to innovate further, they were given the chance to spend 
+up to 10% of their education budget to commission provision locally in July 2017 and 
+this has proved a successful precursor to greater governor empowerment. 
+
+29. Digital delivery and support for education can reap dividends in prison. For example, 
+digitally delivered in-cell learning can help engage and educate hard-to-reach and 
+vulnerable prisoners. Remote access to education and training material from the 
+wings of a prison could help all prisoners continue to learn during difficult regime 
+periods, when it might prove hard to get them to education spaces.  
+
+30. In the future we want to see all prisoners have the chance to access increased 
+education opportunities through digital technology. Dame Sally Coates stated, as part 
+of her prison education review recommendations; 
+
+‘There should… be work carried out to accelerate the testing and use of ‘in-cell’ or 
+tablet learning technology (including the capability to provide teaching via video 
+links).’ 
+
+31. Pursuing greater availability and use of technology in-cell and on wings is also of 
+benefit to wider areas of prison life. Lord Farmer’s review on ‘The Importance of 
+Strengthening Prisoners' Family Ties’ recommended that virtual visits (using video 
+calling technology) should be available for the small percentage of families or 
+individual family members who cannot visit frequently or at all due to infirmity, 
+distance or other factors. Technology introduced to support education could be used 
+to deliver against this recommendation and other important areas such as allowing 
+prisoners greater access to pastoral resources and support from their cells and such 
+like. 
+
+32. We will continue to support projects that are testing the use of laptop and tablet 
+technology, as we look forward to a system which takes full advantage of digital 
+technology and uses it to improve not just a prisoner’s rehabilitation journey but also 
+their wider wellbeing whilst in custody. 
+
+33. We are also encouraging greater digital innovation from new education suppliers in 
+how they deliver their services, and each has been specifically asked to detail their 
+plans as part of the new education framework procurement. 
+
+34. All digital technology development and innovation in prisons will need to adhere to 
+strict security standards and testing, but we will not let this be a barrier to progress. 
+
+
+11 
+
+Education and Employment Strategy 
+
+35. Thanks to ongoing reform and the hard work of those in the system, education in 
+prisons has improved year on year. Based on inspection reports published in the 
+year, Ofsted's judgement on the quality of education delivered by OLASS providers 
+has improved from 51% good or outstanding in [FY] 2014–15 to 70% in 2017–18.  
+
+36. The Ofsted Chief Inspector's annual report for [AY] 2016/17 reported the overall 
+effectiveness of learning and skills and work activities (i.e. a broader judgement 
+incorporating the effectiveness of the prison's leadership and management) at 56% 
+good or outstanding, 16 percentage points higher than the previous year. 
+
+37. In Wales initial assessments are delivered by the providers of education and we are 
+piloting the Welsh Government’s Wales Essential Skills Toolkit at HMP Cardiff which 
+assesses literacy, numeracy and digital literacy and provides resources to improve 
+skills. We will consider the roll out of the online system to other prisons in Wales 
+which will reduce the need to duplicate assessments when offenders transfer 
+between prisons in Wales. Further developments include a strategic review to 
+improve provision and links with employers working with the Regional Skills 
+Partnerships in Wales.  
+
+Challenges ahead 
+38. However, whilst provision is improving, education in custody remains by far the 
+
+lowest performer in the Further Education sector. Ofsted rated 44% of prisons as 
+‘requires improvement’ or ‘inadequate’ in 2016/17.  
+
+39. Too many prisoners are reaching the end of their sentence without securing basic 
+skills in English and maths that are so vital in securing lasting employment on 
+release. Importantly, education has also not been closely tailored to the requirements 
+of employers or the needs of different cohorts of prisoners. As a consequence, there 
+are too many low-level qualifications being delivered that reap little to no reward for 
+ex-offenders when trying to secure a job. We need a prison education system that 
+puts people on the path to employment on release, rather than one producing 
+qualifications that lack currency in the labour market. There is more we can do to 
+make sure education and training in prison lives up to this vision.  
+
+Our approach  
+40. To reform prison education in England we will: 
+
+a. Establish consistency and minimum standards in a few key areas across the 
+prison estate.  
+
+b. Empower governors to commission the education provision most likely to meet 
+employers’ requirements and prisoners’ needs.  
+
+c. Provide the right tools and support to governors to make the best use of these 
+powers.  
+
+d. Establish a new vocational training route – the Prisoner Apprenticeship Pathway – 
+for governors to make use of.  
+
+e. Couple greater powers for governors with greater accountability for performance.  
+
+
+12 
+
+Education and Employment Strategy 
+
+Consistency and minimum standards 
+41. Consistency across the prison estate is necessary in some areas, such as 
+
+assessment/awarding bodies, so that prisoners can move from one prison to another 
+without disrupting their education.  
+
+42. There is also a role for the centre in setting minimum standards and expectations. 
+That is why we will be rolling out new mandated personal learning plans, offering a 
+consistent digital format across the prison estate from which data can be collected 
+and monitored to understand prisoners’ progress. Learning plans should be 
+integrated where possible with other prisoner plans – notably sentence plans – to 
+ensure that this is part of a coherent overall approach to the way they are managed in 
+custody. 
+
+43. Our vision is that learning plans will act as the link between aspirations, training, work 
+in prisons and a job on release. They will also contribute to smooth transitions for 
+prisoners between prisons, so that prisoners are not asked the same questions 
+repeatedly.  
+
+44. But there is only so much that can and should be coordinated from Whitehall. 
+Governors know their own prisoners best and, given the right tools, are in the best 
+position to ensure that training is relevant to the needs of employers. Giving 
+governors control over education contracts also provides an opportunity to integrate 
+prison education more effectively into prison regimes.  
+
+Governor empowerment 
+45. Governors in England will be fully in charge of their education provision from April 
+
+2019. They will set the strategy, commission the providers and manage its delivery. 
+Devolution of education budgets to governors will be supported by a reviewed 
+funding formula which will take into account the number, type and needs of different 
+prison populations. 
+
+46. To deliver this, we launched the procurement for the new Prison Education 
+Framework in England in February 2018. Once in place, groups of governors will 
+choose the provider that best meets their needs and expectations in providing the 
+core curriculum and those other elements of their education requirement that benefit 
+from consistent delivery over a number of years. In doing so, we will ensure a tailored 
+approach in each area whilst securing quality and consistent provision for their 
+shared prisoners, and achieving value for money for the taxpayer. 
+
+47. To complement the Prison Education Framework, we are developing a Dynamic 
+Purchasing System (DPS) in England. This will enable governors to commission 
+bespoke education in their own establishments quickly and with minimal bureaucracy. 
+The DPS is a more flexible system, meaning it is highly suited to smaller suppliers, 
+local and third sector organisations. This will enhance governors’ ability to find the 
+training most responsive to employers’ requirements and most appropriate for 
+prisoners’ learning needs.  
+
+48. A governor will not always have to use the DPS for their specialist provision needs. If 
+their main education provider can supply the required service, then they can secure it 
+through them if they wish, but there will be no obligation to do so. 
+
+
+13 
+
+Education and Employment Strategy 
+
+49. We will also significantly reduce the regulation from the centre regarding how and 
+where education budgets are spent. We are in the process of reviewing the five 
+education-related Prison Service Instructions (PSIs). We will strip out the proliferation 
+of orders and instructions that have built up over the years. There will be a policy 
+framework that replaces the PSIs for England and a separate one for Wales. They 
+will be brief and state clearly the elements of service delivery that governors are duty 
+bound to follow. All other suggestions and further non-mandatory requirements will 
+either be deleted entirely or placed in guidance. This will give governors further 
+freedom to deliver education that is focused not on compliance with rules and 
+processes, but rather on getting prisoners into employment on release. 
+
+50. The Coates Review acknowledged that the National Careers Service in England was 
+delivering its services in a crowded environment, with multiple employment advice 
+and support services operating in our prisons and Through the Gate. This has led to 
+duplication and wasted resource.  
+
+51. That is why we have taken the decision not to extend the current National Careers 
+Service contract. By extending the National Careers Service contract further, we 
+would have incurred significant costs and continued the duplication of effort in this 
+area.  
+
+52. In partnership with front line staff, we are developing a new approach which will allow 
+individual governors to commission the right information, advice and guidance for 
+their establishment. They will be able to consider the particular needs of their cohorts, 
+the services already delivered and areas where gaps exist, and to commission 
+support that plugs those gaps and joins up elements of support into a coherent 
+whole.  
+
+Tools and support 
+53. We understand that governors in England will need the right tools and support to 
+
+make the most of these new powers over education, information, advice and 
+guidance.  
+
+54. We will build the capability and capacity of governors and their teams to design their 
+curriculums, navigate provider markets and manage quality services in their prisons.  
+
+55. This will be a new way of working for governors and in a specialist area with which 
+many may not be familiar. We will make sure they have the support and training they 
+need to make the most of this new empowered approach, focusing especially on 
+giving access to the expertise needed to guide them through the commissioning 
+process. Expert commercial advice will be available centrally to enable governors to 
+assess options and then decide which commissioning model best suits their needs. 
+This means governors will be supported as they plan and then commission their 
+education provision. 
+
+56. We will also do more to help governors understand what employers are looking for 
+from prison education.  
+
+57. The New Futures Network (NFN), described in Chapter 3, will be a key source of 
+intelligence for governors about the requirements of employers in different sectors. 
+NFN experts, placed in every geographical prison group across England and Wales, 
+will be responsible for engaging employers and brokering partnerships with prisons. 
+
+
+14 
+
+Education and Employment Strategy 
+
+They will feed back key messages about the skills and qualifications that particular 
+employers are looking for.  
+
+58. NFN will also make use of EMSI, a labour market data tool. EMSI draws together a 
+range of government data sets to produce labour market information and trends 
+which can be broken down by sector and geographical area. For example, it can 
+identify which sectors provide the most employment in a particular area, how 
+employment in those sectors breaks down by occupational code and what the typical 
+wages and qualifications for those jobs are. All this will help governors develop a 
+clear picture of employers’ requirements, ensuring that they commission the training 
+best suited to meeting those needs.  
+
+Prisoner Apprenticeship Pathway 
+59. A further tool available to governors in England and Wales, to help them link training 
+
+with employment opportunities, will be the Prisoner Apprenticeship Pathway (PAP). 
+The PAP will be an alternative means of getting a qualification and work experience 
+while in custody. The formal 12-month apprenticeship on release will give the 
+prisoner the chance to have a long period of resettlement in the community with a 
+guaranteed job and a guaranteed income.  
+
+60. The Pathway will be targeted at specific sectors, where there are staff and skills 
+shortages, such as the construction industry. The greater powers being devolved to 
+prison governors will help ensure that training is sufficiently tailored to the 
+requirements of employers in these sectors.  
+
+61. In Wales governors are required to work with the Regional Skills Partnerships who 
+have employer links and develop annual partnership plans with labour market 
+information which can inform the curriculum and employment on release. 
+
+62. The development of the Pathway has been met with enthusiasm and support from 
+prisoners, governors, employers, industry bodies and third sector organisations. We 
+are also working with HMPPS Wales to build on the opportunities presented by the 
+Welsh Government’s wider strategy for Apprenticeships in Wales. 
+
+63. The first Pathway began at HMP Feltham in July 2017. Pathways in Wales based on 
+construction and logistics are being developed where the nature of the funding 
+regime provides different opportunities. 
+
+64. The Prisoner Apprenticeship Pathway will be another option available to empowered 
+governors to offer opportunities to prisoners and employers to have high-quality jobs 
+and high-quality employees.  
+
+
+15 
+
+Education and Employment Strategy 
+
+Case study: Prisoner Apprenticeship Pathway at Feltham 
+The Prisoner Apprenticeship Pathway at Feltham was previously run by Carillion and 
+has since been adopted by Gov Facility Services Limited (GFSL), the new government-
+owned facilities management company. The Pathway is based on progression from 
+vocational training into work placements with the facilities management team at 
+Feltham. This allows prisoners to apply the skills that they are learning at the same time 
+as contributing to decent, well-functioning prisons – for example by playing a role in 
+maintenance and repair work in the prison. As a result, the Pathway is already 
+delivering a number of benefits, including: 
+
+a. Improving decency in prisons with better decorated and cleaner living environments 
+with potential to reduce levels of vandalism. 
+
+b. Increasing purposeful activity and time out of cell with prisoners engaged within a 
+real working environment. 
+
+c. Supporting prisoners’ rehabilitation through enhancing their employability and 
+self-esteem. 
+
+
+ 
+
+Accountability 
+65. To match the greater powers and support being provided to governors in England, 
+
+there will be greater accountability.  
+
+66. We are working on a system to intervene if education in individual prisons is not 
+meeting expected standards.  
+
+67. The triggers for intervention will be performance data and indicators (both national 
+and contractual), and external scrutiny by the inspectorates. The new system will 
+offer different interventions based upon local intelligence and the severity of the 
+issue. This approach will differentiate between long-term problems and shorter-term 
+performance dips.  
+
+68. We expect intervention to range from simple conversations to understand local 
+issues, (such as governors who are new in post inheriting poorly performing 
+provision) to requiring and monitoring formal improvement and rectification plans or 
+more hands-on approaches such as embedding temporary educational support staff 
+in prisons.  
+
+69. Performance management of individual prisons will be supplemented by national 
+leadership, coordination and guidance. This will manage risk, recognise and respond 
+swiftly to any developing national trends, and make links between patterns in different 
+prisons. 
+
+70. We will set out more detail on this approach in due course.  
+
+
+16 
+
+Education and Employment Strategy 
+
+Conclusion 
+71. This chapter has set out our approach to ensuring that prison education reflects the 
+
+requirements of employers and the needs of prisoners, so that it can best contribute 
+to employment outcomes on release.  
+
+72. The next chapter addresses the role of work during prisoners’ sentences in setting 
+them on a pathway to employment on release. 
+
+
+ 17 
+
+Education and Employment Strategy 
+
+Chapter 2: Prison work 
+
+Chapter summary 
+Work is a key part of a successful prison. It provides purposeful activity, giving structure 
+and meaning to prisoners’ days, which contributes to more stable prison environments. 
+The work done by prisoners also helps prisons function efficiently.  
+
+At best, work done by prisoners during their sentences also helps develop many of the 
+skills and attributes needed on release, from a work ethic to vocational skills. 
+
+Work within the prison walls can and should be complimented by placements in real 
+workplaces, including through Release on Temporary Licence (ROTL) where appropriate 
+Workplace ROTL gives prisoners a chance to prove they are skilled, hardworking and 
+trustworthy.  
+
+New research just published by the Ministry of Justice strongly suggests that there is a 
+beneficial impact from prisoners going out to work on ROTL and supports what previous 
+evidence had long suggested about the benefits of temporary release in terms of reducing 
+reoffending and improving employment outcomes. 
+
+We have taken steps to increase the number of prisoners working during their sentences. 
+In 2016, over 11,000 prisoners at one time worked in ‘prison industries’ within the walls of 
+prisons. They deliver on contracts for commercial companies and other government 
+departments. A further 13,000 worked to provide ‘prison services’, such as cleaning prison 
+wings or cooking in prison kitchens.  
+
+This work has provided purposeful activity and helped prisons run efficiently. However, 
+more needs to be done to ensure that work done in prison contributes directly to 
+employment on release. Prisoners need to gain the kind of experience that employers are 
+looking for. This requires a clear link between prison work and employment opportunities 
+on release.  
+
+Meanwhile, the number of ROTL placements has fallen in recent years, limiting the ability 
+of prisoners – when properly risk assessed – to gain experience in real workplaces during 
+their sentence. Our vision is that when an offender enters prison they are immediately put 
+on a path to employment on release.  
+
+To ensure prison work contributes as effectively as possible to this we will:  
+
+a. Develop a new approach, through a partnership with The Clink, to link work done in 
+prison services, such as cooking in prison kitchens, with employment on release.  
+
+b. Consult governors and employers on proposals to increase the opportunities available 
+to prisoners to gain experience in real workplaces through ROTL.  
+
+
+ 
+
+Prison work 
+73. Work is a key part of a successful prison, serving a number of important functions. At 
+
+the most basic level, work provides prisoners with purposeful activity. Whether it is 
+work in ‘prison industries’ (delivering contracts for commercial companies or 
+
+
+18 
+
+Education and Employment Strategy 
+
+government departments) or ‘prison services’ (helping prisons themselves function), it 
+gives structure and meaning to prisoners’ days.  
+
+74. Getting prisoners out of their cells to work in prison is therefore an important element 
+of our drive to improve prisoners’ mental and physical health, reduce drug use and 
+cut violence in prisons.  
+
+75. The work done by prisoners also helps prisons function efficiently. In providing prison 
+services, prisoners have roles in everything from cleaning wings and fixing windows 
+to cooking meals and working as prison barbers.  
+
+76. This work in prison services limits the cost of prison to the taxpayer. It also allows 
+funding to be spent on other priorities in individual prisons, such as security 
+measures or offender behaviour programmes, which tackle the root causes of 
+offending.  
+
+77. The most important role of prison work is to prepare prisoners for employment on 
+release. Around two thirds of prisoners were unemployed before entering custody 
+and therefore may not have good employment records to recommend them to 
+employers on release.  
+
+78. As a result, prison has an important role to play in developing the skills and work 
+ethic that employers are looking for. Employers expect people to be reliable, 
+cooperative and disciplined in a workplace setting, as well as equipped with the 
+vocational skills required in their industry. Work in prison, either through prison 
+industries or prison services, can help prisoners build these capabilities.  
+
+79. Work placements with employers outside the prison walls, through ROTL, take this a 
+stage further. Workplace ROTL – subject to proper risk assessment – gives prisoners 
+the chance to apply their skills and prove they are hardworking and trustworthy.  
+
+80. In some instances, workplace ROTL can encourage employers to recruit ex-prisoners 
+on release, having got to know them during their sentences. In other instances, they 
+help prisoners without much experience acquire essential references to take to other 
+employers.  
+
+81. Research just published by the Ministry of Justice indicates that, for prisoners given 
+at least one ROTL, additional releases were associated with small but significant 
+reductions in rates of reoffending and frequency of re-offences. This research is the 
+first large scale study of the impact of temporary release in England and Wales. The 
+analysis included data on over 1.5 million temporary releases involving over 23,000 
+offenders.  
+
+82. These findings strongly suggest that there is a beneficial impact from workplace 
+ROTL. They support what previous evidence had suggested about the benefits of 
+temporary release in reducing reoffending and improving employment outcomes. 
+
+
+19 
+
+Education and Employment Strategy 
+
+Progress to date 
+83. Over the last two parliaments there has been a renewed emphasis on getting 
+
+prisoners working during their sentence.  
+
+84. In 2012, ONE3ONE Solutions was created as a part of Her Majesty’s Prison and 
+Probation Service (HMPPS), to increase the commercial work done by prisoners in 
+prison industries. It has made important strides – in 2010/11 just 7,500 prisoners 
+were employed in workshops, compared with over 11,000 employed in workshops 
+today. These prisoners work for businesses in a range of industries, from call centres 
+to manufacturing workshops.  
+
+85. In addition to the work done nationally by ONE3ONE solutions, prisons also build 
+their own links with local employers, providing work for prison industries in their 
+establishments or workplace ROTL. In total, a third of prisoners now work in either 
+prison industries or prison services.  
+
+86. Many prisons also now run peer support schemes where designated prisoners deliver 
+activity-based support either part-time or full-time to their peers, for example to 
+support education and learning. We recognise the potential value of this work and so 
+have equipped prison staff with a practical toolkit to help them make the most of this 
+approach. The toolkit highlights the need for thorough peer worker training and 
+details how staff can better link schemes, and any skills acquired, to work on release. 
+
+87. We also recognise that getting prisoners working requires a well-functioning prison 
+regime, with prisoners moved safely between cells and workshops – and being 
+properly supervised while they are there. This process places demands on governors’ 
+resources.  
+
+88. The recruitment of 2,500 new prison staff across England and Wales will provide 
+governors with greater capacity to deliver this. We are now nine months ahead of 
+target on appointing those prison officers. The new officers will help deliver prison 
+regimes that get prisoners working during their sentences.  
+
+Challenges ahead 
+89. Work in prisons has played an important role both in providing purposeful activity and 
+
+in helping prisons function efficiently, but much more can be done to link work done 
+during prison sentences with employment opportunities on release. 
+
+90. For example, around 300 businesses already work with prisons to provide work in 
+prison industries through ONE3ONE Solutions. However, ONE3ONE was established 
+primarily to get prisoners working in prison, rather than to focus on employment on 
+release. The work brought into prisons needs to be linked with a strategy to get 
+prisoners into sustained employment at the end of custodial sentences.  
+
+91. In particular, there is untapped potential in the work that thousands of prisoners do to 
+deliver prison services. These prisoners are gaining daily experience, doing work like 
+cooking, cleaning or working as prison barbers, but not enough has been done to 
+supplement this with the specific training that employers in those industries are 
+looking for. Nor have prisoners working in these roles been steered towards 
+workplace ROTL that broaden their experience and enhance their CVs in those 
+industries. 
+
+
+20 
+
+Education and Employment Strategy 
+
+92. ROTL numbers have fallen by over a third between 2013 and 2017, producing nearly 
+200,000 fewer releases involving 4,000 fewer prisoners, preventing prisoners from 
+gaining vital work experience with employers beyond the prison walls. We need to 
+make sure that, where the risk to the public is low, more prisoners are gaining work 
+experience through workplace ROTL.  
+
+93. Women remain almost twice as likely to be allowed ROTL than men but have also 
+found it difficult to access ROTL recently. We want to see more women taking ROTL 
+to the workplace and to maintain family ties.  
+
+Our approach  
+94. To ensure prison work contributes as effectively as possible to this we will:  
+
+a. Develop a new approach, through a partnership with The Clink, to link work done 
+in prison services, such as cooking in prison kitchens, with employment on 
+release.  
+
+b. Consult governors and employers on proposals to increase the opportunities 
+available to prisoners to gain experience in real workplaces through ROTL.  
+
+The Clink partnership 
+95. Linking the work that prisoners do in prison services to employment opportunities on 
+
+release will require experimentation and learning. To support this process of 
+innovation, we are adopting a new approach at HMP Bristol, HMP Styal and HMP 
+Risley, in partnership with The Clink.  
+
+96. The Clink is a charity which supports prisoners into employment on release by 
+training them in catering whilst in custody. Four public Clink restaurants already 
+operate in prisons across the UK at HMP High Down, HMP Styal, HMP Brixton and 
+HMP Cardiff. Prisoners staff the restaurants, including working in the kitchens and 
+serving paying customers. Each prisoner works and trains for 40 hours per week. In 
+February 2018 The Clink restaurant at Brixton was rated as the twelfth best 
+restaurant in London on Trip Advisor and the Clink is rated as the number one 
+restaurant in Cardiff.  
+
+97. The Clink trains up to 160 offenders a day, with more than 800 offenders having gone 
+through its programme. It operates a five-step rehabilitation model: 
+
+a. Training, verified by the Clink.  
+
+b. Work experience, facilitated in the prison kitchen.  
+
+c. A workplace ROTL placement at one of the 300 Clink partners in the catering 
+industry.  
+
+d. Employment on release, brokered by the Clink.  
+
+e. Mentoring support, delivered by the Clink and supported financially by the 
+Community Rehabilitation Company (CRC).   
+
+Analysis suggests its model reduces the likelihood of reoffending by between 3 and 
+15 percentage points.  
+
+98. The partnership at HMP Bristol, HMP Styal and HMP Risley seeks to apply key 
+elements of this approach to the work that prisoners do working in prison kitchens.  
+
+
+21 
+
+Education and Employment Strategy 
+
+99. These prisons have applied the Clink model within prison kitchens (the biggest 
+employment area in prisons – 2,000 people a day in work) to provide a direct route 
+into the contract catering industry for ex-prisoners on release.  
+
+100. In the partnership, instructors are placed in prison kitchens. The instructors train 
+prisoners while they work, adding supplementary training at the end of the day and 
+then accrediting learning. The Clink then arrange for a workplace ROTL placement in 
+the catering industry and, where possible, employment on release. Prisoners will be 
+supported through this process by a mentor.  
+
+101. If successful, this model may be replicable for other roles and sectors. In particular, 
+there is an opportunity for many more prisoners to receive training while they work in 
+prison services, coupled with proper accreditation and opportunities to gain further 
+experience through workplace ROTL. The model has the potential to build clear 
+pathways from the work that prisoners are doing during custodial sentences to 
+opportunities in the job market on release. 
+
+Work on ROTL 
+102. The Clink partnership exemplifies the value of workplace ROTL, as do some of the 
+
+individual stories below. We have considered the impact of the changes made to 
+ROTL since 2013 and concluded that some of the unintended consequences they 
+produced must be addressed in order to make the most of the benefits ROTL brings. 
+
+ROTL Case studies 
+Yasmin used workplace ROTL to start work at an Engineering firm in the West Midlands 
+and since release has successfully applied for an apprenticeship and started full time 
+work. She is currently studying for a BTEC level 3 in Engineering and hoping to study 
+for a degree.  Yasmin feels that finding work on release has given her a positive 
+attitude, leading to positive outcomes. 
+
+Mikey works for Balfour Beatty and started out on workplace ROTL meaning he had 
+three months under his belt before being released, so could hit the ground running His 
+advice to others given the opportunity to work on ROTL is to “Grab it with both hands”. 
+
+Lauren started working with Greggs on ROTL and, following release is now aiming to 
+become a senior manager and start to save for herself and her daughter. She said that 
+without this opportunity, she would have struggled to find a job. As well as the skills 
+Greggs gave her in food preparation, baking, stock management and cash handling, 
+she gained confidence to interact positively with the public. 
+
+
+ 
+
+103. Alongside this strategy we are consulting governors and employers on making 
+
+changes to ROTL practice. We are clear that no changes will be made to operational 
+policy that undermine the quality of risk assessment and suitability processes that 
+protect the public. Instead, the aim of the proposals is to enhance governors’ 
+discretion – in line with the rest of this strategy – and to improve access to ROTL 
+within a robust risk assessment framework. 
+
+
+22 
+
+Education and Employment Strategy 
+
+Opportunities in priority sectors 
+Workplace ROTL will be an important tool for building ‘win-win’ partnerships with 
+employers in priority sectors such as catering, construction and agriculture/horticulture. 
+For prisoners, workplace ROTL is a chance to develop their skills, boost their CV and 
+make an impression on potential employers. As such, it is a key tool for prisoner 
+rehabilitation. For employers, these placements provide an opportunity to evaluate the 
+skills and work ethic of the prisoners involved. When successful, this can help fill skills 
+gaps, or labour shortages in the short-term, while developing potential employees in the 
+longer term.  
+
+The benefits of workplace ROTL are magnified when they are linked to work and 
+training already being done by prisoners within prison walls. For example, there are 
+already around 2,000 prisoners working daily in prison kitchens. A number of prisons 
+are also investing in equipment to train prisoners as baristas. Many of the prisoners 
+involved have skills that could be put to use and developed further through workplace 
+ROTL placements in the catering industry. ROTL placements then have the potential to 
+develop into job opportunities where individuals can demonstrate they have the skills 
+and aptitudes that employers are looking for.  
+
+Similarly, the prison estate retains commercial horticulture work in over 30 prisons 
+across the country, so many prisoners already have skills useful for horticultural work. 
+The core work for commercial horticulture in the estate is the production of salad crops 
+using polythene tunnels or greenhouses, vegetables in open ground, annual bedding 
+plants or nursery stock production. This also provides scope for win-win partnerships 
+with employers in the sector, starting with ROTL placements, which may contribute to 
+filling skills gaps for employers, whilst contributing to prisoners’ rehabilitation into 
+society.  
+
+The proposed reforms to ROTL, outlined in this chapter, would be of benefit to this 
+initiative, once implemented, as will the greater flexibility for governors to tailor 
+education provision in their establishments.  
+
+
+ 
+
+Conclusion 
+104. This chapter has focused on work done by prisoners during their sentences. It has 
+
+set out how we will ensure that work in prisons does not just help prisons function 
+efficiently, or provide prisoners with purposeful activity, but actively contribute 
+towards employment on release.  
+
+105. The next chapter turns to how we create those opportunities on release and ensure 
+that ex-prisoners are in the best position possible to take them.  
+
+
+ 23 
+
+Education and Employment Strategy 
+
+Chapter 3: Employment on release 
+
+Chapter summary 
+At the heart of this strategy is the recognition that employment on release is a key 
+component of a prisoner’s rehabilitation. We also recognise that the job of delivering this 
+does not stop at the prison gate. Ex-prisoners need supervision and support that is 
+coherent and effective, particularly when they face multiple problems in their lives. 
+Working with ex-prisoners is also only half the job. Employers in all sectors are also key 
+partners – and must be persuaded that employing ex-prisoners will benefit their 
+businesses.  
+
+We have taken important steps to engage businesses and ensure that ex-prisoners 
+receive the right supervision on release.  
+
+We already work closely with business-led organisations such as the Employers Forum 
+for Reducing Reoffending (EFFRR), which supports businesses considering employing 
+offenders. We have also supported the Ban the Box initiative, including adopting it across 
+the civil service.  
+
+Alongside our efforts to engage and persuade businesses to employ ex-offenders, we 
+have also reformed the way we manage prisoners when they are released from custody. 
+This includes mandating a minimum of 12 months supervision for all ex-prisoners on their 
+release and establishing the Through the Gate model of resettlement support, provided by 
+Community Rehabilitation Companies during the last 12 weeks of a custodial sentence.  
+
+However, many employers are still sceptical, at best, about recruiting ex-prisoners to work 
+for them at the end of their sentences. There are also challenges in the way we support 
+and supervise ex-offenders themselves on release, which affect the chances of an 
+individual desisting from crime and holding down a job. Despite the recent focus on 
+Through the Gate provision, there is still too much fragmentation between prisons, 
+probation services and other services.  
+
+This strategy marks a step change in our engagement with employers and a renewed 
+focus on effective, coherent supervision of prisoners on release. We will: 
+
+a. Recruit ex-prisoners directly into the civil service, providing jobs and leading by 
+example to other employers. 
+
+b. Consider how to take forward a NICs holiday alongside wider work on employer 
+obligations and incentives.  
+
+c. Launch the New Futures Network (NFN) to engage and persuade employers to take 
+on ex-prisoners, with experts placed in every geographical prison group in a phased 
+roll-out across England and Wales. 
+
+d. Work with DWP to explore ways to deliver enhancements to the current benefit claim 
+process so that ex-prisoners have easier access to financial support on the day of 
+release where needed. 
+
+e. Provide incentives for prisons and NPS/CRCs to work together more effectively in the 
+future on employment on release.  
+
+
+24 
+
+Education and Employment Strategy 
+
+Employment on release 
+106. At the heart of this strategy is the recognition that employment on release is a key 
+
+component of a prisoner’s rehabilitation. Work provides people with an income, but it 
+reaps more benefit than just that. It also establishes a daily routine, boosts self-
+esteem, and gives people a stake in society. It is no surprise that those ex-prisoners 
+who find work on release are less likely to reoffend than those who do not. 
+
+107. We also recognise that the job of delivering this does not stop at the prison gate. 
+Ex-prisoners need supervision and support that is coherent and effective, particularly 
+when they face multiple problems in their lives. Finding and keeping hold of a job is 
+far easier if probation services and others can help ex-prisoners stay off drugs, 
+manage mental health problems or find suitable accommodation.  
+
+108. Working with ex-prisoners is only half the job. Employers in all sectors are also key 
+partners, and must be persuaded that employing prisoners will make a contribution 
+not just to society but to their own bottom line. This requires advocacy and 
+persuasion in some cases, as well as the infrastructure to make sure that prisoners 
+leave prison with the skills that employers are looking for. The NFN lead for Wales 
+will be able to use the Regional Skills Partnerships to support engagement with 
+employers.  
+
+Progress to date 
+
+Business-to-business advice 
+109. Businesses say that advice from other businesses is vital in helping them understand 
+
+both the challenges and opportunities that come with employing ex-offenders. These 
+business-to-business relationships can be a key source of impartial advice, allowing 
+organisations to learn from the experiences of others. They can help put perceived 
+risks in context and provide reassurance where necessary.  
+
+110. To reflect this, MoJ and HMPPS have long-standing relationships with non-statutory 
+partners, including the Employers Forum for Reducing Reoffending (EFFRR) and 
+Business in the Community (BITC).  
+
+111. As an independent, business-led organisation, EFFRR pairs businesses considering 
+employing ex-offenders with those who already do so. Its members include DHL, 
+Halfords, Sodexo, Marks & Spencer and Greggs. BITC also provides a peer support 
+structure for businesses, through its Reducing Reoffending Network.  
+
+Ban the Box 
+112. BITC has also led the national campaign to Ban the Box. This campaign, supported 
+
+by the Government, encourages employers to remove the tick box from application 
+forms which ask about criminal convictions, instead addressing this later in the 
+recruitment process. This approach gives ex-offenders the chance to demonstrate 
+relevant skills and experience ahead of formally disclosing any convictions. 
+
+113. The Government recognises the importance of leading by example in this area. The 
+Ban the Box campaign was formally launched across the Civil Service on the 17th 
+October 2016, with 380,000 roles (97%) identified as suitable for the removal of the 
+
+
+25 
+
+Education and Employment Strategy 
+
+'box' that asks about criminal convictions at the initial stages of the recruitment 
+process. The MoJ has already banned the box. 
+
+114. The Civil Service Jobs system, which is used for approximately 70% of recruitment in 
+the Civil Service, has been designed to remove the box asking about criminal 
+convictions from application forms as standard. The Civil Service is now 
+implementing this initiative to ensure its roles attract the widest possible range of 
+applicants.  
+
+115. We are also seeing progress on Ban the Box with local authorities. Bristol City 
+Council has recently decided to Ban the Box. We will work with the Ministry of 
+Housing, Communities & Local Government to encourage all local authorities to do 
+the same. 
+
+116. In addition, Cabinet Office will launch a Call for Evidence about employing people 
+with a criminal record. The Call for Evidence will invite other employers, organisations 
+and individuals to detail how they support people with a criminal conviction to find 
+work. The purpose of the Call for Evidence will be to map the range of initiatives 
+already undertaken by employers and identify those having evidence of a significant 
+impact.  
+
+117. In total, more than 90 employers across the public and private sectors, covering more 
+than 720,000 roles, have committed to creating fair employment opportunities for ex-
+offenders. This includes Boots, Interserve and Ricoh.  
+
+118. Signing up to Ban the Box has given many employers access to diverse, untapped 
+talent that they may not have considered previously. Over 10 million people in the UK 
+have a criminal record and the Lammy Review of the treatment of, and outcomes for, 
+Black and Ethnic Minority (BAME) Individuals, argued that criminal records checks 
+may provide additional stigma for that cohort.  
+
+Managing ex-offenders 
+119. Alongside our efforts to engage and persuade businesses to employ ex-offenders, we 
+
+have also reformed the way we manage prisoners when they are released from 
+custody.  
+
+120. Until 2014, probation services in England and Wales were delivered by local 
+Probation Trusts. Under this system, although prisoners serving sentences of a year 
+or more received supervision from probation officers on release, those serving 
+sentences of less than a year did not.  
+
+121. Given the high reoffending rates of ex-prisoners serving short sentences, the 2014 
+Offender Rehabilitation Act altered the Government’s approach. It mandated a 
+minimum of 12 months supervision for all ex-prisoners on release from prison, no 
+matter the length of their sentence. The reform reflected the fact that many 
+ex-prisoners who have served short sentences also face multiple problems in their 
+lives, which need to be managed closely with the right supervision and support.  
+
+122. At the same time, prison and probation services were reorganised. 89 prisons were 
+designated resettlement prisons, with a target that 80% of prisoners would spend the 
+final three months of their prison sentences in them. CRCs are now expected to 
+
+
+26 
+
+Education and Employment Strategy 
+
+provide resettlement services to these prisoners in the final 12 weeks of their 
+sentences, as part of a Through the Gate model.  
+
+123. For example, Kent, Surrey and Sussex have secured a number of partnerships with 
+employers willing to provide opportunities to ex-offenders. To support these 
+partnerships, the Kent, Surrey and Sussex CRC has agreed to support a job club, 
+running for 10 sessions. This Through the Gate service will be facilitated by 
+Education, Training and Employment Coaches, provided by the CRC. At the job club, 
+prisoners will benefit from supervised e-access to job sites, space for CV writing, 
+disclosure advice, interview preparation and training in skills for work such as 
+communication, time-keeping and relationship management.  
+
+124. The Through the Gate model includes working with ex-offenders to develop a 
+resettlement plan which seeks to address accommodation, education, training and 
+employment, as well as finance, debt and benefits. On release, the NPS supervises 
+high risk ex-offenders, while CRCs manage those classified as lower risk.  
+
+125. Finding and keeping a job is far easier if an ex-prisoner is in suitable accommodation. 
+The Government has committed to ending rough sleeping by 2027 and will be 
+publishing a strategy in July 2018 setting out how it will achieve this ambitious target. 
+As part of the strategy we will also be working with the Ministry of Housing, 
+Communities, and Local Government to explore how best to support ex-offenders 
+with their accommodation needs as they are released from prison. 
+
+Challenges ahead 
+126. However, despite these efforts we recognise that significant challenges remain. Many 
+
+employers are still sceptical, at best, about recruiting ex-prisoners to work for them at 
+the end of their sentences. A YouGov study revealed that 50% of employers would 
+not even consider employing an ex-offender.  
+
+127. The YouGov study found that employers were concerned about ex-offenders’ social 
+skills, their work and capability skills and the reputational risk to their businesses. Yet, 
+we know from employers such as Timpson that the ex-offenders they have employed 
+are some of their most loyal and committed employees. There is more we must do to 
+promote ex-offenders as a reliable workforce and make the process of hiring ex-
+offenders more straightforward. 
+
+128. There are also challenges in the way we support and supervise ex-offenders 
+themselves on release, which affect the chances of an individual desisting from crime 
+and holding down a job. Despite the recent focus on Through the Gate provision, 
+there is still too much fragmentation between prisons, probation services and other 
+services. In some cases, CRCs themselves need to improve, with Through-the-Gate 
+services not meeting our expectations. 
+
+129. This strategy marks a step change in our engagement with employers – and a 
+renewed focus on effective, coherent supervision of ex-prisoners on release. We will: 
+
+a. Recruit ex-prisoners directly into the civil service, providing jobs and acting as a 
+role model for other employers. 
+
+b. We will consider how to take forward a NICs holiday alongside wider work on 
+employer obligations and incentives.  
+
+
+27 
+
+Education and Employment Strategy 
+
+c. Use the national infrastructure of the New Futures Network (NFN) to engage and 
+persuade employers to take on ex-prisoners across England and Wales. 
+
+d. Work with DWP to explore ways to deliver enhancements to the current benefit 
+claim process so that ex-prisoners have easier access to financial support on the 
+day of release where needed.  
+
+e. Ensure that prisons and NPS/CRCs work together more seamlessly, by 
+sharpening and aligning accountability for ex-prisoners’ employment on release.  
+
+Our approach 
+
+Civil service recruitment 
+130. The Civil Service has led by example on Ban the Box and will continue to do so 
+
+through ‘Going Forward Into Employment’, an ex-offender recruitment pilot. Under 
+this pilot scheme, which was introduced this year, government departments will place 
+ex-offenders into fixed-term office-based roles. Ex-offenders will be matched to jobs 
+by prison staff, Civil Service local and the Going Forward Into Employment board. 
+The job matches will be based on the skills and experience of the ex-offenders for 
+each available role. 
+
+131. Where ex-offenders are brought into the Civil Service under a specific exception to 
+the standard approach of fair and open recruitment, it is proposed that temporary 
+roles could be converted to permanent positions 12 months after the original 
+appointment. This would need to be done on the basis of a fair and merit-based 
+process, approved in advance by the Civil Service Commission.  
+
+132. The pilot is being launched on a small scale in the North West, before the model is 
+rolled out to other regions throughout 2018. We will formally review the pilot and, if it 
+is successful and the decision is taken to proceed, we propose to take a staggered 
+approach to this initiative – starting relatively small and building up in the same 
+manner as the government apprenticeship scheme which posted 100 apprentices 
+across the civil service in its first year, before increasing to larger numbers in 
+subsequent years.  
+
+133. Ten Government departments or agencies have agreed to support the pilot initiative 
+including MoJ, Cabinet Office and HMRC.  
+
+134. During the pilot, ex-offenders will be placed into jobs at a variety of grades, 
+dependent on their skills and experience. A variety of roles have been proposed by 
+departments. We will also examine what more can be done to encourage similar 
+practice in government supply chains. 
+
+Financial incentives 
+135. One approach used in other countries to encourage more ex-offenders into 
+
+employment is to offer financial incentives to employers. In the United States (US) for 
+example, The Work Opportunity Tax Credit is a Federal tax credit available to 
+employers who hire individuals from particular groups that face significant barriers to 
+employment, including ex-felons. Evidence from the US indicates that this kind of 
+financial incentive can have positive effects on the probability of individuals finding 
+jobs, the length of employment once in work and the wages.  
+
+
+28 
+
+Education and Employment Strategy 
+
+136. Also in the US, there are state-backed insurance policies designed to promote the 
+employment of key groups, including ex-offenders. The Federal Bonding Program, 
+sponsored by the Department for Labor, issues fidelity bonds. These bonds provide 
+insurance to protect employers against theft, forgery, larceny, or embezzlement by an 
+employee covered by the bond. The insurance is designed to mitigate the perceived 
+risk of employing people from the target groups. The bonds are free of charge to both 
+the applicant and the employer for 6 months. They can be issued for jobs in all states.  
+
+137. In the UK, the Work and Pensions select committee has recommended that the 
+government should pilot incentives, using the tax system and public procurement for 
+employers to take on ex-prisoners. This is a proposal that has been supported by 
+leading employers. Meanwhile, the 2017 Conservative manifesto proposed a 
+one-year holiday on Employer National Insurance Contributions for firms employing 
+people who have committed a crime but repaid their debt to society. 
+
+138. We recognise the argument in favour of financial incentives and will balance this 
+against wider government objectives. We will consider how to take forward a NICs 
+holiday alongside wider work on employer obligations and incentives.  
+
+New Futures Network 
+139. ONE3ONE Solutions was established in 2012 with ‘a mission to increase the 
+
+productive, commercial work of prisoners.’ The New Futures Network (NFN) will 
+replace ONE3ONE Solutions. It will have a broader remit, a new approach and 
+different structure.  
+
+140. NFN will have an explicit remit to broker partnerships between prisons and employers 
+that create opportunities for ex-prisoners on release, in addition to delivering 
+purposeful activity in prison. As such, it will be judged not just on whether more 
+commercial companies provide work through prison industries, or whether more 
+prisoners are engaged in a full working week – vital though those things are. In 
+addition, it will be judged on the proportion of ex-prisoners entering employment on 
+release and then staying in work.  
+
+141. This change in remit will mean that partnerships with private sector employers, or 
+other government departments, will now also be judged through the prism of whether 
+they are doing something useful for ex-prisoners in the long-term.  
+
+142. To support this approach, NFN will identify priority sectors to engage with. Priority 
+sectors will be selected annually based on three factors: 
+
+a. Labour market information, including the number of jobs in different sectors and 
+the education level, or qualifications required, in those sectors.  
+
+b. An analysis of prison infrastructure, focusing on the capacity of the prison estate 
+to provide prison work and high-quality training in those same sectors.  
+
+c. Consideration of the sectors likely to present the fewest legal or bureaucratic 
+barriers to ex-prisoners’ employment, including those related to criminal record 
+checks and safeguarding.  
+
+
+29 
+
+Education and Employment Strategy 
+
+143. NFN’s priority sectors will be reviewed annually as the labour market changes and 
+the prison estate and prison population evolve. In NFN’s first year, the five priority 
+sectors will be: 
+
+a. Retail  
+
+b. Catering/hospitality 
+
+c. Construction  
+
+d. Manufacturing  
+
+e. Agriculture/horticulture. 
+
+144. We believe these sectors present ‘win-win’ opportunities to fill skills gaps and labour 
+shortages for employers, whilst finding sustainable employment for ex-prisoners (see 
+box below). NFN will be open to working with employers of all sizes and from all 
+sectors but the focus on a few key sectors will ensure that employer outreach is 
+targeted at those most likely to be disposed towards partnerships with prisons. This 
+sector-driven approach will also provide a guide as to which workers guilds and trade 
+unions to prioritise building relationships with. 
+
+145. A key difference in the NFN approach is that it will seek to link employers with the 
+work prisoners do to deliver prison services. For example, where prisoners are 
+already spending a working week cooking or cleaning to keep the prison functioning – 
+as is the case in virtually every adult prison – NFN will engage employers in the 
+catering and cleaning industries. It will explore how the thousands of prisoners doing 
+daily work in prison services could be supplemented with training, or work 
+placements on ROTL in relevant industries. Where ONE3ONE focused specifically on 
+securing commercial contracts from prison industries, NFN will build on all the work 
+done within the prison walls, covering both prison industries and prison services. 
+
+146. The way in which NFN will be structured will be vital in engaging and persuading 
+enough employers to enter into those partnerships. 
+
+147. To provide a credible voice within its five priority sectors, a champion will be 
+appointed to act as an advisor and ambassador to the network. These champions will 
+be drawn from leading employers in each of the five sectors. They will help spread 
+NFN’s key messages and support the NFN to network effectively within the sector.  
+
+148. NFN will be established as an England and Wales network rather than one 
+commissioned by individual governors. This reflects the ‘network effect’ of the service 
+it is providing – the wider the network, the more useful it is to individual prisons. For 
+example, a prison in Norfolk releasing prisoners into Portsmouth will now be 
+connected to employers in that area through the national network.  
+
+149. To provide geographical reach, NFN will operate a ‘hub and spoke’ model. The hub 
+will be a team operating nationally, contacting large employers and coordinating the 
+work of the network as a whole.  
+
+150. The spokes in the network will be placed in each of the new geographical prison 
+groups, in a phased roll-out across England and Wales, beginning in three areas. 
+Their role will be to contact local/regional employers and follow up on contacts 
+generated by the national hub. They will broker partnerships between prisons and 
+employers, having engaged employers and fully understood their requirements. In 
+
+
+30 
+
+Education and Employment Strategy 
+
+Wales the lead will be able to use the Regional Skills Partnerships to support 
+engagement with employers.  
+
+151. NFN will make the case to employers that they should consider employing 
+ex-prisoners on release. It will then work through the details of what a partnership 
+with one or more prison could look like, based on the requirements of employers and 
+the capacity of prisons to meet those requirements. 
+
+152. NFN will make use of EMSI, a labour market data tool procured by HMPPS. EMSI 
+draws together data from a range of government data sets to produce labour market 
+information and trends which can be broken down by sector and geographical area. 
+For example, it can identify which sectors provide the most employment in an area, 
+how employment in those sectors breaks down by occupational code and what 
+typical wages and qualifications required for those jobs are. The tool also identifies 
+leading employers in each sector, broken down by geography. This data tool will 
+provide key intelligence for both the national hub and regional spokes.  
+
+153. Given the place-based role of the spokes – building relationships with employers in 
+their areas – they will serve all adult prisons in those areas, including the long-
+term/high security estate and the female estate. 
+
+154. NFN will focus specifically on brokering partnerships between prisons and employers, 
+but it will coordinate closely with other services. For example, it will provide feedback 
+to prisons and training providers about the specific training that employers are looking 
+for. It will ensure that DWP work coaches in prisons are aware of the opportunities 
+likely to be available to prisoners so that they can link advice to likely opportunities 
+and it will also work to ensure that CRCs and probation services are aware of job 
+placements for ex-prisoners on release, so that they can best supervise and support 
+the individuals involved.  
+
+Welfare 
+155. A key source of support for job seekers is the welfare system. A fundamental 
+
+principle is that it must always pay to work – and Universal Credit (UC) is at the heart 
+of the Government’s approach to this. UC marks a complete shift in the whole nature 
+of Welfare by providing incentive and support to people to secure a better future for 
+themselves and their families. 
+
+156. UC enables people to lift themselves and their children out of poverty. UC claimants 
+spend more time looking for work, move into work quicker, are more likely to be in 
+work, spend more time in work and earn more than their counterparts on Jobseekers 
+Allowance. 
+
+157. At present DWP Prison Work Coaches provide support to prisoners prior to their 
+release to make their claim to benefits. This includes support in gathering all the 
+details and documentation needed to make their Universal Credit claim and booking 
+an appointment at the local jobcentre on the day of release so they can complete 
+their claim and access financial support immediately through advance payments. 
+Recent changes to Universal Credit means all claimants, including prison leavers can 
+apply for an advance payment of up to 100% of their expected monthly entitlement 
+from day one of their claim. 
+
+
+31 
+
+Education and Employment Strategy 
+
+158. Given prisoners cannot typically access the internet and as Universal Credit Full 
+Service is a digital benefit, they currently cannot make an advance claim on the 
+Universal Credit system prior to their release from prison.  
+
+159. We are working closely with colleagues in DWP to explore ways to deliver 
+enhancements to the current benefit claim service with the aim of ensuring prison 
+leavers have easier access to financial support on the day of release where needed. 
+This work sits within the context of a wider national partnership agreement that we 
+will establish with the DWP, which sets out clear roles and responsibilities for the 
+various bodies involved in getting more ex-prisoners into employment in the future 
+across England and Wales. 
+
+Probation 
+160. Prison and probation services must work together effectively if they are to provide 
+
+effective supervision of prisoners on release, particularly when those prisoners face 
+multiple problems in their lives.  
+
+161. Our aim is to ensure that prison and probation services, both NPS and CRCs, are 
+more integrated in providing education and employment services to ex-offenders. 
+Accountability for prisoners’ employment on release is an important aspect of this.  
+
+162. We will collect data to track prisoners’ employment on release and consider how to 
+use it to measure the performance of both prisons and probation services to provide 
+incentives for them to work together more effectively in the future.  
+
+Conclusion 
+163. Despite the training and work experience that many prisoners benefit from in prison, 
+
+only 17% of ex-prisoners find themselves in P45 employment a year after release. 
+Progress depends on the willingness of employers to give opportunities to prisoners 
+at the end of their sentences. Ex-offenders must also be able to take the 
+opportunities available to them. This depends, in part, on having the right supervision 
+and support structures around people when they leave prison. This chapter has set 
+out how we intend to address these challenges as part of our overall vision to set 
+each prisoner on a path to employment from the moment they enter a prison.  
+
+
+ 32 
+
+Education and Employment Strategy 
+
+Conclusion 
+
+164. Ensuring that more ex-prisoners find work is a key aspect of reducing reoffending. 
+Many have multiple and complex problems, but finding and keeping a job can be the 
+foundation for a different kind of life. Work provides not just an income but also 
+structure, direction and self-worth.  
+
+165. We have made important progress in recent years, with improving standards in prison 
+education and greater numbers of prisoners working in prison industries. Our 
+objective is deliver more of this activity, not less in the future – but this document 
+marks a step change in our efforts to link it to employment on release. Educational 
+achievement and purposeful activity in prison are vital, but to capture their full value 
+they must help ex-prisoners find and keep work.  
+
+166. Our vision is that when an offender enters prison they should be put, immediately, on 
+the path to employment. This starts with prisoners themselves, who must be willing to 
+engage positively with learning and work during their sentences. Our reforms will 
+create the conditions that encourage this, from key workers holding individual 
+prisoners to account under the Offender Management system, to the use of 
+mechanisms like IEP to reinforce positive behaviour. Our proposed ROTL reforms 
+are also a key part of this picture, providing well-behaved prisoners – properly risk 
+assessed – with opportunities to build credible work experience. 
+
+167. Alongside prisoners willing to engage, we need a system set up to deliver. This must 
+begin with rigorous, early assessment of each prisoner’s education level, so that they 
+have a learning plan that reflects their needs and is properly integrated with their 
+sentence plan. This path to employment should continue with work and learning in 
+prison that equips prisoners with the skills employers are looking for. To deliver this, 
+prisons will have better connections with employers, through the New Futures 
+Network, alongside more flexibility to commission the training they need.  
+
+168. The New Futures Network will also have a key role in opening up opportunities for 
+ex-offenders when they are released from prison, though engaging and persuading 
+sceptical employers that they can fill workforce gaps. Meanwhile, ex-offenders must 
+be properly supervised and supported, so that they keep jobs when they find them. 
+This requires better integration of prison and probation services. 
+
+169. Taken together, this amounts to a much sharper focus not just on purposeful activity 
+during prison sentences, but on sustained employment on release. We know this can 
+make a difference not just to ex-prisoners themselves but to society as a whole. The 
+prize is lower reoffending rates, savings to the tax payer and enhanced public safety. 
+
+
+   33                              
+
+CCS0518628748 
+
+978-1-5286-0392-8 
+
+
+ 
+
+	Contents
+	Foreword
+	Introduction
+	Our vision
+	Progress to date
+	Challenges ahead
+	Our approach 
+
+	Chapter 1: Education and training in prison
+	Chapter Summary
+	Prison education
+	Progress to date
+	Challenges ahead
+	Our approach 
+	Case study: Prisoner Apprenticeship Pathway at Feltham
+	Conclusion
+
+	Chapter 2: Prison work
+	Chapter summary
+	Prison work
+	Progress to date
+	Challenges ahead
+	Our approach 
+	ROTL Case studies
+	Opportunities in priority sectors
+	Conclusion
+
+	Chapter 3: Employment on release
+	Chapter summary
+	Employment on release
+	Progress to date
+	Challenges ahead
+	Our approach
+	Conclusion
+
+	Conclusion
+
+
+
+

@@ -1,0 +1,1851 @@
+
+
+
+
+National adaptation programme: Analytical annex - economics of the national adaptation programme
+
+
+
+
+www.gov.uk
+
+
+  
+
+The National Adaptation Programme Report: 
+Analytical Annex 
+Economics of the National Adaptation Programme 
+
+Publication: 1 July 2013 
+
+http://www.data.gov.uk/�
+
+
+ 
+
+© Crown copyright (2013)  
+
+You may re-use this information (not including logos) free of charge in any format or 
+medium, under the terms of the Open Government Licence. To view this licence, visit 
+www.nationalarchives.gov.uk/doc/open-government-licence/ or write to the 
+Information Policy Team, The National Archives, Kew, London TW9 4DU, or e-mail: 
+psi@nationalarchives.gsi.gov.uk  
+
+This document/publication is also available on our website at: 
+
+https://www.gov.uk/government/policies/adapting-to-climate-change   
+
+Any enquiries regarding this document/publication should be sent to us at: 
+
+climate.ready@defra.gsi.gov.uk  
+
+
+ 
+
+PB13942a 
+
+http://www.nationalarchives.gov.uk/doc/open-government-licence/
+mailto:psi@nationalarchives.gsi.gov.uk
+https://www.gov.uk/government/policies/adapting-to-climate-change
+mailto:climate.ready@defra.gsi.gov.uk
+
+
+ 
+
+Contents 
+1. Economics of the National Adaptation Programme ......................................................... 1 
+
+1.1. Summary ................................................................................................................... 1 
+
+1.2. Policy implications ..................................................................................................... 2 
+
+2. What is the role for government in adaptation? ............................................................... 4 
+
+2.1. Private action and government intervention .............................................................. 4 
+
+2.2. Uncertainty ................................................................................................................ 5 
+
+2.3. Barriers to adaptation ................................................................................................ 6 
+
+2.4. Categorising adaptation ............................................................................................ 7 
+
+2.5. Adaptive capacity .................................................................................................... 10 
+
+3. The costs and benefits of adaptation ............................................................................. 11 
+
+3.1. Local level costs and benefits ................................................................................. 11 
+
+3.2. Overall costs and benefits of adaptation ................................................................. 13 
+
+4. Growth and climate change adaptation ......................................................................... 17 
+
+4.1 Adaptation protects growth and allocative efficiency ................................................ 18 
+
+4.2 Other economic impacts of adaptation ..................................................................... 20 
+
+4.3. Economic growth and social welfare ....................................................................... 21 
+
+5. Future evidence needs .................................................................................................. 22 
+
+5.1. The macroeconomics of climate change ................................................................. 22 
+
+5.2 Next steps ................................................................................................................ 23 
+
+Appendix 1: Supplementary material on adaptive capacity................................................ 26 
+
+Appendix 2. Advantages and disadvantages of each appraisal methodology ................... 29 
+
+
+ 
+
+
+
+
+  1 
+
+
+                                           
+
+1. Economics of the National Adaptation 
+Programme 
+This analytical annex contains the current evidence base for adaptation decision-making. It 
+presents the analysis that informs the National Adaptation Programme’s approach to 
+adaptation to climate change. Focus areas and programme actions in the main report are 
+based on latest evidence and analysis.  
+
+Understanding of adaptation, both in government and beyond, is an evolving process. 
+Research will continue to ensure adaptation is cost effective, efficient and equitable (both 
+privately and publically). 
+
+A formal impact assessment is not required because the National Adaptation Programme 
+is not of a regulatory nature. It is important, however, to lay out the evidence and analysis 
+that underpins the National Adaptation Programme. This document sets out the rationale 
+for government intervention and wider societal action to ensure the UK is resilient to 
+climate change. 
+
+It is not possible to provide an exact measurement of costs and benefits of a well-adapted 
+UK. Adaptation needs to be embedded in a wide range of existing policies. The National 
+Adaptation Programme report reflects a series of voluntary agreements across 
+government and society more widely.  
+
+1.1. Summary 
+The National Adaptation Programme (NAP) report presents ongoing policies and voluntary 
+agreements to ensure that the UK is resilient to the risks of climate change. To ensure the 
+programme is well targeted, the NAP is based on a wide range of evidence and analysis.   
+
+Two major pieces of government funded research form the basis of government 
+understanding of adaptation to climate risks. Main risks and opportunities are compiled 
+in the Climate Change Risk Assessment (CCRA).1 The CCRA draws together the latest 
+advances in climate science and currently available evidence on climate change. Defra 
+has recently published the Economics of Climate Resilience (ECR).2 The ECR sets out an 
+economic framework for adaptation in the UK. Many other research projects also help 
+develop specific objectives highlighted in the main NAP report. 
+
+
+ 
+
+1 The CCRA was published in January 2012 and is available online at: 
+https://www.gov.uk/government/publications/uk-climate-change-risk-assessment-government-report  
+2 The ECR was published in March 2013 and is available online at: 
+http://randd.defra.gov.uk/Default.aspx?Module=More&Location=None&ProjectID=18016 
+
+https://www.gov.uk/government/publications/uk-climate-change-risk-assessment-government-report
+http://randd.defra.gov.uk/Default.aspx?Module=More&Location=None&ProjectID=18016
+
+
+   2 
+
+
+                                           
+
+Effective national adaptation requires a societal effort from the private sector, 
+government and local communities. Private actions to adapt are crucial given the 
+projected impacts of climate change are highly localised. In the absence of factors which 
+may lead a market to function inefficiently, a household or organisation will choose to 
+adapt if the benefit of doing so exceeds the cost. However, there are barriers to adaptation 
+which may prevent or delay action. It may be appropriate for government intervention to 
+ensure markets do function efficiently.3 Section 2 focuses its attention on the role for 
+government and analyses fundamental aspects of adaptation including the role of 
+uncertainty and ‘adaptive capacity’.  
+
+Appraisal needs to account for the full costs and benefits of all adaptation options. 
+However, many costs and benefits of adaptation are difficult to quantify. This annex 
+outlines appropriate appraisal methods and how an analyst can deal with issues such as 
+uncertainty, data availability and proportionality.4 Section 3 reviews the costs and benefits 
+of adaptation, both locally and overall for the UK.  
+
+Appropriate adaptation is supportive of economic growth. It avoids unnecessary 
+damages which may disrupt economic activity such as consumption, investment, the 
+appropriate allocation of public finance and trade. Section 4 analyses the relationship 
+between adaptation, productivity and economic growth. 
+
+Finally, Section 5 makes recommendations for future evidence needs. 
+
+1.2. Policy implications 
+The development of evidence to inform the NAP has identified 6 policy implications. 
+
+1) Uncertainty is not a legitimate reason to postpone decisions by government, 
+business or society  
+
+Uncertainty does not mean that action should be delayed. It means that decision-
+making should be an iterative process and incorporate regular reassessment to 
+consider the latest available information. Appraisal options exist that account for 
+deep uncertainty. Risk management needs integration into policy development to 
+account for the uncertainty of future climate change. 
+
+
+ 
+
+2) Decisions today can create sunk costs for the future and ‘lock-in’ future 
+vulnerability5  
+
+
+ 
+
+3 It should be noted that there may be instances where government intervention is unable to improve 
+efficiency and as a result it would not be to cost effective to do so 
+4 Proportionality infers that the appropriate amount of time and resource expended on an assessment should 
+reflect the size of the expected costs and benefits.  
+5 A sunk cost is a cost that once incurred and cannot be recovered. Large sunk costs make reversal very 
+expensive and could lock the UK into path which makes us vulnerable to climate change.  
+
+
+ 
+
+
+
+
+  3 
+
+
+Long-term investment decisions (eg development/building of national infrastructure) 
+that lead to substantial sunk costs must be based on the best available information, 
+analysis of scenarios and threshold points. These decisions should incorporate 
+future flexibility/reversibility and account for wider sets of extreme scenarios and 
+threshold points. This can prevent long-term investments becoming locked into 
+future vulnerabilities and avoid unnecessary costs. 
+
+
+ 
+
+3) Government policy should be developed in such a way that it does not crowd out 
+private initiative  
+
+The costs and benefits of adaptation fall mainly on private individuals and 
+organisations. Government actions must not replace private initiative, which is likely 
+to be more efficient. However, there are barriers to adaptation which may require 
+future government intervention. 
+
+
+ 
+
+4) Government needs to ensure that action on climate change adaptation is cost 
+effective  
+
+Policy should be based on a sound evidence base and a proportionate assessment 
+of costs and benefits. Adaptation may increase or decrease the costs and benefits 
+of a project; these need accounting for appropriately. This emphasises the need for 
+analysis to follow the Green Book and supplementary guidance for the appraisal of 
+climate change adaptation options. 
+
+
+ 
+
+5) Adaptation can protect growth 
+Adaptation is fundamentally an economic issue. 
+Adaptation protects growth and ‘allocative efficiency’. Cost effective adaptation 
+delivers a net benefit and avoids unnecessary damage costs of climate change that 
+would hinder economic growth. 
+Adaptation activities may have a range of other economic impacts in addition 
+to their aim of avoiding damage. In some cases they may stimulate innovation 
+and enterprise, but they may also divert resources from other beneficial uses. The 
+benefits of adaptation need to be considered alongside the costs in order to 
+evaluate the extent to which it is net beneficial as it is likely to vary across different 
+sectors, local context and specific activities. The timing of those benefits also need 
+to be considered. 
+
+
+ 
+
+6) There remain wide gaps in the evidence base  
+Government and research institutions need to work alongside each other to develop 
+evidence and inform policy. Future evidence needs are discussed in Section 5 of 
+this annex. 
+
+
+ 
+
+
+
+
+  4 
+
+
+                                           
+
+2. What is the role for government in 
+adaptation? 
+Climate models indicate that many parts of the UK6 are likely to experience rising average 
+temperatures, more heavy rainfall (leading to flooding), rising sea levels and faster coastal 
+erosion, more heatwaves, droughts and extreme weather events as this century 
+progresses.7 Further information is available on Gov.uk pages about scientific evidence to 
+help us understand climate change and on Government Office for Science pages.8,9 The 
+CCRA shows that projected climate change presents a set of opportunities and threats for 
+the UK economy. 
+
+2.1. Private action and government intervention 
+Climate change impacts are not always a ‘market’ failure as they constitute a private cost 
+(and in some cases a benefit) to individuals. In many cases the costs and benefits of 
+adaptation are borne by the same individuals (or groups of individuals). If adaptation to 
+climate change is in the private interests of individuals and organisations (ie cost effective) 
+then in theory it should occur automatically. The value of adaptation will appropriately be 
+reflected in market prices. Individuals and organisations will take advantage of 
+opportunities and will act against the risk of threats through the market.  
+
+However, barriers to adaptation do exist. These barriers prevent a socially efficient level of 
+adaptation from occurring. It could result in too little or too much adaptation taking place, 
+leading to a misallocation of resources. Government has a role to play to ensure 
+adaptation actions are economically efficient. It also has responsibility to ensure public 
+goods, such as national infrastructure (eg the road network) and non-market goods (eg 
+environmental amenities) are resilient to climate change. Barriers are discussed in more 
+detail in Section 2.3. 
+
+Government also needs to avoid crowding out private investment into adaptation. Certain 
+adaptation actions could provide a business opportunity, or are incentivised by self-
+interest, which removes the need for government to provide them. Furthermore, climate 
+change impacts are localised. Appropriate adaptation will vary according to geographic 
+location. If organisations and individuals have the best knowledge about their local context, 
+then it will be more efficient for adaptation to occur privately.  
+
+
+ 
+
+6 Impacts will vary geographically across the country 
+7 UK Climate Projections (UKCP09) can be found online at: http://ukclimateprojections.defra.gov.uk/  
+8 https://www.gov.uk/government/policies/taking-international-action-to-mitigate-climate-change/supporting-
+pages/scientific-evidence-to-help-us-understand-climate-change  
+9 http://www.bis.gov.uk/go-science/climatescience  
+
+http://ukclimateprojections.defra.gov.uk/
+https://www.gov.uk/government/policies/taking-international-action-to-mitigate-climate-change/supporting-pages/scientific-evidence-to-help-us-understand-climate-change
+https://www.gov.uk/government/policies/taking-international-action-to-mitigate-climate-change/supporting-pages/scientific-evidence-to-help-us-understand-climate-change
+http://www.bis.gov.uk/go-science/climatescience
+
+
+   5 
+
+
+2.2. Uncertainty 
+Uncertainty is fundamental to climate change. This is because of the time-scales over 
+which climate change is expected to occur and the extent to which it will impact on society. 
+There is also uncertainty about expected weather conditions as a result of changes in 
+climate. Uncertainty can magnify barriers to adaptation and attract government 
+intervention that leads to a crowding out effect.  
+
+Appropriate adaptation to climate change is affected by uncertainty. This is linked with a) 
+the projected paths of greenhouse gas emissions b) changes in socio-economic context c) 
+impact of second order effects and d) adaptation response. Decision-makers face difficult 
+trade-offs given the prevalence of these uncertainties. Table 1 below summarises some 
+major sources of uncertainty which need to be accounted for. 
+
+Table 1: Major sources of climate change uncertainty for 
+decision makers  
+
+Source of 
+uncertainty 
+
+Description 
+
+Uncertainty of 
+future climate 
+
+• Natural Climate Variability is caused by the chaotic nature of 
+the climate system and external factors like changes in solar 
+radiation 
+
+• We have only an incomplete knowledge of the climate system 
+and this means we are unable to model it perfectly, eg: 
+
+• Uncertainty around feedback mechanisms 
+• Fat-tailed distributions of climate risks 
+
+• There is uncertainty surrounding future greenhouse gas 
+emissions. In turn emissions are dependent on a number of 
+assumptions including population, economic growth and type and 
+quantity of energy use 
+
+Uncertainty of 
+future climate 
+impacts 
+
+• We currently have incomplete knowledge of what climate impacts 
+will be, which means we are unable to model them perfectly. 
+Moreover impacts vastly depend on the specific location and 
+context 
+
+• The socio-economic context can affect the vulnerability of 
+society to climate impacts (such as demographics, regional 
+development, water consumption and environmental degradation)
+
+• There is wide uncertainty and potential limitations of modelling 
+knock-on effects of climate impacts on society and the economy 
+
+Uncertainty in 
+adaptation 
+response 
+
+• The level and type of adaptation response, particularly in relation 
+to reactive adaptation action, will greatly vary according to the 
+specific features of an organisation 
+
+• There is also uncertainty and wide evidence gaps with relation to 
+
+
+ 
+
+
+
+
+  6 
+
+
+the level of adaptive capacity and the pervasiveness of barriers 
+to adaptation 
+
+Source: table based on ECR, CCRA, Vivid Economics (2013)10 
+
+The presence of uncertainty risks ‘maladaptation’. These are unintended side-effects of 
+implementing adaptation actions. Uncertainty also means it is unlikely to predict the correct 
+future scenario and fully adapt to it.11 The risks of maladaptation and committing to adapt 
+to a wrong scenario need careful consideration.  
+
+Uncertainty does not mean that action should be postponed. It means that decision-
+making must be iterative and regularly re-assess available information.12 Risk 
+management needs to be integrated into the development and implementation of policy. 
+Investment decisions that are long-term (e.g. development/building of national 
+infrastructure) or that create substantial sunk costs are necessarily based on the best 
+available information. These decisions should incorporate future flexibility/reversibility 
+taking into account a wider set of more extreme scenarios and threshold points.  
+
+2.3. Barriers to adaptation 
+The existence of barriers to adaptation mean types of adaptation and amount of effort 
+could be suboptimal. This provides a rationale for government intervention to ensure a 
+socially efficient level of adaptation. The ECR identifies market failures, behavioural 
+constraints, policy failures and governance failures as the most important barriers. 
+Throughout this report we refer to ‘barriers to adaptation’ as a collective term for all cases 
+which may require government to intervene in a market. 
+
+A market failure exists when market prices do not lead to an efficient level of adaptation. 
+These include informational failures, public goods and moral hazard.  
+
+Information failures exist because organisations and individuals do not have 
+perfect information on future climate impacts. This makes it hard for them to plan 
+
+                                            
+10 Vivid Economics, The macroeconomics of climate change, report prepared for Defra, May 2013 available 
+online at: 
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectI
+D=18639  
+11 For a further discussion on the role of government in adaptation see ‘Adapting to Climate Change 
+Analysing the Role of Government’, available at 
+http://archive.defra.gov.uk/environment/climate/documents/analysing-role-government.pdf as well as the 
+ECR project.  
+12 For more information see detailed discussion see adaptation pathways by Ranger, N., Millner, A., Dietz, 
+S., Fankhauser, S., Lopez, A and Ruta, A. (2010) ‘Adaptation in the UK: a decision making process’ 
+Gratnham Research Institute on Climate Change and the Environment Policy Brief, available online at: 
+http://www2.lse.ac.uk/GranthamInstitute/publications/Policy/docs/PB-Ranger-adaptation-UK.pdf. The ECR 
+also sets of illustrative adaptation ‘roadmaps’ for each of its nine reports.  
+
+
+  
+
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectID=18639
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectID=18639
+http://archive.defra.gov.uk/environment/climate/documents/analysing-role-government.pdf
+http://www2.lse.ac.uk/GranthamInstitute/publications/Policy/docs/PB-Ranger-adaptation-UK.pdf
+
+
+   7 
+
+
+efficiently. Knowledge about national and global climate impacts could also be seen 
+as a public good. 
+
+Public goods can be consumed and enjoyed without reducing their availability to 
+others and their consumption cannot be prevented. They may occur in the case of 
+infrastructure that protects from climate hazards (e.g. flood defences) or to ensure 
+other types of infrastructure (e.g. transport networks) are resilient to future climate.  
+
+Non-market values are an important part of social welfare but are not included in 
+market prices nor explicitly traded. Often these are public goods (e.g. clean air) but 
+can also be private (e.g. value of time). Their omission leads to a market failure. 
+Government may need to intervene to ensure appropriate valuation of non-market 
+values so they can account for them in the appraisal of adaptation options. 
+
+Moral hazard exists when an organisation or household does not adapt to climate 
+change despite it being a rational decision. The barrier is the belief that someone 
+else will deal with the potential impacts for them (e.g. with subsidies from the 
+government). 
+
+Policy failures occur when the framework of regulation and policy incentives creates 
+barriers to effective adaptation. This can happen in the presence of competing policy 
+objectives. Similar to the concept of market failure, which as discussed above is a situation 
+that prevents an efficient market solution, this concept must not be interpreted as a failure 
+of policy, but as a systemic characteristic which prevents an efficient policy solution. 
+
+Governance failures occur when institutional decision-making processes create barriers 
+to effective adaptation. An example is where sectors are fragmented and many parties are 
+involved in adaptation actions. In this case there could be a lack of coordination. 
+
+Behavioural constraints exist because humans are not always perfectly rational. Inertia 
+and focus on the short-term could result in an inefficient level of adaptation. Maladaptation 
+is a possible form of behavioural constraint. For example, if a long-term investment 
+decision ignores adaptation then inefficient retrofitting may become necessary at a later 
+stage. 
+
+2.4. Categorising adaptation 
+The ECR analyses climate change adaptation by sector: agriculture and forestry, built 
+environment, infrastructure, health and wellbeing, business, local government and natural 
+environment. The chosen approach is consistent with previous publications and provides 
+
+
+ 
+
+
+
+
+  8 
+
+
+an economic framework for analysing adaptation actions.13 While there are other methods 
+for categorising and analysing adaptation, it is naturally a very cross-cutting area.14  
+
+Table 2 presents the NAP themes by category and identifies the rationale for action and 
+issues faced.15 Henceforth, we refer to these as ‘policy areas’. Rationale for action is 
+categorised according adaptation barriers identified above: (m) for market failure, (p) for 
+‘competing policy objectives’16, (b) for behavioural constraints and (g) for governance 
+failure.  These tables avoid specific discussion of adaptive capacity which is covered in 
+more detail in Section 2.2. 
+
+Table 2. Climate change adaptation analysed by policy areas 
+
+Policy area Rationale for action 
+
+Agriculture  Existing dependencies (m): external costs/benefits imposed on sector by another party 
+eg value chains17, cross-sectoral dependencies18 
+
+Competing policy objectives (p): there is a trade-off between flexibility for farmers to 
+undertake large investments such as water reservoirs and existing regulations in place 
+
+Changing farming practices (b): resistance to embrace new technologies and fear of 
+taking actions deemed irrelevant 
+
+Forestry 
+
+
+ 
+
+Presence of externalities (m): notable proportions of forest are not actively managed. 
+Where active management, failure to account for non-market values eg ecosystem 
+services 
+
+Lack of formal markets (p): failure of policy to internalise ecosystem service benefits. 
+Current level of grants in place to address this are not likely to be sufficient to increase 
+forest land-cover where land competes with more economically productive uses eg 
+agriculture 
+
+Short-sightedness (b): failure of commercial managers to plant with a view to future 
+climate change in favour of present threats eg pests and disease 
+
+                                            
+13 This includes the CCRA and the ECR. 
+14 Other ways to organise adaptation incldues by the type of social activity that it affects eg households, 
+businesses, public organisations and third sectors. Another way is to organise adaptation by types of 
+physical impact eg rain patterns, sea level rise, overheating, etc. Alternatively it could be by the type of 
+resource affected eg land, water, etc. 
+15 These are taken broadly from the sector reports published in the ECR. See individual reports for full 
+discussion on the barriers to adaptation. 
+16See Section 2.3 for a brief explanation of the economic term ‘policy failure’. Here  for clarity it is expressed 
+as a conflicting policy objective that could represent a barrier to adaptation. 
+17 The actions of some in the value chain can affect the resilience of others, eg farmers cannot grow climate 
+resilient varieities until  successful research has developed them.  
+18 Agricultural activities are inherently linked with the natural environment. Therefore, the resilience of the 
+agriculture system and its adaptation actions can impact on the natural environment, and vice versa.  
+
+
+    9 
+
+
+Built environment 
+and infrastructure 
+
+Infrastructure dependencies (m): sectors having external costs on another sector that 
+are ignored in decision-making 
+
+Competing adaptation and mitigation objectives (p): there is a potential trade-off 
+between policy objectives that aim to reduce greenhouse gas emissions and those aiming 
+to address overheating and improve indoor air quality in buildings. Future analysis could 
+look into this, and also explore the impacts of potential future increases of uptake of air 
+conditioning 
+
+Rental housing market not conducive to adaptation (b): landlords do not benefit in 
+adaptation investment and short-term tenants have little incentive to invest either 
+
+Intra-sector independency of transport infrastructure (m): transport is a complex 
+network and impacts to one part of the network may lead to further impact on other areas 
+through diversions, increased accident risk and demand spikes for different modes of 
+transport   
+
+Businesses and 
+services 
+
+Supply chain dependencies (m): lack of transparency and understanding of the supply 
+chain can lead to external effects of one company on another 
+
+Informational failures (m): can provide too much or too little information on the risks of 
+climate change and appropriate responses 
+
+Policy may limit supply chain diversification (p): regulatory requirements may inhibit 
+supply chain diversification 
+
+Choice of production strategy (g): businesses may trade-off flexibility and resilience, eg 
+just in time delivery likely to lower costs/ increase efficiency but can hinder short-term 
+resilience 
+
+Health and wellbeing Dependencies (m): most notably being the requirement of most emergency services to 
+rely on public infrastructure  
+
+Vulnerable groups in society (b): these groups can be marginalised from emergency 
+planning processes, or do not realise they are at risk at all 
+
+Poor coordination/communication between organisations (g): this could be, for 
+example, the sharing of information on vulnerable groups between voluntary organisations 
+in the local community and public services such as hospitals 
+
+Natural environment Reluctance of land owners (b/m): to adopt measures (e.g. natural flood defence) 
+proposed by external parties. Also a clear example of differences between the private and 
+social benefits of natural environment 
+
+Difficulty to co-ordinate landowners (g): a natural environment problem may affect 
+multiple landowners who all need to act together in public interest 
+
+Source: adapted from ECR 
+
+
+ 
+
+
+  10 
+
+                                           
+
+2.5. Adaptive capacity 
+Adaptive capacity is the ability of individuals, organisations or entire sectors to adapt to 
+climate change. This is strongly linked with resilience. Adaptive capacity is defined as: 
+
+“The ability of a system/organisation to design or implement effective adaptation 
+strategies to adjust to information about potential climate change (including climate 
+variability and extremes), moderate potential damages, and take advantage of 
+opportunities, or cope with the consequences”19  
+
+Adaptive capacity can partially be explained by the aforementioned barriers to adaptation. 
+If barriers prevent an efficient level of adaptation from occurring then it clearly determines 
+the level of adaptive capacity. 20   
+
+Market failures, for example, lower adaptive capacity when there is a diversity of 
+responsibility for an adaptation decision between multiple organisations. This 
+highlights cases where adaptation provides a social benefit but lacks private 
+incentives to act. 
+
+Policy failures21, for example, can lower adaptive capacity if information provided 
+by government overwhelms, or is insufficient to influence, those who need to 
+implement adaptation actions.  
+
+Governance failures, for example, can lower adaptive capacity in organisations 
+due to poor leadership. Inability to influence business partners and suppliers may 
+pose risks under projected climate change. 
+
+Behavioural constraints, for example, will lower adaptive capacity when there is a 
+lack of awareness of climate change or lack of willingness to accept and account for 
+the associated risks. 
+
+However, even if all barriers are removed there will still be residual adaptive capacity 
+constraints which mean certain groups are less able to undertake adaptation. This is 
+mainly an issue of vulnerability for which government may wish to intervene on grounds of 
+equity. For example, some households may lack the financial capacity to undertake 
+adaptation actions even if their value is correctly priced in the market. 
+
+
+ 
+
+19 From ECR which in turns refers to Ballard et al (2011), CCRA – modified IPCC definition to support project 
+focus on management of future risks 
+20 It is important to note that short-term responses to adaptation are a continuous process. Human 
+adaptation has occurred throughout history in response to changing stimuli such as climate. From this 
+perspective one might conclude that humans are already well adapted to the current climates which they 
+inhabit and are not starting from a point of zero adaptation. 
+21 ‘Policy failure’ is a well established economic concept explained in Section 2.3 but no value judgment is 
+intended on specific policies. Just as a market failure is a problem which prevents the market from operating 
+efficiently, the economic concept of policy failure must not be interpreted as a failure of the policy to bring 
+about a particular solution, but is rather a systemic problem which prevents an efficient policy solution to a 
+problem. 
+
+
+ 
+
+
+  11 
+
+                                           
+
+More research is needed to develop understanding of adaptive capacity. Whilst the drivers 
+of high and low adaptive capacity are becoming more apparent, it is not yet possible to 
+compare and prioritise them effectively. 
+
+Appendix 1 contains some definitional material and a summary of where we believe 
+adaptive capacity is high and low at the household, organisational and sectoral level. 
+
+3. The costs and benefits of adaptation 
+To inform adaptation decisions it is necessary to analyse costs and benefits at both the 
+local and national level. Analysis of local costs and benefits of adaptation options is 
+fundamental given the heterogeneous nature of climate change impacts. In these cases, 
+attention will focus primarily on direct impacts borne by the local community. 
+
+Analysis at the national level is more complex.  It will not be enough to add up sector and 
+local specific costs and benefits. For it to be representative, a wider consideration of 
+indirect and non-localised effects needs careful aggregation to ascertain societal costs and 
+benefits of adaptation. A drought, for example, will have direct impacts at a local level, but 
+indirectly may have wider market and non-market knock-on effects (such as on food 
+market prices if the supply of food is affected) and this would have to be considered in the 
+policy appraisal.  
+
+Effective adaptation needs to consider when climate change impacts have significant 
+indirect effects which lead to knock-on consequences. Local analyses have no incentive to 
+account for these effects if they fall outside their jurisdiction. In this situation an externality 
+may be imposed on society whose welfare is affected but not accounted for.  
+
+3.1. Local level costs and benefits 
+Planning decisions, be they in the public or private sector, require a full set of costs and 
+benefits to ensure appropriate actions are taken. Evidence on local level appraisal for 
+adaptation options is currently sparse. Nevertheless, the varied nature of localised climate 
+impacts and vulnerability will determine appropriate appraisal techniques for cost-benefit 
+analysis. This could result in different conclusions for different locations even if identical 
+options are assessed.  
+
+Acknowledging this evidence gap, the ECR develops a toolkit for the analysis of appraisal 
+options.22 A number of different appraisal techniques can be adopted in the context of 
+adaptation. Here we provide a brief explanation of these techniques. More information on 
+
+
+ 
+
+22 Cost benefit analysis is considered in the second ‘phase’ of the Economics of Climate Resilience.  A specific analysis 
+of natural flood management options in  Pickering, North Yorkshire is included to demonstrate application of the 
+approach. 
+
+
+ 
+
+
+  12 
+
+appraisal techniques and a discussion of their advantages and disadvantages based on 
+the ECR project can be found in Appendix 2. 
+
+Multi-Criteria Analysis (MCA): a mixed qualitative and quantitative approach 
+which provides a ‘ranking’ of initiatives based on weighting and scoring of a set of 
+monetary and non-monetary criteria. 
+
+Cost-Effectiveness Analysis (CEA): a quantitative approach which ranks policy 
+options based on the ratio between a specific output/benefit and costs. 
+
+Scenario-Based Cost-Benefit Analysis (SBCBA): a quantitative approach which 
+assesses costs and benefits across different scenarios. 
+
+Robust Decision Making (RDM): a quantitative approach which assesses the 
+proposed initiatives across all plausible states of the world and identifies the most 
+robust initiative across these. 
+
+Real Options Analysis (ROA): an extension of cost-benefit analysis which 
+estimates the ‘option value’ associated with each initiative, ie the option to delay or 
+adjust in the future. It calculates the Net Present Value (NPV) of each initiative 
+given the particular actions that could be taken given different states of the world 
+being realised and the probabilities of these occurring. 
+
+The choice of the most appropriate methodology depends on an assessment of the 
+availability of data and suitability to specific local circumstances. Figure 1 provides a flow 
+diagram illustrating the process for choosing the appropriate methodology in developing a 
+robust cost benefit analysis.  
+
+
+
+
+Figure 1. Framework for gathering data and selecting appraisal 
+methodology 
+
+
+ 
+
+Source: ECR 
+
+3.2. Overall costs and benefits of adaptation 
+A comprehensive analysis of the overall costs and benefits is not yet possible to achieve. 
+Evidence remains patchy and reflects the difficulty in scaling up individual and local 
+adaptation costs and benefits to a representative national scale. The ECR reflects our 
+progress in understanding this complex area.   
+
+The ECR establishes situations across the policy areas where case for action is likely to 
+exist from private adaptation and government intervention. The ECR assesses the extent 
+of current and future adaptation anticipated in the absence of government intervention by 
+sector.23  
+
+Table 3 provides indicative findings of the potential value of adaptation facing each NAP 
+policy area.24 These findings are based on UKCP09 central projections for climate change. 
+They do not consider uncertainty explicitly and are compared against a baseline of no 
+projected climate change. It is important to note that the list of impacts and illustrative 
+
+                                            
+23 Where government has responsibilities at risk of climate change, adaptation actions will need to be 
+undertaken directly as opposed to intervening in private markets.  
+24 Findings provided in Table 3 provide a summary of the ‘scale of the challenge’ identified in the ECR. 
+Please see individual reports for a full discussion of these scenarios and the case for action 
+
+
+ 
+
+  13 
+
+
+ 
+
+
+  14 
+
+future impacts is not a comprehensive list of the economic consequences of climate 
+change. 
+
+Table 3. ECR and illustrative future Impacts 
+
+Policy Area Illustrative future impacts 
+
+Agriculture 
+Increased prevalence of drought could reduce wheat yield between 11% and 33% 
+compared to no climate change.    
+
+• Substituting towards drought resistant varieties may reduce this shortfall in 
+yield to between 5% and 25%  
+
+• Increasing irrigation can also reduce this shortfall and may even improve 
+yield compared to no climate change. In this case the expected overall 
+change in yield is between -14% and +48% 
+
+Despite pro-active adaptation pest and disease impacts may reduce wheat yield by 
+between 11% and 29%. 
+Knowledge transfer and education for farmers on adaptation measures could 
+increase yield between 19% and 80%. 
+
+Forestry 
+A primary difficulty is to mitigate uncertainties and exposure to pests and 
+pathogens via diversification. Likely impacts of pests or pathogens are uncertain. 
+Diversifying species and restocking has the potential to reduce but not fully 
+mitigate the exposure to these. 
+
+• The impact of green spruce aphid on the forest could to reduce yield by on 
+average 3% 
+
+• Species diversification and restocking could reduce the potential forest 
+area affected by spruce in 2050 from between 26% and 22%. 
+
+• Diversifying planting could reduce the potential impact of a species 
+destroying disease on timber production by 50 million cubic metres.  
+
+Built environment and 
+infrastructure  
+
+Climate change could lead to increased uptake and use of air cooling systems in 
+buildings.  
+
+• If the uptake of air conditioning systems continues at today’s rate by 2050, 
+so that around 1% of households in those areas have cooling (compared 
+with 0.6% in 2010), energy demand for cooling could triple between 2010 
+and 2050 in London.  
+
+• If in 2050 half of the households in London had air conditioning, energy 
+demand for cooling could be around 37 times higher in 2050 compared to 
+no climate change and current air conditioning take-up trends. 
+
+Prolonged rainfall causing flooding will lead to road and rail delays and rail 
+cancellations in the 2020s and 2050s which may have a severe impact if no 
+adaptation occurs. 
+
+• Adaptive actions include improving drainage management plans and 
+improvement of the standard and capacity of drainage systems 
+
+• Adaptive capabilities are likely to be lower in the 2020s reflecting their 
+long-term nature of infrastructure assets 
+
+• Greater certainty in benefits of adaptation for rail; substantial uncertainty 
+on the benefits of adaptation exist for roads 
+
+Businesses and 
+services 
+
+A 3-6 month suspension of production caused by a weather-related interruption of 
+supply chains for a major car manufacturer could be the equivalent of output worth 
+between £600 million and £1,100 million. 
+
+• Adaptation actions could reduce this to 2-4 weeks, reducing production 
+
+
+ 
+
+
+  15 
+
+interruption by between £400 million and £1,000 million 
+Climate change could prompt new or emerging markets. Demand for products to 
+help society adapt could represent a benefit for certain sectors (for example 
+chemical industries). 
+
+Health and wellbeing 
+The estimated costs associated with the potential mental health effects of the 2007 
+floods in Hull (including treatment, lost work time and reduced quality of life) was in 
+the range of £4 million to over £600 million, depending on assumptions. 
+The costs of temporarily closing a hospital for 10 – 60 days could be in the range 
+of£2 million to £20 million 
+
+Natural environment 
+An analysis of natural flood defences in Pickering, using robust decision making, 
+compares the implementation package of 7 natural flood defence measures 
+against a baseline in which no measures are implemented. 
+
+• Under central estimates net benefits of implementing the measures are 
+over £3.2 million (and this is believed to be a conservative estimate).  
+
+• This is robust apart from only the most extreme of sensitivity analyses. 
+
+Source: adapted from ECR 
+
+Adaptation has also been analysed from the macroeconomic perspective. Models exist 
+which attempt to integrate climate science into an economic framework. It has been 
+estimated in the wider European context that the value of potential damages avoided could 
+be in the ratio of 4:1 to the cost of adaptation25. These macroeconomic models provide 
+useful illustration of the potential trade-off between adaptation to climate change and 
+mitigation of greenhouse gas emissions.  
+
+However, there is no comprehensive model of economic impact of climate change. They 
+suffer from two main issues which limit their applicability to adaptation in the UK.26 Firstly 
+they are high level, focusing on global or very large regions (e.g. Europe). This inhibits 
+interpretation of findings specific to the UK without making restrictive assumptions about 
+the heterogeneity of climate impacts at a local level. Secondly, they ignore interactions 
+between sectors and the second-order impacts of climate change on economic activity, 
+such as market adjustments to climate impacts. Future economic research in adaptation 
+needs to join up our knowledge of bottom-up (e.g. sector specific analysis) and top-down 
+(e.g. overarching) approaches. 
+
+Conversely, projections of changes in climate variables are subject to large uncertainties 
+which are often not being incorporated into economic models available in the literature.27 
+These uncertainties are of different types, as discussed in Section 2.2. Firstly, most of the 
+available models adopt ranges for global mean temperature that can be considered an 
+
+                                            
+25 These are called ‘adaptation integrated assessment models’ (AD-IAMs).  Calculation based on the ratio 
+between the cost of adaptation and the difference between gross and residual damage from  table 3 pag 24 
+in de Bruin, K.C., Dellink, R.B. and Agrawala, S. (2009) “Economic Aspects of Adaptation to Climate 
+Change: Integrated Assessment Modelling of Adaptation Costs and Benefits” OECD Environment Working 
+Papers No.6, OECD Publishing 
+26 See discussion in Section 4 of this annex. For a full discussion, see the Macroeconomics of Climate 
+Change project 
+27 For a more in depth discussion see Macroeconomics of Climate Change project 
+
+
+ 
+
+
+  16 
+
+                                           
+
+underestimate of the range of possible temperatures.28 Secondly, they often do not take 
+into account the potential negative consequences of extreme weather events. Finally, they 
+do not incorporate the potential existence of ‘tipping points’ in the climate system that, if 
+passed, could result in irreversible changes to how the climate system functions, and 
+potentially larger impacts on economic and social systems.29  
+
+Figure 2 illustrates the consequences of some of these uncertainties, particularly those 
+due to incomplete knowledge of the climate system. It provides 10 estimates of the 
+probability of average global temperature changes happening. Equilibrium ‘climate 
+sensitivity’, the expected global surface temperature change under a sustained doubling of 
+atmospheric carbon dioxide, drives economic impacts. Due to uncertainties in the methods 
+used to estimate the equilibrium climate sensitivity, it is usually expressed in terms of a 
+range of values with an associated probability distribution. These probability distributions 
+display ‘fat upper tails’. This means that, whilst considered unlikely, it is not possible to rule 
+out high values of temperature change which would have significant economic impacts. 
+
+
+ 
+
+28 Ibid 
+29 For further discussion see Macroeconomics of Cliamte Change project, which in turns refer to Lenton et 
+al., 2008 
+
+
+
+
+Figure 2. Probability densities of the estimated range of 
+equilibrium climate sensitivity from various studies (the 
+equilibrium climate sensitivity is the expected global surface 
+temperature change under a sustained doubling of 
+atmospheric carbon dioxide)30 
+
+
+ 
+
+4. Growth and climate change adaptation 
+Growth and climate change are fundamentally related. This is because climate change is 
+an input to economic activity.31 Usually the damage to economic activity is assumed to 
+increase proportionately more than changes in climate.32  
+
+Figure 3 demonstrates the impact of increasing greenhouse gas emissions and resulting 
+climate change on economic activity. These could be direct impacts. Sectors like 
+agriculture and water are dependent on climate and weather patterns. Changes to these 
+systems will alter the ways in which some sectors operate. Climate change will also have 
+
+                                            
+30 Vivid Economics, The macroeconomics of climate change, report prepared for Defra, May 2013 which 
+quotes EPA (2010) 
+31 For a full discussion of aspects of climate change with macroeconomic relevance see  Vivid Economics, 
+The macroeconomics of climate change, report prepared for Defra, May 2013 
+32 For example Integrated Assessment Models make assumptions about the convexity of the damage 
+function caused by climate change. It is often assumed to be quadratic. 
+
+
+ 
+
+  17 
+
+
+
+
+wider economic impacts. For example, many sectors are dependent on the availability of 
+water. Water demand deficits are expected to increase with climate change.33  
+
+Figure 3 Impact of climate change on the economy  
+
+
+ 
+
+Source: adapted from Vivid Economics (2013) 
+
+Adaptation plays a role in determining economic growth. Its main function is to protect 
+long-term growth through, for example, ensuring the allocative efficiency of current and 
+future resources. Failure to adapt could lead to unnecessary damages and inefficiency. 
+Adaptation may also provide opportunities.   
+
+The following sub-section outlines analysis on the relationship between adaptation and 
+growth through avoided damage. Section 4.2 discusses the additional positive and 
+negative impacts on growth that could arise from adaptation. Section 4.3 considers 
+adaptation in the wider context of social welfare as opposed to growth.  
+
+4.1 Adaptation protects growth and allocative efficiency  
+Allocative efficiency is able to protect economic growth.34 It means resources are being 
+used in the most efficient way possible. This includes accounting for the opportunity cost of 
+foregone investment elsewhere in the economy. Failure to adapt to climate change would 
+
+                                            
+33 The CCRA report on water concludes the UK on average is projected to have rising household demand for 
+water and a decrease in public supply. The CCRA can be found online at: 
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectI
+D=15747#RelatedDocuments  
+34 In terms of avoiding economic costs 
+
+
+ 
+
+  18 
+
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectID=15747#RelatedDocuments
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&Completed=0&ProjectID=15747#RelatedDocuments
+
+
+ 
+
+  19 
+
+                                           
+
+lead to a misallocation of resources. It would leave the UK at risk from suffering 
+unnecessary damage costs of climate change. In such scenarios it would be cheaper to 
+invest in adaptation than face the consequences of inaction.35  
+
+Resources for adaptation need to be allocated over time. Proactive adaptation can be 
+hindered by short-term inertia. This presents risks to allocative efficiency for long-term 
+investment decisions (for example infrastructure) which are not resilient to climate change 
+impacts. For some measures ignoring adaptation to improve resilience may save money in 
+the short-term but will cost more in the long-term to retrofit or fix. For others, the most 
+economically efficient approach will be to design in the capacity to respond flexibly as the 
+impacts of climate change become more certain.  
+
+The introduction of adaptation technologies can avoid impacts on growth through disrupted 
+production and misallocation of resources. For example, this could be flood defences, or 
+methods to prevent overheating in buildings. Understanding future climate change risks 
+can incentivise businesses to invest in adaptation technology in the short-term36. The 
+effectiveness of investment will be more pronounced when unused capacity is higher.37 
+
+The Environment Agency Thames Estuary 2100 plan is a long-term flood risk 
+management plan for the tidal Thames which is also considering adaptation options in the 
+short-term. It concludes that the current Thames Barrier is viable until 2070. Over the next 
+25 years investment will be made in actively maintaining and improving the existing 
+system. 
+
+Adaptation can help protect long-term investments and generate competition38.Businesses 
+could compete on the level of their resilience to weather and climate; this would make 
+them less likely to face disruption. Demand for their products would increase as a result. 
+Firms can achieve this by taking ‘low regrets’ actions. ‘Low regrets’ means an adaptation 
+action is cost effective in the present regardless of what future climate might be. For this to 
+occur privately in markets organisations need to understand when it is more cost effective 
+to take planned adaptation measures as opposed to reactive ones. 
+
+Low regrets actions often occur in cases where significant co-benefits are present such as 
+natural ecosystem-based flood control.39 The ECR conducted a cost-benefit analysis for 
+
+
+ 
+
+35 Adaptation costs and damage costs are of course dependent on mitigation efforts in the short-term.  
+36 Adaptation investment could feasibly displace investment in other areas. In these cases businesses and 
+organisations will need to decide which type of investment is most valuable. 
+37 Cost effective adaptation could also increase growth (and therefore income) relative to a counterfactual of 
+accepting full climate damages and lead to additional future investment. However, note that cost-effective 
+adaptation from a theoretical point of view would not necessarily lead to increased growth relative to the 
+counterfactual at all points in time. 
+38 Competition in markets reduces prices and improves quality. It drives an increase in efficiency and 
+reduces costs.  If rising efficiency leads to an increase in market share then this will provide an incentive to 
+innovate. 
+39 Ranger, N., Millner, A., Dietz, S., Fankhauser, S., Lopez, A and Ruta, A. (2010) ‘Adaptation in the UK: a 
+decision making process’ Gratnham Research Institute on Climate Change and the Environment Policy Brief, 
+
+
+ 
+
+
+  20 
+
+                                                                                                                                                
+
+the implementation of natural flood defence measures in Pickering, North Yorkshire. It 
+provides evidence of the importance of co-benefits and strong case for the implementation 
+of a mix of adaptation measures.40  
+
+To protect economic growth we need to build resilience to extreme weather events and 
+climate change. Inaction can risk making investment decisions that lock us into 
+unnecessary damages.41 An efficient level of adaptation will ensure expected damages 
+only occur where it is cost effective to accept them. The UK needs to allocate its limited 
+resources efficiently and use them where they are most valuable. 
+
+4.2 Other economic impacts of adaptation  
+The primary role of adaptation is protecting growth to avoid unnecessary damage costs. 
+Like many other economic activities, adaptation is likely to have a range of positive and 
+negative secondary effects in addition to its main intention. It could sometimes create 
+opportunities to support growth by enhancing productivity. These could take the form of 
+co-benefits to adaptive actions which also help to protect future growth. For example it 
+may stimulate enterprise in business offering adaptation goods and services. It could also 
+promote innovation from which new goods and services stem and create new markets. 
+While we discuss these as two separate analytical concepts, in practice the same 
+adaptation activity may help protecting growth while also supporting it by providing 
+opportunities and spillover effects.  
+
+However, adaptation activities, whether embarked by government, businesses or other 
+organisations, will obviously have costs. The innovation and enterprise benefits in 
+adaptation may be offset or outweighed by the displacement of resources from other areas 
+of the economy where they could also be productively used. The overall net effect is likely 
+to vary. Some adaptation activities could potentially have larger net benefits through 
+delivering co-benefits such as those illustrated below. In other cases adaptation actions 
+might be costly. This reinforces the need to accurately evaluate the rational for action (as 
+discussed in Section 2) and to appraise costs and benefits (see Section 3).  
+
+The largest benefits in terms of avoided damage will likely occur in the future, while costs 
+will often be born in the short term. This highlights the importance, in the context of 
+adaptation, to focus on ‘win-win’ and ‘no-regret’ actions: those activities that carry a range 
+of short-term benefits and low costs.  
+
+Below some examples are presented for illustrative purposes of the type of co-benefits 
+that action on adaptation could bring. Overall we know little about the impact of adaptation 
+
+
+ 
+
+available online at: http://www2.lse.ac.uk/GranthamInstitute/publications/Policy/docs/PB-Ranger-adaptation-
+UK.pdf  
+40 The ECR report on appraising flood management initiatives can be found online at 
+http://randd.defra.gov.uk/Default.aspx?Module=More&Location=None&ProjectID=18016  
+41 This is confounded by the extent of sunk costs 
+
+http://www2.lse.ac.uk/GranthamInstitute/publications/Policy/docs/PB-Ranger-adaptation-UK.pdf
+http://www2.lse.ac.uk/GranthamInstitute/publications/Policy/docs/PB-Ranger-adaptation-UK.pdf
+http://randd.defra.gov.uk/Default.aspx?Module=More&Location=None&ProjectID=18016
+
+
+ 
+
+  21 
+
+                                           
+
+on economic growth. This is likely to vary across different sectors, locations and specific 
+activities. Therefore it is highlighted as a key evidence gap in Section 5. 
+
+K-Matrix analyse a set of goods and services under the banner of adaptation and 
+resilience for climate change (A&RCC) activities.42 It demonstrates the potential of 
+business enterprise in adaptation related products. Sales of these activities were worth 
+£65.8 billion as a global industry in 2010/11. The share attributed to the UK is estimated to 
+be £2.1 billion in the same time period. It is an emerging market which had a domestic 
+growth rate of 3.9% for 2010/11, with forecasted growth rates to increase year-on-year and 
+reaching 7.1% in 2017/18. On its own this does not indicate either a positive or negative 
+effect on the economy as a whole. In an economically efficient system, the size of the 
+adaptation sector should be driven by the optimum scale of the adaptation response, 
+rather than adaptation policies be designed to support this sector at the expense of others. 
+However, the expected need for adaptation makes these activities likely to become 
+increasingly significant.  
+
+Enterprise in an emerging set of activities may encourage innovation through technological 
+progress. The need to adapt will change over time and stimulate innovation naturally 
+through a need to use resources in more efficient and effective ways. More broadly, a 
+culture of innovation can be stimulated through providing appropriate incentives43.  
+
+Such incentives are currently being tested by Defra, in collaboration with the Technology 
+Strategy Board, to bring new climate resilience products to market. A design competition is 
+being funded to develop innovative products and services solutions to increase 
+infrastructure climate change adaptation. Three innovations are being funded: a stackable 
+flood barrier; a zero energy rainwater harvester; and catchment scale modelling to improve 
+urban drainage systems design. Another round of this competition will run from 2013. 
+
+4.3. Economic growth and social welfare 
+Adaptation is capable of protecting economic growth and delivering wider opportunities. 
+However, the value of adaptation goes beyond growth and contributes to social welfare 
+more widely. Growth is associated with traditional economic indicators. These include 
+aggregate variables such as Gross Domestic Product (GDP), investment and rates of 
+unemployment. Social welfare is the aggregate of all interactions of private individuals in 
+economic markets. There exist many determinants of social welfare which are not suitably 
+captured by economic indicators. 
+
+
+ 
+
+42 For the report and full breakdown of A&RCC activities, see K-Matrix (2012) ‘Adaptation and resilience 
+(climate change)’ report available online at 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/31721/12-p144-adaptation-
+and-resilience-climate-change-2010-11.pdf 
+43 Where market failures which prevent an efficient level of innovation 
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/31721/12-p144-adaptation-and-resilience-climate-change-2010-11.pdf
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/31721/12-p144-adaptation-and-resilience-climate-change-2010-11.pdf
+
+
+ 
+
+  22 
+
+                                           
+
+Non-market goods are important contributors to an individual’s welfare but are typically 
+ignored by national indicators like GDP because they are not traded in markets and have 
+no price. There are many examples of non-market goods. These could be environmental 
+amenities (eg air quality or climate) or individual circumstances (e.g. personal health, 
+marital status). To account for the full value of adaptation we need to understand how non-
+market goods are affected by climate change and how this impacts on our welfare.44   
+
+Cost effective adaptation decisions should account for whether climate change will 
+improve or deteriorate non-market goods and what their value is. To estimate the implicit 
+price of non-market goods it is necessary to employ techniques that derive the willingness 
+to pay for an improvement in quality or willingness to accept compensation for a reduction. 
+This allows the value of non-market goods to be expressed in monetary equivalents.45 
+These values should be incorporated in social cost-benefit analysis when choosing 
+between alternative adaptation actions. 
+
+It is also important to account for equity in decision-making for adaptation. Willingness to 
+pay for improvements to non-market goods is constrained by income and positively 
+correlated. Appropriate welfare weights should be incorporated to ensure those least able 
+to pay for non-market goods are still able to enjoy them. Furthermore, the long time 
+horizons associated with climate change means it is also important to consider the welfare 
+of future generations appropriately. 
+
+5. Future evidence needs 
+
+5.1. The macroeconomics of climate change  
+Defra has commissioned and recently published an appraisal of existing modelling 
+techniques that estimate the macroeconomic impacts of climate change and extreme 
+events with and without adaptation.46 Its purpose is to inform policymakers of the state of 
+current modelling techniques and recommend direction for future research. The report 
+develops a checklist of 9 criteria against which modelling techniques are assessed. 
+Recommendations are made on how to improve these techniques. This will help inform 
+policymakers of the advantages and limitations of employing particular macroeconomic 
+models of climate change. 
+
+
+ 
+
+44 By means of an example, climate change risks affecting ecosystem functionality and the quality of 
+environmental goods we are able to consume.  
+45 A review of specific techniques to value non-market goods is beyond the scope of this document.  For a 
+detailed discussion see Fujiwara, D. and Campbell, R. (2011) ‘Valuation techniques for social cost-benefit 
+analysis: stated preference, revealed preference and subjective well-being approaches’ available online at: 
+http://www.hm-treasury.gov.uk/d/green_book_valuationtechniques_250711.pdf  
+46 Vivid Economics, The macroeconomics of climate change, report prepared for Defra, May 2013 
+
+http://www.hm-treasury.gov.uk/d/green_book_valuationtechniques_250711.pdf
+
+
+ 
+
+  23 
+
+The report highlights that current modelling of climate change does not reflect state-of-the-
+art macroeconomics. In particular, they are only able to account for growth exogenously. 
+This means that economic growth is assumed to depend on external forces only, which 
+means that climate change is assumed to have no influence on growth. Accounting for 
+growth endogenously allows the model to determine growth based on the projected 
+impacts of climate change. Furthermore current modelling lacks account of financial 
+assets, public finance and sophisticated trade dimensions though these can theoretically 
+be incorporated. 
+
+Three main recommendations and way forward for the research project are given in Table 
+4 below. 
+
+Table 4.Recommendations of Vivid Economics (2013) 
+
+Recommendation Way Forward 
+
+There is some disconnect between 
+latest advances in academic research 
+and answers to relevant policy 
+questions 
+
+The next step is to develop areas of policy concern and 
+ascertain how they fit with the current academic 
+literature. Development of well-informed policy 
+questions by government is fundamental to stimulate 
+academic research which will impact policy.  
+
+Future modelling for adaptation needs to be based on 
+substantial, high quality bottom-up analysis. Of 
+particular importance is to understand better the 
+significance of indirect macroeconomic impacts. 
+
+We need to stimulate a fundamental 
+debate about modelling strategies 
+
+There is a trade-off against a single complex model 
+which could explore multiple policy questions and a 
+suite of simple models that seek to answer them 
+individually. 
+
+There remains concern about the 
+quality assurance of macroeconomic 
+models if they are to inform policy 
+
+These revolve around the underlying assumptions, 
+code and calibration data of modelling. This is crucial to 
+ensure any models implemented can stand up to public 
+scrutiny. 
+
+Source: Vivid Economics (2013) 
+
+5.2 Next steps 
+Adaptation is the central component of dealing with the impacts of climate change. It will 
+avoid unnecessary damage costs. The focus areas and programme actions identified in 
+
+
+ 
+
+
+  24 
+
+the NAP report are grounded in the current evidence we have on the risks and the 
+economic costs of climate change. 
+
+In many cases adaptation will be an automatic and natural response. Households will alter 
+observable behaviour such as consumption patterns. Organisations will alter factors of 
+production according to relative prices and the availability of resources. In these cases, no 
+intervention action is necessary and adaptation will be autonomous. 
+
+However, adaptation will also require concerted action: 
+
+Barriers to adaptation exist and could prevent an efficient level of adaptation 
+from taking place. Households, organisations and government need to be aware 
+of these barriers and take appropriate action to overcome them. Government 
+should develop its thinking on when intervention can in theory improve efficiency, 
+whether it is capable of improving efficiency and when it risks crowding out private 
+investment. 
+
+There is a need to understand better the value of improving adaptive capacity 
+in terms of reducing vulnerability to climate change. The varied nature of 
+households and organisations means that certain groups will be more vulnerable to 
+climate change and lack the capacity to adapt. Analysis could highlight the need to 
+intervene on grounds of equity (households) or because it provides significant risk 
+to economic growth (organisations).  
+
+Large evidence gaps still remain on the costs of inaction (or the benefits of 
+undertaking adaptation). Further research is required to understand the costs of 
+indirect/ second order and international impacts of climate change. Also, little is 
+known on climate change impacts if certain thresholds or tipping points are 
+reached. 
+
+Some costs and benefits are currently difficult to quantify and risk being 
+omitted completely. This could lead to inappropriate selection of adaptation 
+options or for no adaptation to be taken at all. This is particularly the case for ‘stock’ 
+adaptation measures where the time horizons are very long, need to be planned as 
+opposed to reactive and are subject to substantial uncertainty. Government needs 
+to ensure that iterative and flexible appraisal options are selected for long-term 
+investment decisions. 
+
+From the macroeconomic perspective there is a need to build a better 
+understanding of the value of adaptation to the UK. Achieving this requires a 
+comprehensive set of bottom-up analyses, quantification of indirect impacts and 
+appraisal of adaptation options. From this corresponding costs and benefits can be 
+estimated.  
+
+Further evidence is needed to understand the relationship between 
+adaptation and growth/productivity. Adaptation actions are inextricably linked 
+
+
+ 
+
+
+  25 
+
+with growth, whether through avoiding unnecessary damages or providing new 
+opportunities to improve productivity. However, evidence is currently limited on how 
+this will develop over time and against projected future climate change.  
+
+
+ 
+
+
+  26 
+
+
+ 
+
+Appendix 1: Supplementary material on 
+adaptive capacity 
+Adaptive capacity is a cross-cutting issue that is relevant to all 6 policy areas identified in 
+this analysis. It determines the ability of households, organisations and government to 
+undertake ‘planned’ adaptation.47 The nature of adaptive capacity is also dependent on 
+whether adaptation is better described in terms of a ‘flow’ or a ‘stock’. 
+
+Flow adaptation happens when benefits and costs occur simultaneously. It is more 
+likely to be reactive and autonomous. Short-run responses are likely to be limited to 
+changes in variable inputs. For example, in agriculture this could be switching 
+between available crop varieties. 
+
+
+ 
+
+Stock adaptation requires investment over the long-run to build up adaptation 
+capital stick. It is likely to require planning. This includes investments that provide a 
+stream of adaptation benefits over time. For example, sea walls protect coasts from 
+sea level rises for a number of years. It also includes long-term investment planning 
+such as national infrastructure which will need to be robust to future climate. 
+
+Table 5. Summary of features of high and low adaptive 
+capacity for households and organisations 
+
+Organisations and individuals features Description 
+
+                Higher adaptive capacity when...  
+
+Resources Good understanding of risks to resources 
+Organisations have in-house capability to 
+respond to climate change 
+
+Processes 
+
+Flexible planning and processes 
+embedded into decision-making 
+
+
+ 
+
+This can include flexibility of supply chains 
+and substitutability of suppliers and how 
+footloose and organisation is.   
+
+Partnerships and collaboration  Are voluntary organisations/ local 
+authorities in place to support community 
+resilience? 
+
+Operational planning already accounts Clear process of risk management is in 
+
+                                            
+
+47 Planned adaptation is anticipatory and reflects conscious concerns about the risks of climate change. In 
+some cases this can be directly influenced governments or collectives as a public policy initiative (ECR 
+Synthesis Report, 2013).  Examples include the Heatwave Plan for England which outlines actions to ensure 
+health and social sectors are prepared. Alternatively, adaptation may be reactive. This is a natural response 
+to climatic stimuli without the need for direct intervention.  For example, during a heatwave people may buy 
+air conditioning units or make more fundamental behaviour choices such as investment in clothing. 
+
+
+ 
+
+
+  27 
+
+for risks similar to those expected to 
+increase from climate change  
+
+place 
+
+Access to risk spreading mechanisms Availability of insurance to offset risk 
+
+Organisation 
+
+Agents of change or champions Community members setting up support 
+groups 
+
+Strong leadership and culture Ability to influence business partners, 
+suppliers  
+
+Support networks Provide support to small organisations 
+and individuals who struggle to plan in the 
+long-term 
+
+                             Lower adaptive capacity when... 
+
+Resources 
+
+Lack of awareness Not aware of risks of climate change and 
+a lack of willingness to accept the nature 
+of a risk  
+
+Lack of financial support and skills Individuals of low socio-economic status 
+and small/ medium-sized organisations 
+
+Lack of specialised skills and training Ability to understand and respond to 
+climate change impacts 
+
+Poorly targeted information 
+Overwhelm or provide insufficient 
+information to individuals/organisations  
+
+Processes 
+
+Limited ability to influence policy 
+making 
+
+Restrictions on adaptive actions that can 
+be taken such as renting premises from 
+landlords.  
+
+Lack of engagement with vulnerable 
+groups 
+
+Action needed to identify and aid to 
+groups who are most vulnerable to 
+climate change.   
+
+Organisation 
+
+Where diversity of responsibility exists 
+
+
+ 
+
+Multiple organisations facing different 
+objectives – situations where adaptation 
+provides a social benefit but lacks private 
+incentive   
+
+Competing demands arise from 
+different users in the same catchment 
+area 
+
+Multiple sectors all requiring the same 
+factor input e.g. water needed by farming, 
+households and industry. 
+
+Source: Adapted from ECR 
+
+Table 6. Summary of features of high and low adaptive 
+capacity at sector level 
+
+Sectoral characteristic Adaptive capacity 
+
+Higher adaptive capacity in sectors with... 
+Low complexity Few organisations making decisions and 
+
+respond to a single regulator, such as 
+oligopolistic/ natural monopoly markets 
+e.g. power sector 
+
+Co-ordination between 
+organisations  
+
+Operational planning procedures in place 
+e.g. healthcare/ hospitals 
+
+
+ 
+
+
+  28 
+
+Regulated sectors  Where regulatory requirements take due 
+account of current and projected climate 
+risks 
+
+Decision lifetimes are short  Short lifetimes make decisions more 
+flexible.  Allow for regular review and 
+evolution of decisions and account for 
+increased knowledge of climate risks over 
+time. 
+
+Prior experience Already experienced impacts similar to 
+those expected from climate change e.g. 
+extreme weather conditions. 
+
+Lower adaptive capacity in sectors with... 
+
+High complexity Many interacting organisations with 
+diverse requirements, roles and 
+responsibilities and where sector is 
+fragmented. 
+
+Interdependency of adaptive  
+capacity with others 
+
+Sectors where there is a reliance on the 
+actions of others such as rental housing 
+and social care. 
+
+Interdependency of operations Limited ability to manage/ control risks. 
+This could be because of a dependency 
+on public infrastructure and provision of 
+services 
+
+Reliance on the natural 
+environment and management of 
+variation in weather  
+
+Leads to short-term focus in business 
+planning. Constraints of natural 
+environment can inhibit ability to respond 
+e.g. impacts of drought/ floods 
+
+Low activity levels but with long 
+decision lifetimes 
+
+Fewer opportunities to make decisions 
+e.g. housing, tree planting, land-use 
+change, major infrastructure investments 
+
+Decisions to address one risk can 
+increase vulnerability to another 
+
+Failure to consider all economic costs 
+(and benefits) of adaptation in decision 
+making.  
+
+Source: Adapted from ECR 
+
+
+ 
+
+
+  29 
+
+
+ 
+
+Appendix 2. Advantages and disadvantages of 
+each appraisal methodology 
+Methodology Brief Description Advantages Disadvantages 
+Multi-Criteria Analysis (MCA) Part or wholly qualitative-based 
+
+approach, which provides a 
+‘ranking’ of initiatives based on 
+monetary and non-monetary 
+criteria 
+
+Allows appraisal to be 
+conducted in the absence of/ 
+limited amount of quantitative 
+data 
+
+
+ 
+
+Limited to relative 
+assessments of alternative 
+policy options 
+
+Outputs are appraisal-specific 
+– i.e. cannot be generalised 
+more widely 
+
+Cost-Effectiveness Analysis (CEA) Quantitative approach which 
+identifies the policy option 
+providing a specific 
+output/benefit at the lowest cost 
+
+Useful when a specific 
+output/objective is needed to 
+be met 
+
+Can be used when 
+comprehensive quantitative 
+cost data is available for 
+monetising costs but not 
+benefits 
+
+Not applicable when a single 
+initiative is being appraised, or 
+when considering multiple 
+initiatives providing different 
+levels of the required benefit 
+
+Implicitly ignores potentially 
+significant co-benefits 
+
+Scenario-Based Cost-Benefit 
+Analysis (SBCBA) 
+
+Quantitative approach which 
+assesses costs and benefits (in 
+monetary form) across different 
+scenarios/states of the world 
+
+Accounts for uncertainty 
+surrounding flood risk without 
+being computationally or data 
+intensive 
+
+Provides numeric outputs, 
+allowing for cardinal 
+comparisons between 
+initiatives 
+
+Easily understood for non-
+technical audiences. 
+
+Allows for the application of 
+risk-based rules 
+
+Potentially difficult to gain 
+consensus on the appropriate 
+scenarios to use 
+
+Risk of not capturing the 
+extent of uncertainty 
+surrounding climate change, 
+especially under ‘deep 
+uncertainty’ 
+
+Robust Decision Making (RDM) Quantitative approach which 
+assesses the proposed 
+initiatives across all plausible 
+states of the world, and identifies 
+the most robust initiative across 
+these 
+
+Captures deep uncertainty – 
+leaves ‘no stone unturned’ 
+
+Provides numeric outputs 
+
+Provides a clear picture of 
+which initiatives are optimal in 
+different states of the world 
+
+Can be computationally and 
+data intensive 
+
+Potentially difficult to interpret 
+for non-expert audiences 
+
+Value function for deriving 
+costs and benefits needs to be 
+well calibrated 
+
+Ranges of plausible parameter 
+values need to be known 
+
+Real Options Analysis (ROA) Extension of CBA which 
+estimates the ‘option value’ 
+associated with each initiative 
+i.e. the option to delay or adjust 
+in the future.  Calculates the 
+NPV of each initiative given the 
+particular actions that could be 
+taken given different states of 
+the world being realised, and the 
+probabilities of these occurring. 
+
+Accounts for learning about 
+the nature or extent of flood 
+risk going forward.  – captures 
+the value in delaying or 
+adjusting a particular initiative 
+
+Useful when comparing large 
+irreversible options with 
+smaller-scale flexible options. 
+
+Can be computationally or 
+data intensive – requires the 
+assignment of probabilities to 
+scenarios at various future 
+time periods 
+
+– Source: Frontier Economics
+
+
+
+
+	1. Economics of the National Adaptation Programme
+	1.1. Summary
+	1.2. Policy implications
+
+	2. What is the role for government in adaptation?
+	2.1. Private action and government intervention
+	2.2. Uncertainty
+	Table 1: Major sources of climate change uncertainty for decision makers 
+
+	2.3. Barriers to adaptation
+	2.4. Categorising adaptation
+	Table 2. Climate change adaptation analysed by policy areas
+
+	2.5. Adaptive capacity
+
+	3. The costs and benefits of adaptation
+	3.1. Local level costs and benefits
+	Figure 1. Framework for gathering data and selecting appraisal methodology
+
+	3.2. Overall costs and benefits of adaptation
+	Table 3. ECR and illustrative future Impacts
+	Figure 2. Probability densities of the estimated range of equilibrium climate sensitivity from various studies (the equilibrium climate sensitivity is the expected global surface temperature change under a sustained doubling of atmospheric carbon dioxide)
+
+
+
+
+	4. Growth and climate change adaptation
+	4.1 Adaptation protects growth and allocative efficiency 
+	4.2 Other economic impacts of adaptation 
+	4.3. Economic growth and social welfare
+
+	5. Future evidence needs
+	5.1. The macroeconomics of climate change 
+	Table 4.Recommendations of Vivid Economics (2013)
+
+	5.2 Next steps
+
+	Appendix 1: Supplementary material on adaptive capacity
+	Table 5. Summary of features of high and low adaptive capacity for households and organisations
+	Table 6. Summary of features of high and low adaptive capacity at sector level
+
+	Appendix 2. Advantages and disadvantages of each appraisal methodology
+
+
+
+

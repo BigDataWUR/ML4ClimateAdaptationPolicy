@@ -1,0 +1,2173 @@
+
+
+                   1  
+
+
+Immigration Act 2014 
+
+
+ 
+
+Marriage and civil partnership referral 
+and investigation scheme: statutory 
+guidance for Home Office staff 
+
+
+  
+
+March 2015 
+
+
+   
+
+March 2015 
+
+
+ 2  
+
+
+Contents 
+
+
+ 
+
+Contents ..................................................................................................................... 2 
+
+Section 1.0 – Introduction ........................................................................................... 3 
+
+1.1 Purpose of this guidance ............................................................................. 4 
+
+Section 2.0 – The investigation decision .................................................................... 5 
+
+2.1 Condition A .................................................................................................. 5 
+
+2.2 Condition B .................................................................................................. 7 
+
+2.3 Making the investigation decision ................................................................ 9 
+
+2.4 Giving notice of the investigation decision ................................................. 10 
+
+2.5 A decision to investigate ............................................................................ 10 
+
+2.6 Calculating the 28-day or 70-day notice period .......................................... 12 
+
+Section 3.0 – Conduct of investigations ................................................................... 13 
+
+3.1 Purpose of investigation ............................................................................. 14 
+
+3.2 Means of investigation ............................................................................... 14 
+
+3.3 Providing information, evidence or photographs ........................................ 15 
+
+3.4 Interviews: general ..................................................................................... 16 
+
+3.5 Arranging an interview ............................................................................... 18 
+
+3.6 Rearranging an interview ........................................................................... 19 
+
+3.7 Interviews at a relevant party’s home ......................................................... 20 
+
+3.8 Interviews at Home Office premises in the UK ........................................... 20 
+
+3.9 Interviews at Home Office premises outside the UK .................................. 20 
+
+3.10 Interviews by telephone, by video-telecommunications link or over the 
+internet where the relevant party is not at Home Office premises ........................ 21 
+
+3.11 Interviews while detained ........................................................................... 21 
+
+3.12 Notifying a relevant party that they have failed to comply with a requirement 
+  ................................................................................................................... 22 
+
+Section 4.0 – Compliance with an investigation ....................................................... 23 
+
+4.1 Deciding the compliance question ............................................................. 23 
+
+4.2 Reasonable excuse for non-compliance .................................................... 24 
+
+4.3 The compliance decision............................................................................ 24 
+
+
+  
+
+March 2015 
+
+
+ 3  
+
+
+Section 1.0 – Introduction  
+
+
+ 
+
+Part 4 of the Immigration Act 2014 (the 2014 Act) reforms the process for giving 
+notice of marriage or civil partnership to give the Home Office a much stronger 
+platform for effective, systematic action to disrupt and deter sham marriages and civil 
+partnerships and prevent participants from gaining an immigration advantage.
+
+
+1  
+
+From 2 March 2015, the 2014 Act extended the marriage and civil partnership notice 
+period from 15 days to 28 days for all couples in England and Wales marrying 
+following civil preliminaries or forming a civil partnership, and required all couples 
+involving a non-European Economic Area (non-EEA) national who wish to marry in 
+the Anglican Church in England and Wales to complete civil preliminaries and give 
+notice at a register office and be subject to the 28-day notice period.  
+
+
+ 
+
+From 2 March 2015, the marriage and civil partnership notice period in Scotland and 
+in Northern Ireland was extended to 28 days for all couples, under changes 
+implemented by the Scottish Government and the Northern Ireland Executive to 
+marriage and civil partnership laws in Scotland and Northern Ireland.   
+
+
+ 
+
+From 2 March 2015, the 2014 Act, together with secondary legislation for Scotland
+
+
+2  
+
+and Northern Ireland
+
+
+3
+
+, also introduced a referral and investigation scheme for 
+
+proposed marriages and civil partnerships across the UK involving a non-EEA 
+national who could benefit in immigration terms. All proposed marriages and civil 
+partnerships in the UK involving a non-EEA national with limited or no immigration 
+status in the UK, or who does not provide specified evidence that they are exempt 
+from the scheme
+
+
+4
+
+, are to be referred to the Secretary of State by the registration 
+
+official.
+
+
+5   
+
+The Secretary of State will assess all referrals against intelligence- and evidence-
+based risk profiles and other information to identify suspect proposed marriages and 
+civil partnerships, and then consider in these cases whether there are reasonable 
+grounds to suspect a sham marriage or civil partnership. Where the Secretary of 
+State has reasonable grounds to suspect a sham and at least one of the parties is 
+not exempt from the scheme, she may decide to investigate whether the marriage or 
+civil partnership is a sham. Notification of that decision to the relevant registration 
+official will have the effect of extending the notice period from 28 days to 70 days, 
+which will allow the Home Office to investigate and take appropriate enforcement or 
+
+                                            
+
+
+1
+
+ Further information about the Immigration Act 2014 can be found at 
+
+https://www.gov.uk/government/collections/immigration-bill 
+
+
+2
+
+ The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 
+
+2015/396): http://www.legislation.gov.uk/id/uksi/2015/396 
+
+
+3
+
+ The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and 
+
+Miscellaneous Provisions) Order 2015 (S.I. 2015/395): http://www.legislation.gov.uk/id/uksi/2015/395 
+
+
+4
+
+ To be exempt from referral the person must be a British citizen; an EEA or Swiss national; or a non-EEA 
+
+national who has provided the registration official with the specified evidence of an EU right of permanent 
+
+residence in the UK, of exemption from immigration control or settled status in the UK, or of a valid marriage 
+
+or civil partnership visitor visa or a valid fiancé(e) or proposed civil partner visa.    
+
+
+5
+
+ Further information about these changes is available at 
+
+https://www.gov.uk/marriages-civil-partnerships/giving-notice-at-your-local-register-office  
+
+
+ 
+
+https://www.gov.uk/government/collections/immigration-bill
+http://www.legislation.gov.uk/id/uksi/2015/396
+http://www.legislation.gov.uk/id/uksi/2015/395
+https://www.gov.uk/marriages-civil-partnerships/giving-notice-at-your-local-register-office
+
+
+
+
+March 2015 
+
+
+ 4  
+
+
+casework action where a sham is established. A couple will be unable to get married 
+or enter into a civil partnership on the basis of that notice if they do not comply with 
+an investigation under the scheme. 
+
+
+ 
+
+1.1 Purpose of this guidance 
+
+
+ 
+
+This guidance has been published by the Secretary of State to assist Home Office 
+staff (including “decision makers” and “investigation officers”) responsible for the 
+operation of the referral and investigation scheme under the 2014 Act. They must 
+have regard to this guidance under: 
+
+
+ 
+
+ Section 48(6) – in deciding whether to investigate a proposed marriage or civil 
+partnership referred to the Secretary of State under the scheme (“the 
+investigation decision”).  
+
+
+ 
+
+ Section 50(2) – in conducting an investigation under the scheme.  
+
+
+ 
+
+ Section 50(6) – in deciding whether or not each of the parties to a proposed 
+marriage or civil partnership subject to an investigation under the scheme has 
+complied with that investigation (“the compliance decision”).  
+
+
+ 
+
+
+March 2015 
+
+
+ 5  
+
+
+Section 2.0 – The investigation decision 
+
+
+ 
+
+Where a registration official refers a proposed marriage or civil partnership to the 
+Secretary of State under the scheme, she must decide under section 48(2) of the 
+2014 Act whether to investigate whether the proposed marriage or civil partnership is 
+a sham.  
+
+
+ 
+
+Under sections 24 and 24A of the Immigration and Asylum Act 1999, as amended by 
+section 55 of the 2014 Act, a sham marriage or civil partnership is one in which:  
+
+
+ 
+
+ one or both of the parties is not a British citizen or an EEA or Swiss national;  
+
+
+ 
+
+ there is no genuine relationship between the parties; and  
+
+
+ 
+
+ either or both of the parties enter into the marriage or civil partnership for the 
+purpose of circumventing UK immigration controls, including under the 
+Immigration Rules or the Immigration (EEA) Regulations 2006.  
+
+
+ 
+
+Under section 48(3) of the 2014 Act, the Secretary of State may not decide to 
+investigate whether a proposed marriage or civil partnership referred under the 
+scheme is a sham unless conditions A and B are met.  
+
+
+ 
+
+Condition A is met if the Secretary of State is satisfied that only one or neither of the 
+parties to the proposed marriage or civil partnership is an exempt person.  
+
+
+ 
+
+Condition B is met if the Secretary of State has reasonable grounds for suspecting 
+that the proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+Section 48 does not require conditions A and B to be considered in any particular 
+order, nor does it require a condition to be considered if the other condition is not 
+met. Home Office staff may therefore conduct the checks necessary to establish 
+whether the parties to a proposed marriage or civil partnership referred under the 
+scheme are exempt persons before or after commencing or completing their 
+consideration of whether there are reasonable grounds to suspect that the proposed 
+marriage or civil partnership is a sham.  
+
+
+ 
+
+2.1 Condition A 
+
+
+ 
+
+Condition A is met if the Secretary of State is satisfied that only one or neither of the 
+parties to the proposed marriage or civil partnership is an exempt person.  
+
+
+ 
+
+Under section 49(1) of the 2014 Act, an exempt person: 
+
+
+ 
+
+ Is a relevant national, i.e. under section 62(1) is a British citizen or an EEA or 
+Swiss national.  
+
+
+ 
+
+ Has the appropriate immigration status, i.e. under section 49(2): 
+
+
+ 
+
+- has an EU right of permanent residence in the UK.  
+
+
+
+
+March 2015 
+
+
+ 6   
+
+- is exempt from immigration control, as defined in paragraph 3 of the 
+Proposed Marriages and Civil Partnerships (Meaning of Exempt Persons and 
+Notice) Regulations 2015 (S.I. 2015/122), e.g. has the right of abode in the 
+UK under section 2(1)(b) of the Immigration Act 1971, is a member of a 
+diplomatic mission or their family member, or is a member of HM forces or of 
+Commonwealth forces undergoing training or visiting forces.
+
+
+6   
+
+- is settled in the UK within the meaning of section 33(2A) of the Immigration 
+Act 1971, i.e. has Indefinite Leave to Enter or Indefinite Leave to Remain.  
+
+
+ 
+
+ Holds a relevant visa in respect of the proposed marriage or civil partnership, 
+as defined in paragraph 4 of the Proposed Marriages and Civil Partnerships 
+(Meaning of Exempt Persons and Notice) Regulations 2015 (S.I. 2015/122), 
+i.e. 
+
+
+ 
+
+-  a marriage or civil partnership visitor visa granted under the Immigration 
+Rules.  
+
+
+ 
+
+- a fiancé(e) or proposed civil partner visa or leave granted under or outside 
+the Immigration Rules.  
+
+
+ 
+
+A couple in which both parties are exempt persons may be referred to the Secretary 
+of State by the registration official where, for example, one or both of those persons 
+does not provide the registration official with specified evidence that they are an 
+exempt person. Such evidence is specified:  
+
+
+ 
+
+ For persons giving notice in England and Wales, by paragraphs 5 and 6 of the 
+Referral of Proposed Marriages and Civil Partnerships Regulations 2015 (S.I. 
+2015/123)
+
+
+7
+
+; and  
+
+
+ 
+
+ For persons giving notice in Scotland or Northern Ireland, by paragraphs 8 
+and 9 of the Sham Marriage and Civil Partnership (Scotland and Northern 
+Ireland) (Administrative) Regulations 2015 (S.I. 2015/404).
+
+
+8    
+
+The decision maker must satisfy themselves, based on checks of Home Office 
+records, that only one or neither of the parties is an exempt person before 
+deciding to investigate a proposed marriage or civil partnership referred to the 
+Secretary of State under the scheme.  
+
+
+     
+
+
+                                            
+
+
+6
+
+ http://www.legislation.gov.uk/id/uksi/2015/122 
+
+
+7
+
+ http://www.legislation.gov.uk/id/uksi/2015/123 
+
+
+8
+
+ http://www.legislation.gov.uk/id/uksi/2015/404 
+
+http://www.legislation.gov.uk/id/uksi/2015/122
+http://www.legislation.gov.uk/id/uksi/2015/123
+http://www.legislation.gov.uk/id/uksi/2015/404
+
+
+
+
+March 2015 
+
+
+ 7  
+
+
+2.2 Condition B 
+
+
+ 
+
+Condition B is met if the Secretary of State has reasonable grounds for suspecting 
+that the proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+Proposed marriages and civil partnerships referred by registration officials to the 
+Secretary of State under the scheme will be assessed against immigration records 
+and against intelligence- and evidence-based risk profiles. Account will also be taken 
+of reports from registration officials to the Secretary of State, under sections 24 and 
+24A of the 1999 Act, of suspected sham marriages and civil partnerships.  
+
+
+ 
+
+This process, which will be mainly automated, will be used to identify proposed 
+marriages and civil partnerships in which additional scrutiny, by a manual 
+assessment undertaken by the decision maker, is warranted in order to consider 
+whether there are reasonable grounds to suspect that the proposed marriage or civil 
+partnership is a sham.  
+
+
+ 
+
+This process will also enable the Home Office to identify quickly cases considered to 
+be of low or no risk of being a sham so that the couple and the relevant registration 
+official can be informed that, if the latter is satisfied that there is no legal reason to 
+prevent it, the proposed marriage or civil partnership can proceed after the expiry of 
+the 28-day notice period.   
+
+
+ 
+
+The intelligence- and evidence-based risk profiles will be drawn from recent section 
+24/24A reports of suspected shams submitted by registration officials, recent sham-
+based enforcement and prosecution cases and recent applications refused on the 
+basis that the relationship is not genuine. The risk profiles will be kept under review 
+and may change over time, but from 2 March 2015 the factors they will reflect will 
+include whether either party to the proposed marriage or civil partnership:  
+
+
+ 
+
+ Is an immigration overstayer or absconder or otherwise in breach of the 
+conditions of their leave.   
+
+
+ 
+
+ Entered the UK illegally, or has been removed from the UK and should not be 
+here.  
+
+
+ 
+
+ Has been convicted of a criminal offence or there is other evidence of links to 
+criminality.  
+
+
+ 
+
+ Is recorded as deceased.  
+
+
+ 
+
+ Is currently or has previously been the subject of a section 24/24A report.  
+
+
+ 
+
+ Has previously obtained leave, or sought to do so, on the basis of deception 
+or of false or forged documents.  
+
+
+ 
+
+ Has an outstanding immigration application based on their relationship with 
+another spouse/partner, or has previously sponsored, or been sponsored by, 
+another spouse/partner to come to or remain in the UK. This factor may also 
+
+
+
+
+March 2015 
+
+
+ 8  
+
+
+be linked to a previous marriage or civil partnership which, if not dissolved, 
+would be a legal barrier to the proposed marriage or civil partnership of which 
+the relevant registration official should be informed by the Home Office.     
+
+
+ 
+
+ Has a factor(s) in their immigration history which, based on a current analysis 
+of immigration intelligence, casework and enforcement operations drawn up 
+and quality assured according to Director General-approved procedures, 
+otherwise gives rise to a reasonable ground to suspect that the proposed 
+marriage or civil partnership may be a sham.  
+
+
+ 
+
+The presence of one or more of these factors will not mean that the proposed 
+marriage or civil partnership will automatically be investigated under the scheme. It 
+may mean that additional scrutiny is warranted in order to consider whether there are 
+reasonable grounds to suspect that the proposed marriage or civil partnership is a 
+sham.  
+
+
+ 
+
+That additional scrutiny will involve a manual assessment, undertaken by a decision 
+maker trained to undertake this function, of whether there are reasonable grounds to 
+suspect that the proposed marriage or civil partnership is a sham. In undertaking this 
+assessment the decision maker must take into account all the information available 
+to them about both parties and the proposed marriage or civil partnership. The 
+assessment should be informed, but not solely determined, by the presence of one 
+or more of the factors mentioned above. The decision maker must consider the 
+available information as a whole on a case-by-case basis in determining whether 
+there are reasonable grounds to suspect that the proposed marriage or civil 
+partnership is a sham.  
+
+
+ 
+
+The risk profiles used to inform consideration of whether there are reasonable 
+grounds to suspect that the proposed marriage or civil partnership is a sham will not 
+take account of the nationality of either party. Should the regular review of the risk 
+profiling indicate that it would be strengthened by the inclusion of nationality, 
+consideration will be given, in light of the detail of the process to be put in place, as 
+to whether a Ministerial authorisation is necessary under Schedule 3, Part 4, 
+paragraph 17(4)(a) of the Equality Act 2010.  
+
+
+ 
+
+The decision maker must be satisfied that there are reasonable grounds for 
+suspecting that it is a sham before deciding to investigate a proposed 
+marriage or civil partnership referred to the Secretary of State under the 
+scheme.  
+
+
+ 
+
+Where the Home Office identifies that a proposed marriage or civil partnership 
+involves an immigration offender, it may take appropriate enforcement action against 
+that person, whether or not there are reasonable grounds for suspecting that the 
+proposed marriage or civil partnership is a sham and whether or not it decides to 
+investigate the proposed marriage or civil partnership under the scheme.  
+
+
+   
+
+March 2015 
+
+
+ 9  
+
+
+2.3 Making the investigation decision 
+
+
+ 
+
+In respect of every proposed marriage or civil partnership referred by a registration 
+official to the Secretary of State under the scheme, she must decide whether to 
+investigate whether the proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+Where the decision maker is satisfied that:  
+
+
+ 
+
+ Only one or neither of the parties to the proposed marriage or civil partnership 
+is an exempt person, i.e. that condition A is met; and 
+
+
+ 
+
+ There are reasonable grounds for suspecting that the proposed marriage or 
+civil partnership is a sham, i.e. that condition B is met,  
+
+
+ 
+
+the decision maker may decide that the Home Office will investigate whether the 
+proposed marriage or civil partnership is a sham. Notification of that decision to the 
+relevant registration official will have the effect of extending the notice period from 28 
+days to 70 days. A decision to investigate whether a proposed marriage or civil 
+partnership is a sham will be made by an Executive Officer (or equivalent) or more 
+senior grade.    
+
+
+ 
+
+Under section 48 of the 2014 Act the Secretary of State is not required to decide to 
+investigate a proposed marriage or civil partnership where conditions A and B are 
+met. In deciding whether to do so, the decision maker may take into account matters 
+of operational prioritisation and workflow management within the resources available 
+at the time the decision is made.  
+
+
+ 
+
+Under section 48, where conditions A and B are met, the Secretary of State is not 
+required to decide to investigate those proposed marriages or civil partnerships in 
+which condition B is met by the greatest margin (amongst those referred under the 
+scheme on a particular day or within a particular timeframe). In deciding whether to 
+investigate a proposed marriage or civil partnership in which conditions A and B are 
+met, the decision maker may take into account an operational assessment of the 
+cases meeting those conditions where investigation may have the optimum impact in 
+terms of countering sham marriages and civil partnerships and related immigration 
+abuse. That operational assessment must be based on a current analysis of 
+immigration intelligence, casework and enforcement operations drawn up and quality 
+assured according to Director General-approved procedures.  
+
+
+ 
+
+Under section 48 the decision maker must make the decision whether or not to 
+investigate and give notice of that decision to both parties to the proposed marriage 
+or civil partnership, and to the relevant registration official, within the 28-day notice 
+period.  
+
+
+      
+
+
+March 2015 
+
+
+ 10  
+
+2.4 Giving notice of the investigation decision 
+
+
+ 
+
+How notice of the investigation decision may be given and when such notice is 
+presumed to have been received (unless the contrary is proved) is specified:  
+
+
+ 
+
+ For persons giving notice in England and Wales, by paragraphs 5 to 7 of the 
+Proposed Marriages and Civil Partnerships (Meaning of Exempt Persons and 
+Notice) Regulations 2015 (S.I. 2015/122)
+
+
+9
+
+; and  
+
+
+ 
+
+ For persons giving notice in Scotland or Northern Ireland, by paragraphs 4 to 
+6 of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) 
+(Administrative) Regulations 2015 (S.I. 2015/404).
+
+
+10    
+
+2.5 A decision to investigate 
+
+
+ 
+
+Under section 51(1) of the 2014 Act, where the Secretary of State decides to 
+investigate whether a proposed marriage or civil partnership referred under the 
+scheme is a sham, the notice of this decision given to both parties under section 48 
+will set out the requirements with which they must comply as part of the investigation 
+and the consequences of not doing so.   
+
+
+ 
+
+In particular, that section 48 notice will set out: 
+
+
+ 
+
+ Requirements with which the party must comply as part of the investigation, 
+and it may specify how they must comply with them. The requirements which 
+may be imposed are those specified in the Proposed Marriages and Civil 
+Partnerships (Conduct of Investigations, etc) Regulations 2015 (S.I. 
+2015/397).
+
+
+11
+
+ They include for example a requirement to:  
+
+
+ 
+
+- Make contact with a particular team in a particular way within a particular 
+time period, e.g. to arrange for an interview to take place by a particular date.  
+
+
+ 
+
+- Be interviewed at home, at Home Office premises or by telephone.  
+
+
+ 
+
+- Provide information, evidence or photographs.    
+
+
+ 
+
+ That the party must comply with such a requirement, and in any manner 
+specified, if subsequently notified of it by the Secretary of State, orally or in 
+writing.  
+
+
+ 
+
+ That the proposed marriage or civil partnership is now subject to a notice 
+period of 70 days (not 28 days) and the date on which that period will end.  
+
+
+   
+
+                                            
+
+
+9
+
+ http://www.legislation.gov.uk/id/uksi/2015/122 
+
+
+10
+
+ http://www.legislation.gov.uk/id/uksi/2015/404 
+
+
+11
+
+ http://www.legislation.gov.uk/id/uksi/2015/397 
+
+http://www.legislation.gov.uk/id/uksi/2015/122
+http://www.legislation.gov.uk/id/uksi/2015/404
+http://www.legislation.gov.uk/id/uksi/2015/397
+
+
+
+
+March 2015 
+
+
+ 11  
+
+ That, within that 70-day period, the Secretary of State must decide whether or 
+not each of the parties has complied with the investigation (the “compliance 
+question”) and give notice of that decision to the parties and to the relevant 
+registration official. 
+
+
+ 
+
+ Prescribed information about the investigation, as prescribed in paragraph 18 
+of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, 
+etc) Regulations 2015, which is to the effect that:  
+
+
+ 
+
+- The Secretary of State may decide that a relevant party who has failed, 
+without reasonable excuse, to comply with a relevant requirement, as set out 
+in the section 48 notice or in any subsequent notification, has failed to comply 
+with the investigation.   
+
+
+ 
+
+- Where the Secretary of State decides that a relevant party has (or that both 
+have) failed to comply with the investigation and gives both parties and the 
+relevant registration official notice of that decision within the 70-day period, 
+the parties will not be able to marry or enter into a civil partnership on the 
+basis of the notice given. They must give notice again if they still wished to do 
+
+
+so.  
+
+- Where the Secretary of State determines, whether before or after it takes 
+place, that the marriage or civil partnership is a sham, the Secretary of State 
+or an immigration officer may take immigration enforcement action where 
+appropriate against either relevant party (or both).  
+
+
+ 
+
+- Where the Secretary of State determines, whether before or after it takes 
+place, that the marriage or civil partnership is a sham, the Secretary of State 
+may refuse an application made by either relevant party under the 
+Immigration Rules or the Immigration (European Economic Area) Regulations 
+2006 to stay in the UK on the basis of their relationship with the other relevant 
+party. A refusal of an application on these grounds will be without prejudice to 
+the refusal of the application on any other basis.   
+
+
+ 
+
+In addition, where the Secretary of State decides to investigate whether a proposed 
+marriage or civil partnership referred under the scheme is a sham, the section 48 
+notice of this decision given to both parties will inform them of the requirement to 
+notify the Secretary of State of any change during the period of the investigation in 
+the usual address of either party and to provide specified evidence of this. These 
+requirements arise under paragraphs 8 and 9 of the Referral of Proposed Marriages 
+and Civil Partnerships Regulations 2015 (for persons giving notice in England and 
+Wales) and under paragraphs 11 and 12 of the Sham Marriage and Civil Partnership 
+(Scotland and Northern Ireland) (Administrative) Regulations 2015 (for persons 
+giving notice in Scotland or Northern Ireland).   
+
+
+ 
+
+For persons giving notice in England and Wales, that section 48 notice will also 
+inform both parties of the requirement to notify the Secretary of State of any change 
+in the UK contact address of either party if they have provided one, and to notify the 
+Secretary of State of a UK contact address if the usual address of either party 
+changes to an address outside the UK.  
+
+
+
+
+March 2015 
+
+
+ 12   
+
+Where the Secretary of State decides under section 48 of the 2014 Act not to 
+investigate whether a proposed marriage or civil partnership referred under the 
+scheme is a sham, the section 48 notice given to both parties and the relevant 
+registration official will enable the marriage or civil partnership to take place after the 
+28 day notice period, provided that the registration official is satisfied that there is no 
+legal reason why they cannot issue or complete the required certificate or schedule.  
+
+
+ 
+
+A decision by the Secretary of State not to investigate a proposed marriage or civil 
+partnership does not constitute a determination as to the genuineness of the 
+relationship on which it is based. If the marriage or civil partnership takes place, any 
+decision taken on an application under the Immigration Rules or the Immigration 
+(European Economic Area) Regulations 2006 to stay in the UK which is made on the 
+basis of the marriage or civil partnership will continue to involve an assessment by 
+the Home Office of the genuineness of the couple’s relationship.   
+
+
+ 
+
+2.6 Calculating the 28-day or 70-day notice period 
+
+The date on which the 28-day or 70-day notice period commences will vary 
+according to the part of the UK in which notice was given:  
+
+
+ 
+
+ Marriage Civil Partnership 
+
+England and Wales 
+
+
+ 
+
+Day after notice entered in 
+marriage notice book 
+
+
+ 
+
+Day after notice is 
+recorded in register 
+
+Scotland Day after receipt of the 
+notice 
+
+Day after notice publicised 
+(which will be “on receipt”) 
+
+
+ 
+
+Northern Ireland 
+
+
+ 
+
+Day notice is entered in 
+the marriage notice book 
+(which will be on receipt of 
+both notices) 
+
+
+ 
+
+Day notice is recorded in 
+the civil partnership notice 
+book (which will be on 
+receipt of both notices) 
+
+
+ 
+
+In Scotland, where the parties to a proposed marriage or civil partnership referred 
+under the scheme have given notice separately, a different 28-day or 70-day notice 
+period may apply to each party. To comply with sections 48(9) and 50(7) of the 2014 
+Act, decision makers should ensure that they notify the parties and the relevant 
+registration official of the investigation decision within the 28-day notice period of the 
+party whose notice was first received and, where relevant, of the compliance 
+decision within the 70-day notice period of the party whose notice was first received. 
+
+
+
+
+March 2015 
+
+
+ 13  
+
+Section 3.0 – Conduct of investigations 
+
+
+ 
+
+Where the Secretary of State decides to investigate whether a proposed marriage or 
+civil partnership referred under the scheme is a sham, the investigation must be 
+conducted in accordance with the Proposed Marriages and Civil Partnerships 
+(Conduct of Investigations, etc) Regulations 2015 (S.I. 2015/397).
+
+
+12  
+
+When carrying out such an investigation on behalf of the Secretary of State, the 
+investigation officer may make such enquiries as they think fit for the purpose of 
+determining whether the proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+As part of the investigation each party may be required to provide information or 
+evidence about in particular: 
+
+
+ 
+
+ Themselves and about the other party. 
+
+
+ 
+
+ Their relationship with the other party.  
+
+
+ 
+
+ Their living arrangements and those of the other party.  
+
+
+ 
+
+ Their future plans and those of the other party.  
+
+
+ 
+
+This guidance sets out how an investigation into a proposed marriage or civil 
+partnership should be conducted by the investigation officer for the purpose of 
+establishing whether it is a sham, including: 
+
+
+ 
+
+ The methods of investigation that can be used.  
+
+
+ 
+
+ The time periods relevant to the conduct of the investigation.  
+
+
+ 
+
+ The procedures and safeguards applicable to each investigation method.  
+
+
+ 
+
+The investigation will focus on the genuineness of the relevant parties’ relationship 
+and on determining whether the proposed marriage or civil partnership is a sham. It 
+will often involve the relevant parties being required to make an initial contact with 
+the Home Office, to arrange an interview and/or provide further information or 
+evidence. The requirements with which the relevant parties will be asked to comply 
+will be geared by the investigation officer so as to:  
+
+
+ 
+
+ Enable them to conduct the investigation, and enable a decision whether the 
+relevant parties have complied with it, in good time for the Home Office to give 
+the relevant parties and the relevant registration official notice of that decision 
+before the end of the 70-day period.   
+
+
+ 
+
+ Prevent a relevant party or parties from frustrating the investigation process 
+by withholding compliance until near the end of the 70-day notice period, 
+thereby making it difficult for the Home Office to properly decide the 
+
+                                            
+
+
+12
+
+ http://www.legislation.gov.uk/id/uksi/2015/397 
+
+http://www.legislation.gov.uk/id/uksi/2015/397
+
+
+
+
+March 2015 
+
+
+ 14  
+
+compliance question and give notice of the decision to the relevant parties 
+and the relevant registration official before the end of the 70-day period. 
+
+
+ 
+
+3.1 Purpose of investigation 
+
+
+ 
+
+The purpose of the investigation is to determine whether, on the balance of 
+probabilities, the proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+The investigation officer should undertake a focused investigation to obtain 
+information and evidence relevant to assessing the genuineness of the couple’s 
+relationship and determining whether the proposed marriage or civil partnership is a 
+sham.  
+
+
+ 
+
+Where the investigation determines that the proposed marriage or civil partnership is 
+a sham, the Home Office may where appropriate:  
+
+
+ 
+
+ Take an enforcement decision (e.g. curtailment, removal) against the non-
+EEA or EEA national(s) involved.  
+
+
+ 
+
+ Refuse any application under the Immigration (European Economic Area) 
+Regulations 2006 or the Immigration Rules which is based on the relationship 
+in terms which will withstand any appeal.   
+
+
+ 
+
+ Seek the prosecution of those involved in a criminal offence, e.g. perjury or 
+facilitation of illegal immigration, by consultation with or reference to the 
+relevant prosecuting authority.  
+
+
+ 
+
+Whether or not the investigation determines that the proposed marriage or civil 
+partnership is a sham, the Home Office may take appropriate removal action against 
+immigration overstayers or illegal entrants identified under the referral and 
+investigation scheme.   
+
+
+ 
+
+3.2 Means of investigation 
+
+
+ 
+
+An investigation into a proposed marriage or civil partnership may involve imposing 
+one or more of the following requirement(s) on one or both of the relevant parties: 
+
+
+ 
+
+ To provide information, evidence or photographs. 
+
+
+ 
+
+ To be interviewed in person at home. 
+
+
+ 
+
+ To be interviewed in person at Home Office premises in or outside the UK or 
+while detained in the UK.  
+
+
+ 
+
+ To be interviewed by telephone, video-link or over the internet.  
+
+
+ 
+
+The most appropriate means of investigation will be considered by the investigation 
+officer on a case-by-case basis, taking account of all the relevant information and 
+
+
+
+
+March 2015 
+
+
+ 15  
+
+evidence already available to them about the relevant parties and their proposed 
+marriage or civil partnership.   
+
+
+ 
+
+3.3 Providing information, evidence or photographs   
+
+
+ 
+
+One or both parties to the proposed marriage or civil partnership may be required by 
+the investigation officer to provide them with information, evidence or photographs 
+relevant to determining whether the parties’ relationship is genuine and whether the 
+proposed marriage or civil partnership is a sham.  
+
+
+ 
+
+A relevant party may be required to provide information, evidence or photographs 
+before, during or after an interview. A requirement to provide information, evidence 
+or photographs may also be imposed whether or not an interview is to take place or 
+has taken place.  
+
+
+ 
+
+Unless it is made at an interview, a requirement to provide information must be made 
+in writing. A requirement to provide evidence or photographs must be imposed, or 
+where it is made at an interview, must be followed up, in writing. The investigation 
+officer may discuss the information, evidence or photographs to be provided with the 
+relevant party or parties before requiring them to provide it.  
+
+
+ 
+
+Where a requirement to provide information, evidence or photographs is imposed or 
+followed up in writing, the investigation officer must: 
+
+
+ 
+
+ Include a description of the information, evidence or photographs that must be 
+provided.  
+
+
+ 
+
+ Set out how the information, evidence or photographs must be provided, 
+whether by sending the information, evidence or photographs to the 
+investigation officer (e.g. by post or email to a particular address) by a 
+particular date, or by providing the information, evidence or photographs at an 
+interview.  
+
+
+ 
+
+ Where the information, evidence or photographs is or are to be sent to the 
+investigation officer, include the address to which the information, evidence or 
+photographs must be sent and the date by which the information, evidence or 
+photographs must be received.  
+
+
+ 
+
+ Where the evidence is in the form of a document, set out the circumstances in 
+which a certified translation must also be provided and in which a certified 
+copy may be provided.  
+
+
+ 
+
+A “certified translation” means a translation of the document provided which is 
+certified as a true and accurate translation by the person who translated it; is signed 
+and dated by that person; and states his or her name and contact details.  
+
+
+ 
+
+A “certified copy” means a copy of the original document which is certified as a true 
+copy of the original; is signed and dated by the person who certifies it; and states 
+that person’s name, contact details and position or occupation. A document may not 
+
+
+
+
+March 2015 
+
+
+ 16  
+
+be certified by either party to the proposed marriage or civil partnership, or by a 
+person who is a family member of or who lives with either party.  
+
+
+ 
+
+Either party to the proposed marriage or civil partnership may be required to provide 
+evidence in the form of an electronic document by showing it, during an interview, to 
+the investigation officer, who may make a note of its contents in the interview record; 
+photograph it; request a “screenshot” of the document; or where it is an email (or 
+included in an email), by forwarding it to a Home Office or FCO email account.  
+
+
+ 
+
+3.4 Interviews: general 
+
+
+ 
+
+As part of an investigation the investigation officer may require a relevant party to be 
+interviewed, on their own, together with the other relevant party, or both. 
+
+Where a relevant party is in the UK, the investigation officer may require an interview 
+with them to take place: 
+
+
+ 
+
+ In person at the relevant party’s home.  
+
+
+ 
+
+ In person at the other relevant party’s home (if different).  
+
+
+ 
+
+ In person at Home Office premises.   
+
+
+ 
+
+ By telephone, by video-telecommunications link or over the internet (where 
+the relevant party must be present at Home Office premises).  
+
+
+ 
+
+ By telephone, by video-telecommunications link or over the internet (where 
+the relevant party is not present at Home Office premises).  
+
+
+ 
+
+ In person or by telephone where the relevant party is detained under 
+immigration powers or in prison.  
+
+
+ 
+
+Where a relevant party is outside the UK, the investigation officer may require an 
+interview with them to take place: 
+
+
+ 
+
+ In person at Home Office premises.  
+
+
+ 
+
+ By telephone, by video-telecommunications link or over the internet (where 
+the relevant party must be present at Home Office premises).  
+
+
+ 
+
+ By telephone, by video-telecommunications link or over the internet (where 
+the relevant party is not present at Home Office premises). 
+
+
+ 
+
+A relevant party may be required to attend more than one interview. 
+
+
+ 
+
+An interview must take place during normal office hours, unless: 
+
+ A relevant party (or, as the case may be, both relevant parties) agrees that an 
+interview may take place outside normal office hours. 
+
+
+ 
+
+
+March 2015 
+
+
+ 17  
+
+ An interview is commenced and has been substantially completed during 
+normal office hours: it may then continue and be completed outside normal 
+office hours. 
+
+
+ 
+
+“Normal office hours” are: 
+
+
+ 
+
+ In the UK, between 9.00 am and 6.00 pm, Monday to Friday, excluding Good 
+Friday, Christmas Day or a bank holiday in the part of the UK in which the 
+relevant party resides.  
+
+
+ 
+
+ Outside the UK, what are normally regarded as normal office hours on a day 
+which is normally regarded as a working day in the country or territory in 
+which the relevant party resides. 
+
+
+ 
+
+A relevant party:  
+
+
+ 
+
+ May be accompanied at an interview by an appropriate legal representative, 
+i.e. a qualified person within the meaning of section 82 of the Immigration and 
+Asylum Act 1999 – see the website of the Office of the Immigration Services 
+Commissioner for more information at http://home.oisc.gov.uk  
+
+
+ 
+
+ May be accompanied at an interview by an interpreter (appointed by the 
+relevant party if they wish or provided by the Home Office where necessary). 
+If the relevant party is to be accompanied by an interpreter, the relevant party 
+should inform the Home Office of this before the interview.  
+
+
+ 
+
+ May not be accompanied at an interview by any other person without the 
+consent of the investigation officer. 
+
+
+ 
+
+Interviews must be conducted in a properly probing, but balanced way, with the 
+questions directed to establishing whether the relevant parties are in a genuine 
+relationship and whether their proposed marriage or civil partnership is a sham. For 
+example, the relevant party or parties might be asked about: 
+
+
+ 
+
+ The background to, history of and subsistence of the parties’ relationship.  
+
+ The general background and the immigration history of the parties.  
+
+ The living arrangements of the parties.  
+
+ The arrangements for the proposed marriage or civil partnership.  
+
+ The parties’ future plans.  
+
+A failure to respond to any question asked during an interview, or a refusal to answer 
+any further questions thereby bringing the interview to an end, may be regarded as a 
+failure to comply with the requirement to be interviewed. 
+
+
+ 
+
+The person conducting the interview will make a written record of it and will provide 
+the party or parties interviewed with a copy of this record if they request it. This record: 
+
+
+ 
+
+http://home.oisc.gov.uk/
+
+
+
+
+March 2015 
+
+
+ 18  
+
+ Must be completed during the interview.  
+
+
+ 
+
+ Must constitute a verbatim account of what is said or an account of the 
+interview which adequately summarises it.  
+
+
+ 
+
+ Must be signed and dated by the person who made it. 
+
+
+ 
+
+3.5 Arranging an interview 
+
+
+ 
+
+A relevant party may be required to contact the Home Office to arrange an interview.  
+
+
+ 
+
+A relevant party may be required to contact the Home Office by: 
+
+
+ 
+
+ Telephoning the telephone number;  
+
+ Sending a text message to the telephone number; 
+
+ Sending an email to the Home Office or FCO email address; or 
+
+ Writing to the address, 
+
+specified in the section 48 notice or in any subsequent notification, and quoting the 
+Home Office reference number given in the notice or notification.  
+
+A relevant party may be required to contact the Home Office by a specified date, 
+which must be at least three working days after the day on which the notice or the 
+notification is given.  
+
+
+ 
+
+The “day on which the notice or the notification is given” means the day on which the 
+relevant party is presumed to have received it (unless the contrary is proved), under 
+paragraph 7 of the Proposed Marriages and Civil Partnerships (Meaning of Exempt 
+Persons and Notice) Regulations 2015 (S.I. 2015/122)
+
+
+13
+
+ or paragraph 6 of the Sham 
+
+Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) 
+Regulations 2015 (S.I. 2015/404).
+
+
+14
+
+ For example, this is: 
+
+
+ 
+
+ The second working day after the day on which it was posted, where the 
+notice or notification is sent by first class post.  
+
+
+ 
+
+ The day on which it is sent, where the notice or notification is given by email.  
+
+
+ 
+
+ The day on which it is given, where the notice or notification is given orally.  
+
+
+ 
+
+ A relevant party who contacts the Home Office in accordance with such a 
+requirement:  
+
+
+ 
+
+                                            
+
+
+13
+
+ http://www.legislation.gov.uk/id/uksi/2015/122 
+
+
+14
+
+ http://www.legislation.gov.uk/id/uksi/2015/404 
+
+http://www.legislation.gov.uk/id/uksi/2015/122
+http://www.legislation.gov.uk/id/uksi/2015/404
+
+
+
+
+March 2015 
+
+
+ 19  
+
+ Must make themselves reasonably available so that a date and time, being a 
+date no later than the date specified in the section 48 notice or in the 
+notification, can be agreed for an interview to take place. 
+
+
+ 
+
+ May be required to agree the date and time for the interview, so far as 
+practicable, on behalf of the other relevant party, where an interview is to take 
+place with both relevant parties.  
+
+
+ 
+
+Every reasonable effort must be made to accommodate the preferred availability for 
+interview of the party or parties. However, a party or parties subject to a requirement 
+to be interviewed are required to make themselves reasonably available for 
+interview. If it is not possible to accommodate the preferred availability for interview 
+of the party or parties, the investigation officer may set an alternative date, place and 
+time for the interview and inform the party or parties that, if they fail to attend, the 
+Home Office may decide that they have failed to comply with the requirement to be 
+interviewed. If the party or parties inform the Home Office of their inability or 
+unwillingness to attend an interview at any of the dates, places and times proposed 
+to them, the investigation officer may inform them that the Home Office may decide 
+that they have failed to comply with the requirement to be interviewed. 
+
+
+ 
+
+The relevant party or parties must be given at least 3 working days’ written notice by 
+the Home Office of the date, place and time of the interview, unless the relevant 
+party or parties agree to the interview taking place with less than 3 working days’ 
+notice. If they do, notice of the date, place and time of the interview can be given 
+orally, e.g. by telephone.  
+
+
+ 
+
+3.6 Rearranging an interview 
+
+Where a relevant party is required to attend an interview and the date or time for that 
+interview is not, or is no longer, convenient for the relevant party or, where relevant, 
+the other relevant party, the Home Office may agree to rearrange the interview. 
+
+The investigation officer must accommodate, where possible, what they consider to 
+be a reasonable request to rearrange an interview. However, a party or parties 
+subject to a requirement to be interviewed are required to make themselves 
+reasonably available for interview. If it is not possible to accommodate the preferred 
+availability for interview of the party or parties, the investigation officer may set an 
+alternative date and time for the rearranged interview and inform the party or parties 
+that, if they fail to attend, the Home Office may decide that they have failed to comply 
+with the requirement to be interviewed. 
+
+Where the Home Office agrees to rearrange an interview, the relevant party or 
+parties may be given less than 3 working days’ written notice of the rearranged 
+interview, but not less than 24 hours’ notice unless the relevant party or parties 
+agree to a rearranged interview taking place with less than 24 hours’ notice. 
+
+The Home Office will not normally agree to rearrange an interview more than once.  
+
+
+   
+
+
+March 2015 
+
+
+ 20  
+
+3.7 Interviews at a relevant party’s home 
+
+
+ 
+
+For an interview to be conducted at a relevant party’s home, two members of Home 
+Office staff must be present.   
+
+
+ 
+
+During the interview they may make observations about, and ask the relevant party or 
+parties about, the living arrangements of either or both of them, and they may ask to 
+see evidence that the parties live together if they claim to do so.  
+
+
+ 
+
+The Home Office staff conducting the interview must make a written record (signed 
+and dated by the person who made it) of those observations, of any response to them 
+given by relevant party or parties, and of any evidence provided that the parties live 
+together. The relevant party or parties must be provided with a copy of this record if 
+they request it.  
+
+
+ 
+
+This written record is in addition to that which must be made of the interview itself, a 
+copy of which must be provided to the relevant party or parties if they request it (see 
+section 3.4).  
+
+
+ 
+
+3.8 Interviews at Home Office premises in the UK 
+
+
+ 
+
+Where a relevant party is required to attend an interview at Home Office premises in 
+the UK, the notice of the interview (see section 3.5) must make clear how the 
+interview is to be conducted – whether in person, by telephone, by video-
+telecommunications link or over the internet, and whether it is to involve the other 
+relevant party. 
+
+
+ 
+
+3.9 Interviews at Home Office premises outside the UK 
+
+
+ 
+
+A relevant party may be required to attend an interview at Home Office premises 
+outside the UK where they are resident outside the UK and those Home Office 
+premises are located within a reasonable travelling distance of their place of 
+residence (whether or not they are in the same country or territory). 
+
+
+ 
+
+Where a relevant party is required to attend an interview at Home Office premises 
+outside the UK, the notice of the interview (see section 3.5) must make clear how the 
+interview is to be conducted – whether in person, by telephone, by video-
+telecommunications link or over the internet, and whether it is to involve the other 
+relevant party. 
+
+
+   
+
+
+March 2015 
+
+
+ 21  
+
+3.10 Interviews by telephone, by video-telecommunications 
+link or over the internet where the relevant party is not at 
+Home Office premises 
+
+
+ 
+
+Where a relevant party (whether in or outside the UK) is required to attend an 
+interview to be conducted by telephone, by video-telecommunications link or over 
+the internet but is not required to be present at Home Office premises, the notice of 
+the interview (see section 3.5) must make clear how the interview is to be conducted 
+– whether by telephone, by video-telecommunications link or over the internet, and 
+whether it is to involve the other relevant party. 
+
+
+ 
+
+To start an interview to be conducted by telephone, the investigation officer 
+conducting the interview:  
+
+
+ 
+
+ Must telephone the relevant party on the number notified to that party which 
+they have provided to the Home Office.  
+
+
+ 
+
+ May telephone the relevant party at any time within a period of 30 minutes 
+beginning with the time notified to them. The relevant party must, as far as 
+practicable, keep the relevant telephone line free during this period and then 
+during the period of the interview. A failure to do so may be regarded as a 
+failure to comply with the requirement to be interviewed.  
+
+
+ 
+
+At the start of a telephone interview: 
+
+
+ 
+
+ The investigation officer conducting the interview must identify themselves 
+(and anyone accompanying them) by reference to their name, position and 
+place of work.  
+
+
+ 
+
+ The relevant party or parties must confirm their identity by reference to their 
+name, date of birth and nationality and to the Home Office reference number 
+notified to them. If they do not do so, the investigation officer conducting the 
+interview may decide to continue with the interview if they are otherwise 
+satisfied that it is the relevant party or parties; to rearrange the interview; or 
+that the relevant party or parties have failed to comply with the requirement to 
+be interviewed.   
+
+
+ 
+
+3.11 Interviews while detained 
+
+
+ 
+
+A relevant party in the UK may be required to attend an interview conducted in 
+person or by telephone while they are detained under immigration powers or in 
+prison. The investigation officer should make the arrangements for such an interview 
+with the immigration removal centre or prison via the relevant local Immigration 
+Enforcement office. Conducting such an interview should not be a reason to delay 
+the relevant party’s planned removal from the UK.  
+
+
+ 
+
+March 2015 
+
+
+ 22  
+
+The notice of the interview (see section 3.5) must make clear how the interview is to 
+be conducted – whether in person or by telephone. An interview with a relevant party 
+who is detained cannot also involve the other relevant party.  
+
+
+ 
+
+At the start of a telephone interview with a relevant party who is detained: 
+
+
+ 
+
+ The investigation officer conducting the interview must identify themselves 
+(and anyone accompanying them) by reference to their name, position and 
+place of work.  
+
+
+ 
+
+ The relevant party must confirm their identity by reference to their name, date 
+of birth and nationality and to the Home Office reference number notified to 
+them. If they do not do so, the investigation officer conducting the interview 
+may decide to continue with the interview if they are otherwise satisfied that it 
+is the relevant party; to rearrange the interview; or that the relevant party has 
+failed to comply with the requirement to be interviewed.   
+
+
+ 
+
+3.12 Notifying a relevant party that they have failed to 
+comply with a requirement 
+
+Under regulation 15 of the Proposed Marriages and Civil Partnerships (Conduct of 
+Investigations, etc) Regulations 2015 (S.I. 2015/397),
+
+
+15
+
+ where the Secretary of State 
+
+believes that a relevant party has failed to comply with a requirement of the 
+investigation, the Secretary of State may give notice in writing to the relevant party: 
+
+
+ 
+
+ Stating that the Secretary of State believes that the relevant party has failed to 
+comply with a requirement and giving the reasons for that belief.   
+
+
+ 
+
+ Requiring the relevant party to contact the Home Office within the period 
+stated (which may not be less than a period of three working days beginning 
+with the day on which the notice is given) with a view to complying with that 
+(and any other) requirement.  
+
+
+ 
+
+ Including relevant Home Office contact details. The notice may require the 
+relevant party to make contact by telephone.  
+
+
+ 
+
+The Secretary of State is not required to give such a “regulation 15 notice” to a 
+relevant party who they believe has failed to comply with a requirement of the 
+investigation, and it is not necessary for a relevant party to have been given such a 
+notice before the decision maker can decide whether they have complied with the 
+investigation. The onus is on the relevant party to comply with the requirements set 
+out in the section 48 notice or any subsequent notification to them.  
+
+
+ 
+
+It is a matter for the investigation officer to determine whether it is appropriate to 
+issue a relevant party with a regulation 15 notice to assist the investigation officer’s 
+conduct of the investigation and to inform the decision whether the relevant party has 
+complied with the investigation.  
+
+                                            
+
+
+15
+
+ http://www.legislation.gov.uk/id/uksi/2015/397 
+
+http://www.legislation.gov.uk/id/uksi/2015/397
+
+
+
+
+March 2015 
+
+
+ 23  
+
+Section 4.0 – Compliance with an investigation 
+
+
+ 
+
+Where a proposed marriage or civil partnership is subject to an investigation, under 
+section 50(4) and (7) of the 2014 Act the Secretary of State must, within the 70-day 
+notice period, decide whether or not each of the relevant parties has complied with 
+the investigation (the “compliance question”) and give notice of that decision to both 
+parties and to the registration official to whom the section 48 notice was given of the 
+decision to investigate. 
+
+
+ 
+
+For the proposed marriage or civil partnership to take place after the 70-day notice 
+period, the Secretary of State must decide that both relevant parties have complied 
+with the investigation. If the decision maker decides that either or both of the relevant 
+parties have failed without reasonable excuse to comply with a requirement(s) 
+notified to them, the decision maker may decide that either or both of the relevant 
+parties have failed to comply with the investigation. If the decision maker so decides, 
+the relevant parties will not be able to marry or enter into a civil partnership on the 
+basis of the notice they have given. They would need to give notice again if they still 
+wished to do so. 
+
+
+ 
+
+In determining whether both relevant parties have complied with the investigation, 
+the decision maker must take account of all the relevant information and evidence 
+available to them, including the written record of any interview; any written notice 
+requiring the parties to attend an interview (or arrange to do so) or to provide 
+information, evidence or photographs and their response; and any report of the 
+investigation by the investigation officer (if they are not the decision maker).  
+
+
+ 
+
+4.1 Deciding the compliance question 
+
+
+ 
+
+The decision maker may decide that a relevant party who fails, without reasonable 
+excuse, to comply with a relevant requirement has not complied with the 
+investigation. 
+
+
+ 
+
+Under section 50(11) of the 2014 Act, a “relevant requirement” includes:  
+
+
+ 
+
+ A requirement specified in the Proposed Marriages and Civil Partnerships 
+(Conduct of Investigations, etc) Regulations 2015 (S.I. 2015/397).
+
+
+16
+
+ That 
+
+means a requirement to arrange an interview; to attend an interview and be 
+interviewed; to provide confirmation of identity at the start of a telephone 
+interview; and to provide information, evidence or photographs. 
+
+
+ 
+
+ The requirement to notify the Home Office of any change in the usual address 
+of either party and to provide specified evidence of this.  
+
+
+ 
+
+ For persons giving notice in England and Wales, the requirement to notify the 
+Home Office of any change in the UK contact address of either party if they 
+have provided one, and to notify the Home Office of a UK contact address if 
+the usual address of either party changes to an address outside the UK.  
+
+                                            
+
+
+16
+
+ http://www.legislation.gov.uk/id/uksi/2015/397 
+
+http://www.legislation.gov.uk/id/uksi/2015/397
+
+
+
+
+March 2015 
+
+
+ 24   
+
+The decision maker may also decide that a relevant party who fails, without 
+reasonable excuse, to contact the Home Office following receipt of a notice given 
+under regulation 15 of the Proposed Marriages and Civil Partnerships (Conduct of 
+Investigations, etc) Regulations 2015 has not complied with the investigation (see 
+section 3.12). 
+
+
+ 
+
+Where a relevant party is removed or deported from the UK, or leaves the UK by 
+voluntary departure or under a relevant international project, after they have been 
+given a section 48 notice but before the compliance question has been decided, the 
+decision maker may decide that the relevant party (and the other relevant party) has 
+complied with the investigation.  
+
+
+ 
+
+4.2 Reasonable excuse for non-compliance 
+
+
+ 
+
+The decision maker must decide, in the light of all the circumstances of the case and 
+all the relevant information and guidance available to them, whether any reason or 
+excuse given by either or both of the relevant parties for the failure by either or both 
+of them to comply with a requirement notified to them constitutes a “reasonable 
+excuse” for that non-compliance.  
+
+
+ 
+
+Such a reasonable excuse may exist for example where: 
+
+
+ 
+
+ There are compelling, compassionate reasons for failing to comply with the 
+requirement. 
+
+
+ 
+
+ There are reasons beyond the control of the relevant parties which prevented 
+them from complying with the requirement.  
+
+
+ 
+
+ There has been administrative failure by the Home Office.   
+
+
+ 
+
+4.3 The compliance decision 
+
+
+ 
+
+Where the decision maker decides that both relevant parties have complied with the 
+investigation, the decision maker must give notice of that decision to both relevant 
+parties and the relevant registration official before the end of the 70-day notice 
+period. If there is no legal reason why they may not do so, the registration official will 
+be able, after the end of this period, to issue the relevant parties with the certificates 
+or schedule that will enable them to marry or form a civil partnership.  
+
+
+ 
+
+Where the decision maker decides that one or both of the relevant parties have not 
+complied with the investigation, they must give notice of that decision to both 
+relevant parties and the relevant registration official before the end of the 70-day 
+notice period. That notice must include a statement of the decision maker’s reasons 
+for reaching that decision. A decision that one or both of the relevant parties have 
+not complied with the investigation will be made by a Higher Executive Officer (or 
+equivalent) or more senior grade.    
+
+
+   
+
+March 2015 
+
+
+ 25  
+
+How notice of the compliance decision may be given and when such notice is 
+presumed to have been received (unless the contrary is proved) is specified:  
+
+
+ 
+
+ For persons giving notice in England and Wales, by paragraphs 5 to 7 of the 
+Proposed Marriages and Civil Partnerships (Meaning of Exempt Persons and 
+Notice) Regulations 2015 (S.I. 2015/122)
+
+
+17
+
+; and  
+
+
+ 
+
+ For persons giving notice in Scotland or Northern Ireland, by paragraphs 4 to 
+6 of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) 
+(Administrative) Regulations 2015 (S.I. 2015/404).
+
+
+18                                      END 
+
+
+                                            
+
+
+17
+
+ http://www.legislation.gov.uk/id/uksi/2015/122 
+
+
+18
+
+ http://www.legislation.gov.uk/id/uksi/2015/404 
+
+http://www.legislation.gov.uk/id/uksi/2015/122
+http://www.legislation.gov.uk/id/uksi/2015/404
+
