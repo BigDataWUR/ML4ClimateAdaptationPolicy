@@ -113,7 +113,8 @@ if __name__== '__main__':
     for full_path, pdf_content in open_pdf(directory):
         target_dir = full_path.replace(directory,folder_name)\
                      .replace('.pdf','.txt')
-        create_folder(target_dir.rsplit('\\',1)[0])
+        create_folder(os.path.dirname(target_dir))
+
         #fixes for broken text
         pdf_content = corrected_text(pdf_content)
         pdf_content = lines_to_blocks(pdf_content)
